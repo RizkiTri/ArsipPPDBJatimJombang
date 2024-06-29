@@ -13,7 +13,7 @@
 }
 
 
-$data = json_decode(file_get_contents(__DIR__."/SMK/3/Data.json"), true);
+$data = json_decode(file_get_contents(__DIR__."/SMK/Data.json"), true);
 for($i = 0; $i < count($data); $i++){
     $sch = $data[$i]["name"];
     mkdir(__DIR__. "/SMK/3/Pemenuhan/$sch");
@@ -33,7 +33,7 @@ for($i = 0; $i < count($data); $i++){
     }
 }
 
-$data = json_decode(file_get_contents(__DIR__."/SMK/3/Data.json"), true);
+$data = json_decode(file_get_contents(__DIR__."/SMK/Data.json"), true);
 for($i = 0; $i < count($data); $i++){
     $sch = $data[$i]["name"];
     mkdir(__DIR__. "/SMK/3/Zonasi/$sch");
