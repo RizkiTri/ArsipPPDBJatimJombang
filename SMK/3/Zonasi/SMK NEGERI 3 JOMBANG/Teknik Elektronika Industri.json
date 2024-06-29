@@ -1,0 +1,74 @@
+[
+    {
+        "name": "WAHYU DERIO AL FARIZ",
+        "nisn": "0075074653",
+        "distance": "1157",
+        "registration_created_at": "2024-06-22 00:26:47",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Elektronika Industri"
+            }
+        }
+    },
+    {
+        "name": "Marvel David Firmansyah",
+        "nisn": "3080563439",
+        "distance": "1425",
+        "registration_created_at": "2024-06-22 00:18:19",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Elektronika Industri"
+            }
+        }
+    },
+    {
+        "name": "ARBA ABDI PAMUNGKAS",
+        "nisn": "3089366895",
+        "distance": "1445",
+        "registration_created_at": "2024-06-22 15:21:00",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Elektronika Industri"
+            }
+        }
+    },
+    {
+        "name": "FIRMANSYAH DWI BASKORO",
+        "nisn": "3093323681",
+        "distance": "1902",
+        "registration_created_at": "2024-06-23 11:44:56",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Elektronika Industri"
+            }
+        }
+    },
+    {
+        "name": "SENO WIRA ATMAJA",
+        "nisn": "3086725750",
+        "distance": "1968",
+        "registration_created_at": "2024-06-22 17:53:07",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Elektronika Industri"
+            }
+        }
+    },
+    {
+        "name": "RIVALDO YOGA CHRISNANTA",
+        "nisn": "0087835412",
+        "distance": "2148",
+        "registration_created_at": "2024-06-23 06:31:47",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Elektronika Industri"
+            }
+        }
+    }
+]

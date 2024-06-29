@@ -1,0 +1,158 @@
+[
+    {
+        "name": "RIDHO ROBBIAL PRASETYO",
+        "nisn": "0084464769",
+        "distance": "942",
+        "registration_created_at": "2024-06-22 16:28:45",
+        "smk": {
+            "name": "SMK NEGERI WONOSALAM",
+            "major": {
+                "name": "Agribisnis Tanaman Perkebunan"
+            }
+        }
+    },
+    {
+        "name": "ARYA CAESAR NUGROHO",
+        "nisn": "0095896312",
+        "distance": "1237",
+        "registration_created_at": "2024-06-22 12:55:02",
+        "smk": {
+            "name": "SMK NEGERI WONOSALAM",
+            "major": {
+                "name": "Agribisnis Tanaman Perkebunan"
+            }
+        }
+    },
+    {
+        "name": "GILANG ADI ANGGA",
+        "nisn": "0073296377",
+        "distance": "1470",
+        "registration_created_at": "2024-06-22 09:01:48",
+        "smk": {
+            "name": "SMK NEGERI WONOSALAM",
+            "major": {
+                "name": "Agribisnis Tanaman Perkebunan"
+            }
+        }
+    },
+    {
+        "name": "LIYA OLIFVIYA FINANTI",
+        "nisn": "0088961125",
+        "distance": "2050",
+        "registration_created_at": "2024-06-22 07:48:31",
+        "smk": {
+            "name": "SMK NEGERI WONOSALAM",
+            "major": {
+                "name": "Agribisnis Tanaman Perkebunan"
+            }
+        }
+    },
+    {
+        "name": "ADITYA BAGUS ARDIANSYAH",
+        "nisn": "3095451041",
+        "distance": "2124",
+        "registration_created_at": "2024-06-23 06:06:20",
+        "smk": {
+            "name": "SMK NEGERI WONOSALAM",
+            "major": {
+                "name": "Agribisnis Tanaman Perkebunan"
+            }
+        }
+    },
+    {
+        "name": "EKA FITRIA RAMADANI",
+        "nisn": "0084185927",
+        "distance": "2437",
+        "registration_created_at": "2024-06-22 00:16:09",
+        "smk": {
+            "name": "SMK NEGERI WONOSALAM",
+            "major": {
+                "name": "Agribisnis Tanaman Perkebunan"
+            }
+        }
+    },
+    {
+        "name": "AKBAR WIJAYA REZKY",
+        "nisn": "0102173210",
+        "distance": "2651",
+        "registration_created_at": "2024-06-23 08:32:53",
+        "smk": {
+            "name": "SMK NEGERI WONOSALAM",
+            "major": {
+                "name": "Agribisnis Tanaman Perkebunan"
+            }
+        }
+    },
+    {
+        "name": "Fabian David Pratama",
+        "nisn": "0089785697",
+        "distance": "2736",
+        "registration_created_at": "2024-06-22 01:13:05",
+        "smk": {
+            "name": "SMK NEGERI WONOSALAM",
+            "major": {
+                "name": "Agribisnis Tanaman Perkebunan"
+            }
+        }
+    },
+    {
+        "name": "Baz Qosyt Hadyan Apta Kuncoro",
+        "nisn": "0085373775",
+        "distance": "2765",
+        "registration_created_at": "2024-06-22 10:06:11",
+        "smk": {
+            "name": "SMK NEGERI WONOSALAM",
+            "major": {
+                "name": "Agribisnis Tanaman Perkebunan"
+            }
+        }
+    },
+    {
+        "name": "Alfian Dwi Taqi Dzaky",
+        "nisn": "0085786979",
+        "distance": "2846",
+        "registration_created_at": "2024-06-22 07:46:55",
+        "smk": {
+            "name": "SMK NEGERI WONOSALAM",
+            "major": {
+                "name": "Agribisnis Tanaman Perkebunan"
+            }
+        }
+    },
+    {
+        "name": "SITI NUR AISAH",
+        "nisn": "0093827208",
+        "distance": "3014",
+        "registration_created_at": "2024-06-23 10:19:00",
+        "smk": {
+            "name": "SMK NEGERI WONOSALAM",
+            "major": {
+                "name": "Agribisnis Tanaman Perkebunan"
+            }
+        }
+    },
+    {
+        "name": "SHYALUNNA RIZQYA PUTRI",
+        "nisn": "0094405601",
+        "distance": "3083",
+        "registration_created_at": "2024-06-22 09:14:03",
+        "smk": {
+            "name": "SMK NEGERI WONOSALAM",
+            "major": {
+                "name": "Agribisnis Tanaman Perkebunan"
+            }
+        }
+    },
+    {
+        "name": "AGIL GANI KRIS WILUJENG",
+        "nisn": "0088415370",
+        "distance": "3419",
+        "registration_created_at": "2024-06-22 07:30:40",
+        "smk": {
+            "name": "SMK NEGERI WONOSALAM",
+            "major": {
+                "name": "Agribisnis Tanaman Perkebunan"
+            }
+        }
+    }
+]

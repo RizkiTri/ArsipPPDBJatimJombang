@@ -1,0 +1,86 @@
+[
+    {
+        "name": "MOSZA MEI PUTRI WIJAYA",
+        "nisn": "0086686815",
+        "distance": "778",
+        "registration_created_at": "2024-06-22 00:21:06",
+        "smk": {
+            "name": "SMK NEGERI 1 JOMBANG",
+            "major": {
+                "name": "Layanan Perbankan"
+            }
+        }
+    },
+    {
+        "name": "REVANI ADYANA NUR ZHAFIRA",
+        "nisn": "0083066707",
+        "distance": "1258",
+        "registration_created_at": "2024-06-23 10:27:00",
+        "smk": {
+            "name": "SMK NEGERI 1 JOMBANG",
+            "major": {
+                "name": "Layanan Perbankan"
+            }
+        }
+    },
+    {
+        "name": "Nadyah Putry Azizah",
+        "nisn": "0095241868",
+        "distance": "1306",
+        "registration_created_at": "2024-06-22 00:16:21",
+        "smk": {
+            "name": "SMK NEGERI 1 JOMBANG",
+            "major": {
+                "name": "Layanan Perbankan"
+            }
+        }
+    },
+    {
+        "name": "KAMILA DWI AGUSTINA",
+        "nisn": "0085442913",
+        "distance": "1587",
+        "registration_created_at": "2024-06-22 00:09:07",
+        "smk": {
+            "name": "SMK NEGERI 1 JOMBANG",
+            "major": {
+                "name": "Layanan Perbankan"
+            }
+        }
+    },
+    {
+        "name": "Berlia Ifadah Nuraini",
+        "nisn": "0071600193",
+        "distance": "1593",
+        "registration_created_at": "2024-06-22 00:10:46",
+        "smk": {
+            "name": "SMK NEGERI 1 JOMBANG",
+            "major": {
+                "name": "Layanan Perbankan"
+            }
+        }
+    },
+    {
+        "name": "MUHAMMAD IQBAL SAHRUL ARDIANSAH",
+        "nisn": "0083887404",
+        "distance": "1604",
+        "registration_created_at": "2024-06-22 00:15:04",
+        "smk": {
+            "name": "SMK NEGERI 1 JOMBANG",
+            "major": {
+                "name": "Layanan Perbankan"
+            }
+        }
+    },
+    {
+        "name": "AMANDA RAHMA PUTRI",
+        "nisn": "3099072008",
+        "distance": "1637",
+        "registration_created_at": "2024-06-23 08:35:27",
+        "smk": {
+            "name": "SMK NEGERI 1 JOMBANG",
+            "major": {
+                "name": "Layanan Perbankan"
+            }
+        }
+    }
+]

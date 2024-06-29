@@ -1,0 +1,433 @@
+{
+    "code": 200,
+    "status": "OK",
+    "meta": {
+        "total": 60,
+        "last_page": 1,
+        "from": 1,
+        "to": 1,
+        "last_update": "2024-06-19 21:07:23"
+    },
+    "data": [
+        {
+            "name": "ELSYA TRIA VIRDAYANTI",
+            "nisn": "0095928111",
+            "grade_final": "88.77",
+            "sma": "SMA NEGERI KABUH",
+            "registration_created_at": "2024-06-18 00:07:36"
+        },
+        {
+            "name": "FITRI DWI OKTAVIA",
+            "nisn": "0089969354",
+            "grade_final": "88.10",
+            "sma": "SMA NEGERI KABUH",
+            "registration_created_at": "2024-06-18 09:39:26"
+        },
+        {
+            "name": "ANDIN INAYYATUS SHOLEKHAH",
+            "nisn": "0098416697",
+            "grade_final": "87.87",
+            "sma": "SMA NEGERI KABUH",
+            "registration_created_at": "2024-06-18 08:59:14"
+        },
+        {
+            "name": "ANDINI CELLISTA FITRI",
+            "nisn": "0092130658",
+            "grade_final": "87.73",
+            "sma": "SMA NEGERI KABUH",
+            "registration_created_at": "2024-06-18 06:44:50"
+        },
+        {
+            "name": "JIHAN AFIFAH FITRI",
+            "nisn": "0085307357",
+            "grade_final": "87.69",
+            "sma": "SMA NEGERI KABUH",
+            "registration_created_at": "2024-06-18 05:56:32"
+        },
+        {
+            "name": "ILIL MAULUD DHIYAH",
+            "nisn": "0099807857",
+            "grade_final": "87.59",
+            "sma": "SMA NEGERI KABUH",
+            "registration_created_at": "2024-06-19 08:25:27"
+        },
+        {
+            "name": "ARNINDA SILLU JUNIANZARA",
+            "nisn": "0088180300",
+            "grade_final": "87.53",
+            "sma": "SMA NEGERI KABUH",
+            "registration_created_at": "2024-06-18 12:42:25"
+        },
+        {
+            "name": "AISYAH RAHMAWATI",
+            "nisn": "0089717348",
+            "grade_final": "87.49",
+            "sma": "SMA NEGERI KABUH",
+            "registration_created_at": "2024-06-18 15:44:24"
+        },
+        {
+            "name": "MIA SALSABILA OKTAVIA",
+            "nisn": "3088466087",
+            "grade_final": "87.49",
+            "sma": "SMA NEGERI KABUH",
+            "registration_created_at": "2024-06-18 00:04:59"
+        },
+        {
+            "name": "SINTIYA YUNIARTA",
+            "nisn": "0087700001",
+            "grade_final": "87.46",
+            "sma": "SMA NEGERI KABUH",
+            "registration_created_at": "2024-06-18 08:37:34"
+        },
+        {
+            "name": "NASHA AZZAHRA PUTRI",
+            "nisn": "0091158658",
+            "grade_final": "87.45",
+            "sma": "SMA NEGERI KABUH",
+            "registration_created_at": "2024-06-18 09:15:48"
+        },
+        {
+            "name": "SELVI OKTAFIA",
+            "nisn": "0089099395",
+            "grade_final": "87.43",
+            "sma": "SMA NEGERI KABUH",
+            "registration_created_at": "2024-06-18 08:59:12"
+        },
+        {
+            "name": "INDRI AMELIA",
+            "nisn": "0086198339",
+            "grade_final": "87.42",
+            "sma": "SMA NEGERI KABUH",
+            "registration_created_at": "2024-06-18 07:39:53"
+        },
+        {
+            "name": "FIRJATULLAH RIDA SAADAH",
+            "nisn": "0091612738",
+            "grade_final": "87.42",
+            "sma": "SMA NEGERI KABUH",
+            "registration_created_at": "2024-06-18 05:50:46"
+        },
+        {
+            "name": "LIVANIA EVELYN LYSANDRA",
+            "nisn": "0087890717",
+            "grade_final": "87.42",
+            "sma": "SMA NEGERI KABUH",
+            "registration_created_at": "2024-06-18 08:30:29"
+        },
+        {
+            "name": "ANISA DIYAH NURSYAFAAH",
+            "nisn": "0095769989",
+            "grade_final": "87.39",
+            "sma": "SMA NEGERI KABUH",
+            "registration_created_at": "2024-06-18 00:57:52"
+        },
+        {
+            "name": "Mufidatuz Alifia Bunyani",
+            "nisn": "0089978063",
+            "grade_final": "87.39",
+            "sma": "SMA NEGERI KABUH",
+            "registration_created_at": "2024-06-18 11:25:44"
+        },
+        {
+            "name": "JELITA IMELDA RAMADHANI",
+            "nisn": "0082612152",
+            "grade_final": "87.38",
+            "sma": "SMA NEGERI KABUH",
+            "registration_created_at": "2024-06-18 07:34:58"
+        },
+        {
+            "name": "ADARA ZAINUL KURNIA",
+            "nisn": "0082982014",
+            "grade_final": "87.36",
+            "sma": "SMA NEGERI KABUH",
+            "registration_created_at": "2024-06-18 12:12:02"
+        },
+        {
+            "name": "Elsa Yuri Novanti",
+            "nisn": "0081089484",
+            "grade_final": "87.36",
+            "sma": "SMA NEGERI KABUH",
+            "registration_created_at": "2024-06-18 04:39:48"
+        },
+        {
+            "name": "VIOLA CINTA RAHMANIA FITRI",
+            "nisn": "0095447933",
+            "grade_final": "87.35",
+            "sma": "SMA NEGERI KABUH",
+            "registration_created_at": "2024-06-18 06:35:41"
+        },
+        {
+            "name": "SHIVA LIASIH",
+            "nisn": "0086949847",
+            "grade_final": "87.35",
+            "sma": "SMA NEGERI KABUH",
+            "registration_created_at": "2024-06-19 14:48:19"
+        },
+        {
+            "name": "DELLA AMELIA SAPUTRI",
+            "nisn": "0089080725",
+            "grade_final": "87.35",
+            "sma": "SMA NEGERI KABUH",
+            "registration_created_at": "2024-06-18 09:11:06"
+        },
+        {
+            "name": "DITA EKA JULIA PUTRI",
+            "nisn": "0086449592",
+            "grade_final": "87.29",
+            "sma": "SMA NEGERI KABUH",
+            "registration_created_at": "2024-06-18 05:40:20"
+        },
+        {
+            "name": "VIOLA HERLIANA",
+            "nisn": "0098895419",
+            "grade_final": "87.26",
+            "sma": "SMA NEGERI KABUH",
+            "registration_created_at": "2024-06-18 06:38:58"
+        },
+        {
+            "name": "ANUGRAH DWI PUJI LAKSONO PUTRI",
+            "nisn": "0083906620",
+            "grade_final": "87.26",
+            "sma": "SMA NEGERI KABUH",
+            "registration_created_at": "2024-06-18 00:10:35"
+        },
+        {
+            "name": "KHUMAIROH DWI WULANDARI",
+            "nisn": "3093306757",
+            "grade_final": "87.21",
+            "sma": "SMA NEGERI KABUH",
+            "registration_created_at": "2024-06-18 07:01:51"
+        },
+        {
+            "name": "AZZAHRA SHAKILA PUTRI",
+            "nisn": "0087567515",
+            "grade_final": "87.19",
+            "sma": "SMA NEGERI KABUH",
+            "registration_created_at": "2024-06-18 00:27:47"
+        },
+        {
+            "name": "DESILVA KENVANIA PUTRI DYANTONO",
+            "nisn": "0084561551",
+            "grade_final": "87.18",
+            "sma": "SMA NEGERI KABUH",
+            "registration_created_at": "2024-06-18 05:59:14"
+        },
+        {
+            "name": "HASNA WARDATUS SHOFA",
+            "nisn": "0084083570",
+            "grade_final": "87.17",
+            "sma": "SMA NEGERI KABUH",
+            "registration_created_at": "2024-06-18 00:07:57"
+        },
+        {
+            "name": "ZASKIA HIKMATUS OKTAVIONA",
+            "nisn": "0083728468",
+            "grade_final": "87.16",
+            "sma": "SMA NEGERI KABUH",
+            "registration_created_at": "2024-06-18 02:16:02"
+        },
+        {
+            "name": "Reihan Fahrezi",
+            "nisn": "0083492772",
+            "grade_final": "87.15",
+            "sma": "SMA NEGERI KABUH",
+            "registration_created_at": "2024-06-18 06:16:59"
+        },
+        {
+            "name": "ANASYA MARISKA PUTRI",
+            "nisn": "0095145412",
+            "grade_final": "87.15",
+            "sma": "SMA NEGERI KABUH",
+            "registration_created_at": "2024-06-18 11:34:47"
+        },
+        {
+            "name": "WIJAYA DWI SAPUTRA",
+            "nisn": "0094370854",
+            "grade_final": "87.13",
+            "sma": "SMA NEGERI KABUH",
+            "registration_created_at": "2024-06-18 06:48:49"
+        },
+        {
+            "name": "KARISHA RINDU DWI HASANAH",
+            "nisn": "0084577299",
+            "grade_final": "87.13",
+            "sma": "SMA NEGERI KABUH",
+            "registration_created_at": "2024-06-19 16:27:13"
+        },
+        {
+            "name": "SINDI NOFITASARI",
+            "nisn": "0085845331",
+            "grade_final": "87.11",
+            "sma": "SMA NEGERI KABUH",
+            "registration_created_at": "2024-06-18 06:18:32"
+        },
+        {
+            "name": "CHANTIKA PUTRIA ARIYANTO",
+            "nisn": "0094045062",
+            "grade_final": "87.11",
+            "sma": "SMA NEGERI KABUH",
+            "registration_created_at": "2024-06-18 07:14:57"
+        },
+        {
+            "name": "Maika Cesarnda Ramadhani",
+            "nisn": "3088061872",
+            "grade_final": "87.10",
+            "sma": "SMA NEGERI KABUH",
+            "registration_created_at": "2024-06-18 00:33:09"
+        },
+        {
+            "name": "JUNITA",
+            "nisn": "0086289198",
+            "grade_final": "87.08",
+            "sma": "SMA NEGERI KABUH",
+            "registration_created_at": "2024-06-18 11:22:59"
+        },
+        {
+            "name": "ISSABEL ANASTASYA DJUNAEDI",
+            "nisn": "0086759127",
+            "grade_final": "87.07",
+            "sma": "SMA NEGERI KABUH",
+            "registration_created_at": "2024-06-18 07:17:42"
+        },
+        {
+            "name": "EVI IZZATUS SHIFA",
+            "nisn": "0086528438",
+            "grade_final": "87.06",
+            "sma": "SMA NEGERI KABUH",
+            "registration_created_at": "2024-06-18 09:37:10"
+        },
+        {
+            "name": "JENNI AGUSTIA PUTRI",
+            "nisn": "0086414669",
+            "grade_final": "87.05",
+            "sma": "SMA NEGERI KABUH",
+            "registration_created_at": "2024-06-18 08:59:46"
+        },
+        {
+            "name": "NABILA ADITYA RAMADHANI",
+            "nisn": "0084159289",
+            "grade_final": "87.01",
+            "sma": "SMA NEGERI KABUH",
+            "registration_created_at": "2024-06-19 13:31:03"
+        },
+        {
+            "name": "DAVINA PARAMITA",
+            "nisn": "3080490937",
+            "grade_final": "87.00",
+            "sma": "SMA NEGERI KABUH",
+            "registration_created_at": "2024-06-18 06:35:47"
+        },
+        {
+            "name": "INTAN SAFITRI AJI",
+            "nisn": "0081231874",
+            "grade_final": "86.99",
+            "sma": "SMA NEGERI KABUH",
+            "registration_created_at": "2024-06-18 15:46:24"
+        },
+        {
+            "name": "HANIDA NANDA FELISA PUTRI",
+            "nisn": "0093316322",
+            "grade_final": "86.98",
+            "sma": "SMA NEGERI KABUH",
+            "registration_created_at": "2024-06-18 08:41:14"
+        },
+        {
+            "name": "AIME TUNGGA SARASWATI",
+            "nisn": "0099084073",
+            "grade_final": "86.96",
+            "sma": "SMA NEGERI KABUH",
+            "registration_created_at": "2024-06-19 08:22:40"
+        },
+        {
+            "name": "NILAM MAHESI",
+            "nisn": "0096844748",
+            "grade_final": "86.95",
+            "sma": "SMA NEGERI KABUH",
+            "registration_created_at": "2024-06-18 19:13:22"
+        },
+        {
+            "name": "NYIMAS FATIMA AZ ZAHRA",
+            "nisn": "0083613232",
+            "grade_final": "86.91",
+            "sma": "SMA NEGERI KABUH",
+            "registration_created_at": "2024-06-18 08:37:19"
+        },
+        {
+            "name": "DEVI SEPTIANI",
+            "nisn": "0082214264",
+            "grade_final": "86.91",
+            "sma": "SMA NEGERI KABUH",
+            "registration_created_at": "2024-06-18 10:51:57"
+        },
+        {
+            "name": "AMELIA PERMATA PUTRI",
+            "nisn": "0103529937",
+            "grade_final": "86.89",
+            "sma": "SMA NEGERI KABUH",
+            "registration_created_at": "2024-06-18 12:21:58"
+        },
+        {
+            "name": "VINA PUTRI AGUSTIN",
+            "nisn": "0087124829",
+            "grade_final": "86.87",
+            "sma": "SMA NEGERI KABUH",
+            "registration_created_at": "2024-06-18 12:05:58"
+        },
+        {
+            "name": "KARINA FARAH RESWARI",
+            "nisn": "0083475921",
+            "grade_final": "86.86",
+            "sma": "SMA NEGERI KABUH",
+            "registration_created_at": "2024-06-18 09:02:45"
+        },
+        {
+            "name": "IMELDA DWI LESTARI",
+            "nisn": "0082488811",
+            "grade_final": "86.86",
+            "sma": "SMA NEGERI KABUH",
+            "registration_created_at": "2024-06-18 07:33:08"
+        },
+        {
+            "name": "AYU WIDIYAWATI",
+            "nisn": "0086683332",
+            "grade_final": "86.85",
+            "sma": "SMA NEGERI KABUH",
+            "registration_created_at": "2024-06-19 06:08:05"
+        },
+        {
+            "name": "Natasya Putri Andini",
+            "nisn": "3084852863",
+            "grade_final": "86.83",
+            "sma": "SMA NEGERI KABUH",
+            "registration_created_at": "2024-06-18 00:05:01"
+        },
+        {
+            "name": "VANESYA CAHYA NINGRUM",
+            "nisn": "0088351679",
+            "grade_final": "86.82",
+            "sma": "SMA NEGERI KABUH",
+            "registration_created_at": "2024-06-18 01:00:54"
+        },
+        {
+            "name": "FIRSYA ANIMAN PUTRI",
+            "nisn": "0091603592",
+            "grade_final": "86.80",
+            "sma": "SMA NEGERI KABUH",
+            "registration_created_at": "2024-06-18 08:23:48"
+        },
+        {
+            "name": "DIYA FENI RAHMAWATI",
+            "nisn": "0088076794",
+            "grade_final": "86.79",
+            "sma": "SMA NEGERI KABUH",
+            "registration_created_at": "2024-06-18 00:41:47"
+        },
+        {
+            "name": "LARAS KHONZUM BIMAHFIAH",
+            "nisn": "3088467292",
+            "grade_final": "86.79",
+            "sma": "SMA NEGERI KABUH",
+            "registration_created_at": "2024-06-18 10:05:40"
+        }
+    ]
+}

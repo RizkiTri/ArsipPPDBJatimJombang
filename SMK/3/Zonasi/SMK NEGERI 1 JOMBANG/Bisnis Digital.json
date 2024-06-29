@@ -1,0 +1,134 @@
+[
+    {
+        "name": "NADIA ZAUHARA",
+        "nisn": "0087842634",
+        "distance": "575",
+        "registration_created_at": "2024-06-22 05:53:27",
+        "smk": {
+            "name": "SMK NEGERI 1 JOMBANG",
+            "major": {
+                "name": "Bisnis Digital"
+            }
+        }
+    },
+    {
+        "name": "Putri Yasmin Az zahwa",
+        "nisn": "0088748970",
+        "distance": "594",
+        "registration_created_at": "2024-06-22 06:06:16",
+        "smk": {
+            "name": "SMK NEGERI 1 JOMBANG",
+            "major": {
+                "name": "Bisnis Digital"
+            }
+        }
+    },
+    {
+        "name": "ZULAIKHAH MARDATILLAH",
+        "nisn": "3083943556",
+        "distance": "630",
+        "registration_created_at": "2024-06-22 07:46:09",
+        "smk": {
+            "name": "SMK NEGERI 1 JOMBANG",
+            "major": {
+                "name": "Bisnis Digital"
+            }
+        }
+    },
+    {
+        "name": "HOSHI MARITZA PUTRI WE",
+        "nisn": "0098303725",
+        "distance": "770",
+        "registration_created_at": "2024-06-22 08:08:57",
+        "smk": {
+            "name": "SMK NEGERI 1 JOMBANG",
+            "major": {
+                "name": "Bisnis Digital"
+            }
+        }
+    },
+    {
+        "name": "QIRANIA SALSABILLAH",
+        "nisn": "0098471579",
+        "distance": "779",
+        "registration_created_at": "2024-06-22 00:29:31",
+        "smk": {
+            "name": "SMK NEGERI 1 JOMBANG",
+            "major": {
+                "name": "Bisnis Digital"
+            }
+        }
+    },
+    {
+        "name": "MIKAYLA AMANATUS ZAHRA",
+        "nisn": "0093579903",
+        "distance": "1048",
+        "registration_created_at": "2024-06-22 01:50:51",
+        "smk": {
+            "name": "SMK NEGERI 1 JOMBANG",
+            "major": {
+                "name": "Bisnis Digital"
+            }
+        }
+    },
+    {
+        "name": "RETNO DUMILA",
+        "nisn": "0095240919",
+        "distance": "1129",
+        "registration_created_at": "2024-06-22 05:03:38",
+        "smk": {
+            "name": "SMK NEGERI 1 JOMBANG",
+            "major": {
+                "name": "Bisnis Digital"
+            }
+        }
+    },
+    {
+        "name": "AMELIA NATASYA ASANDI",
+        "nisn": "0082065678",
+        "distance": "1133",
+        "registration_created_at": "2024-06-23 10:21:09",
+        "smk": {
+            "name": "SMK NEGERI 1 JOMBANG",
+            "major": {
+                "name": "Bisnis Digital"
+            }
+        }
+    },
+    {
+        "name": "NINGSIH FEBRIANTI",
+        "nisn": "0089485442",
+        "distance": "1146",
+        "registration_created_at": "2024-06-22 00:18:28",
+        "smk": {
+            "name": "SMK NEGERI 1 JOMBANG",
+            "major": {
+                "name": "Bisnis Digital"
+            }
+        }
+    },
+    {
+        "name": "Siti Karima Khairun Nisa",
+        "nisn": "0081091129",
+        "distance": "1205",
+        "registration_created_at": "2024-06-23 11:42:54",
+        "smk": {
+            "name": "SMK NEGERI 1 JOMBANG",
+            "major": {
+                "name": "Bisnis Digital"
+            }
+        }
+    },
+    {
+        "name": "DEWI TRI INDAH KASIH",
+        "nisn": "0081508882",
+        "distance": "1219",
+        "registration_created_at": "2024-06-22 00:18:53",
+        "smk": {
+            "name": "SMK NEGERI 1 JOMBANG",
+            "major": {
+                "name": "Bisnis Digital"
+            }
+        }
+    }
+]

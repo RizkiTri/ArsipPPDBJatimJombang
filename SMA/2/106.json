@@ -1,0 +1,552 @@
+{
+    "code": 200,
+    "status": "OK",
+    "meta": {
+        "total": 77,
+        "last_page": 1,
+        "from": 1,
+        "to": 1,
+        "last_update": "2024-06-19 21:07:23"
+    },
+    "data": [
+        {
+            "name": "MIFTAKUR ROHMA FITRIANSYAH",
+            "nisn": "0081968203",
+            "grade_final": "91.48",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-18 11:40:26"
+        },
+        {
+            "name": "CHALLYSTA ZABANIYAH HOSHI SUSISCO",
+            "nisn": "0097774703",
+            "grade_final": "90.77",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-18 13:54:41"
+        },
+        {
+            "name": "AHMAD NURIL QOLBI",
+            "nisn": "0098290786",
+            "grade_final": "90.11",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-18 03:34:24"
+        },
+        {
+            "name": "RIZAL AZAM MUZAKI",
+            "nisn": "0085231956",
+            "grade_final": "89.43",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-18 00:39:36"
+        },
+        {
+            "name": "Mayra Amelia Putri Santoso",
+            "nisn": "0082422582",
+            "grade_final": "89.40",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-18 10:18:59"
+        },
+        {
+            "name": "RAFAEL ANGGORO",
+            "nisn": "0089352499",
+            "grade_final": "89.40",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-18 00:16:58"
+        },
+        {
+            "name": "Kamila Naja",
+            "nisn": "3083691217",
+            "grade_final": "89.39",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-18 00:05:52"
+        },
+        {
+            "name": "RIZA AKBAR ALMUQSITH",
+            "nisn": "0097771298",
+            "grade_final": "89.36",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-18 10:07:18"
+        },
+        {
+            "name": "mochammad marvin luckiansyah wardany",
+            "nisn": "0098949770",
+            "grade_final": "89.24",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-18 00:04:31"
+        },
+        {
+            "name": "HAFIZH ABBAS KURNIAWAN",
+            "nisn": "0095033095",
+            "grade_final": "89.18",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-18 05:09:33"
+        },
+        {
+            "name": "QAIDA MAHESWARI ANINDYA HIDAYAT",
+            "nisn": "0095509299",
+            "grade_final": "89.16",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-18 04:15:09"
+        },
+        {
+            "name": "SAMARA PUTRI ZULKIFLI",
+            "nisn": "0099603762",
+            "grade_final": "89.10",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-18 00:39:34"
+        },
+        {
+            "name": "SEVILLA MAHARANI",
+            "nisn": "0097775783",
+            "grade_final": "89.10",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-18 12:55:00"
+        },
+        {
+            "name": "KARNEISHA ARSENAL WIBOWO",
+            "nisn": "3083579115",
+            "grade_final": "89.10",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-18 19:26:43"
+        },
+        {
+            "name": "Syifa Fauziyah",
+            "nisn": "0088682677",
+            "grade_final": "89.01",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-18 04:24:55"
+        },
+        {
+            "name": "FAUZIYYAH RAHMATUL AMALIA PUTRI",
+            "nisn": "0081738087",
+            "grade_final": "88.98",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-18 00:20:00"
+        },
+        {
+            "name": "VIRSA NUR FITRIA",
+            "nisn": "0081537936",
+            "grade_final": "88.94",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-18 04:29:40"
+        },
+        {
+            "name": "AZINDA LINTANG ANA AZZAHRA",
+            "nisn": "0084688961",
+            "grade_final": "88.89",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-18 07:11:22"
+        },
+        {
+            "name": "AQILAH ATHALLAZAHRA ARDINE",
+            "nisn": "3087926924",
+            "grade_final": "88.84",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-18 08:14:35"
+        },
+        {
+            "name": "DEA KAHAYA AISHAWA",
+            "nisn": "0082774116",
+            "grade_final": "88.71",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-19 10:43:53"
+        },
+        {
+            "name": "DEFI EKA MAULITA",
+            "nisn": "0098452931",
+            "grade_final": "88.68",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-18 04:03:58"
+        },
+        {
+            "name": "Aisyah Octavia Aulia",
+            "nisn": "0087597958",
+            "grade_final": "88.67",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-18 00:02:56"
+        },
+        {
+            "name": "MEY NENSY ZALIATY",
+            "nisn": "0097829258",
+            "grade_final": "88.67",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-18 06:56:44"
+        },
+        {
+            "name": "PUTRINADIAN ANDINISARI PURNAMA",
+            "nisn": "0089558247",
+            "grade_final": "88.66",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-18 04:08:09"
+        },
+        {
+            "name": "DESFITA CAHYA ARINI",
+            "nisn": "3088814248",
+            "grade_final": "88.64",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-19 00:39:31"
+        },
+        {
+            "name": "CADEREYN ARETA",
+            "nisn": "3086524253",
+            "grade_final": "88.54",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-18 23:40:57"
+        },
+        {
+            "name": "CHELSI DWI CAHYA KIRANI",
+            "nisn": "0089472889",
+            "grade_final": "88.54",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-18 00:13:46"
+        },
+        {
+            "name": "SISCA ZAHROTUL JANNAH",
+            "nisn": "0092618739",
+            "grade_final": "88.53",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-18 05:00:12"
+        },
+        {
+            "name": "MITA RINDIANI ASTARI",
+            "nisn": "0084017777",
+            "grade_final": "88.53",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-18 05:17:42"
+        },
+        {
+            "name": "DEVIKA ARDA SALSABERA",
+            "nisn": "3098366070",
+            "grade_final": "88.51",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-18 08:33:22"
+        },
+        {
+            "name": "ZAHRATU SYIFA",
+            "nisn": "0084772700",
+            "grade_final": "88.51",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-18 01:04:22"
+        },
+        {
+            "name": "ADE RIZKY NUR FADLILLAH",
+            "nisn": "0081556533",
+            "grade_final": "88.50",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-18 01:30:35"
+        },
+        {
+            "name": "BUSRO LANA AZAM",
+            "nisn": "0093805069",
+            "grade_final": "88.49",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-18 07:46:55"
+        },
+        {
+            "name": "ALWI SHOLAKHUDIN ASYARI",
+            "nisn": "3088273625",
+            "grade_final": "88.48",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-18 10:49:47"
+        },
+        {
+            "name": "AJENG LARASSATI RAHMAD",
+            "nisn": "0088533962",
+            "grade_final": "88.47",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-18 00:05:54"
+        },
+        {
+            "name": "MUTIARA CALLISTA ANINDYA",
+            "nisn": "0095435320",
+            "grade_final": "88.47",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-19 07:57:41"
+        },
+        {
+            "name": "Nathaniela Raihanah Setyawan",
+            "nisn": "0081604308",
+            "grade_final": "88.43",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-18 13:41:38"
+        },
+        {
+            "name": "SYABILA AULIA AZZAHRA",
+            "nisn": "0098263929",
+            "grade_final": "88.43",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-18 10:46:50"
+        },
+        {
+            "name": "Rahmania Ahmad Safiradewi",
+            "nisn": "0083926780",
+            "grade_final": "88.41",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-19 18:08:30"
+        },
+        {
+            "name": "AULIA NURAZIZAH",
+            "nisn": "0084143467",
+            "grade_final": "88.40",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-19 12:18:05"
+        },
+        {
+            "name": "Meisya Nurul Isnaini",
+            "nisn": "0081059157",
+            "grade_final": "88.38",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-18 10:22:45"
+        },
+        {
+            "name": "NELY ENJELITA",
+            "nisn": "0086841785",
+            "grade_final": "88.38",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-19 14:08:30"
+        },
+        {
+            "name": "AISYAH ZAHIRA",
+            "nisn": "0099761011",
+            "grade_final": "88.34",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-19 10:48:30"
+        },
+        {
+            "name": "NUR FADILAH",
+            "nisn": "0091970541",
+            "grade_final": "88.33",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-18 06:34:01"
+        },
+        {
+            "name": "Nur Aini",
+            "nisn": "0099072484",
+            "grade_final": "88.31",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-18 09:23:42"
+        },
+        {
+            "name": "ALDINO PUTRA ADI NUGRAHA",
+            "nisn": "0099628398",
+            "grade_final": "88.31",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-18 11:24:35"
+        },
+        {
+            "name": "M NAUFAL ARDIANSYAH",
+            "nisn": "0086805603",
+            "grade_final": "88.31",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-19 07:38:10"
+        },
+        {
+            "name": "DIO RASYA ADITYA",
+            "nisn": "0086927012",
+            "grade_final": "88.26",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-19 06:48:35"
+        },
+        {
+            "name": "CINTYA ALIN PRAMUDITA",
+            "nisn": "0098032889",
+            "grade_final": "88.25",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-18 07:24:39"
+        },
+        {
+            "name": "JESICA ANASTASYA HARDININGRUM",
+            "nisn": "0097057271",
+            "grade_final": "88.23",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-18 06:20:13"
+        },
+        {
+            "name": "LAILY SADHINA EZRA PRATAMA",
+            "nisn": "0082045514",
+            "grade_final": "88.23",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-19 10:05:23"
+        },
+        {
+            "name": "AISYAH SINTA DEWI SYAFITRI",
+            "nisn": "0086225559",
+            "grade_final": "88.23",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-18 03:18:03"
+        },
+        {
+            "name": "REVANO ARDIANSA PUTRA RAMADANI",
+            "nisn": "3097957493",
+            "grade_final": "88.23",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-18 13:24:19"
+        },
+        {
+            "name": "REHAN ARYA PRATAMA",
+            "nisn": "0092684506",
+            "grade_final": "88.17",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-18 06:35:47"
+        },
+        {
+            "name": "NABILA AYU SALMA",
+            "nisn": "3080933221",
+            "grade_final": "88.15",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-18 06:55:03"
+        },
+        {
+            "name": "NOVITA DAMAYANTI",
+            "nisn": "0089312911",
+            "grade_final": "88.09",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-18 05:12:33"
+        },
+        {
+            "name": "EKA LENI OKTAVIANA",
+            "nisn": "3081836615",
+            "grade_final": "88.09",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-18 00:04:20"
+        },
+        {
+            "name": "RAYDA SALSABILA",
+            "nisn": "0089744889",
+            "grade_final": "88.08",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-18 17:54:42"
+        },
+        {
+            "name": "WINDYA POPY PRATIWI",
+            "nisn": "0086656081",
+            "grade_final": "88.07",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-18 07:35:51"
+        },
+        {
+            "name": "CHAREN VERONICA KUSUMA",
+            "nisn": "0081576245",
+            "grade_final": "88.06",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-18 00:04:34"
+        },
+        {
+            "name": "KHOFI ZAKIYYAN ATHOULLOH",
+            "nisn": "3093221026",
+            "grade_final": "88.04",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-18 08:54:48"
+        },
+        {
+            "name": "MUHAMMAD WAHYU AL AKBAR",
+            "nisn": "0098353271",
+            "grade_final": "88.03",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-18 05:25:44"
+        },
+        {
+            "name": "NAYAKA MAULANA AZKA SYARIF",
+            "nisn": "3093228611",
+            "grade_final": "88.03",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-19 09:01:59"
+        },
+        {
+            "name": "ADIKA GHANI NURRIZKY",
+            "nisn": "0085694736",
+            "grade_final": "88.01",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-18 15:09:20"
+        },
+        {
+            "name": "TITAH NUNINGSIH MAYUN MAHA DEWI",
+            "nisn": "0085760326",
+            "grade_final": "88.00",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-18 00:15:03"
+        },
+        {
+            "name": "Faishal Ali Reza",
+            "nisn": "0087837087",
+            "grade_final": "87.96",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-18 10:35:24"
+        },
+        {
+            "name": "DINDA ARIFAH",
+            "nisn": "0082872876",
+            "grade_final": "87.94",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-18 08:14:16"
+        },
+        {
+            "name": "ANDRA EGIDIA RAHMADANI",
+            "nisn": "3080844384",
+            "grade_final": "87.93",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-18 11:50:23"
+        },
+        {
+            "name": "ANNASTASYA NURAINI",
+            "nisn": "0086078142",
+            "grade_final": "87.91",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-18 06:26:30"
+        },
+        {
+            "name": "AURELIA CALLISTA ANGGRAINI",
+            "nisn": "0096715797",
+            "grade_final": "87.90",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-18 10:27:41"
+        },
+        {
+            "name": "ALYSIA DELLA MURFAHANIK FAIZ",
+            "nisn": "0084064791",
+            "grade_final": "87.90",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-18 00:22:47"
+        },
+        {
+            "name": "MUHAMMAD RIFKY ARIFUDIN",
+            "nisn": "3092913995",
+            "grade_final": "87.90",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-18 11:27:24"
+        },
+        {
+            "name": "NIKMA FATIHAH OCEAN HANANI",
+            "nisn": "0097303103",
+            "grade_final": "87.87",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-19 04:41:23"
+        },
+        {
+            "name": "ISLAUKHA NUZRILIA ",
+            "nisn": "0086585650",
+            "grade_final": "87.84",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-19 17:51:18"
+        },
+        {
+            "name": "SALSA BIEANKA FEBITAMA",
+            "nisn": "0094277887",
+            "grade_final": "87.83",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-19 08:07:42"
+        },
+        {
+            "name": "EMERALDA SEPTRIAMANDA",
+            "nisn": "0085938244",
+            "grade_final": "87.83",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-18 07:14:28"
+        },
+        {
+            "name": "ALFA SALMA FARIKHA",
+            "nisn": "0086019241",
+            "grade_final": "87.83",
+            "sma": "SMA NEGERI MOJOAGUNG",
+            "registration_created_at": "2024-06-18 10:48:47"
+        }
+    ]
+}

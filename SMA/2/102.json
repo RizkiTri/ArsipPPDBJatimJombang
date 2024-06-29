@@ -1,0 +1,433 @@
+{
+    "code": 200,
+    "status": "OK",
+    "meta": {
+        "total": 60,
+        "last_page": 1,
+        "from": 1,
+        "to": 1,
+        "last_update": "2024-06-19 21:07:23"
+    },
+    "data": [
+        {
+            "name": "MAULIDYA LAILATUL INSIYAH",
+            "nisn": "0099884426",
+            "grade_final": "88.07",
+            "sma": "SMA NEGERI BARENG",
+            "registration_created_at": "2024-06-18 07:41:36"
+        },
+        {
+            "name": "MAULINA FIVTYN MERRYANANTIA",
+            "nisn": "0086636464",
+            "grade_final": "88.03",
+            "sma": "SMA NEGERI BARENG",
+            "registration_created_at": "2024-06-18 11:29:05"
+        },
+        {
+            "name": "ALMAIDA DWI NURAINI",
+            "nisn": "0082176903",
+            "grade_final": "87.97",
+            "sma": "SMA NEGERI BARENG",
+            "registration_created_at": "2024-06-18 11:31:28"
+        },
+        {
+            "name": "LIFTIYA SONA AYUWANDANA",
+            "nisn": "0071876307",
+            "grade_final": "87.75",
+            "sma": "SMA NEGERI BARENG",
+            "registration_created_at": "2024-06-19 16:29:41"
+        },
+        {
+            "name": "SABILA PUTRI AUXILYA",
+            "nisn": "0082986518",
+            "grade_final": "87.57",
+            "sma": "SMA NEGERI BARENG",
+            "registration_created_at": "2024-06-18 07:11:52"
+        },
+        {
+            "name": "KARISTA NUR SIFA RAMADHANI",
+            "nisn": "0085685296",
+            "grade_final": "87.55",
+            "sma": "SMA NEGERI BARENG",
+            "registration_created_at": "2024-06-18 01:50:24"
+        },
+        {
+            "name": "NOFI FITRIA NINGRUM",
+            "nisn": "0077124132",
+            "grade_final": "87.54",
+            "sma": "SMA NEGERI BARENG",
+            "registration_created_at": "2024-06-18 09:21:11"
+        },
+        {
+            "name": "ALMIRA CHUSUMA DEWI",
+            "nisn": "0088145044",
+            "grade_final": "87.47",
+            "sma": "SMA NEGERI BARENG",
+            "registration_created_at": "2024-06-18 01:04:21"
+        },
+        {
+            "name": "KAYLA AINAYA FATIHA",
+            "nisn": "3096174881",
+            "grade_final": "87.45",
+            "sma": "SMA NEGERI BARENG",
+            "registration_created_at": "2024-06-19 13:45:11"
+        },
+        {
+            "name": "FATIMATUZ ZAHRAH ASY SYIFA",
+            "nisn": "3096404599",
+            "grade_final": "87.44",
+            "sma": "SMA NEGERI BARENG",
+            "registration_created_at": "2024-06-18 07:38:25"
+        },
+        {
+            "name": "NABILA ANANDA PUTRI",
+            "nisn": "0096805710",
+            "grade_final": "87.39",
+            "sma": "SMA NEGERI BARENG",
+            "registration_created_at": "2024-06-19 07:41:13"
+        },
+        {
+            "name": "GALANG SYAHPUTRA",
+            "nisn": "0087724935",
+            "grade_final": "87.38",
+            "sma": "SMA NEGERI BARENG",
+            "registration_created_at": "2024-06-18 07:32:17"
+        },
+        {
+            "name": "Arjun Setyo Bakti Santoso",
+            "nisn": "0082365764",
+            "grade_final": "87.32",
+            "sma": "SMA NEGERI BARENG",
+            "registration_created_at": "2024-06-18 09:37:08"
+        },
+        {
+            "name": "UMI LAILATUL RODHIYAH",
+            "nisn": "0092094074",
+            "grade_final": "87.32",
+            "sma": "SMA NEGERI BARENG",
+            "registration_created_at": "2024-06-18 05:35:41"
+        },
+        {
+            "name": "ZHIFORA AULIA NIRWANA",
+            "nisn": "3099627913",
+            "grade_final": "87.31",
+            "sma": "SMA NEGERI BARENG",
+            "registration_created_at": "2024-06-18 15:58:21"
+        },
+        {
+            "name": "MEI HANDA AININ NIHA",
+            "nisn": "3091278358",
+            "grade_final": "87.24",
+            "sma": "SMA NEGERI BARENG",
+            "registration_created_at": "2024-06-18 10:00:31"
+        },
+        {
+            "name": "BILQIS AYUDYA ROMADHONI",
+            "nisn": "0091860494",
+            "grade_final": "87.24",
+            "sma": "SMA NEGERI BARENG",
+            "registration_created_at": "2024-06-18 07:42:28"
+        },
+        {
+            "name": "SILVINA AULIYA ROHMAH",
+            "nisn": "3093801496",
+            "grade_final": "87.24",
+            "sma": "SMA NEGERI BARENG",
+            "registration_created_at": "2024-06-18 12:32:51"
+        },
+        {
+            "name": "NUR FATIMAH",
+            "nisn": "0087520620",
+            "grade_final": "87.24",
+            "sma": "SMA NEGERI BARENG",
+            "registration_created_at": "2024-06-18 17:46:44"
+        },
+        {
+            "name": "KANNIA RAMADHAN",
+            "nisn": "0089632118",
+            "grade_final": "87.24",
+            "sma": "SMA NEGERI BARENG",
+            "registration_created_at": "2024-06-18 11:05:39"
+        },
+        {
+            "name": "MUHAMMAD IBRAHIM AFKAR",
+            "nisn": "0091004121",
+            "grade_final": "87.22",
+            "sma": "SMA NEGERI BARENG",
+            "registration_created_at": "2024-06-18 07:05:14"
+        },
+        {
+            "name": "DYAH AYU APRILIA PUTRI",
+            "nisn": "0088786364",
+            "grade_final": "87.22",
+            "sma": "SMA NEGERI BARENG",
+            "registration_created_at": "2024-06-18 06:45:15"
+        },
+        {
+            "name": "AURELLIA LIVIA PUTRI AGATHA",
+            "nisn": "0091361275",
+            "grade_final": "87.14",
+            "sma": "SMA NEGERI BARENG",
+            "registration_created_at": "2024-06-18 00:13:49"
+        },
+        {
+            "name": "WAKHIDATUN NISA ISTIGFARIDA",
+            "nisn": "0098839921",
+            "grade_final": "87.13",
+            "sma": "SMA NEGERI BARENG",
+            "registration_created_at": "2024-06-18 12:37:16"
+        },
+        {
+            "name": "CERY ZUFI ZIMATUL HUSNA",
+            "nisn": "0097113015",
+            "grade_final": "87.13",
+            "sma": "SMA NEGERI BARENG",
+            "registration_created_at": "2024-06-18 10:19:14"
+        },
+        {
+            "name": "DHAFINZA SATRIA ANGGARA",
+            "nisn": "3082789263",
+            "grade_final": "87.12",
+            "sma": "SMA NEGERI BARENG",
+            "registration_created_at": "2024-06-18 11:46:09"
+        },
+        {
+            "name": "TIA RESTU LAILA",
+            "nisn": "3093053552",
+            "grade_final": "87.10",
+            "sma": "SMA NEGERI BARENG",
+            "registration_created_at": "2024-06-18 08:33:38"
+        },
+        {
+            "name": "ZASKIA FAISNATUL HUSNA",
+            "nisn": "0089453748",
+            "grade_final": "87.06",
+            "sma": "SMA NEGERI BARENG",
+            "registration_created_at": "2024-06-18 08:24:13"
+        },
+        {
+            "name": "REYNA RAHMADHANI PUTRI",
+            "nisn": "0087068045",
+            "grade_final": "87.03",
+            "sma": "SMA NEGERI BARENG",
+            "registration_created_at": "2024-06-18 13:06:44"
+        },
+        {
+            "name": "AKHILA LABIBA ASKHALINA",
+            "nisn": "0098066561",
+            "grade_final": "87.02",
+            "sma": "SMA NEGERI BARENG",
+            "registration_created_at": "2024-06-18 09:08:15"
+        },
+        {
+            "name": "MARTA NUR ZAHROTUSITA",
+            "nisn": "0098372473",
+            "grade_final": "87.02",
+            "sma": "SMA NEGERI BARENG",
+            "registration_created_at": "2024-06-18 09:37:02"
+        },
+        {
+            "name": "SITI NUROHMAH DANI",
+            "nisn": "0085242921",
+            "grade_final": "86.99",
+            "sma": "SMA NEGERI BARENG",
+            "registration_created_at": "2024-06-18 11:26:13"
+        },
+        {
+            "name": "AVELLYA NUR FADILA",
+            "nisn": "0097563980",
+            "grade_final": "86.96",
+            "sma": "SMA NEGERI BARENG",
+            "registration_created_at": "2024-06-18 06:44:32"
+        },
+        {
+            "name": "NAVISA ELLIYANA PUTRI",
+            "nisn": "0083608732",
+            "grade_final": "86.96",
+            "sma": "SMA NEGERI BARENG",
+            "registration_created_at": "2024-06-18 12:03:58"
+        },
+        {
+            "name": "MUHAMMAD ASA ZIDNAN NAFI ALBASSYA",
+            "nisn": "3085819710",
+            "grade_final": "86.95",
+            "sma": "SMA NEGERI BARENG",
+            "registration_created_at": "2024-06-18 05:44:11"
+        },
+        {
+            "name": "EKA RAHMAWATI",
+            "nisn": "0088622765",
+            "grade_final": "86.94",
+            "sma": "SMA NEGERI BARENG",
+            "registration_created_at": "2024-06-19 17:00:24"
+        },
+        {
+            "name": "SAVA APRILIA",
+            "nisn": "0092072376",
+            "grade_final": "86.93",
+            "sma": "SMA NEGERI BARENG",
+            "registration_created_at": "2024-06-18 12:28:55"
+        },
+        {
+            "name": "RATU ADILA SOEKARNO PUTRI",
+            "nisn": "0082995883",
+            "grade_final": "86.93",
+            "sma": "SMA NEGERI BARENG",
+            "registration_created_at": "2024-06-18 00:26:02"
+        },
+        {
+            "name": "REVA LABIBAH",
+            "nisn": "0095844186",
+            "grade_final": "86.90",
+            "sma": "SMA NEGERI BARENG",
+            "registration_created_at": "2024-06-18 09:08:43"
+        },
+        {
+            "name": "FRISMA INTAN NUR FADILA",
+            "nisn": "0092751854",
+            "grade_final": "86.89",
+            "sma": "SMA NEGERI BARENG",
+            "registration_created_at": "2024-06-18 06:34:22"
+        },
+        {
+            "name": "SOFIA ARDINA ATTA GRESSIA",
+            "nisn": "0083820228",
+            "grade_final": "86.89",
+            "sma": "SMA NEGERI BARENG",
+            "registration_created_at": "2024-06-18 08:17:44"
+        },
+        {
+            "name": "KIARA AMELIA SYAHIRA",
+            "nisn": "0094417217",
+            "grade_final": "86.87",
+            "sma": "SMA NEGERI BARENG",
+            "registration_created_at": "2024-06-18 06:44:36"
+        },
+        {
+            "name": "MADANIA SALSABILA",
+            "nisn": "0094540888",
+            "grade_final": "86.82",
+            "sma": "SMA NEGERI BARENG",
+            "registration_created_at": "2024-06-18 14:07:14"
+        },
+        {
+            "name": "CHELSY YULIAN NINGRUM",
+            "nisn": "0082097472",
+            "grade_final": "86.81",
+            "sma": "SMA NEGERI BARENG",
+            "registration_created_at": "2024-06-18 07:53:17"
+        },
+        {
+            "name": "MAULIDYA SUKMA ADYA NAZARETA",
+            "nisn": "0094727813",
+            "grade_final": "86.79",
+            "sma": "SMA NEGERI BARENG",
+            "registration_created_at": "2024-06-18 06:57:46"
+        },
+        {
+            "name": "VERA ANNISA",
+            "nisn": "0083045282",
+            "grade_final": "86.78",
+            "sma": "SMA NEGERI BARENG",
+            "registration_created_at": "2024-06-18 05:29:55"
+        },
+        {
+            "name": "AANISA NOOR FADHILAH",
+            "nisn": "3080819540",
+            "grade_final": "86.78",
+            "sma": "SMA NEGERI BARENG",
+            "registration_created_at": "2024-06-18 09:24:54"
+        },
+        {
+            "name": "HILDA FAUZIA RAHMA",
+            "nisn": "3082789342",
+            "grade_final": "86.78",
+            "sma": "SMA NEGERI BARENG",
+            "registration_created_at": "2024-06-18 15:23:28"
+        },
+        {
+            "name": "DECA RIZKI OCTAVIA",
+            "nisn": "0088771082",
+            "grade_final": "86.74",
+            "sma": "SMA NEGERI BARENG",
+            "registration_created_at": "2024-06-18 11:09:48"
+        },
+        {
+            "name": "SHERLA DWI AGUSTIN",
+            "nisn": "0085104186",
+            "grade_final": "86.73",
+            "sma": "SMA NEGERI BARENG",
+            "registration_created_at": "2024-06-18 06:20:56"
+        },
+        {
+            "name": "CAHAYA CANDRA KIRANA",
+            "nisn": "3081778825",
+            "grade_final": "86.72",
+            "sma": "SMA NEGERI BARENG",
+            "registration_created_at": "2024-06-18 10:55:46"
+        },
+        {
+            "name": "MUHAMMAD FAHRI",
+            "nisn": "0095521484",
+            "grade_final": "86.69",
+            "sma": "SMA NEGERI BARENG",
+            "registration_created_at": "2024-06-18 02:36:30"
+        },
+        {
+            "name": "MARSYA AURA YASHINTA",
+            "nisn": "0097557436",
+            "grade_final": "86.68",
+            "sma": "SMA NEGERI BARENG",
+            "registration_created_at": "2024-06-19 19:39:00"
+        },
+        {
+            "name": "BELINDA AZARINE",
+            "nisn": "0099340682",
+            "grade_final": "86.67",
+            "sma": "SMA NEGERI BARENG",
+            "registration_created_at": "2024-06-18 05:44:53"
+        },
+        {
+            "name": "NADHIN ZHULVIA",
+            "nisn": "0097476838",
+            "grade_final": "86.66",
+            "sma": "SMA NEGERI BARENG",
+            "registration_created_at": "2024-06-18 11:33:41"
+        },
+        {
+            "name": "DYAH REGITA CAHYA ANDIRA",
+            "nisn": "0081659176",
+            "grade_final": "86.66",
+            "sma": "SMA NEGERI BARENG",
+            "registration_created_at": "2024-06-18 07:06:28"
+        },
+        {
+            "name": "RIZQI YUSRONIA FAIZAH",
+            "nisn": "3086220543",
+            "grade_final": "86.65",
+            "sma": "SMA NEGERI BARENG",
+            "registration_created_at": "2024-06-18 07:08:19"
+        },
+        {
+            "name": "ERVIN NURIL AINI",
+            "nisn": "3088505705",
+            "grade_final": "86.64",
+            "sma": "SMA NEGERI BARENG",
+            "registration_created_at": "2024-06-18 08:45:47"
+        },
+        {
+            "name": "ANNISA EKA CAHYANINGRUM",
+            "nisn": "0095883002",
+            "grade_final": "86.63",
+            "sma": "SMA NEGERI BARENG",
+            "registration_created_at": "2024-06-18 09:43:48"
+        },
+        {
+            "name": "MUHAMMAD RAFFLY RAHARDIAN",
+            "nisn": "0094557198",
+            "grade_final": "86.62",
+            "sma": "SMA NEGERI BARENG",
+            "registration_created_at": "2024-06-18 00:44:36"
+        }
+    ]
+}

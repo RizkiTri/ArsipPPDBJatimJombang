@@ -1,0 +1,26 @@
+[
+    {
+        "name": "ROSA DWI NUR AINI",
+        "nisn": "0085104111",
+        "distance": "2584",
+        "registration_created_at": "2024-06-22 00:07:16",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Kuliner"
+            }
+        }
+    },
+    {
+        "name": "NURUL ISNA KURNIA",
+        "nisn": "3091705373",
+        "distance": "2584",
+        "registration_created_at": "2024-06-22 01:04:37",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Kuliner"
+            }
+        }
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "name": "ZIEFANY LETISYA VALENTINE",
+        "nisn": "0107223911",
+        "distance": "299",
+        "registration_created_at": "2024-06-22 00:06:19",
+        "smk": {
+            "name": "SMK NEGERI KUDU",
+            "major": {
+                "name": "Agribisnis Pengolahan Hasil Pertanian"
+            }
+        }
+    },
+    {
+        "name": "RIZQOTUL UMMAH",
+        "nisn": "0097689255",
+        "distance": "587",
+        "registration_created_at": "2024-06-22 06:46:58",
+        "smk": {
+            "name": "SMK NEGERI KUDU",
+            "major": {
+                "name": "Agribisnis Pengolahan Hasil Pertanian"
+            }
+        }
+    },
+    {
+        "name": "INDRI DEWI PRATIWI",
+        "nisn": "0098266031",
+        "distance": "802",
+        "registration_created_at": "2024-06-22 06:46:43",
+        "smk": {
+            "name": "SMK NEGERI KUDU",
+            "major": {
+                "name": "Agribisnis Pengolahan Hasil Pertanian"
+            }
+        }
+    },
+    {
+        "name": "Mey Tri Rizky Susanti",
+        "nisn": "0095589168",
+        "distance": "1093",
+        "registration_created_at": "2024-06-22 01:28:00",
+        "smk": {
+            "name": "SMK NEGERI KUDU",
+            "major": {
+                "name": "Agribisnis Pengolahan Hasil Pertanian"
+            }
+        }
+    },
+    {
+        "name": "Silvy Novita Putri",
+        "nisn": "0082159915",
+        "distance": "1289",
+        "registration_created_at": "2024-06-22 08:10:04",
+        "smk": {
+            "name": "SMK NEGERI KUDU",
+            "major": {
+                "name": "Agribisnis Pengolahan Hasil Pertanian"
+            }
+        }
+    },
+    {
+        "name": "SUCI ALFIATUR ROSYIDAH",
+        "nisn": "0081922875",
+        "distance": "1409",
+        "registration_created_at": "2024-06-22 00:41:58",
+        "smk": {
+            "name": "SMK NEGERI KUDU",
+            "major": {
+                "name": "Agribisnis Pengolahan Hasil Pertanian"
+            }
+        }
+    },
+    {
+        "name": "TALITHA ANNAF SHADWAH RAMADHANI",
+        "nisn": "3083267169",
+        "distance": "1590",
+        "registration_created_at": "2024-06-22 08:42:09",
+        "smk": {
+            "name": "SMK NEGERI KUDU",
+            "major": {
+                "name": "Agribisnis Pengolahan Hasil Pertanian"
+            }
+        }
+    },
+    {
+        "name": "ZUNITA RAHMA SARI",
+        "nisn": "0098396029",
+        "distance": "1699",
+        "registration_created_at": "2024-06-22 00:28:53",
+        "smk": {
+            "name": "SMK NEGERI KUDU",
+            "major": {
+                "name": "Agribisnis Pengolahan Hasil Pertanian"
+            }
+        }
+    },
+    {
+        "name": "KEYLA LUTFIANA AMANDITA",
+        "nisn": "0098283944",
+        "distance": "1795",
+        "registration_created_at": "2024-06-22 00:05:02",
+        "smk": {
+            "name": "SMK NEGERI KUDU",
+            "major": {
+                "name": "Agribisnis Pengolahan Hasil Pertanian"
+            }
+        }
+    },
+    {
+        "name": "PUTRI ADELIA MONOQUE",
+        "nisn": "0085524685",
+        "distance": "1937",
+        "registration_created_at": "2024-06-22 00:28:53",
+        "smk": {
+            "name": "SMK NEGERI KUDU",
+            "major": {
+                "name": "Agribisnis Pengolahan Hasil Pertanian"
+            }
+        }
+    }
+]

@@ -1,0 +1,221 @@
+
+[
+  {
+
+    "id": 63,
+    "name": "SMK NEGERI 1 JOMBANG",
+    "majors": [
+      {
+        "id": 1839,
+        "name": "Akuntansi"
+      },
+      {
+        "id": 1842,
+        "name": "Bisnis Digital"
+      },
+      {
+        "id": 1838,
+        "name": "Desain Komunikasi Visual"
+      },
+      {
+        "id": 1841,
+        "name": "Layanan Perbankan"
+      },
+      {
+        "id": 1840,
+        "name": "Manajemen Perkantoran"
+      },
+      {
+        "id": 1134,
+        "name": "Perhotelan"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "name": "SMK NEGERI 2 JOMBANG",
+    "majors": [
+      {
+        "id": 1880,
+        "name": "Desain dan Produksi Busana"
+      },
+      {
+        "id": 1844,
+        "name": "Kuliner"
+      },
+      {
+        "id": 1876,
+        "name": "Tata Kecantikan Kulit dan Rambut"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "name": "SMK NEGERI WONOSALAM",
+    "majors": [
+      {
+        "id": 1849,
+        "name": " Teknik Pemesinan "
+      },
+      {
+        "id": 1846,
+        "name": "Agribisnis Tanaman Perkebunan"
+      },
+      {
+        "id": 1847,
+        "name": "Kuliner"
+      },
+      {
+        "id": 1848,
+        "name": "Teknik Kendaraan Ringan"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "name": "SMK NEGERI 3 JOMBANG",
+    "majors": [
+      {
+        "id": 1857,
+        "name": "Desain Pemodelan dan Informasi Bangunan"
+      },
+      {
+        "id": 1145,
+        "name": "Teknik Audio Video"
+      },
+      {
+        "id": 1146,
+        "name": "Teknik Elektronika Industri"
+      },
+      {
+        "id": 1147,
+        "name": "Teknik Geomatika"
+      },
+      {
+        "id": 1149,
+        "name": "Teknik Instalasi Tenaga Listrik"
+      },
+      {
+        "id": 1858,
+        "name": "Teknik Kendaraan Ringan"
+      },
+      {
+        "id": 1150,
+        "name": "Teknik Komputer dan Jaringan"
+      },
+      {
+        "id": 1856,
+        "name": "Teknik Konstruksi dan Perumahan"
+      },
+      {
+        "id": 1151,
+        "name": "Teknik Otomasi Industri"
+      },
+      {
+        "id": 1152,
+        "name": "Teknik Pemesinan"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "name": "SMK NEGERI GUDO",
+    "majors": [
+      {
+        "id": 1463,
+        "name": "Desain Komunikasi Visual"
+      },
+      {
+        "id": 1461,
+        "name": "Desain dan Produksi Busana"
+      },
+      {
+        "id": 1460,
+        "name": "Layanan Perbankan"
+      },
+      {
+        "id": 1459,
+        "name": "Teknik Komputer dan Jaringan"
+      },
+      {
+        "id": 1462,
+        "name": "Teknik Ototronik"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "name": "SMK NEGERI KUDU",
+    "majors": [
+      {
+        "id": 1855,
+        "name": "Agribisnis Pengolahan Hasil Pertanian"
+      },
+      {
+        "id": 1852,
+        "name": "Desain Pemodelan dan Informasi Bangunan"
+      },
+      {
+        "id": 1854,
+        "name": "Teknik Kendaraan Ringan"
+      },
+      {
+        "id": 1851,
+        "name": "Teknik Konstruksi dan Perumahan"
+      },
+      {
+        "id": 1853,
+        "name": "Teknik Pemesinan"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "name": "SMK NEGERI MOJOAGUNG",
+    "majors": [
+      {
+        "id": 1455,
+        "name": "Akuntansi"
+      },
+      {
+        "id": 1457,
+        "name": "Bisnis Digital"
+      },
+      {
+        "id": 1454,
+        "name": "Manajemen Perkantoran"
+      },
+      {
+        "id": 1456,
+        "name": "Rekayasa Perangkat Lunak"
+      },
+      {
+        "id": 1458,
+        "name": "Teknik Kimia Industri"
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "name": "SMK NEGERI KABUH",
+    "majors": [
+      {
+        "id": 1453,
+        "name": "Analisis Pengujian Laboratorium"
+      },
+      {
+        "id": 1452,
+        "name": "Farmasi Industri"
+      },
+      {
+        "id": 1850,
+        "name": "Sistem Informasi, Jaringan, dan Aplikasi"
+      },
+      {
+        "id": 1451,
+        "name": "Teknik Kimia Industri"
+      }
+    ]
+  }
+]
+

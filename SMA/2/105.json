@@ -1,0 +1,433 @@
+{
+    "code": 200,
+    "status": "OK",
+    "meta": {
+        "total": 60,
+        "last_page": 1,
+        "from": 1,
+        "to": 1,
+        "last_update": "2024-06-19 21:07:23"
+    },
+    "data": [
+        {
+            "name": "DERLIS GISELA FARADIS",
+            "nisn": "0093147382",
+            "grade_final": "89.53",
+            "sma": "SMA NEGERI KESAMBEN",
+            "registration_created_at": "2024-06-18 05:13:46"
+        },
+        {
+            "name": "SAHLA SYAKIRA",
+            "nisn": "0093164417",
+            "grade_final": "89.14",
+            "sma": "SMA NEGERI KESAMBEN",
+            "registration_created_at": "2024-06-18 06:28:19"
+        },
+        {
+            "name": "ANDINI NILAM PUSPITASARI",
+            "nisn": "0084998315",
+            "grade_final": "88.87",
+            "sma": "SMA NEGERI KESAMBEN",
+            "registration_created_at": "2024-06-19 02:05:23"
+        },
+        {
+            "name": "Elfin Dwi Larasati",
+            "nisn": "0099220177",
+            "grade_final": "88.65",
+            "sma": "SMA NEGERI KESAMBEN",
+            "registration_created_at": "2024-06-18 14:44:10"
+        },
+        {
+            "name": "Aida Nur Hasanah",
+            "nisn": "0087353897",
+            "grade_final": "88.58",
+            "sma": "SMA NEGERI KESAMBEN",
+            "registration_created_at": "2024-06-18 01:09:25"
+        },
+        {
+            "name": "GANDYS PUTRI SULYSTYA WAHYUNI",
+            "nisn": "0084932569",
+            "grade_final": "88.46",
+            "sma": "SMA NEGERI KESAMBEN",
+            "registration_created_at": "2024-06-18 01:35:03"
+        },
+        {
+            "name": "Dwi Nurlaily Qivtya",
+            "nisn": "0084624320",
+            "grade_final": "88.42",
+            "sma": "SMA NEGERI KESAMBEN",
+            "registration_created_at": "2024-06-19 11:11:16"
+        },
+        {
+            "name": "ELBERTHA SALSABILA BAMBANG R",
+            "nisn": "3081848059",
+            "grade_final": "88.39",
+            "sma": "SMA NEGERI KESAMBEN",
+            "registration_created_at": "2024-06-18 05:44:19"
+        },
+        {
+            "name": "VARA AGUSTIVIA PUTRI",
+            "nisn": "3082450830",
+            "grade_final": "88.33",
+            "sma": "SMA NEGERI KESAMBEN",
+            "registration_created_at": "2024-06-18 04:04:01"
+        },
+        {
+            "name": "DINDA DWI NATASYA",
+            "nisn": "0087580822",
+            "grade_final": "88.31",
+            "sma": "SMA NEGERI KESAMBEN",
+            "registration_created_at": "2024-06-18 00:22:06"
+        },
+        {
+            "name": "NADYA MAULIA NURU SHOLIKHAH",
+            "nisn": "0085802661",
+            "grade_final": "88.30",
+            "sma": "SMA NEGERI KESAMBEN",
+            "registration_created_at": "2024-06-18 01:16:54"
+        },
+        {
+            "name": "Nur Istighfarin",
+            "nisn": "3086153396",
+            "grade_final": "88.28",
+            "sma": "SMA NEGERI KESAMBEN",
+            "registration_created_at": "2024-06-18 05:05:58"
+        },
+        {
+            "name": "NEO ADONG ADITYA PRATAMA",
+            "nisn": "0083863769",
+            "grade_final": "88.17",
+            "sma": "SMA NEGERI KESAMBEN",
+            "registration_created_at": "2024-06-18 08:27:12"
+        },
+        {
+            "name": "Sirin Tazkiyah Yasmine",
+            "nisn": "0087103241",
+            "grade_final": "88.13",
+            "sma": "SMA NEGERI KESAMBEN",
+            "registration_created_at": "2024-06-18 03:51:28"
+        },
+        {
+            "name": "BONIA NABA AULYA",
+            "nisn": "0091264105",
+            "grade_final": "88.09",
+            "sma": "SMA NEGERI KESAMBEN",
+            "registration_created_at": "2024-06-18 00:25:46"
+        },
+        {
+            "name": "ANANDA AMELIA EKA SAPUTRO",
+            "nisn": "0084001378",
+            "grade_final": "88.08",
+            "sma": "SMA NEGERI KESAMBEN",
+            "registration_created_at": "2024-06-18 15:44:07"
+        },
+        {
+            "name": "AULIA PUTRI BILQIST",
+            "nisn": "0094390142",
+            "grade_final": "88.08",
+            "sma": "SMA NEGERI KESAMBEN",
+            "registration_created_at": "2024-06-18 00:32:28"
+        },
+        {
+            "name": "FARIHAH NISAUZZAHRAH",
+            "nisn": "0081154888",
+            "grade_final": "88.07",
+            "sma": "SMA NEGERI KESAMBEN",
+            "registration_created_at": "2024-06-18 00:46:58"
+        },
+        {
+            "name": "FIANATU REVINDILA",
+            "nisn": "0082400192",
+            "grade_final": "87.83",
+            "sma": "SMA NEGERI KESAMBEN",
+            "registration_created_at": "2024-06-19 11:51:57"
+        },
+        {
+            "name": "DEWI KUSUMA WATI",
+            "nisn": "3098729537",
+            "grade_final": "87.78",
+            "sma": "SMA NEGERI KESAMBEN",
+            "registration_created_at": "2024-06-18 00:06:12"
+        },
+        {
+            "name": "DINDA EKA NURFADILAH",
+            "nisn": "0082844839",
+            "grade_final": "87.73",
+            "sma": "SMA NEGERI KESAMBEN",
+            "registration_created_at": "2024-06-18 01:27:46"
+        },
+        {
+            "name": "JINGGAN NURING ADI PRATIWI",
+            "nisn": "0093594258",
+            "grade_final": "87.69",
+            "sma": "SMA NEGERI KESAMBEN",
+            "registration_created_at": "2024-06-18 10:42:35"
+        },
+        {
+            "name": "Adinda Johar Zarotul Jannah",
+            "nisn": "3088596516",
+            "grade_final": "87.66",
+            "sma": "SMA NEGERI KESAMBEN",
+            "registration_created_at": "2024-06-18 03:26:15"
+        },
+        {
+            "name": "LOVENIA LAURA ROFIKA",
+            "nisn": "0089372663",
+            "grade_final": "87.60",
+            "sma": "SMA NEGERI KESAMBEN",
+            "registration_created_at": "2024-06-18 01:36:57"
+        },
+        {
+            "name": "CANDRA KURNIAWAN",
+            "nisn": "0088324423",
+            "grade_final": "87.58",
+            "sma": "SMA NEGERI KESAMBEN",
+            "registration_created_at": "2024-06-18 07:42:56"
+        },
+        {
+            "name": "Nabila Nanda Puspitasari",
+            "nisn": "0081360521",
+            "grade_final": "87.56",
+            "sma": "SMA NEGERI KESAMBEN",
+            "registration_created_at": "2024-06-18 06:30:12"
+        },
+        {
+            "name": "WINDY SETIA MEI RAHAYU",
+            "nisn": "0094497084",
+            "grade_final": "87.53",
+            "sma": "SMA NEGERI KESAMBEN",
+            "registration_created_at": "2024-06-18 12:19:38"
+        },
+        {
+            "name": "WANDA DEWI AYU WARDANI",
+            "nisn": "0085499820",
+            "grade_final": "87.51",
+            "sma": "SMA NEGERI KESAMBEN",
+            "registration_created_at": "2024-06-19 07:18:02"
+        },
+        {
+            "name": "AWIK TAMARA",
+            "nisn": "3099076307",
+            "grade_final": "87.50",
+            "sma": "SMA NEGERI KESAMBEN",
+            "registration_created_at": "2024-06-18 15:25:48"
+        },
+        {
+            "name": "RIANTI MAHESWARI UTAMI",
+            "nisn": "0098336034",
+            "grade_final": "87.48",
+            "sma": "SMA NEGERI KESAMBEN",
+            "registration_created_at": "2024-06-18 08:36:25"
+        },
+        {
+            "name": "BETA KHOIROTUL UMMAH",
+            "nisn": "0081834841",
+            "grade_final": "87.48",
+            "sma": "SMA NEGERI KESAMBEN",
+            "registration_created_at": "2024-06-18 08:39:26"
+        },
+        {
+            "name": "ZIVANA AYU MAULIDYA",
+            "nisn": "0106466602",
+            "grade_final": "87.46",
+            "sma": "SMA NEGERI KESAMBEN",
+            "registration_created_at": "2024-06-18 11:34:47"
+        },
+        {
+            "name": "SIFA NUR AINI",
+            "nisn": "0098145519",
+            "grade_final": "87.39",
+            "sma": "SMA NEGERI KESAMBEN",
+            "registration_created_at": "2024-06-18 05:49:39"
+        },
+        {
+            "name": "FIDINNIYAH NUR IZZATIN NUFUS",
+            "nisn": "3080225292",
+            "grade_final": "87.39",
+            "sma": "SMA NEGERI KESAMBEN",
+            "registration_created_at": "2024-06-18 02:03:27"
+        },
+        {
+            "name": "KIARA ATHAYA PRAHIDA",
+            "nisn": "0099069699",
+            "grade_final": "87.36",
+            "sma": "SMA NEGERI KESAMBEN",
+            "registration_created_at": "2024-06-18 00:10:46"
+        },
+        {
+            "name": "AULIYA EKA SAPUTRI",
+            "nisn": "3089399052",
+            "grade_final": "87.33",
+            "sma": "SMA NEGERI KESAMBEN",
+            "registration_created_at": "2024-06-18 00:12:39"
+        },
+        {
+            "name": "ZILDA ILMA NAFIA",
+            "nisn": "0083078061",
+            "grade_final": "87.27",
+            "sma": "SMA NEGERI KESAMBEN",
+            "registration_created_at": "2024-06-18 01:04:05"
+        },
+        {
+            "name": "Syahrial Adinata Rahmandira",
+            "nisn": "0082287002",
+            "grade_final": "87.26",
+            "sma": "SMA NEGERI KESAMBEN",
+            "registration_created_at": "2024-06-18 00:19:45"
+        },
+        {
+            "name": "CHESA MALFINAZ SYAHRANI",
+            "nisn": "0092742737",
+            "grade_final": "87.23",
+            "sma": "SMA NEGERI KESAMBEN",
+            "registration_created_at": "2024-06-18 18:39:41"
+        },
+        {
+            "name": "MAURA LAKSMITA DEWI",
+            "nisn": "3109279835",
+            "grade_final": "87.23",
+            "sma": "SMA NEGERI KESAMBEN",
+            "registration_created_at": "2024-06-19 12:47:23"
+        },
+        {
+            "name": "APRILIA FATHIMATUS AZZAHRA",
+            "nisn": "0097732301",
+            "grade_final": "87.21",
+            "sma": "SMA NEGERI KESAMBEN",
+            "registration_created_at": "2024-06-18 20:42:36"
+        },
+        {
+            "name": "LAILATUL AMELIA",
+            "nisn": "0086245089",
+            "grade_final": "87.20",
+            "sma": "SMA NEGERI KESAMBEN",
+            "registration_created_at": "2024-06-18 18:47:58"
+        },
+        {
+            "name": "ADELLIA DWI PRAMESTI",
+            "nisn": "0097492323",
+            "grade_final": "87.16",
+            "sma": "SMA NEGERI KESAMBEN",
+            "registration_created_at": "2024-06-19 10:01:12"
+        },
+        {
+            "name": "AULIA AZZAHRA ARFIKA DEWI",
+            "nisn": "3084403970",
+            "grade_final": "87.16",
+            "sma": "SMA NEGERI KESAMBEN",
+            "registration_created_at": "2024-06-18 14:12:10"
+        },
+        {
+            "name": "MELYA NIHAYATUL MAFAZA",
+            "nisn": "0098082860",
+            "grade_final": "87.15",
+            "sma": "SMA NEGERI KESAMBEN",
+            "registration_created_at": "2024-06-18 02:10:47"
+        },
+        {
+            "name": "FELITA AULIA ALZAHRA",
+            "nisn": "0093199306",
+            "grade_final": "87.14",
+            "sma": "SMA NEGERI KESAMBEN",
+            "registration_created_at": "2024-06-18 00:18:49"
+        },
+        {
+            "name": "RAIHAN BUNI OKTAVIAN RAHARJO",
+            "nisn": "0089630687",
+            "grade_final": "87.14",
+            "sma": "SMA NEGERI KESAMBEN",
+            "registration_created_at": "2024-06-18 05:51:53"
+        },
+        {
+            "name": "ELFINA NUR LAILY MAULIDAH",
+            "nisn": "0091420428",
+            "grade_final": "87.13",
+            "sma": "SMA NEGERI KESAMBEN",
+            "registration_created_at": "2024-06-19 11:19:14"
+        },
+        {
+            "name": "AMIMAH DEWI NEVIA RAHAYU",
+            "nisn": "0081444591",
+            "grade_final": "87.06",
+            "sma": "SMA NEGERI KESAMBEN",
+            "registration_created_at": "2024-06-18 17:52:20"
+        },
+        {
+            "name": "NAURA FAIDATUN NISMA",
+            "nisn": "0083081657",
+            "grade_final": "87.06",
+            "sma": "SMA NEGERI KESAMBEN",
+            "registration_created_at": "2024-06-18 20:28:13"
+        },
+        {
+            "name": "EVELYN MAUDI AZZAHRA",
+            "nisn": "0091015601",
+            "grade_final": "87.04",
+            "sma": "SMA NEGERI KESAMBEN",
+            "registration_created_at": "2024-06-19 09:34:53"
+        },
+        {
+            "name": "SITI NUR JANNAH",
+            "nisn": "0098602181",
+            "grade_final": "87.04",
+            "sma": "SMA NEGERI KESAMBEN",
+            "registration_created_at": "2024-06-18 17:12:51"
+        },
+        {
+            "name": "ANDINI DWI LESTARI",
+            "nisn": "0081997571",
+            "grade_final": "87.04",
+            "sma": "SMA NEGERI KESAMBEN",
+            "registration_created_at": "2024-06-18 19:01:50"
+        },
+        {
+            "name": "ANINDIA RAISYAH PUTRI",
+            "nisn": "0098016168",
+            "grade_final": "86.99",
+            "sma": "SMA NEGERI KESAMBEN",
+            "registration_created_at": "2024-06-19 12:04:46"
+        },
+        {
+            "name": "SULTON AFFANDI HIDAYAH NURROCHMAN",
+            "nisn": "0087289231",
+            "grade_final": "86.98",
+            "sma": "SMA NEGERI KESAMBEN",
+            "registration_created_at": "2024-06-19 08:18:00"
+        },
+        {
+            "name": "KARINA ROHMATUL AZIZAH",
+            "nisn": "3090541615",
+            "grade_final": "86.98",
+            "sma": "SMA NEGERI KESAMBEN",
+            "registration_created_at": "2024-06-18 04:39:27"
+        },
+        {
+            "name": "SALSABIL QURROTU AINI",
+            "nisn": "0094587140",
+            "grade_final": "86.98",
+            "sma": "SMA NEGERI KESAMBEN",
+            "registration_created_at": "2024-06-18 05:18:40"
+        },
+        {
+            "name": "SINTIA BELLA PUSPITA",
+            "nisn": "0099365273",
+            "grade_final": "86.97",
+            "sma": "SMA NEGERI KESAMBEN",
+            "registration_created_at": "2024-06-19 16:23:34"
+        },
+        {
+            "name": "DYANISA NUR ROSYDA",
+            "nisn": "0082319498",
+            "grade_final": "86.93",
+            "sma": "SMA NEGERI KESAMBEN",
+            "registration_created_at": "2024-06-18 05:22:52"
+        },
+        {
+            "name": "Moh Iqbal Az Zamani",
+            "nisn": "0088875018",
+            "grade_final": "86.92",
+            "sma": "SMA NEGERI KESAMBEN",
+            "registration_created_at": "2024-06-18 00:04:40"
+        }
+    ]
+}

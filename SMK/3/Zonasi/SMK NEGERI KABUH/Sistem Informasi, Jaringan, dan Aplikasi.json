@@ -1,0 +1,98 @@
+[
+    {
+        "name": "AISYAH RAMADITA PUTRI",
+        "nisn": "0083760319",
+        "distance": "647",
+        "registration_created_at": "2024-06-23 10:11:18",
+        "smk": {
+            "name": "SMK NEGERI KABUH",
+            "major": {
+                "name": "Sistem Informasi, Jaringan, dan Aplikasi"
+            }
+        }
+    },
+    {
+        "name": "EVA SILYA PEBRIANA PUTRI",
+        "nisn": "0094904688",
+        "distance": "1011",
+        "registration_created_at": "2024-06-22 00:34:56",
+        "smk": {
+            "name": "SMK NEGERI KABUH",
+            "major": {
+                "name": "Sistem Informasi, Jaringan, dan Aplikasi"
+            }
+        }
+    },
+    {
+        "name": "NAILI ITQIYANA J SYA MINHATUL MAWLA",
+        "nisn": "0097277356",
+        "distance": "1027",
+        "registration_created_at": "2024-06-22 06:29:40",
+        "smk": {
+            "name": "SMK NEGERI KABUH",
+            "major": {
+                "name": "Sistem Informasi, Jaringan, dan Aplikasi"
+            }
+        }
+    },
+    {
+        "name": "Aulia Martha Alifa",
+        "nisn": "0091953064",
+        "distance": "1324",
+        "registration_created_at": "2024-06-22 02:04:22",
+        "smk": {
+            "name": "SMK NEGERI KABUH",
+            "major": {
+                "name": "Sistem Informasi, Jaringan, dan Aplikasi"
+            }
+        }
+    },
+    {
+        "name": "Andini Dwi Rahmawati",
+        "nisn": "0098778400",
+        "distance": "1326",
+        "registration_created_at": "2024-06-22 00:04:04",
+        "smk": {
+            "name": "SMK NEGERI KABUH",
+            "major": {
+                "name": "Sistem Informasi, Jaringan, dan Aplikasi"
+            }
+        }
+    },
+    {
+        "name": "FADHLULLOH ALFAN ALHALQI",
+        "nisn": "0095076239",
+        "distance": "1366",
+        "registration_created_at": "2024-06-22 11:30:00",
+        "smk": {
+            "name": "SMK NEGERI KABUH",
+            "major": {
+                "name": "Sistem Informasi, Jaringan, dan Aplikasi"
+            }
+        }
+    },
+    {
+        "name": "DAFFA ACHMAD HAFIZH",
+        "nisn": "0082064919",
+        "distance": "1464",
+        "registration_created_at": "2024-06-22 00:03:15",
+        "smk": {
+            "name": "SMK NEGERI KABUH",
+            "major": {
+                "name": "Sistem Informasi, Jaringan, dan Aplikasi"
+            }
+        }
+    },
+    {
+        "name": "ZALZABILLAH ROSI CHRISTYA PUTRI",
+        "nisn": "0097168657",
+        "distance": "1474",
+        "registration_created_at": "2024-06-22 03:33:55",
+        "smk": {
+            "name": "SMK NEGERI KABUH",
+            "major": {
+                "name": "Sistem Informasi, Jaringan, dan Aplikasi"
+            }
+        }
+    }
+]

@@ -1,0 +1,307 @@
+{
+    "code": 200,
+    "status": "OK",
+    "meta": {
+        "total": 42,
+        "last_page": 1,
+        "from": 1,
+        "to": 1,
+        "last_update": "2024-06-19 21:07:23"
+    },
+    "data": [
+        {
+            "name": "KHOIRUNNISA NIMATUR ROHMA",
+            "nisn": "0083209467",
+            "grade_final": "88.12",
+            "sma": "SMA NEGERI PLANDAAN",
+            "registration_created_at": "2024-06-18 09:55:57"
+        },
+        {
+            "name": "KANZA NAURA PUTRI IRAWAN",
+            "nisn": "0093026136",
+            "grade_final": "87.59",
+            "sma": "SMA NEGERI PLANDAAN",
+            "registration_created_at": "2024-06-18 18:07:30"
+        },
+        {
+            "name": "DEWI ROYYANI",
+            "nisn": "0086913586",
+            "grade_final": "87.57",
+            "sma": "SMA NEGERI PLANDAAN",
+            "registration_created_at": "2024-06-18 09:16:09"
+        },
+        {
+            "name": "ELLA RIZKI AMELIA",
+            "nisn": "0089144947",
+            "grade_final": "87.54",
+            "sma": "SMA NEGERI PLANDAAN",
+            "registration_created_at": "2024-06-18 05:26:07"
+        },
+        {
+            "name": "VIRA INTAN PARAWANSYA",
+            "nisn": "0082043218",
+            "grade_final": "87.53",
+            "sma": "SMA NEGERI PLANDAAN",
+            "registration_created_at": "2024-06-18 09:43:25"
+        },
+        {
+            "name": "IOLA ELVARETTA ABIDIN",
+            "nisn": "0084724898",
+            "grade_final": "87.51",
+            "sma": "SMA NEGERI PLANDAAN",
+            "registration_created_at": "2024-06-18 10:15:49"
+        },
+        {
+            "name": "NANINDY NOVI ADYNINGTYAS",
+            "nisn": "0084515046",
+            "grade_final": "87.36",
+            "sma": "SMA NEGERI PLANDAAN",
+            "registration_created_at": "2024-06-18 05:06:08"
+        },
+        {
+            "name": "Lalita Septian Ramadhani",
+            "nisn": "0082934944",
+            "grade_final": "87.30",
+            "sma": "SMA NEGERI PLANDAAN",
+            "registration_created_at": "2024-06-19 13:15:23"
+        },
+        {
+            "name": "Roqiib Kurniawan",
+            "nisn": "0082477201",
+            "grade_final": "87.21",
+            "sma": "SMA NEGERI PLANDAAN",
+            "registration_created_at": "2024-06-18 10:45:36"
+        },
+        {
+            "name": "NAJWA AGNES RAMADHANI",
+            "nisn": "0096039417",
+            "grade_final": "87.19",
+            "sma": "SMA NEGERI PLANDAAN",
+            "registration_created_at": "2024-06-18 21:38:37"
+        },
+        {
+            "name": "AISYAH LAILATUL FITRIA",
+            "nisn": "0087753321",
+            "grade_final": "87.06",
+            "sma": "SMA NEGERI PLANDAAN",
+            "registration_created_at": "2024-06-18 06:05:09"
+        },
+        {
+            "name": "Luna Dwi Permatasari",
+            "nisn": "0098718655",
+            "grade_final": "87.05",
+            "sma": "SMA NEGERI PLANDAAN",
+            "registration_created_at": "2024-06-18 07:50:18"
+        },
+        {
+            "name": "PUTRI CHOIRUNISA",
+            "nisn": "3080828968",
+            "grade_final": "87.02",
+            "sma": "SMA NEGERI PLANDAAN",
+            "registration_created_at": "2024-06-18 05:25:48"
+        },
+        {
+            "name": "MUHAMMAD FARHAN OCTAVIAN",
+            "nisn": "0082392013",
+            "grade_final": "86.99",
+            "sma": "SMA NEGERI PLANDAAN",
+            "registration_created_at": "2024-06-18 13:42:57"
+        },
+        {
+            "name": "ADAM FAIRUNIZAR",
+            "nisn": "0095878383",
+            "grade_final": "86.85",
+            "sma": "SMA NEGERI PLANDAAN",
+            "registration_created_at": "2024-06-18 07:21:29"
+        },
+        {
+            "name": "AURA AZZAHRA AROFAH",
+            "nisn": "0085283369",
+            "grade_final": "86.85",
+            "sma": "SMA NEGERI PLANDAAN",
+            "registration_created_at": "2024-06-19 09:59:36"
+        },
+        {
+            "name": "RIMA DWI PRADANA",
+            "nisn": "0083783750",
+            "grade_final": "86.78",
+            "sma": "SMA NEGERI PLANDAAN",
+            "registration_created_at": "2024-06-18 11:16:03"
+        },
+        {
+            "name": "MUHAMMAD ALFIAN RAFIF HERYONO",
+            "nisn": "0086407218",
+            "grade_final": "86.73",
+            "sma": "SMA NEGERI PLANDAAN",
+            "registration_created_at": "2024-06-19 17:11:56"
+        },
+        {
+            "name": "INERBY SAKAVIRA ADYSTI",
+            "nisn": "0081587549",
+            "grade_final": "86.73",
+            "sma": "SMA NEGERI PLANDAAN",
+            "registration_created_at": "2024-06-18 09:47:13"
+        },
+        {
+            "name": "FARIZ AL FARIZI AHMAD",
+            "nisn": "3097456224",
+            "grade_final": "86.72",
+            "sma": "SMA NEGERI PLANDAAN",
+            "registration_created_at": "2024-06-19 10:31:07"
+        },
+        {
+            "name": "LAUDYA VIANTIKA ROSA",
+            "nisn": "0087689164",
+            "grade_final": "86.71",
+            "sma": "SMA NEGERI PLANDAAN",
+            "registration_created_at": "2024-06-18 08:31:22"
+        },
+        {
+            "name": "RATIH NINDYA KIRANA",
+            "nisn": "0087184059",
+            "grade_final": "86.68",
+            "sma": "SMA NEGERI PLANDAAN",
+            "registration_created_at": "2024-06-18 06:14:56"
+        },
+        {
+            "name": "ANUGERAH TIARA DORISHA",
+            "nisn": "0091732833",
+            "grade_final": "86.67",
+            "sma": "SMA NEGERI PLANDAAN",
+            "registration_created_at": "2024-06-18 15:32:21"
+        },
+        {
+            "name": "MOZA KEILLA PUAN MAHARANI",
+            "nisn": "0084841893",
+            "grade_final": "86.65",
+            "sma": "SMA NEGERI PLANDAAN",
+            "registration_created_at": "2024-06-18 05:24:27"
+        },
+        {
+            "name": "SATRIO PUTRA AGUNG",
+            "nisn": "0099960415",
+            "grade_final": "86.62",
+            "sma": "SMA NEGERI PLANDAAN",
+            "registration_created_at": "2024-06-19 09:01:21"
+        },
+        {
+            "name": "SUCI NUR RAMADHANI",
+            "nisn": "0086041281",
+            "grade_final": "86.61",
+            "sma": "SMA NEGERI PLANDAAN",
+            "registration_created_at": "2024-06-18 03:21:25"
+        },
+        {
+            "name": "NOVA HERVINA",
+            "nisn": "0081387337",
+            "grade_final": "86.60",
+            "sma": "SMA NEGERI PLANDAAN",
+            "registration_created_at": "2024-06-18 11:04:18"
+        },
+        {
+            "name": "ANGELIA TRI RETNO WULAN",
+            "nisn": "0093602866",
+            "grade_final": "86.59",
+            "sma": "SMA NEGERI PLANDAAN",
+            "registration_created_at": "2024-06-18 18:56:40"
+        },
+        {
+            "name": "RARA ADE RAHMA",
+            "nisn": "0086325702",
+            "grade_final": "86.55",
+            "sma": "SMA NEGERI PLANDAAN",
+            "registration_created_at": "2024-06-18 17:51:32"
+        },
+        {
+            "name": "REYVAN EKA ARDIANSYA",
+            "nisn": "3084265429",
+            "grade_final": "86.52",
+            "sma": "SMA NEGERI PLANDAAN",
+            "registration_created_at": "2024-06-19 09:30:07"
+        },
+        {
+            "name": "VANESA EKA PRAPDISTIYA",
+            "nisn": "0098872705",
+            "grade_final": "86.51",
+            "sma": "SMA NEGERI PLANDAAN",
+            "registration_created_at": "2024-06-18 10:08:06"
+        },
+        {
+            "name": "AMIRAH NAURAH QURRATUAIN",
+            "nisn": "0084200322",
+            "grade_final": "86.50",
+            "sma": "SMA NEGERI PLANDAAN",
+            "registration_created_at": "2024-06-18 07:07:48"
+        },
+        {
+            "name": "NUR FADHILAH AGUSTINA",
+            "nisn": "0087237053",
+            "grade_final": "86.46",
+            "sma": "SMA NEGERI PLANDAAN",
+            "registration_created_at": "2024-06-18 00:33:20"
+        },
+        {
+            "name": "AHMAD REVANDISTA FIRSTANANDA",
+            "nisn": "0081722107",
+            "grade_final": "86.46",
+            "sma": "SMA NEGERI PLANDAAN",
+            "registration_created_at": "2024-06-18 05:06:31"
+        },
+        {
+            "name": "CINDY ARSHEYLA",
+            "nisn": "0085666594",
+            "grade_final": "86.45",
+            "sma": "SMA NEGERI PLANDAAN",
+            "registration_created_at": "2024-06-18 06:07:41"
+        },
+        {
+            "name": "INTAN DWI YUNIATI",
+            "nisn": "0089328379",
+            "grade_final": "86.44",
+            "sma": "SMA NEGERI PLANDAAN",
+            "registration_created_at": "2024-06-18 00:10:03"
+        },
+        {
+            "name": "VALENSIA FEBRIANI PUTRI",
+            "nisn": "3092099510",
+            "grade_final": "86.44",
+            "sma": "SMA NEGERI PLANDAAN",
+            "registration_created_at": "2024-06-19 20:31:53"
+        },
+        {
+            "name": "DHINDA FEBRI YANTI",
+            "nisn": "0094025534",
+            "grade_final": "86.43",
+            "sma": "SMA NEGERI PLANDAAN",
+            "registration_created_at": "2024-06-18 06:29:47"
+        },
+        {
+            "name": "CYNTIA GALUH RACHMAWATI",
+            "nisn": "0086423539",
+            "grade_final": "86.40",
+            "sma": "SMA NEGERI PLANDAAN",
+            "registration_created_at": "2024-06-18 08:30:05"
+        },
+        {
+            "name": "CINDY FEBRI ARISTANTI",
+            "nisn": "0094068702",
+            "grade_final": "86.40",
+            "sma": "SMA NEGERI PLANDAAN",
+            "registration_created_at": "2024-06-18 00:38:08"
+        },
+        {
+            "name": "FATYA RAMADHANI",
+            "nisn": "3086863749",
+            "grade_final": "86.39",
+            "sma": "SMA NEGERI PLANDAAN",
+            "registration_created_at": "2024-06-18 00:30:18"
+        },
+        {
+            "name": "MOHAMAD AYUB SAPUTRA",
+            "nisn": "0085976043",
+            "grade_final": "86.38",
+            "sma": "SMA NEGERI PLANDAAN",
+            "registration_created_at": "2024-06-18 05:10:17"
+        }
+    ]
+}

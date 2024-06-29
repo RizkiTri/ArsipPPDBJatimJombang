@@ -1,0 +1,170 @@
+[
+    {
+        "name": "JESSICA VALERINA PUTRI",
+        "nisn": "3094066404",
+        "distance": "145",
+        "registration_created_at": "2024-06-22 07:46:38",
+        "smk": {
+            "name": "SMK NEGERI GUDO",
+            "major": {
+                "name": "Teknik Komputer dan Jaringan"
+            }
+        }
+    },
+    {
+        "name": "RULLY LESTARI ANGGRAINI",
+        "nisn": "3080324240",
+        "distance": "405",
+        "registration_created_at": "2024-06-22 09:31:02",
+        "smk": {
+            "name": "SMK NEGERI GUDO",
+            "major": {
+                "name": "Teknik Komputer dan Jaringan"
+            }
+        }
+    },
+    {
+        "name": "MOCHAMMAD ARIFIN",
+        "nisn": "0088338878",
+        "distance": "671",
+        "registration_created_at": "2024-06-22 07:57:13",
+        "smk": {
+            "name": "SMK NEGERI GUDO",
+            "major": {
+                "name": "Teknik Komputer dan Jaringan"
+            }
+        }
+    },
+    {
+        "name": "LUTFIANTO",
+        "nisn": "0085443171",
+        "distance": "716",
+        "registration_created_at": "2024-06-22 08:44:20",
+        "smk": {
+            "name": "SMK NEGERI GUDO",
+            "major": {
+                "name": "Teknik Komputer dan Jaringan"
+            }
+        }
+    },
+    {
+        "name": "HANI COASTARINA OKTAVILANI",
+        "nisn": "0084259992",
+        "distance": "718",
+        "registration_created_at": "2024-06-22 00:10:45",
+        "smk": {
+            "name": "SMK NEGERI GUDO",
+            "major": {
+                "name": "Teknik Komputer dan Jaringan"
+            }
+        }
+    },
+    {
+        "name": "MICHAEL IMMANUEL STEVANUS ANDERSON",
+        "nisn": "0082692152",
+        "distance": "744",
+        "registration_created_at": "2024-06-22 00:10:48",
+        "smk": {
+            "name": "SMK NEGERI GUDO",
+            "major": {
+                "name": "Teknik Komputer dan Jaringan"
+            }
+        }
+    },
+    {
+        "name": "ARGA WAHYU PRASETYA",
+        "nisn": "0086781815",
+        "distance": "752",
+        "registration_created_at": "2024-06-22 07:33:07",
+        "smk": {
+            "name": "SMK NEGERI GUDO",
+            "major": {
+                "name": "Teknik Komputer dan Jaringan"
+            }
+        }
+    },
+    {
+        "name": "FEREN APRILIANI",
+        "nisn": "0099583159",
+        "distance": "995",
+        "registration_created_at": "2024-06-22 08:28:54",
+        "smk": {
+            "name": "SMK NEGERI GUDO",
+            "major": {
+                "name": "Teknik Komputer dan Jaringan"
+            }
+        }
+    },
+    {
+        "name": "YENNY FAHRIZA",
+        "nisn": "0045888631",
+        "distance": "1019",
+        "registration_created_at": "2024-06-22 06:03:58",
+        "smk": {
+            "name": "SMK NEGERI GUDO",
+            "major": {
+                "name": "Teknik Komputer dan Jaringan"
+            }
+        }
+    },
+    {
+        "name": "RAYHAN ANDHIKA BAGASKARA",
+        "nisn": "0096375101",
+        "distance": "1021",
+        "registration_created_at": "2024-06-22 00:10:32",
+        "smk": {
+            "name": "SMK NEGERI GUDO",
+            "major": {
+                "name": "Teknik Komputer dan Jaringan"
+            }
+        }
+    },
+    {
+        "name": "CELLYA AZALEYA HARDIANANDA",
+        "nisn": "0093925193",
+        "distance": "1022",
+        "registration_created_at": "2024-06-22 08:33:03",
+        "smk": {
+            "name": "SMK NEGERI GUDO",
+            "major": {
+                "name": "Teknik Komputer dan Jaringan"
+            }
+        }
+    },
+    {
+        "name": "MEYTA IKA FERONITA",
+        "nisn": "0087874536",
+        "distance": "1032",
+        "registration_created_at": "2024-06-22 09:11:43",
+        "smk": {
+            "name": "SMK NEGERI GUDO",
+            "major": {
+                "name": "Teknik Komputer dan Jaringan"
+            }
+        }
+    },
+    {
+        "name": "MUHAMMAD RAFIF APRIANTO",
+        "nisn": "0094690458",
+        "distance": "1060",
+        "registration_created_at": "2024-06-22 06:55:19",
+        "smk": {
+            "name": "SMK NEGERI GUDO",
+            "major": {
+                "name": "Teknik Komputer dan Jaringan"
+            }
+        }
+    },
+    {
+        "name": "AHMAD SATRIO HAKIM ARRASYID",
+        "nisn": "0073853554",
+        "distance": "1214",
+        "registration_created_at": "2024-06-22 13:42:15",
+        "smk": {
+            "name": "SMK NEGERI GUDO",
+            "major": {
+                "name": "Teknik Komputer dan Jaringan"
+            }
+        }
+    }
+]

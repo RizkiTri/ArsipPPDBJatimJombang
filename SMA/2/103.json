@@ -1,0 +1,433 @@
+{
+    "code": 200,
+    "status": "OK",
+    "meta": {
+        "total": 60,
+        "last_page": 1,
+        "from": 1,
+        "to": 1,
+        "last_update": "2024-06-19 21:07:23"
+    },
+    "data": [
+        {
+            "name": "AMELIA AHLUL AVRIANTI",
+            "nisn": "0093911381",
+            "grade_final": "88.83",
+            "sma": "SMA NEGERI PLOSO",
+            "registration_created_at": "2024-06-18 05:33:06"
+        },
+        {
+            "name": "Utari Noerma Sari",
+            "nisn": "0098514894",
+            "grade_final": "88.69",
+            "sma": "SMA NEGERI PLOSO",
+            "registration_created_at": "2024-06-18 09:43:10"
+        },
+        {
+            "name": "DEAS KHOIRIL LAILI NUR",
+            "nisn": "0082446093",
+            "grade_final": "88.68",
+            "sma": "SMA NEGERI PLOSO",
+            "registration_created_at": "2024-06-19 16:25:36"
+        },
+        {
+            "name": "ANGGI ALYASAFIKA RAHMA ANDRIANA",
+            "nisn": "3098442275",
+            "grade_final": "88.63",
+            "sma": "SMA NEGERI PLOSO",
+            "registration_created_at": "2024-06-18 10:08:01"
+        },
+        {
+            "name": "ABIGIL AISYAH RAMADHANI",
+            "nisn": "0084527020",
+            "grade_final": "88.62",
+            "sma": "SMA NEGERI PLOSO",
+            "registration_created_at": "2024-06-18 00:21:03"
+        },
+        {
+            "name": "ALICIA RIFAH AMALIA",
+            "nisn": "0089834628",
+            "grade_final": "88.45",
+            "sma": "SMA NEGERI PLOSO",
+            "registration_created_at": "2024-06-18 06:02:12"
+        },
+        {
+            "name": "IVAN AFRIL ARDIANSYAH",
+            "nisn": "0085718988",
+            "grade_final": "88.39",
+            "sma": "SMA NEGERI PLOSO",
+            "registration_created_at": "2024-06-18 09:03:17"
+        },
+        {
+            "name": "ELMIRA SALSABILLA",
+            "nisn": "0087635606",
+            "grade_final": "88.38",
+            "sma": "SMA NEGERI PLOSO",
+            "registration_created_at": "2024-06-18 10:37:30"
+        },
+        {
+            "name": "SILFIA ROHMAH",
+            "nisn": "0084345443",
+            "grade_final": "88.37",
+            "sma": "SMA NEGERI PLOSO",
+            "registration_created_at": "2024-06-18 12:13:35"
+        },
+        {
+            "name": "Aulia Ersa Meilani",
+            "nisn": "0089541620",
+            "grade_final": "88.36",
+            "sma": "SMA NEGERI PLOSO",
+            "registration_created_at": "2024-06-18 10:37:59"
+        },
+        {
+            "name": "MAY KHAYYINATUSSIFAH",
+            "nisn": "0089693547",
+            "grade_final": "88.32",
+            "sma": "SMA NEGERI PLOSO",
+            "registration_created_at": "2024-06-18 07:44:08"
+        },
+        {
+            "name": "SYAFIUL UMMAH",
+            "nisn": "0099260045",
+            "grade_final": "88.31",
+            "sma": "SMA NEGERI PLOSO",
+            "registration_created_at": "2024-06-18 04:50:37"
+        },
+        {
+            "name": "LOIS YUNITA TRINITASARI",
+            "nisn": "0081512317",
+            "grade_final": "88.27",
+            "sma": "SMA NEGERI PLOSO",
+            "registration_created_at": "2024-06-18 00:02:43"
+        },
+        {
+            "name": "MARWAH RIFKIANI ZULFA",
+            "nisn": "3088756608",
+            "grade_final": "88.27",
+            "sma": "SMA NEGERI PLOSO",
+            "registration_created_at": "2024-06-18 10:14:30"
+        },
+        {
+            "name": "NAILA DAIVA SASMITA",
+            "nisn": "0097351760",
+            "grade_final": "88.25",
+            "sma": "SMA NEGERI PLOSO",
+            "registration_created_at": "2024-06-18 02:50:34"
+        },
+        {
+            "name": "RINI DWI ARIYANTI",
+            "nisn": "0094696633",
+            "grade_final": "88.20",
+            "sma": "SMA NEGERI PLOSO",
+            "registration_created_at": "2024-06-18 10:55:33"
+        },
+        {
+            "name": "NIA NUR AINI",
+            "nisn": "0087729927",
+            "grade_final": "88.16",
+            "sma": "SMA NEGERI PLOSO",
+            "registration_created_at": "2024-06-18 07:43:43"
+        },
+        {
+            "name": "EZA KIFALAH WIDYATOMO",
+            "nisn": "0093162468",
+            "grade_final": "88.14",
+            "sma": "SMA NEGERI PLOSO",
+            "registration_created_at": "2024-06-18 10:45:35"
+        },
+        {
+            "name": "EVALIA DWI BERLIANA PUTRI",
+            "nisn": "0096475583",
+            "grade_final": "88.12",
+            "sma": "SMA NEGERI PLOSO",
+            "registration_created_at": "2024-06-19 05:07:10"
+        },
+        {
+            "name": "QORY FARMAIDZAH",
+            "nisn": "0081417698",
+            "grade_final": "88.10",
+            "sma": "SMA NEGERI PLOSO",
+            "registration_created_at": "2024-06-18 10:37:45"
+        },
+        {
+            "name": "ANNISA RACHMANIAR",
+            "nisn": "0093421813",
+            "grade_final": "88.09",
+            "sma": "SMA NEGERI PLOSO",
+            "registration_created_at": "2024-06-18 13:45:26"
+        },
+        {
+            "name": "TANTY EKA WULANDARI",
+            "nisn": "0087547516",
+            "grade_final": "88.08",
+            "sma": "SMA NEGERI PLOSO",
+            "registration_created_at": "2024-06-18 15:43:33"
+        },
+        {
+            "name": "ADELLIA PUTRI CAHYANTI",
+            "nisn": "0094564285",
+            "grade_final": "88.07",
+            "sma": "SMA NEGERI PLOSO",
+            "registration_created_at": "2024-06-18 12:25:37"
+        },
+        {
+            "name": "Ahmad Fuad Afandy",
+            "nisn": "0097136682",
+            "grade_final": "88.06",
+            "sma": "SMA NEGERI PLOSO",
+            "registration_created_at": "2024-06-18 00:32:09"
+        },
+        {
+            "name": "MAY ROSA WIDIANA",
+            "nisn": "0096834449",
+            "grade_final": "88.03",
+            "sma": "SMA NEGERI PLOSO",
+            "registration_created_at": "2024-06-18 08:01:45"
+        },
+        {
+            "name": "FAUZIYAH PUTRI ARIANI",
+            "nisn": "0083773162",
+            "grade_final": "88.03",
+            "sma": "SMA NEGERI PLOSO",
+            "registration_created_at": "2024-06-18 09:30:23"
+        },
+        {
+            "name": "NIMAS PERWITA AYU",
+            "nisn": "0082775606",
+            "grade_final": "88.00",
+            "sma": "SMA NEGERI PLOSO",
+            "registration_created_at": "2024-06-18 07:37:42"
+        },
+        {
+            "name": "Dhini Febriyawati",
+            "nisn": "0093361426",
+            "grade_final": "87.98",
+            "sma": "SMA NEGERI PLOSO",
+            "registration_created_at": "2024-06-18 12:59:27"
+        },
+        {
+            "name": "TITIS AULYA SYAHFITRI",
+            "nisn": "0087329581",
+            "grade_final": "87.98",
+            "sma": "SMA NEGERI PLOSO",
+            "registration_created_at": "2024-06-18 05:24:24"
+        },
+        {
+            "name": "Niko Dwi Nova Setyawan",
+            "nisn": "0084805337",
+            "grade_final": "87.98",
+            "sma": "SMA NEGERI PLOSO",
+            "registration_created_at": "2024-06-18 09:15:42"
+        },
+        {
+            "name": "ALIEF SHELLA SYABANIA",
+            "nisn": "0094002469",
+            "grade_final": "87.97",
+            "sma": "SMA NEGERI PLOSO",
+            "registration_created_at": "2024-06-18 18:56:56"
+        },
+        {
+            "name": "Rianisyah Putri Cahyani",
+            "nisn": "0084130225",
+            "grade_final": "87.97",
+            "sma": "SMA NEGERI PLOSO",
+            "registration_created_at": "2024-06-18 11:41:50"
+        },
+        {
+            "name": "MARSYA SUGMA RAMADHANI",
+            "nisn": "0083593912",
+            "grade_final": "87.95",
+            "sma": "SMA NEGERI PLOSO",
+            "registration_created_at": "2024-06-18 06:32:55"
+        },
+        {
+            "name": "MUZAKKI NIZAR ALIM",
+            "nisn": "0088023370",
+            "grade_final": "87.94",
+            "sma": "SMA NEGERI PLOSO",
+            "registration_created_at": "2024-06-18 03:20:45"
+        },
+        {
+            "name": "IKRAM SHOLLAHUDIN",
+            "nisn": "0091985296",
+            "grade_final": "87.93",
+            "sma": "SMA NEGERI PLOSO",
+            "registration_created_at": "2024-06-18 04:55:50"
+        },
+        {
+            "name": "ANDIN PUTRI WIRAWAN",
+            "nisn": "0086279396",
+            "grade_final": "87.87",
+            "sma": "SMA NEGERI PLOSO",
+            "registration_created_at": "2024-06-18 08:18:26"
+        },
+        {
+            "name": "KEVIN ARYA RAHADITYA",
+            "nisn": "0085135895",
+            "grade_final": "87.86",
+            "sma": "SMA NEGERI PLOSO",
+            "registration_created_at": "2024-06-18 05:18:26"
+        },
+        {
+            "name": "MUHAMMAD REVIANDI ZULQIFLI",
+            "nisn": "0088280597",
+            "grade_final": "87.85",
+            "sma": "SMA NEGERI PLOSO",
+            "registration_created_at": "2024-06-18 10:20:49"
+        },
+        {
+            "name": "MUHAMMAD RASSYA ABDULLAH IRSYAD",
+            "nisn": "0091230396",
+            "grade_final": "87.85",
+            "sma": "SMA NEGERI PLOSO",
+            "registration_created_at": "2024-06-18 08:11:56"
+        },
+        {
+            "name": "MAHESA STEFANY ELFIANSYAH",
+            "nisn": "0088074520",
+            "grade_final": "87.83",
+            "sma": "SMA NEGERI PLOSO",
+            "registration_created_at": "2024-06-18 18:13:05"
+        },
+        {
+            "name": "RIZKI DARMAWAN PUTRA",
+            "nisn": "0084674835",
+            "grade_final": "87.81",
+            "sma": "SMA NEGERI PLOSO",
+            "registration_created_at": "2024-06-18 20:54:38"
+        },
+        {
+            "name": "NABILA AS SYIFA",
+            "nisn": "0091380330",
+            "grade_final": "87.79",
+            "sma": "SMA NEGERI PLOSO",
+            "registration_created_at": "2024-06-18 09:05:11"
+        },
+        {
+            "name": "PUSPITA MEGA LESTARI",
+            "nisn": "0088702834",
+            "grade_final": "87.79",
+            "sma": "SMA NEGERI PLOSO",
+            "registration_created_at": "2024-06-19 13:30:58"
+        },
+        {
+            "name": "KELVIN DWI NOVIANTO",
+            "nisn": "0081882441",
+            "grade_final": "87.78",
+            "sma": "SMA NEGERI PLOSO",
+            "registration_created_at": "2024-06-18 11:26:16"
+        },
+        {
+            "name": "PRADNYA PARAMITHA",
+            "nisn": "0097745953",
+            "grade_final": "87.78",
+            "sma": "SMA NEGERI PLOSO",
+            "registration_created_at": "2024-06-19 05:33:13"
+        },
+        {
+            "name": "JAHIRA NIBRAS RABBANI AGUSTIN",
+            "nisn": "0083634221",
+            "grade_final": "87.76",
+            "sma": "SMA NEGERI PLOSO",
+            "registration_created_at": "2024-06-18 00:12:17"
+        },
+        {
+            "name": "IMELDA OKTA ANABILLAH",
+            "nisn": "0084919970",
+            "grade_final": "87.75",
+            "sma": "SMA NEGERI PLOSO",
+            "registration_created_at": "2024-06-18 00:04:01"
+        },
+        {
+            "name": "MUTIARA NUR AINI",
+            "nisn": "0093765849",
+            "grade_final": "87.74",
+            "sma": "SMA NEGERI PLOSO",
+            "registration_created_at": "2024-06-19 18:02:45"
+        },
+        {
+            "name": "ILHAMI LAILATUL QHODARISMA",
+            "nisn": "0086305012",
+            "grade_final": "87.73",
+            "sma": "SMA NEGERI PLOSO",
+            "registration_created_at": "2024-06-18 06:23:31"
+        },
+        {
+            "name": "GIESKHA DWI RAMADHANI",
+            "nisn": "0082327320",
+            "grade_final": "87.73",
+            "sma": "SMA NEGERI PLOSO",
+            "registration_created_at": "2024-06-19 11:36:27"
+        },
+        {
+            "name": "WILUJENG CANDRA KIRANA",
+            "nisn": "0092927810",
+            "grade_final": "87.67",
+            "sma": "SMA NEGERI PLOSO",
+            "registration_created_at": "2024-06-18 19:09:04"
+        },
+        {
+            "name": "NAFIKA RAHMA SARI",
+            "nisn": "0096758598",
+            "grade_final": "87.65",
+            "sma": "SMA NEGERI PLOSO",
+            "registration_created_at": "2024-06-19 06:39:39"
+        },
+        {
+            "name": "TITIS PURWINTASARI",
+            "nisn": "0087971091",
+            "grade_final": "87.64",
+            "sma": "SMA NEGERI PLOSO",
+            "registration_created_at": "2024-06-18 01:44:32"
+        },
+        {
+            "name": "ALIF MUKHLAS UBAIDILLAH",
+            "nisn": "3085536917",
+            "grade_final": "87.64",
+            "sma": "SMA NEGERI PLOSO",
+            "registration_created_at": "2024-06-18 00:03:40"
+        },
+        {
+            "name": "Ika Febria Rahmawati",
+            "nisn": "0091678229",
+            "grade_final": "87.63",
+            "sma": "SMA NEGERI PLOSO",
+            "registration_created_at": "2024-06-18 11:13:31"
+        },
+        {
+            "name": "Hesti Nurdian Sari",
+            "nisn": "0097452875",
+            "grade_final": "87.63",
+            "sma": "SMA NEGERI PLOSO",
+            "registration_created_at": "2024-06-18 05:22:03"
+        },
+        {
+            "name": "ADELIA FICKTA QURAINI",
+            "nisn": "0097869849",
+            "grade_final": "87.63",
+            "sma": "SMA NEGERI PLOSO",
+            "registration_created_at": "2024-06-19 08:26:01"
+        },
+        {
+            "name": "WINDA SETYA UTAMI",
+            "nisn": "0083758612",
+            "grade_final": "87.62",
+            "sma": "SMA NEGERI PLOSO",
+            "registration_created_at": "2024-06-18 04:59:08"
+        },
+        {
+            "name": "ANISA SELVI RAHMAWATI",
+            "nisn": "0091125479",
+            "grade_final": "87.59",
+            "sma": "SMA NEGERI PLOSO",
+            "registration_created_at": "2024-06-18 00:37:14"
+        },
+        {
+            "name": "NABILA RAMADHANI",
+            "nisn": "3084767419",
+            "grade_final": "87.59",
+            "sma": "SMA NEGERI PLOSO",
+            "registration_created_at": "2024-06-19 08:01:54"
+        }
+    ]
+}

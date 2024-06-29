@@ -1,0 +1,86 @@
+[
+    {
+        "name": "NUGROHO WISNU MUKTI",
+        "nisn": "3087255721",
+        "distance": "480",
+        "registration_created_at": "2024-06-22 12:48:11",
+        "smk": {
+            "name": "SMK NEGERI KUDU",
+            "major": {
+                "name": "Desain Pemodelan dan Informasi Bangunan"
+            }
+        }
+    },
+    {
+        "name": "KHOTIPBUL IMAM",
+        "nisn": "0093006483",
+        "distance": "520",
+        "registration_created_at": "2024-06-22 06:01:23",
+        "smk": {
+            "name": "SMK NEGERI KUDU",
+            "major": {
+                "name": "Desain Pemodelan dan Informasi Bangunan"
+            }
+        }
+    },
+    {
+        "name": "MUKHLISIN ALAHUDIN",
+        "nisn": "0099682685",
+        "distance": "581",
+        "registration_created_at": "2024-06-22 05:39:38",
+        "smk": {
+            "name": "SMK NEGERI KUDU",
+            "major": {
+                "name": "Desain Pemodelan dan Informasi Bangunan"
+            }
+        }
+    },
+    {
+        "name": "IZZAT MUTHI IQBAL",
+        "nisn": "0094010864",
+        "distance": "611",
+        "registration_created_at": "2024-06-22 17:20:33",
+        "smk": {
+            "name": "SMK NEGERI KUDU",
+            "major": {
+                "name": "Desain Pemodelan dan Informasi Bangunan"
+            }
+        }
+    },
+    {
+        "name": "FRISCA PUSPITA ANGGRAINI",
+        "nisn": "0092198277",
+        "distance": "621",
+        "registration_created_at": "2024-06-22 00:03:59",
+        "smk": {
+            "name": "SMK NEGERI KUDU",
+            "major": {
+                "name": "Desain Pemodelan dan Informasi Bangunan"
+            }
+        }
+    },
+    {
+        "name": "MOHAMMAD ABU JAFAR",
+        "nisn": "3084469771",
+        "distance": "764",
+        "registration_created_at": "2024-06-22 22:32:44",
+        "smk": {
+            "name": "SMK NEGERI KUDU",
+            "major": {
+                "name": "Desain Pemodelan dan Informasi Bangunan"
+            }
+        }
+    },
+    {
+        "name": "ARIZKY ADLY FIRMANSYAH",
+        "nisn": "0091719955",
+        "distance": "770",
+        "registration_created_at": "2024-06-22 06:55:32",
+        "smk": {
+            "name": "SMK NEGERI KUDU",
+            "major": {
+                "name": "Desain Pemodelan dan Informasi Bangunan"
+            }
+        }
+    }
+]

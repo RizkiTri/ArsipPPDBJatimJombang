@@ -1,0 +1,433 @@
+{
+    "code": 200,
+    "status": "OK",
+    "meta": {
+        "total": 60,
+        "last_page": 1,
+        "from": 1,
+        "to": 1,
+        "last_update": "2024-06-19 21:07:23"
+    },
+    "data": [
+        {
+            "name": "LIYA ZAFIRAH",
+            "nisn": "3090110244",
+            "grade_final": "89.95",
+            "sma": "SMA NEGERI NGORO",
+            "registration_created_at": "2024-06-19 12:44:50"
+        },
+        {
+            "name": "SALVIA NATHANIELA ORIANA",
+            "nisn": "0089531687",
+            "grade_final": "89.76",
+            "sma": "SMA NEGERI NGORO",
+            "registration_created_at": "2024-06-19 11:48:16"
+        },
+        {
+            "name": "ASHA INDAH TALITHA KASIH",
+            "nisn": "0099061023",
+            "grade_final": "89.60",
+            "sma": "SMA NEGERI NGORO",
+            "registration_created_at": "2024-06-19 06:54:09"
+        },
+        {
+            "name": "AULIA CINTAMI RAHMADHANI",
+            "nisn": "0086832233",
+            "grade_final": "89.30",
+            "sma": "SMA NEGERI NGORO",
+            "registration_created_at": "2024-06-18 22:55:21"
+        },
+        {
+            "name": "AZIZAH FAIROZA",
+            "nisn": "0084954146",
+            "grade_final": "89.22",
+            "sma": "SMA NEGERI NGORO",
+            "registration_created_at": "2024-06-18 21:57:26"
+        },
+        {
+            "name": "ANDILA SARI",
+            "nisn": "0086836464",
+            "grade_final": "89.13",
+            "sma": "SMA NEGERI NGORO",
+            "registration_created_at": "2024-06-18 05:41:53"
+        },
+        {
+            "name": "DINI AYU PUTRI",
+            "nisn": "0095439304",
+            "grade_final": "89.12",
+            "sma": "SMA NEGERI NGORO",
+            "registration_created_at": "2024-06-18 04:51:59"
+        },
+        {
+            "name": "NAUFAL FADHIIL DZAKWAN RIANDI",
+            "nisn": "0083666915",
+            "grade_final": "89.12",
+            "sma": "SMA NEGERI NGORO",
+            "registration_created_at": "2024-06-18 06:34:51"
+        },
+        {
+            "name": "RISKA AULIA RAHMA",
+            "nisn": "0092668534",
+            "grade_final": "89.11",
+            "sma": "SMA NEGERI NGORO",
+            "registration_created_at": "2024-06-18 09:22:29"
+        },
+        {
+            "name": "NAURA AGITHA ALANIS",
+            "nisn": "0086073092",
+            "grade_final": "89.05",
+            "sma": "SMA NEGERI NGORO",
+            "registration_created_at": "2024-06-18 05:39:54"
+        },
+        {
+            "name": "SATRIA YODATAMA",
+            "nisn": "0097880138",
+            "grade_final": "89.03",
+            "sma": "SMA NEGERI NGORO",
+            "registration_created_at": "2024-06-18 10:30:40"
+        },
+        {
+            "name": "DWI YUNITA SARI",
+            "nisn": "3081106126",
+            "grade_final": "88.95",
+            "sma": "SMA NEGERI NGORO",
+            "registration_created_at": "2024-06-18 05:45:29"
+        },
+        {
+            "name": "RISMAYANA ESTINING PUTRI",
+            "nisn": "0098952177",
+            "grade_final": "88.90",
+            "sma": "SMA NEGERI NGORO",
+            "registration_created_at": "2024-06-18 11:43:44"
+        },
+        {
+            "name": "NURJANAH FAVELA ASMAUL QHUSNA",
+            "nisn": "0095628475",
+            "grade_final": "88.87",
+            "sma": "SMA NEGERI NGORO",
+            "registration_created_at": "2024-06-19 07:03:39"
+        },
+        {
+            "name": "PUMA ANANTA LOLA SARI",
+            "nisn": "0084268370",
+            "grade_final": "88.80",
+            "sma": "SMA NEGERI NGORO",
+            "registration_created_at": "2024-06-18 07:05:59"
+        },
+        {
+            "name": "PRAYUDA BAGUS PRATAMA",
+            "nisn": "0084812030",
+            "grade_final": "88.76",
+            "sma": "SMA NEGERI NGORO",
+            "registration_created_at": "2024-06-19 07:38:26"
+        },
+        {
+            "name": "Avina Dwi Rahmadani",
+            "nisn": "0085335829",
+            "grade_final": "88.75",
+            "sma": "SMA NEGERI NGORO",
+            "registration_created_at": "2024-06-18 12:22:54"
+        },
+        {
+            "name": "NINIS ISNAWATI",
+            "nisn": "0082258312",
+            "grade_final": "88.69",
+            "sma": "SMA NEGERI NGORO",
+            "registration_created_at": "2024-06-18 07:09:06"
+        },
+        {
+            "name": "GHEA AGUSTINA SARWOTO",
+            "nisn": "0083434527",
+            "grade_final": "88.60",
+            "sma": "SMA NEGERI NGORO",
+            "registration_created_at": "2024-06-18 08:33:32"
+        },
+        {
+            "name": "BUNGA FITRIANA ISABELA",
+            "nisn": "0087947350",
+            "grade_final": "88.58",
+            "sma": "SMA NEGERI NGORO",
+            "registration_created_at": "2024-06-18 00:04:50"
+        },
+        {
+            "name": "REMA SYALOMITA",
+            "nisn": "0092944199",
+            "grade_final": "88.52",
+            "sma": "SMA NEGERI NGORO",
+            "registration_created_at": "2024-06-18 00:09:40"
+        },
+        {
+            "name": "SYIFA ADIANA KARISTA",
+            "nisn": "0082759072",
+            "grade_final": "88.48",
+            "sma": "SMA NEGERI NGORO",
+            "registration_created_at": "2024-06-18 12:40:35"
+        },
+        {
+            "name": "JUNIKO EKO WIDIANTORO",
+            "nisn": "0082968094",
+            "grade_final": "88.43",
+            "sma": "SMA NEGERI NGORO",
+            "registration_created_at": "2024-06-18 10:25:11"
+        },
+        {
+            "name": "RIZKY ADITYA",
+            "nisn": "0094222840",
+            "grade_final": "88.40",
+            "sma": "SMA NEGERI NGORO",
+            "registration_created_at": "2024-06-18 01:13:51"
+        },
+        {
+            "name": "ALIFI GENDHIS PURI RADISTI",
+            "nisn": "0096019714",
+            "grade_final": "88.39",
+            "sma": "SMA NEGERI NGORO",
+            "registration_created_at": "2024-06-18 05:49:18"
+        },
+        {
+            "name": "ANAYA MOZZA RAHMATILLAH",
+            "nisn": "3089596670",
+            "grade_final": "88.36",
+            "sma": "SMA NEGERI NGORO",
+            "registration_created_at": "2024-06-18 09:55:46"
+        },
+        {
+            "name": "AFIRA YUNITA FAYILLAH",
+            "nisn": "0085253968",
+            "grade_final": "88.30",
+            "sma": "SMA NEGERI NGORO",
+            "registration_created_at": "2024-06-18 12:28:48"
+        },
+        {
+            "name": "JESSICA ARDITA PUTRI SANTOSO",
+            "nisn": "0091975942",
+            "grade_final": "88.30",
+            "sma": "SMA NEGERI NGORO",
+            "registration_created_at": "2024-06-18 04:55:52"
+        },
+        {
+            "name": "MARTHASYA ESTUNARIMA MAHARANI",
+            "nisn": "0093015855",
+            "grade_final": "88.30",
+            "sma": "SMA NEGERI NGORO",
+            "registration_created_at": "2024-06-18 19:41:49"
+        },
+        {
+            "name": "ALVELYA PUTRI DAMAYANTI",
+            "nisn": "0091387585",
+            "grade_final": "88.28",
+            "sma": "SMA NEGERI NGORO",
+            "registration_created_at": "2024-06-18 07:48:48"
+        },
+        {
+            "name": "FARAH DILLA DWI ANANTA",
+            "nisn": "3087261488",
+            "grade_final": "88.23",
+            "sma": "SMA NEGERI NGORO",
+            "registration_created_at": "2024-06-18 11:08:42"
+        },
+        {
+            "name": "RAFLI SETIAWAN",
+            "nisn": "0099194201",
+            "grade_final": "88.19",
+            "sma": "SMA NEGERI NGORO",
+            "registration_created_at": "2024-06-19 07:53:54"
+        },
+        {
+            "name": "LIDYA OKTAVIA MAHARANI",
+            "nisn": "3080349015",
+            "grade_final": "88.18",
+            "sma": "SMA NEGERI NGORO",
+            "registration_created_at": "2024-06-18 07:00:40"
+        },
+        {
+            "name": "ARRIDLO MAULANA ABDULLOH",
+            "nisn": "0095043652",
+            "grade_final": "88.12",
+            "sma": "SMA NEGERI NGORO",
+            "registration_created_at": "2024-06-18 00:42:34"
+        },
+        {
+            "name": "DIAH KARTIKA SARI",
+            "nisn": "0097025546",
+            "grade_final": "88.06",
+            "sma": "SMA NEGERI NGORO",
+            "registration_created_at": "2024-06-18 06:08:21"
+        },
+        {
+            "name": "NASYA AN NAZWA",
+            "nisn": "0097809998",
+            "grade_final": "88.03",
+            "sma": "SMA NEGERI NGORO",
+            "registration_created_at": "2024-06-18 06:12:38"
+        },
+        {
+            "name": "GENDIS HASNAAMUFLIH",
+            "nisn": "3089877217",
+            "grade_final": "87.99",
+            "sma": "SMA NEGERI NGORO",
+            "registration_created_at": "2024-06-18 09:06:30"
+        },
+        {
+            "name": "Gendhis Ning Cahyani",
+            "nisn": "0088334400",
+            "grade_final": "87.95",
+            "sma": "SMA NEGERI NGORO",
+            "registration_created_at": "2024-06-18 09:51:29"
+        },
+        {
+            "name": "VIKA APRILIA ENDARTI",
+            "nisn": "0088571241",
+            "grade_final": "87.92",
+            "sma": "SMA NEGERI NGORO",
+            "registration_created_at": "2024-06-18 01:09:12"
+        },
+        {
+            "name": "ADN NAZARIN OSIN HAKIKI",
+            "nisn": "0087827896",
+            "grade_final": "87.88",
+            "sma": "SMA NEGERI NGORO",
+            "registration_created_at": "2024-06-18 06:41:47"
+        },
+        {
+            "name": "ALFARETA ROSE MARIE",
+            "nisn": "0086148894",
+            "grade_final": "87.88",
+            "sma": "SMA NEGERI NGORO",
+            "registration_created_at": "2024-06-19 12:31:16"
+        },
+        {
+            "name": "SYAHIRA VIRNALIA ARZETI",
+            "nisn": "0099866599",
+            "grade_final": "87.79",
+            "sma": "SMA NEGERI NGORO",
+            "registration_created_at": "2024-06-18 09:40:46"
+        },
+        {
+            "name": "NAYLA AQUINNA NUR HAKIM",
+            "nisn": "0094529023",
+            "grade_final": "87.76",
+            "sma": "SMA NEGERI NGORO",
+            "registration_created_at": "2024-06-18 13:40:33"
+        },
+        {
+            "name": "DHIKA HERLAMBANG ADI KUMORO",
+            "nisn": "0087089354",
+            "grade_final": "87.76",
+            "sma": "SMA NEGERI NGORO",
+            "registration_created_at": "2024-06-18 08:15:51"
+        },
+        {
+            "name": "Arga Kusuma Raxza Satria Mandala Yudha",
+            "nisn": "0093680839",
+            "grade_final": "87.72",
+            "sma": "SMA NEGERI NGORO",
+            "registration_created_at": "2024-06-18 00:09:02"
+        },
+        {
+            "name": "ROESE SEVIKA SARI",
+            "nisn": "0084261161",
+            "grade_final": "87.71",
+            "sma": "SMA NEGERI NGORO",
+            "registration_created_at": "2024-06-18 00:46:39"
+        },
+        {
+            "name": "NATHANIA OCTA MAZAYA",
+            "nisn": "0088424447",
+            "grade_final": "87.69",
+            "sma": "SMA NEGERI NGORO",
+            "registration_created_at": "2024-06-18 13:13:48"
+        },
+        {
+            "name": "NEISHA YOFANIA ARUNITA",
+            "nisn": "3096251189",
+            "grade_final": "87.68",
+            "sma": "SMA NEGERI NGORO",
+            "registration_created_at": "2024-06-18 12:20:06"
+        },
+        {
+            "name": "NONIK EKA FEBRIANI",
+            "nisn": "0099431777",
+            "grade_final": "87.66",
+            "sma": "SMA NEGERI NGORO",
+            "registration_created_at": "2024-06-18 06:42:06"
+        },
+        {
+            "name": "RASTY SILFIANA",
+            "nisn": "0091001428",
+            "grade_final": "87.66",
+            "sma": "SMA NEGERI NGORO",
+            "registration_created_at": "2024-06-18 13:43:41"
+        },
+        {
+            "name": "INDRA ALI SYAFANA",
+            "nisn": "3090036244",
+            "grade_final": "87.65",
+            "sma": "SMA NEGERI NGORO",
+            "registration_created_at": "2024-06-18 08:08:55"
+        },
+        {
+            "name": "BALQIS RAHMA AULIA RAMADHANI",
+            "nisn": "0096202561",
+            "grade_final": "87.60",
+            "sma": "SMA NEGERI NGORO",
+            "registration_created_at": "2024-06-18 08:32:17"
+        },
+        {
+            "name": "ARI PUTRI WIJAYANTI",
+            "nisn": "0081575377",
+            "grade_final": "87.58",
+            "sma": "SMA NEGERI NGORO",
+            "registration_created_at": "2024-06-18 06:15:32"
+        },
+        {
+            "name": "FILDZAH KAISAH NABILAH",
+            "nisn": "0086861639",
+            "grade_final": "87.58",
+            "sma": "SMA NEGERI NGORO",
+            "registration_created_at": "2024-06-18 08:54:39"
+        },
+        {
+            "name": "CLAUDIA SHEREN AURELIA PUTRI",
+            "nisn": "0092449351",
+            "grade_final": "87.56",
+            "sma": "SMA NEGERI NGORO",
+            "registration_created_at": "2024-06-18 05:50:03"
+        },
+        {
+            "name": "AMELIA AYLANA FAUZHYA",
+            "nisn": "0094542390",
+            "grade_final": "87.56",
+            "sma": "SMA NEGERI NGORO",
+            "registration_created_at": "2024-06-18 08:18:03"
+        },
+        {
+            "name": "NOVA AULIA KHOIRUNISYA",
+            "nisn": "0082647785",
+            "grade_final": "87.55",
+            "sma": "SMA NEGERI NGORO",
+            "registration_created_at": "2024-06-18 06:05:01"
+        },
+        {
+            "name": "NISA ALFI ZAHRA",
+            "nisn": "0085952174",
+            "grade_final": "87.55",
+            "sma": "SMA NEGERI NGORO",
+            "registration_created_at": "2024-06-18 00:04:35"
+        },
+        {
+            "name": "KHOLIFATUR ROSYIDAH",
+            "nisn": "0082631210",
+            "grade_final": "87.55",
+            "sma": "SMA NEGERI NGORO",
+            "registration_created_at": "2024-06-19 02:50:42"
+        },
+        {
+            "name": "SYAWALIRA DWI ARIANTI",
+            "nisn": "0082037717",
+            "grade_final": "87.52",
+            "sma": "SMA NEGERI NGORO",
+            "registration_created_at": "2024-06-18 10:14:56"
+        }
+    ]
+}

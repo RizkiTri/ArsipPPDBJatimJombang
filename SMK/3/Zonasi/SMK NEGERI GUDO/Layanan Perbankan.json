@@ -1,0 +1,182 @@
+[
+    {
+        "name": "SYAFIRA HAYU PUTRI MAHARDIKA",
+        "nisn": "0082074232",
+        "distance": "164",
+        "registration_created_at": "2024-06-22 06:13:01",
+        "smk": {
+            "name": "SMK NEGERI GUDO",
+            "major": {
+                "name": "Layanan Perbankan"
+            }
+        }
+    },
+    {
+        "name": "SILVIATUS SHOLICHA",
+        "nisn": "0097921875",
+        "distance": "440",
+        "registration_created_at": "2024-06-22 02:10:09",
+        "smk": {
+            "name": "SMK NEGERI GUDO",
+            "major": {
+                "name": "Layanan Perbankan"
+            }
+        }
+    },
+    {
+        "name": "NABILA FEBI NUR HAYANI",
+        "nisn": "0094329954",
+        "distance": "475",
+        "registration_created_at": "2024-06-22 06:51:18",
+        "smk": {
+            "name": "SMK NEGERI GUDO",
+            "major": {
+                "name": "Layanan Perbankan"
+            }
+        }
+    },
+    {
+        "name": "DEA MEYLANI",
+        "nisn": "0082290218",
+        "distance": "716",
+        "registration_created_at": "2024-06-22 07:26:54",
+        "smk": {
+            "name": "SMK NEGERI GUDO",
+            "major": {
+                "name": "Layanan Perbankan"
+            }
+        }
+    },
+    {
+        "name": "KEYLA SHIFA RAMADHANI",
+        "nisn": "0088743291",
+        "distance": "1032",
+        "registration_created_at": "2024-06-22 07:48:54",
+        "smk": {
+            "name": "SMK NEGERI GUDO",
+            "major": {
+                "name": "Layanan Perbankan"
+            }
+        }
+    },
+    {
+        "name": "NIKEN AMELYA",
+        "nisn": "0099357334",
+        "distance": "1075",
+        "registration_created_at": "2024-06-22 00:05:39",
+        "smk": {
+            "name": "SMK NEGERI GUDO",
+            "major": {
+                "name": "Layanan Perbankan"
+            }
+        }
+    },
+    {
+        "name": "DAVINA RACHMA ARNETTA",
+        "nisn": "0088076777",
+        "distance": "1742",
+        "registration_created_at": "2024-06-22 06:41:09",
+        "smk": {
+            "name": "SMK NEGERI GUDO",
+            "major": {
+                "name": "Layanan Perbankan"
+            }
+        }
+    },
+    {
+        "name": "ELMA HERAWATI",
+        "nisn": "0092118818",
+        "distance": "1789",
+        "registration_created_at": "2024-06-22 07:08:52",
+        "smk": {
+            "name": "SMK NEGERI GUDO",
+            "major": {
+                "name": "Layanan Perbankan"
+            }
+        }
+    },
+    {
+        "name": "SANDRA ANGELILLA",
+        "nisn": "0092051017",
+        "distance": "1850",
+        "registration_created_at": "2024-06-22 08:19:36",
+        "smk": {
+            "name": "SMK NEGERI GUDO",
+            "major": {
+                "name": "Layanan Perbankan"
+            }
+        }
+    },
+    {
+        "name": "AMANDA DETRIA CAHYANINGTYAS",
+        "nisn": "0096123250",
+        "distance": "1881",
+        "registration_created_at": "2024-06-22 09:15:16",
+        "smk": {
+            "name": "SMK NEGERI GUDO",
+            "major": {
+                "name": "Layanan Perbankan"
+            }
+        }
+    },
+    {
+        "name": "SATRIA ABDILLAH BUDIANSYAH",
+        "nisn": "0081461434",
+        "distance": "1984",
+        "registration_created_at": "2024-06-22 06:53:40",
+        "smk": {
+            "name": "SMK NEGERI GUDO",
+            "major": {
+                "name": "Layanan Perbankan"
+            }
+        }
+    },
+    {
+        "name": "AYU DWI WULANDARI",
+        "nisn": "0081874806",
+        "distance": "2015",
+        "registration_created_at": "2024-06-22 00:05:24",
+        "smk": {
+            "name": "SMK NEGERI GUDO",
+            "major": {
+                "name": "Layanan Perbankan"
+            }
+        }
+    },
+    {
+        "name": "FEBYOLA OKTAVIA DIVARIANTI",
+        "nisn": "0083982656",
+        "distance": "2024",
+        "registration_created_at": "2024-06-22 00:05:18",
+        "smk": {
+            "name": "SMK NEGERI GUDO",
+            "major": {
+                "name": "Layanan Perbankan"
+            }
+        }
+    },
+    {
+        "name": "ALFI LAILY MUMTAZA",
+        "nisn": "0086962262",
+        "distance": "2188",
+        "registration_created_at": "2024-06-22 06:54:54",
+        "smk": {
+            "name": "SMK NEGERI GUDO",
+            "major": {
+                "name": "Layanan Perbankan"
+            }
+        }
+    },
+    {
+        "name": "FRANSISKA AYU PUTRI LESTARI",
+        "nisn": "0084919993",
+        "distance": "2249",
+        "registration_created_at": "2024-06-22 07:12:43",
+        "smk": {
+            "name": "SMK NEGERI GUDO",
+            "major": {
+                "name": "Layanan Perbankan"
+            }
+        }
+    }
+]

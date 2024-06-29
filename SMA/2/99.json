@@ -1,0 +1,622 @@
+{
+    "code": 200,
+    "status": "OK",
+    "meta": {
+        "total": 87,
+        "last_page": 1,
+        "from": 1,
+        "to": 1,
+        "last_update": "2024-06-19 21:07:23"
+    },
+    "data": [
+        {
+            "name": "ASYIFA MAULIDINA WIDYA ASTUTIK",
+            "nisn": "0098320179",
+            "grade_final": "91.01",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-18 00:14:39"
+        },
+        {
+            "name": "JIHAN NUR ZAHRA",
+            "nisn": "3081817543",
+            "grade_final": "88.65",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-18 08:21:32"
+        },
+        {
+            "name": "WAYTUS VELANIE",
+            "nisn": "3084989430",
+            "grade_final": "88.26",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-18 05:09:36"
+        },
+        {
+            "name": "ACHMAD FADLAN",
+            "nisn": "0088535102",
+            "grade_final": "88.19",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-18 10:05:03"
+        },
+        {
+            "name": "Nurrid Dhati Harum Mashithoh",
+            "nisn": "3088158574",
+            "grade_final": "88.17",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-18 04:39:57"
+        },
+        {
+            "name": "AURELLIA PUTRI",
+            "nisn": "0086437844",
+            "grade_final": "88.07",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-19 13:48:20"
+        },
+        {
+            "name": "SUSILO WATI",
+            "nisn": "0086172955",
+            "grade_final": "88.02",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-18 13:16:58"
+        },
+        {
+            "name": "NAELA NASYETH EMRELLA BALYA",
+            "nisn": "0085350463",
+            "grade_final": "87.94",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-18 05:09:36"
+        },
+        {
+            "name": "NANDA FARIS KAMILA",
+            "nisn": "0084871429",
+            "grade_final": "87.93",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-18 08:02:54"
+        },
+        {
+            "name": "INTAN NUR AINI",
+            "nisn": "0081200241",
+            "grade_final": "87.91",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-18 08:21:27"
+        },
+        {
+            "name": "DIKA SAPUTRA",
+            "nisn": "0091412124",
+            "grade_final": "87.84",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-18 11:50:50"
+        },
+        {
+            "name": "INDRIANI FITRI RAHMAWATI",
+            "nisn": "0083350194",
+            "grade_final": "87.83",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-18 05:36:55"
+        },
+        {
+            "name": "MIFTAKHUL ALALIFIAN N",
+            "nisn": "0092946245",
+            "grade_final": "87.82",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-18 00:50:51"
+        },
+        {
+            "name": "Dinda Keysha Marrchella",
+            "nisn": "0084340807",
+            "grade_final": "87.82",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-18 00:06:04"
+        },
+        {
+            "name": "APRILIA PUTRI TRISDIANTI",
+            "nisn": "3095671313",
+            "grade_final": "87.80",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-18 01:24:58"
+        },
+        {
+            "name": "NADZIRINA ALFARIA PUTRI",
+            "nisn": "0081991074",
+            "grade_final": "87.80",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-19 10:19:44"
+        },
+        {
+            "name": "ANITA RAHAYU",
+            "nisn": "0089004305",
+            "grade_final": "87.79",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-18 00:10:13"
+        },
+        {
+            "name": "NAYLA DWI ZAHRANI",
+            "nisn": "3086385118",
+            "grade_final": "87.78",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-18 05:29:22"
+        },
+        {
+            "name": "INEZ AZARINE SALSABILA",
+            "nisn": "0082628920",
+            "grade_final": "87.71",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-18 00:11:12"
+        },
+        {
+            "name": "SRI WULANDARI",
+            "nisn": "0083331567",
+            "grade_final": "87.71",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-19 10:26:03"
+        },
+        {
+            "name": "Bima Harlino Paza",
+            "nisn": "3080236465",
+            "grade_final": "87.70",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-18 09:00:20"
+        },
+        {
+            "name": "ELLA AULIYA APRILLIYA ZAHRA",
+            "nisn": "0092713763",
+            "grade_final": "87.69",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-18 01:47:43"
+        },
+        {
+            "name": "MELINDA VIVIA ANABELLA",
+            "nisn": "0092671677",
+            "grade_final": "87.65",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-18 14:00:59"
+        },
+        {
+            "name": "AURA NASWA NUR DESTIANTI",
+            "nisn": "0087173406",
+            "grade_final": "87.63",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-18 17:45:02"
+        },
+        {
+            "name": "MOHAMMAD SYAHRIL ALFIAN",
+            "nisn": "0083394793",
+            "grade_final": "87.62",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-19 11:40:06"
+        },
+        {
+            "name": "TSABITA FARAH AWALIYAH",
+            "nisn": "0092818165",
+            "grade_final": "87.62",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-18 13:22:53"
+        },
+        {
+            "name": "KIKI AULIA SARI",
+            "nisn": "3082806840",
+            "grade_final": "87.59",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-18 10:05:29"
+        },
+        {
+            "name": "Muhammad Fadhli Aziz",
+            "nisn": "3088048789",
+            "grade_final": "87.57",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-18 00:12:48"
+        },
+        {
+            "name": "AIRA ANJANI",
+            "nisn": "0089907795",
+            "grade_final": "87.57",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-18 03:20:23"
+        },
+        {
+            "name": "ACHMAD KURNIAWAN RAHMATULLOH",
+            "nisn": "0077296059",
+            "grade_final": "87.56",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-19 08:14:39"
+        },
+        {
+            "name": "HAYDAR ALY MUBARAK",
+            "nisn": "0088148940",
+            "grade_final": "87.55",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-19 08:57:57"
+        },
+        {
+            "name": "NIA AULYA LARASATY",
+            "nisn": "0086158666",
+            "grade_final": "87.55",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-19 12:58:42"
+        },
+        {
+            "name": "Roro Ayu Retno Palupi",
+            "nisn": "0082091604",
+            "grade_final": "87.54",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-18 06:05:00"
+        },
+        {
+            "name": "NAYLA AYU AZKA MILLA",
+            "nisn": "0094280901",
+            "grade_final": "87.54",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-19 16:15:10"
+        },
+        {
+            "name": "MOCH TRIO RAMADHAN RODYANSYAH",
+            "nisn": "0084439757",
+            "grade_final": "87.51",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-18 07:19:26"
+        },
+        {
+            "name": "DEANIRA ABELLINA",
+            "nisn": "0088192243",
+            "grade_final": "87.50",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-18 07:12:33"
+        },
+        {
+            "name": "NEZYA AGATHA RIZQY",
+            "nisn": "0087428984",
+            "grade_final": "87.49",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-18 16:54:14"
+        },
+        {
+            "name": "DWI APRELIA WANTI",
+            "nisn": "3093265233",
+            "grade_final": "87.47",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-18 04:58:32"
+        },
+        {
+            "name": "AFIKA KARISMA PUTRI",
+            "nisn": "0081072566",
+            "grade_final": "87.46",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-19 08:24:15"
+        },
+        {
+            "name": "REGITA MAYANG SARI",
+            "nisn": "0083816339",
+            "grade_final": "87.46",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-19 08:21:44"
+        },
+        {
+            "name": "INTAN MULYA PARAMITHA",
+            "nisn": "0081576261",
+            "grade_final": "87.45",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-18 12:37:32"
+        },
+        {
+            "name": "HANNIDA NURUL AZKIYA",
+            "nisn": "3087147694",
+            "grade_final": "87.45",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-18 05:50:01"
+        },
+        {
+            "name": "IZA CARISSA AZZALIA",
+            "nisn": "3106799338",
+            "grade_final": "87.44",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-18 14:39:49"
+        },
+        {
+            "name": "AINURRIDHA MAHARANI SRI PRIAMBODO",
+            "nisn": "0096135178",
+            "grade_final": "87.42",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-19 08:44:43"
+        },
+        {
+            "name": "NAJWA AZZAHRA CAHYA CHAMILA",
+            "nisn": "3082837606",
+            "grade_final": "87.38",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-18 06:13:13"
+        },
+        {
+            "name": "NADHILA AMELIA PUTRI",
+            "nisn": "0083629399",
+            "grade_final": "87.36",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-18 11:18:11"
+        },
+        {
+            "name": "FAWAZ ALFIANSYAH",
+            "nisn": "0088098453",
+            "grade_final": "87.35",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-18 09:30:39"
+        },
+        {
+            "name": "FATIKHATUR RAHMAH",
+            "nisn": "3087168456",
+            "grade_final": "87.34",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-18 03:13:48"
+        },
+        {
+            "name": "JAROTUS SITA",
+            "nisn": "0081028510",
+            "grade_final": "87.34",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-18 15:33:43"
+        },
+        {
+            "name": "NIKKI PUSPITA SARI",
+            "nisn": "0092936749",
+            "grade_final": "87.33",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-18 07:46:06"
+        },
+        {
+            "name": "PRITA AMELIA NUR ZULIANIK",
+            "nisn": "0082180396",
+            "grade_final": "87.33",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-19 08:07:29"
+        },
+        {
+            "name": "NUR SYIFA FAUZIA RACHMAH",
+            "nisn": "3098011711",
+            "grade_final": "87.33",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-18 12:15:30"
+        },
+        {
+            "name": "SEPTIN DWI RAHMADANI",
+            "nisn": "3081454376",
+            "grade_final": "87.32",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-18 00:48:40"
+        },
+        {
+            "name": "NEYSA ARDELIA",
+            "nisn": "3095937009",
+            "grade_final": "87.32",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-18 04:26:12"
+        },
+        {
+            "name": "TAZAKA GANDHI PRATAMA",
+            "nisn": "0087736112",
+            "grade_final": "87.30",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-19 06:17:54"
+        },
+        {
+            "name": "Igela Sasi Rosyana",
+            "nisn": "0082326887",
+            "grade_final": "87.30",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-18 01:02:42"
+        },
+        {
+            "name": "AN NAFIU NUR ANGGRAENI",
+            "nisn": "0084310444",
+            "grade_final": "87.27",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-18 05:33:55"
+        },
+        {
+            "name": "ALVIN HUSNUN ELISYIA",
+            "nisn": "0097958213",
+            "grade_final": "87.26",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-18 07:45:37"
+        },
+        {
+            "name": "ROHMI NUR AINI",
+            "nisn": "3094525131",
+            "grade_final": "87.26",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-18 00:15:42"
+        },
+        {
+            "name": "LAILATUZ ZANIFAH",
+            "nisn": "3094033606",
+            "grade_final": "87.24",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-18 05:55:14"
+        },
+        {
+            "name": "ASHABILA CHAYA KHAIRANIA",
+            "nisn": "3097386391",
+            "grade_final": "87.24",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-19 18:09:01"
+        },
+        {
+            "name": "NUR FAHRA NOVALIZA TABONA",
+            "nisn": "0084503000",
+            "grade_final": "87.21",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-18 13:27:56"
+        },
+        {
+            "name": "RISFI SYAH PUTRA",
+            "nisn": "3085292632",
+            "grade_final": "87.20",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-18 00:50:54"
+        },
+        {
+            "name": "SHELAMITA AGUSTIN",
+            "nisn": "0085923073",
+            "grade_final": "87.15",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-18 03:54:29"
+        },
+        {
+            "name": "FITA SEPTIANA",
+            "nisn": "0087250000",
+            "grade_final": "87.15",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-18 08:22:51"
+        },
+        {
+            "name": "RIFFAT ATHALLAH HAFIDZ",
+            "nisn": "0089237182",
+            "grade_final": "87.14",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-18 04:57:20"
+        },
+        {
+            "name": "DINI NURIL ILMA",
+            "nisn": "0089205529",
+            "grade_final": "87.14",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-18 20:46:40"
+        },
+        {
+            "name": "RIZKA MEYLA ADELIA",
+            "nisn": "0089478897",
+            "grade_final": "87.14",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-18 00:14:28"
+        },
+        {
+            "name": "NADYATUL ADZKIYA",
+            "nisn": "0094522773",
+            "grade_final": "87.14",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-18 21:38:46"
+        },
+        {
+            "name": "HANNA ANDINITA",
+            "nisn": "3094266016",
+            "grade_final": "87.13",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-18 00:22:58"
+        },
+        {
+            "name": "KEISYA PUTRI WULANDARI",
+            "nisn": "0097019575",
+            "grade_final": "87.12",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-19 13:05:38"
+        },
+        {
+            "name": "ALI MUSTOFA",
+            "nisn": "0093981445",
+            "grade_final": "87.11",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-18 08:29:01"
+        },
+        {
+            "name": "IMELDA CAHYA ANDINI",
+            "nisn": "0084348995",
+            "grade_final": "87.11",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-18 02:12:19"
+        },
+        {
+            "name": "FADIA NAHLA NUZULA RAMADHANI",
+            "nisn": "3081491491",
+            "grade_final": "87.10",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-18 10:00:31"
+        },
+        {
+            "name": "SITI FATIMAH AZZAHRA",
+            "nisn": "3093951415",
+            "grade_final": "87.10",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-18 01:32:56"
+        },
+        {
+            "name": "Aisya Dwi Ravikasari",
+            "nisn": "0083876078",
+            "grade_final": "87.09",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-18 08:25:04"
+        },
+        {
+            "name": "LENSHY MEI FEBRI YANTI",
+            "nisn": "0086568660",
+            "grade_final": "87.09",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-18 00:04:44"
+        },
+        {
+            "name": "AMAS AKRAM SYAIROZI",
+            "nisn": "3086786052",
+            "grade_final": "87.09",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-19 17:14:45"
+        },
+        {
+            "name": "EKA FINA RAMADHANI",
+            "nisn": "0083499957",
+            "grade_final": "87.08",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-19 09:11:45"
+        },
+        {
+            "name": "Andini Puji Lestari",
+            "nisn": "0098597493",
+            "grade_final": "87.08",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-18 08:00:21"
+        },
+        {
+            "name": "SABRINA ALIFIA HAMADA",
+            "nisn": "0096202412",
+            "grade_final": "87.06",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-18 15:40:23"
+        },
+        {
+            "name": "Revi Marisca Astianti",
+            "nisn": "0086075818",
+            "grade_final": "87.04",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-18 18:24:21"
+        },
+        {
+            "name": "USWATUN KHASANAH",
+            "nisn": "0097704053",
+            "grade_final": "87.03",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-18 11:47:07"
+        },
+        {
+            "name": "NUR ROHMAH",
+            "nisn": "3084409912",
+            "grade_final": "87.03",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-19 16:16:18"
+        },
+        {
+            "name": "MAULIDYATUR ROHMA",
+            "nisn": "3084775565",
+            "grade_final": "87.02",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-18 18:13:53"
+        },
+        {
+            "name": "DIVA CAHYA NINGRUM",
+            "nisn": "3083377176",
+            "grade_final": "87.02",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-19 12:39:10"
+        },
+        {
+            "name": "NAURA IZZAROTUN NAFISAH",
+            "nisn": "3083044452",
+            "grade_final": "87.01",
+            "sma": "SMA NEGERI 1 JOGOROTO",
+            "registration_created_at": "2024-06-18 18:28:05"
+        }
+    ]
+}

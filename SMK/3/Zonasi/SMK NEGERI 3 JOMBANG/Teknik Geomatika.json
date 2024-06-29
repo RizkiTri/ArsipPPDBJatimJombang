@@ -1,0 +1,62 @@
+[
+    {
+        "name": "AKYA JUNFIRMANSYAH",
+        "nisn": "0082255000",
+        "distance": "180",
+        "registration_created_at": "2024-06-22 00:20:27",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Geomatika"
+            }
+        }
+    },
+    {
+        "name": "MUCHAMMAD ANDHIKA KURNIA PUTRA",
+        "nisn": "3088795903",
+        "distance": "1173",
+        "registration_created_at": "2024-06-22 00:13:51",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Geomatika"
+            }
+        }
+    },
+    {
+        "name": "FANANI RADITYA ALDINURIN",
+        "nisn": "0087185731",
+        "distance": "1189",
+        "registration_created_at": "2024-06-22 00:05:21",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Geomatika"
+            }
+        }
+    },
+    {
+        "name": "NARENDRA RAEMAWASTI AISYAH",
+        "nisn": "0089312674",
+        "distance": "1623",
+        "registration_created_at": "2024-06-22 00:03:39",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Geomatika"
+            }
+        }
+    },
+    {
+        "name": "ARIZKI CHIKO SETIAWAN",
+        "nisn": "0099965937",
+        "distance": "1898",
+        "registration_created_at": "2024-06-23 07:22:17",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Geomatika"
+            }
+        }
+    }
+]

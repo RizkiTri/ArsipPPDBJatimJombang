@@ -1,0 +1,38 @@
+[
+    {
+        "name": "SHOLAHUDIN",
+        "nisn": "0084023777",
+        "distance": "179",
+        "registration_created_at": "2024-06-22 01:29:32",
+        "smk": {
+            "name": "SMK NEGERI GUDO",
+            "major": {
+                "name": "Teknik Ototronik"
+            }
+        }
+    },
+    {
+        "name": "YESAYA WAHYU SAPUTRA",
+        "nisn": "0085573890",
+        "distance": "569",
+        "registration_created_at": "2024-06-22 00:07:29",
+        "smk": {
+            "name": "SMK NEGERI GUDO",
+            "major": {
+                "name": "Teknik Ototronik"
+            }
+        }
+    },
+    {
+        "name": "YEREMIYA WAHYU SAPUTRA",
+        "nisn": "0084919862",
+        "distance": "709",
+        "registration_created_at": "2024-06-22 00:10:35",
+        "smk": {
+            "name": "SMK NEGERI GUDO",
+            "major": {
+                "name": "Teknik Ototronik"
+            }
+        }
+    }
+]

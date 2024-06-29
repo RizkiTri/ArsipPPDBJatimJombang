@@ -1,0 +1,158 @@
+[
+    {
+        "name": "Galih Dwi Adinesa",
+        "nisn": "3081964730",
+        "distance": "93",
+        "registration_created_at": "2024-06-22 04:19:09",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Kendaraan Ringan"
+            }
+        }
+    },
+    {
+        "name": "HANSYA PUTRA AR ROZZAQ",
+        "nisn": "0082844415",
+        "distance": "145",
+        "registration_created_at": "2024-06-22 12:12:54",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Kendaraan Ringan"
+            }
+        }
+    },
+    {
+        "name": "JOKO SAMUDRO",
+        "nisn": "0095377312",
+        "distance": "145",
+        "registration_created_at": "2024-06-22 07:42:30",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Kendaraan Ringan"
+            }
+        }
+    },
+    {
+        "name": "MUHAMMAD ALDO RAMADHAN",
+        "nisn": "0082535891",
+        "distance": "163",
+        "registration_created_at": "2024-06-22 01:32:54",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Kendaraan Ringan"
+            }
+        }
+    },
+    {
+        "name": "ASHADIQIN",
+        "nisn": "0085957346",
+        "distance": "167",
+        "registration_created_at": "2024-06-22 05:27:50",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Kendaraan Ringan"
+            }
+        }
+    },
+    {
+        "name": "NANDANA ARYA RAMADHAN",
+        "nisn": "0083408246",
+        "distance": "478",
+        "registration_created_at": "2024-06-22 10:41:34",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Kendaraan Ringan"
+            }
+        }
+    },
+    {
+        "name": "ACHMAD RIZKY ILHAM",
+        "nisn": "0086509452",
+        "distance": "511",
+        "registration_created_at": "2024-06-22 00:23:33",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Kendaraan Ringan"
+            }
+        }
+    },
+    {
+        "name": "Fardhan Ahmed Izzudien Purwantoro",
+        "nisn": "0085073473",
+        "distance": "530",
+        "registration_created_at": "2024-06-22 07:32:29",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Kendaraan Ringan"
+            }
+        }
+    },
+    {
+        "name": "MAULANA RASYA RISGIA",
+        "nisn": "0091892172",
+        "distance": "671",
+        "registration_created_at": "2024-06-23 08:25:58",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Kendaraan Ringan"
+            }
+        }
+    },
+    {
+        "name": "CHALIK IMAM HAMBALI",
+        "nisn": "0084631610",
+        "distance": "678",
+        "registration_created_at": "2024-06-23 14:14:13",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Kendaraan Ringan"
+            }
+        }
+    },
+    {
+        "name": "Refi Ahmad Fauzi",
+        "nisn": "0088145275",
+        "distance": "722",
+        "registration_created_at": "2024-06-22 07:39:37",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Kendaraan Ringan"
+            }
+        }
+    },
+    {
+        "name": "ACHMAD IRFANSYAH",
+        "nisn": "3085406756",
+        "distance": "788",
+        "registration_created_at": "2024-06-23 06:57:14",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Kendaraan Ringan"
+            }
+        }
+    },
+    {
+        "name": "Mochamad Herdian",
+        "nisn": "0081252876",
+        "distance": "806",
+        "registration_created_at": "2024-06-22 10:48:25",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Kendaraan Ringan"
+            }
+        }
+    }
+]

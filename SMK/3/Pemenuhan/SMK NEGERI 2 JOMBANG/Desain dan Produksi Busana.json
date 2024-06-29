@@ -1,0 +1,74 @@
+[
+    {
+        "name": "SAFIRA MAULIDYA",
+        "nisn": "0099946981",
+        "distance": "4271",
+        "registration_created_at": "2024-06-23 09:59:50",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Desain dan Produksi Busana"
+            }
+        }
+    },
+    {
+        "name": "Andini Wulan Sari",
+        "nisn": "0088488782",
+        "distance": "4273",
+        "registration_created_at": "2024-06-22 00:40:27",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Desain dan Produksi Busana"
+            }
+        }
+    },
+    {
+        "name": "WINDA LARASATI",
+        "nisn": "3099921352",
+        "distance": "4303",
+        "registration_created_at": "2024-06-22 08:59:56",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Desain dan Produksi Busana"
+            }
+        }
+    },
+    {
+        "name": "RITANTI SEPTIANI",
+        "nisn": "0085641649",
+        "distance": "4340",
+        "registration_created_at": "2024-06-22 07:19:15",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Desain dan Produksi Busana"
+            }
+        }
+    },
+    {
+        "name": "FRISA ERLITA CAHYANI",
+        "nisn": "0085329670",
+        "distance": "4370",
+        "registration_created_at": "2024-06-22 11:29:08",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Desain dan Produksi Busana"
+            }
+        }
+    },
+    {
+        "name": "SILVIA ZULIANDRA",
+        "nisn": "0082655439",
+        "distance": "4383",
+        "registration_created_at": "2024-06-22 05:27:57",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Desain dan Produksi Busana"
+            }
+        }
+    }
+]

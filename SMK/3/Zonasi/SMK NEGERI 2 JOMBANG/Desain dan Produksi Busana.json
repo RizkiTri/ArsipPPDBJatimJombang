@@ -1,0 +1,446 @@
+[
+    {
+        "name": "Lisa Kharisma Putri Arifin",
+        "nisn": "0088659813",
+        "distance": "1399",
+        "registration_created_at": "2024-06-22 06:04:36",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Desain dan Produksi Busana"
+            }
+        }
+    },
+    {
+        "name": "TALITA RADITYA PUTRI",
+        "nisn": "0097748838",
+        "distance": "1557",
+        "registration_created_at": "2024-06-22 05:32:15",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Desain dan Produksi Busana"
+            }
+        }
+    },
+    {
+        "name": "MUHAMMAD FACHRI ROMADHON",
+        "nisn": "3082330374",
+        "distance": "1946",
+        "registration_created_at": "2024-06-22 00:26:55",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Desain dan Produksi Busana"
+            }
+        }
+    },
+    {
+        "name": "MEI AMINARTI",
+        "nisn": "0087498462",
+        "distance": "2103",
+        "registration_created_at": "2024-06-22 00:05:19",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Desain dan Produksi Busana"
+            }
+        }
+    },
+    {
+        "name": "AQILAH WIDATUL IRMA",
+        "nisn": "0083565441",
+        "distance": "2235",
+        "registration_created_at": "2024-06-22 00:08:42",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Desain dan Produksi Busana"
+            }
+        }
+    },
+    {
+        "name": "DYAH RAHMA AULYA",
+        "nisn": "0081316942",
+        "distance": "2264",
+        "registration_created_at": "2024-06-23 07:48:52",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Desain dan Produksi Busana"
+            }
+        }
+    },
+    {
+        "name": "ALEXANDRA RATU GIBRALLTAR",
+        "nisn": "0084454073",
+        "distance": "2384",
+        "registration_created_at": "2024-06-22 00:23:57",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Desain dan Produksi Busana"
+            }
+        }
+    },
+    {
+        "name": "ALDRIANO ADJIE PRAKOSO",
+        "nisn": "0084609459",
+        "distance": "2386",
+        "registration_created_at": "2024-06-22 01:31:58",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Desain dan Produksi Busana"
+            }
+        }
+    },
+    {
+        "name": "NEIZA OCTAVIANA",
+        "nisn": "0085877327",
+        "distance": "2491",
+        "registration_created_at": "2024-06-22 05:45:52",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Desain dan Produksi Busana"
+            }
+        }
+    },
+    {
+        "name": "NOVIA SUKMA AULIA",
+        "nisn": "0088503652",
+        "distance": "2547",
+        "registration_created_at": "2024-06-22 00:06:00",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Desain dan Produksi Busana"
+            }
+        }
+    },
+    {
+        "name": "NOVI DEA PUTRI AMELIA",
+        "nisn": "0083922098",
+        "distance": "2551",
+        "registration_created_at": "2024-06-22 00:22:45",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Desain dan Produksi Busana"
+            }
+        }
+    },
+    {
+        "name": "FIRDA MEYSA AZ ZUHRA",
+        "nisn": "0085412317",
+        "distance": "2688",
+        "registration_created_at": "2024-06-22 00:21:42",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Desain dan Produksi Busana"
+            }
+        }
+    },
+    {
+        "name": "RAHMA AULIA CAHYANI",
+        "nisn": "0089604734",
+        "distance": "2767",
+        "registration_created_at": "2024-06-22 07:55:00",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Desain dan Produksi Busana"
+            }
+        }
+    },
+    {
+        "name": "ANDIKA GALANG PERMANA",
+        "nisn": "0083876375",
+        "distance": "2936",
+        "registration_created_at": "2024-06-22 19:05:38",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Desain dan Produksi Busana"
+            }
+        }
+    },
+    {
+        "name": "ERGA ADYT SETYAWAN",
+        "nisn": "0081005930",
+        "distance": "3119",
+        "registration_created_at": "2024-06-22 09:17:54",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Desain dan Produksi Busana"
+            }
+        }
+    },
+    {
+        "name": "CANTIKA EKA ANGGRAINI",
+        "nisn": "0082642603",
+        "distance": "3191",
+        "registration_created_at": "2024-06-22 07:31:06",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Desain dan Produksi Busana"
+            }
+        }
+    },
+    {
+        "name": "JESSIKA LAULA OKTAVIA",
+        "nisn": "0084746387",
+        "distance": "3213",
+        "registration_created_at": "2024-06-22 10:42:28",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Desain dan Produksi Busana"
+            }
+        }
+    },
+    {
+        "name": "EKA SAFIRA MELANI SAFIDAH",
+        "nisn": "0096909504",
+        "distance": "3273",
+        "registration_created_at": "2024-06-22 05:44:52",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Desain dan Produksi Busana"
+            }
+        }
+    },
+    {
+        "name": "CHOIRUN NISA LATIFA",
+        "nisn": "3091356264",
+        "distance": "3290",
+        "registration_created_at": "2024-06-22 05:26:50",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Desain dan Produksi Busana"
+            }
+        }
+    },
+    {
+        "name": "SASHA AZZAHRO",
+        "nisn": "0085238898",
+        "distance": "3357",
+        "registration_created_at": "2024-06-22 01:37:02",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Desain dan Produksi Busana"
+            }
+        }
+    },
+    {
+        "name": "AMBAR CANDRA SARI",
+        "nisn": "0092973103",
+        "distance": "3451",
+        "registration_created_at": "2024-06-22 07:44:58",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Desain dan Produksi Busana"
+            }
+        }
+    },
+    {
+        "name": "Naila Oktagian Anatasya",
+        "nisn": "0089109829",
+        "distance": "3599",
+        "registration_created_at": "2024-06-22 07:08:02",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Desain dan Produksi Busana"
+            }
+        }
+    },
+    {
+        "name": "CITRA NURI MUWAHIDAH",
+        "nisn": "3097673325",
+        "distance": "3741",
+        "registration_created_at": "2024-06-22 09:20:04",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Desain dan Produksi Busana"
+            }
+        }
+    },
+    {
+        "name": "DHELIA ASHAFIA",
+        "nisn": "3082395186",
+        "distance": "3790",
+        "registration_created_at": "2024-06-22 07:21:27",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Desain dan Produksi Busana"
+            }
+        }
+    },
+    {
+        "name": "NURUL IFNI AULIA",
+        "nisn": "3085144236",
+        "distance": "3847",
+        "registration_created_at": "2024-06-23 07:06:03",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Desain dan Produksi Busana"
+            }
+        }
+    },
+    {
+        "name": "RASYA INTAN NURAINI",
+        "nisn": "3098783706",
+        "distance": "3873",
+        "registration_created_at": "2024-06-23 07:04:51",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Desain dan Produksi Busana"
+            }
+        }
+    },
+    {
+        "name": "PUTRIA INTAN AZ ZAHRA",
+        "nisn": "3089669378",
+        "distance": "3886",
+        "registration_created_at": "2024-06-22 06:01:18",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Desain dan Produksi Busana"
+            }
+        }
+    },
+    {
+        "name": "SUCI AINUN SIAM",
+        "nisn": "3097234717",
+        "distance": "3915",
+        "registration_created_at": "2024-06-22 05:22:59",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Desain dan Produksi Busana"
+            }
+        }
+    },
+    {
+        "name": "Nasya Oktavia Putri",
+        "nisn": "3090871704",
+        "distance": "3930",
+        "registration_created_at": "2024-06-22 08:07:25",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Desain dan Produksi Busana"
+            }
+        }
+    },
+    {
+        "name": "MYSHA AQILA ALAYNA",
+        "nisn": "0097255035",
+        "distance": "3984",
+        "registration_created_at": "2024-06-22 04:20:36",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Desain dan Produksi Busana"
+            }
+        }
+    },
+    {
+        "name": "NADILA SHAFAA AZZAHRA",
+        "nisn": "0089894298",
+        "distance": "4025",
+        "registration_created_at": "2024-06-22 14:54:15",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Desain dan Produksi Busana"
+            }
+        }
+    },
+    {
+        "name": "ALIYAH SULISTIANI",
+        "nisn": "0091770616",
+        "distance": "4043",
+        "registration_created_at": "2024-06-22 01:11:41",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Desain dan Produksi Busana"
+            }
+        }
+    },
+    {
+        "name": "SUCIWATI INDAH APRILIA",
+        "nisn": "0095465592",
+        "distance": "4075",
+        "registration_created_at": "2024-06-22 00:04:10",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Desain dan Produksi Busana"
+            }
+        }
+    },
+    {
+        "name": "ZAHRA AULIA HARNINGRUM",
+        "nisn": "0099783401",
+        "distance": "4148",
+        "registration_created_at": "2024-06-22 04:01:06",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Desain dan Produksi Busana"
+            }
+        }
+    },
+    {
+        "name": "NISA AULIA",
+        "nisn": "3081245282",
+        "distance": "4155",
+        "registration_created_at": "2024-06-23 12:28:43",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Desain dan Produksi Busana"
+            }
+        }
+    },
+    {
+        "name": "VELYNDA ANASTASYA ALVIANTI",
+        "nisn": "3083151208",
+        "distance": "4173",
+        "registration_created_at": "2024-06-22 02:08:47",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Desain dan Produksi Busana"
+            }
+        }
+    },
+    {
+        "name": "FERENIZCA ZALWA NICOVA",
+        "nisn": "0095941744",
+        "distance": "4210",
+        "registration_created_at": "2024-06-23 18:41:13",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Desain dan Produksi Busana"
+            }
+        }
+    }
+]

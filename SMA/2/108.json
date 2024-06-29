@@ -1,0 +1,433 @@
+{
+    "code": 200,
+    "status": "OK",
+    "meta": {
+        "total": 60,
+        "last_page": 1,
+        "from": 1,
+        "to": 1,
+        "last_update": "2024-06-19 21:07:23"
+    },
+    "data": [
+        {
+            "name": "ACHDA ISNA PAMBUDI",
+            "nisn": "3082943814",
+            "grade_final": "89.18",
+            "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+            "registration_created_at": "2024-06-18 03:27:12"
+        },
+        {
+            "name": "ANDHINA BEA ESTIAN",
+            "nisn": "0096232658",
+            "grade_final": "89.10",
+            "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+            "registration_created_at": "2024-06-18 05:44:22"
+        },
+        {
+            "name": "ICHDA ISNA PAMBUDI",
+            "nisn": "3089841341",
+            "grade_final": "89.06",
+            "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+            "registration_created_at": "2024-06-18 03:23:41"
+        },
+        {
+            "name": "AILEEN RIZKY ABDILLAH",
+            "nisn": "0088261933",
+            "grade_final": "87.89",
+            "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+            "registration_created_at": "2024-06-18 08:32:18"
+        },
+        {
+            "name": "Hanum Maulidya Haritomo",
+            "nisn": "0093726227",
+            "grade_final": "87.87",
+            "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+            "registration_created_at": "2024-06-18 08:09:03"
+        },
+        {
+            "name": "ELIYA MUHIMMATUL ALIYAH",
+            "nisn": "3088683479",
+            "grade_final": "87.82",
+            "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+            "registration_created_at": "2024-06-18 13:21:58"
+        },
+        {
+            "name": "IQMAL DWIKY HARITSYAH",
+            "nisn": "0098589369",
+            "grade_final": "87.70",
+            "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+            "registration_created_at": "2024-06-18 05:37:45"
+        },
+        {
+            "name": "MUHAMMAD DHIYAULHAQ AZMI",
+            "nisn": "0087081979",
+            "grade_final": "87.53",
+            "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+            "registration_created_at": "2024-06-18 00:03:22"
+        },
+        {
+            "name": "IMTAZANIA PUTRI FAILA",
+            "nisn": "3080824214",
+            "grade_final": "87.50",
+            "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+            "registration_created_at": "2024-06-18 10:15:10"
+        },
+        {
+            "name": "AULIA TAZQIATUL RAHMA",
+            "nisn": "3097662888",
+            "grade_final": "87.49",
+            "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+            "registration_created_at": "2024-06-18 02:42:15"
+        },
+        {
+            "name": "REGINA EKA AMELIA",
+            "nisn": "3091106244",
+            "grade_final": "87.46",
+            "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+            "registration_created_at": "2024-06-18 02:51:25"
+        },
+        {
+            "name": "ZAHROTUS SIFA",
+            "nisn": "3090540622",
+            "grade_final": "87.36",
+            "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+            "registration_created_at": "2024-06-18 06:29:37"
+        },
+        {
+            "name": "MUHAMMAD FACHRY MAULANA",
+            "nisn": "0082387917",
+            "grade_final": "87.26",
+            "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+            "registration_created_at": "2024-06-19 06:22:17"
+        },
+        {
+            "name": "BRILLIANT MAHARANI",
+            "nisn": "3096349147",
+            "grade_final": "87.24",
+            "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+            "registration_created_at": "2024-06-18 11:24:25"
+        },
+        {
+            "name": "RESTU WIDYANTI FAISAL NASIH",
+            "nisn": "0099833891",
+            "grade_final": "87.14",
+            "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+            "registration_created_at": "2024-06-18 00:37:35"
+        },
+        {
+            "name": "FAISYAH TURROHMAH",
+            "nisn": "3095058039",
+            "grade_final": "87.11",
+            "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+            "registration_created_at": "2024-06-18 01:43:46"
+        },
+        {
+            "name": "SHIFA DYA AZARA",
+            "nisn": "3086012568",
+            "grade_final": "87.11",
+            "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+            "registration_created_at": "2024-06-18 00:06:28"
+        },
+        {
+            "name": "RACHMADIA WAHYUNING SEJATI",
+            "nisn": "0095983941",
+            "grade_final": "87.07",
+            "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+            "registration_created_at": "2024-06-19 06:18:35"
+        },
+        {
+            "name": "DYAH SELFI WIJAYANTI",
+            "nisn": "0088925454",
+            "grade_final": "86.96",
+            "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+            "registration_created_at": "2024-06-18 07:09:32"
+        },
+        {
+            "name": "MUHAMMAD FARHAN",
+            "nisn": "3082108653",
+            "grade_final": "86.93",
+            "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+            "registration_created_at": "2024-06-18 08:21:17"
+        },
+        {
+            "name": "DINA AYU FADILAH",
+            "nisn": "0089681790",
+            "grade_final": "86.92",
+            "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+            "registration_created_at": "2024-06-18 18:37:45"
+        },
+        {
+            "name": "AULIYA RISMA WIJAYA",
+            "nisn": "3095159392",
+            "grade_final": "86.84",
+            "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+            "registration_created_at": "2024-06-18 06:15:45"
+        },
+        {
+            "name": "Almira Tungga Dewi",
+            "nisn": "0098477702",
+            "grade_final": "86.82",
+            "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+            "registration_created_at": "2024-06-18 07:39:11"
+        },
+        {
+            "name": "SINTA APRILLIA",
+            "nisn": "0098674179",
+            "grade_final": "86.80",
+            "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+            "registration_created_at": "2024-06-18 09:14:24"
+        },
+        {
+            "name": "SHEREN SINTA NAYA",
+            "nisn": "0081319783",
+            "grade_final": "86.74",
+            "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+            "registration_created_at": "2024-06-18 00:14:17"
+        },
+        {
+            "name": "FENIA PUTRI RAMADHANI",
+            "nisn": "3087458532",
+            "grade_final": "86.69",
+            "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+            "registration_created_at": "2024-06-18 00:30:00"
+        },
+        {
+            "name": "SHOFIA NUR RAMADHANI",
+            "nisn": "0085590420",
+            "grade_final": "86.49",
+            "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+            "registration_created_at": "2024-06-18 19:14:33"
+        },
+        {
+            "name": "ALYA SEPTIA RAMADHANI",
+            "nisn": "0083061571",
+            "grade_final": "86.46",
+            "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+            "registration_created_at": "2024-06-18 04:02:43"
+        },
+        {
+            "name": "AULIA FAZA ARDHANA",
+            "nisn": "0085935856",
+            "grade_final": "86.46",
+            "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+            "registration_created_at": "2024-06-18 08:05:53"
+        },
+        {
+            "name": "DIKY SATRIYA PRATAMA",
+            "nisn": "0094022778",
+            "grade_final": "86.45",
+            "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+            "registration_created_at": "2024-06-18 10:35:51"
+        },
+        {
+            "name": "IZZA RAHMADHANI",
+            "nisn": "3080435243",
+            "grade_final": "86.45",
+            "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+            "registration_created_at": "2024-06-18 07:32:47"
+        },
+        {
+            "name": "LOVITA CITRA AIRA",
+            "nisn": "0094419030",
+            "grade_final": "86.42",
+            "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+            "registration_created_at": "2024-06-18 05:56:11"
+        },
+        {
+            "name": "YESHA ANNEURIN APRILIA",
+            "nisn": "0082269593",
+            "grade_final": "86.36",
+            "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+            "registration_created_at": "2024-06-19 07:12:52"
+        },
+        {
+            "name": "DWI PUSPITA SARI",
+            "nisn": "0086726175",
+            "grade_final": "86.34",
+            "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+            "registration_created_at": "2024-06-18 12:49:40"
+        },
+        {
+            "name": "CHERRIL BELVA FITRIYAH",
+            "nisn": "0083040764",
+            "grade_final": "86.32",
+            "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+            "registration_created_at": "2024-06-18 00:33:09"
+        },
+        {
+            "name": "MAYA MALINDA ILAHIYAH",
+            "nisn": "0091532801",
+            "grade_final": "86.30",
+            "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+            "registration_created_at": "2024-06-18 07:11:46"
+        },
+        {
+            "name": "PUTRA PURBA LAKSMANA",
+            "nisn": "0085564530",
+            "grade_final": "86.30",
+            "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+            "registration_created_at": "2024-06-19 17:24:48"
+        },
+        {
+            "name": "ARNETA RIMA DANI",
+            "nisn": "0083434674",
+            "grade_final": "86.27",
+            "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+            "registration_created_at": "2024-06-19 00:46:56"
+        },
+        {
+            "name": "AZARINE VALDA ZERLINDA",
+            "nisn": "0083837414",
+            "grade_final": "86.27",
+            "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+            "registration_created_at": "2024-06-18 15:00:19"
+        },
+        {
+            "name": "MUHAMMAD FARREL SETYADI",
+            "nisn": "3083395377",
+            "grade_final": "86.27",
+            "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+            "registration_created_at": "2024-06-18 06:04:34"
+        },
+        {
+            "name": "FAHMIDA FITRI NAFISA",
+            "nisn": "0086820611",
+            "grade_final": "86.27",
+            "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+            "registration_created_at": "2024-06-18 11:39:14"
+        },
+        {
+            "name": "MEI DWI ARDIANA PUTRI",
+            "nisn": "0096358876",
+            "grade_final": "86.26",
+            "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+            "registration_created_at": "2024-06-18 00:06:34"
+        },
+        {
+            "name": "ZAININA FEBRIANTI",
+            "nisn": "0098230384",
+            "grade_final": "86.26",
+            "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+            "registration_created_at": "2024-06-18 03:53:08"
+        },
+        {
+            "name": "LEVINA PUTRI OKTAVIA",
+            "nisn": "3081131333",
+            "grade_final": "86.23",
+            "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+            "registration_created_at": "2024-06-18 00:22:12"
+        },
+        {
+            "name": "CHELSEA THALITA AULIA",
+            "nisn": "0097091178",
+            "grade_final": "86.23",
+            "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+            "registration_created_at": "2024-06-18 00:04:15"
+        },
+        {
+            "name": "CINTARA PUTRI APRILYA",
+            "nisn": "0095961050",
+            "grade_final": "86.22",
+            "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+            "registration_created_at": "2024-06-18 19:22:08"
+        },
+        {
+            "name": "NUR AISYAH KHOIRUL KARIMAH  ",
+            "nisn": "0085233422",
+            "grade_final": "86.22",
+            "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+            "registration_created_at": "2024-06-18 05:58:46"
+        },
+        {
+            "name": "Dio Eka Wahyudi",
+            "nisn": "0083391633",
+            "grade_final": "86.17",
+            "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+            "registration_created_at": "2024-06-18 05:44:13"
+        },
+        {
+            "name": "AHMAD FAIRUZZALFA",
+            "nisn": "0099019096",
+            "grade_final": "86.17",
+            "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+            "registration_created_at": "2024-06-18 05:49:00"
+        },
+        {
+            "name": "MIRSA PUTRI APRELIA",
+            "nisn": "0097903632",
+            "grade_final": "86.14",
+            "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+            "registration_created_at": "2024-06-19 17:55:34"
+        },
+        {
+            "name": "MARSHA TIA IJABAH",
+            "nisn": "3095305728",
+            "grade_final": "86.13",
+            "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+            "registration_created_at": "2024-06-18 06:05:36"
+        },
+        {
+            "name": "CLARYSA MAY REGINA",
+            "nisn": "0094128662",
+            "grade_final": "86.05",
+            "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+            "registration_created_at": "2024-06-18 06:00:09"
+        },
+        {
+            "name": "SEFIRA PUTRI WULANDARI",
+            "nisn": "0088909232",
+            "grade_final": "86.04",
+            "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+            "registration_created_at": "2024-06-18 17:20:42"
+        },
+        {
+            "name": "RISMA AULIA",
+            "nisn": "0085213122",
+            "grade_final": "86.04",
+            "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+            "registration_created_at": "2024-06-19 05:33:38"
+        },
+        {
+            "name": "CHINTIYA DWI ANGGRAINI",
+            "nisn": "0084695825",
+            "grade_final": "86.03",
+            "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+            "registration_created_at": "2024-06-18 11:28:12"
+        },
+        {
+            "name": "FIRANINDA SUCI AYUNISA",
+            "nisn": "0081844459",
+            "grade_final": "85.99",
+            "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+            "registration_created_at": "2024-06-18 11:07:20"
+        },
+        {
+            "name": "ALICIA NUR SABILA",
+            "nisn": "3080667200",
+            "grade_final": "85.99",
+            "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+            "registration_created_at": "2024-06-18 01:03:31"
+        },
+        {
+            "name": "Billal Hadi Wijaya",
+            "nisn": "0084272306",
+            "grade_final": "85.97",
+            "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+            "registration_created_at": "2024-06-18 05:31:40"
+        },
+        {
+            "name": "ZIZIANA GADIS SYAHRANI",
+            "nisn": "0088079810",
+            "grade_final": "85.97",
+            "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+            "registration_created_at": "2024-06-18 00:05:43"
+        },
+        {
+            "name": "AMELIA PUTRI SETYA RAMADHANI",
+            "nisn": "0091372677",
+            "grade_final": "85.96",
+            "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+            "registration_created_at": "2024-06-18 09:16:00"
+        }
+    ]
+}

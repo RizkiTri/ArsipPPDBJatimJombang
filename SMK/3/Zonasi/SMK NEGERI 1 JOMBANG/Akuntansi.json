@@ -1,0 +1,170 @@
+[
+    {
+        "name": "DIYANAH TALITA SAKHI",
+        "nisn": "0092492028",
+        "distance": "656",
+        "registration_created_at": "2024-06-22 00:48:11",
+        "smk": {
+            "name": "SMK NEGERI 1 JOMBANG",
+            "major": {
+                "name": "Akuntansi"
+            }
+        }
+    },
+    {
+        "name": "RIFATUL NAILA RAMADHANI",
+        "nisn": "3082695404",
+        "distance": "882",
+        "registration_created_at": "2024-06-22 08:14:46",
+        "smk": {
+            "name": "SMK NEGERI 1 JOMBANG",
+            "major": {
+                "name": "Akuntansi"
+            }
+        }
+    },
+    {
+        "name": "TEOFANI AMEILIA RAHADJO",
+        "nisn": "0082773519",
+        "distance": "971",
+        "registration_created_at": "2024-06-22 00:04:10",
+        "smk": {
+            "name": "SMK NEGERI 1 JOMBANG",
+            "major": {
+                "name": "Akuntansi"
+            }
+        }
+    },
+    {
+        "name": "NANING NASTITI SETIANINGSIH",
+        "nisn": "0088888578",
+        "distance": "1020",
+        "registration_created_at": "2024-06-22 00:24:39",
+        "smk": {
+            "name": "SMK NEGERI 1 JOMBANG",
+            "major": {
+                "name": "Akuntansi"
+            }
+        }
+    },
+    {
+        "name": "REYSA MAULIA SIVANA",
+        "nisn": "0093146915",
+        "distance": "1023",
+        "registration_created_at": "2024-06-22 00:12:10",
+        "smk": {
+            "name": "SMK NEGERI 1 JOMBANG",
+            "major": {
+                "name": "Akuntansi"
+            }
+        }
+    },
+    {
+        "name": "PARWA GANGGA PRAMESTY",
+        "nisn": "0097435145",
+        "distance": "1040",
+        "registration_created_at": "2024-06-22 00:16:09",
+        "smk": {
+            "name": "SMK NEGERI 1 JOMBANG",
+            "major": {
+                "name": "Akuntansi"
+            }
+        }
+    },
+    {
+        "name": "AGNETHA OKTALIA WIJAYA",
+        "nisn": "0088491520",
+        "distance": "1141",
+        "registration_created_at": "2024-06-22 00:24:49",
+        "smk": {
+            "name": "SMK NEGERI 1 JOMBANG",
+            "major": {
+                "name": "Akuntansi"
+            }
+        }
+    },
+    {
+        "name": "ANNISA DWI FITRIA",
+        "nisn": "0084780544",
+        "distance": "1155",
+        "registration_created_at": "2024-06-22 00:17:40",
+        "smk": {
+            "name": "SMK NEGERI 1 JOMBANG",
+            "major": {
+                "name": "Akuntansi"
+            }
+        }
+    },
+    {
+        "name": "IMELDA ZAHROTUS SITA",
+        "nisn": "0095294641",
+        "distance": "1420",
+        "registration_created_at": "2024-06-23 11:37:27",
+        "smk": {
+            "name": "SMK NEGERI 1 JOMBANG",
+            "major": {
+                "name": "Akuntansi"
+            }
+        }
+    },
+    {
+        "name": "NABILA SEPTYAN DWI RAMADHANI",
+        "nisn": "0082505006",
+        "distance": "1422",
+        "registration_created_at": "2024-06-22 00:38:24",
+        "smk": {
+            "name": "SMK NEGERI 1 JOMBANG",
+            "major": {
+                "name": "Akuntansi"
+            }
+        }
+    },
+    {
+        "name": "CHANDRA WIBOWO",
+        "nisn": "0091772201",
+        "distance": "1436",
+        "registration_created_at": "2024-06-22 02:48:47",
+        "smk": {
+            "name": "SMK NEGERI 1 JOMBANG",
+            "major": {
+                "name": "Akuntansi"
+            }
+        }
+    },
+    {
+        "name": "SYAIROTULSITA MECA ANDARI",
+        "nisn": "0087146990",
+        "distance": "1450",
+        "registration_created_at": "2024-06-22 01:39:15",
+        "smk": {
+            "name": "SMK NEGERI 1 JOMBANG",
+            "major": {
+                "name": "Akuntansi"
+            }
+        }
+    },
+    {
+        "name": "AHMAD FAHRUL IRHAM SYAHBILLAL",
+        "nisn": "0086750070",
+        "distance": "1475",
+        "registration_created_at": "2024-06-22 07:33:48",
+        "smk": {
+            "name": "SMK NEGERI 1 JOMBANG",
+            "major": {
+                "name": "Akuntansi"
+            }
+        }
+    },
+    {
+        "name": "AMELIA PUTRI PURWANTI",
+        "nisn": "0084785672",
+        "distance": "1495",
+        "registration_created_at": "2024-06-22 06:40:36",
+        "smk": {
+            "name": "SMK NEGERI 1 JOMBANG",
+            "major": {
+                "name": "Akuntansi"
+            }
+        }
+    }
+]

@@ -1,0 +1,338 @@
+[
+    {
+        "name": "NURIL HUDA",
+        "nisn": "0084448442",
+        "distance": "467",
+        "registration_created_at": "2024-06-22 08:40:10",
+        "smk": {
+            "name": "SMK NEGERI KABUH",
+            "major": {
+                "name": "Teknik Kimia Industri"
+            }
+        }
+    },
+    {
+        "name": "PUJI SRI WAHYUNI",
+        "nisn": "0085988418",
+        "distance": "519",
+        "registration_created_at": "2024-06-22 06:09:48",
+        "smk": {
+            "name": "SMK NEGERI KABUH",
+            "major": {
+                "name": "Teknik Kimia Industri"
+            }
+        }
+    },
+    {
+        "name": "DANOVAN ANUGRAH RAMADHAN PRATAMA",
+        "nisn": "0086541166",
+        "distance": "672",
+        "registration_created_at": "2024-06-22 00:20:21",
+        "smk": {
+            "name": "SMK NEGERI KABUH",
+            "major": {
+                "name": "Teknik Kimia Industri"
+            }
+        }
+    },
+    {
+        "name": "ALLIN NATASYA",
+        "nisn": "0084649994",
+        "distance": "702",
+        "registration_created_at": "2024-06-22 08:06:56",
+        "smk": {
+            "name": "SMK NEGERI KABUH",
+            "major": {
+                "name": "Teknik Kimia Industri"
+            }
+        }
+    },
+    {
+        "name": "MUHAMMAD TIOFANI CHANDRA",
+        "nisn": "0081924777",
+        "distance": "859",
+        "registration_created_at": "2024-06-22 14:04:57",
+        "smk": {
+            "name": "SMK NEGERI KABUH",
+            "major": {
+                "name": "Teknik Kimia Industri"
+            }
+        }
+    },
+    {
+        "name": "SALMAN YUSUF ALFARIDZI",
+        "nisn": "0088221958",
+        "distance": "901",
+        "registration_created_at": "2024-06-22 08:26:10",
+        "smk": {
+            "name": "SMK NEGERI KABUH",
+            "major": {
+                "name": "Teknik Kimia Industri"
+            }
+        }
+    },
+    {
+        "name": "SILVIA NUR AINI RAHMADINA",
+        "nisn": "0082603556",
+        "distance": "966",
+        "registration_created_at": "2024-06-22 00:25:53",
+        "smk": {
+            "name": "SMK NEGERI KABUH",
+            "major": {
+                "name": "Teknik Kimia Industri"
+            }
+        }
+    },
+    {
+        "name": "Rizqiya Al Maghfiroh Amanatus Sueb",
+        "nisn": "0092880242",
+        "distance": "995",
+        "registration_created_at": "2024-06-22 08:32:21",
+        "smk": {
+            "name": "SMK NEGERI KABUH",
+            "major": {
+                "name": "Teknik Kimia Industri"
+            }
+        }
+    },
+    {
+        "name": "PRIMA JEFRI NUR IMAN",
+        "nisn": "0097512040",
+        "distance": "1007",
+        "registration_created_at": "2024-06-22 00:34:43",
+        "smk": {
+            "name": "SMK NEGERI KABUH",
+            "major": {
+                "name": "Teknik Kimia Industri"
+            }
+        }
+    },
+    {
+        "name": "ANINDITA HILMIATUS ZULIAMFANA",
+        "nisn": "0099652646",
+        "distance": "1030",
+        "registration_created_at": "2024-06-22 02:31:12",
+        "smk": {
+            "name": "SMK NEGERI KABUH",
+            "major": {
+                "name": "Teknik Kimia Industri"
+            }
+        }
+    },
+    {
+        "name": "MUCHAMMAD APRIANSAH",
+        "nisn": "0091660287",
+        "distance": "1031",
+        "registration_created_at": "2024-06-22 00:26:26",
+        "smk": {
+            "name": "SMK NEGERI KABUH",
+            "major": {
+                "name": "Teknik Kimia Industri"
+            }
+        }
+    },
+    {
+        "name": "ACHMAD MUSYABANA",
+        "nisn": "0092362751",
+        "distance": "1040",
+        "registration_created_at": "2024-06-22 07:15:54",
+        "smk": {
+            "name": "SMK NEGERI KABUH",
+            "major": {
+                "name": "Teknik Kimia Industri"
+            }
+        }
+    },
+    {
+        "name": "GALUH EVA SINTYA",
+        "nisn": "0082631894",
+        "distance": "1047",
+        "registration_created_at": "2024-06-22 09:43:02",
+        "smk": {
+            "name": "SMK NEGERI KABUH",
+            "major": {
+                "name": "Teknik Kimia Industri"
+            }
+        }
+    },
+    {
+        "name": "DEDEK KENNO ALIF",
+        "nisn": "0088094298",
+        "distance": "1064",
+        "registration_created_at": "2024-06-22 06:25:51",
+        "smk": {
+            "name": "SMK NEGERI KABUH",
+            "major": {
+                "name": "Teknik Kimia Industri"
+            }
+        }
+    },
+    {
+        "name": "IMAM SIGIT AHMAT JAINURI",
+        "nisn": "0081243335",
+        "distance": "1068",
+        "registration_created_at": "2024-06-22 07:31:00",
+        "smk": {
+            "name": "SMK NEGERI KABUH",
+            "major": {
+                "name": "Teknik Kimia Industri"
+            }
+        }
+    },
+    {
+        "name": "SRIVA AGUSTINA",
+        "nisn": "0085053733",
+        "distance": "1115",
+        "registration_created_at": "2024-06-22 09:18:17",
+        "smk": {
+            "name": "SMK NEGERI KABUH",
+            "major": {
+                "name": "Teknik Kimia Industri"
+            }
+        }
+    },
+    {
+        "name": "MUCHAMAD ARIF ARROHMAN",
+        "nisn": "0083980910",
+        "distance": "1123",
+        "registration_created_at": "2024-06-22 06:26:35",
+        "smk": {
+            "name": "SMK NEGERI KABUH",
+            "major": {
+                "name": "Teknik Kimia Industri"
+            }
+        }
+    },
+    {
+        "name": "AISHA NANDA LAUDYA",
+        "nisn": "0097328082",
+        "distance": "1131",
+        "registration_created_at": "2024-06-22 08:26:21",
+        "smk": {
+            "name": "SMK NEGERI KABUH",
+            "major": {
+                "name": "Teknik Kimia Industri"
+            }
+        }
+    },
+    {
+        "name": "DIKA BAGUS RAHMADANI",
+        "nisn": "0086387517",
+        "distance": "1226",
+        "registration_created_at": "2024-06-22 00:06:31",
+        "smk": {
+            "name": "SMK NEGERI KABUH",
+            "major": {
+                "name": "Teknik Kimia Industri"
+            }
+        }
+    },
+    {
+        "name": "Maylisa Widhiayu Wulandari",
+        "nisn": "0081467230",
+        "distance": "1315",
+        "registration_created_at": "2024-06-22 16:51:14",
+        "smk": {
+            "name": "SMK NEGERI KABUH",
+            "major": {
+                "name": "Teknik Kimia Industri"
+            }
+        }
+    },
+    {
+        "name": "AYU WULAN ESTIANTI",
+        "nisn": "0085057303",
+        "distance": "1322",
+        "registration_created_at": "2024-06-22 07:16:48",
+        "smk": {
+            "name": "SMK NEGERI KABUH",
+            "major": {
+                "name": "Teknik Kimia Industri"
+            }
+        }
+    },
+    {
+        "name": "Sapto Adji Nur Alam",
+        "nisn": "0094710351",
+        "distance": "1444",
+        "registration_created_at": "2024-06-22 01:40:35",
+        "smk": {
+            "name": "SMK NEGERI KABUH",
+            "major": {
+                "name": "Teknik Kimia Industri"
+            }
+        }
+    },
+    {
+        "name": "Fais Yusuf Maulana",
+        "nisn": "0076262026",
+        "distance": "1731",
+        "registration_created_at": "2024-06-22 09:06:58",
+        "smk": {
+            "name": "SMK NEGERI KABUH",
+            "major": {
+                "name": "Teknik Kimia Industri"
+            }
+        }
+    },
+    {
+        "name": "ANGGI BASTIAN DWI HANDOKO",
+        "nisn": "3085388021",
+        "distance": "1771",
+        "registration_created_at": "2024-06-22 10:34:19",
+        "smk": {
+            "name": "SMK NEGERI KABUH",
+            "major": {
+                "name": "Teknik Kimia Industri"
+            }
+        }
+    },
+    {
+        "name": "CINTA ZAHROTUS SITTA",
+        "nisn": "0093747351",
+        "distance": "1779",
+        "registration_created_at": "2024-06-22 09:14:17",
+        "smk": {
+            "name": "SMK NEGERI KABUH",
+            "major": {
+                "name": "Teknik Kimia Industri"
+            }
+        }
+    },
+    {
+        "name": "MUHAMMAD IRSYAD SAIFULLOH",
+        "nisn": "3084963743",
+        "distance": "1792",
+        "registration_created_at": "2024-06-22 06:40:23",
+        "smk": {
+            "name": "SMK NEGERI KABUH",
+            "major": {
+                "name": "Teknik Kimia Industri"
+            }
+        }
+    },
+    {
+        "name": "ANANDA FAHRUR ARDYANSYAH",
+        "nisn": "0082998987",
+        "distance": "1829",
+        "registration_created_at": "2024-06-22 08:06:09",
+        "smk": {
+            "name": "SMK NEGERI KABUH",
+            "major": {
+                "name": "Teknik Kimia Industri"
+            }
+        }
+    },
+    {
+        "name": "TRIAN ANNAS WIRAWAN",
+        "nisn": "3085428175",
+        "distance": "1832",
+        "registration_created_at": "2024-06-22 15:54:50",
+        "smk": {
+            "name": "SMK NEGERI KABUH",
+            "major": {
+                "name": "Teknik Kimia Industri"
+            }
+        }
+    }
+]

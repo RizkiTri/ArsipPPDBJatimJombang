@@ -1,0 +1,86 @@
+[
+    {
+        "name": "DIFA NISSAUL FIQRIYAH",
+        "nisn": "0094229823",
+        "distance": "619",
+        "registration_created_at": "2024-06-22 00:04:33",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Audio Video"
+            }
+        }
+    },
+    {
+        "name": "NOVALIO BILLY ALVINO",
+        "nisn": "0091438364",
+        "distance": "781",
+        "registration_created_at": "2024-06-23 10:49:27",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Audio Video"
+            }
+        }
+    },
+    {
+        "name": "ALFIRA FATMA AULIA",
+        "nisn": "0088671194",
+        "distance": "952",
+        "registration_created_at": "2024-06-22 00:06:14",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Audio Video"
+            }
+        }
+    },
+    {
+        "name": "ERYCHO ANSORI HAMBALI",
+        "nisn": "0087514226",
+        "distance": "1613",
+        "registration_created_at": "2024-06-22 00:49:36",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Audio Video"
+            }
+        }
+    },
+    {
+        "name": "ALAIKA IHSANI FAUZAN",
+        "nisn": "0086444459",
+        "distance": "1802",
+        "registration_created_at": "2024-06-22 05:29:52",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Audio Video"
+            }
+        }
+    },
+    {
+        "name": "ALFA RIZKY AGUNG SAPUTRA",
+        "nisn": "3073489553",
+        "distance": "1935",
+        "registration_created_at": "2024-06-23 19:03:18",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Audio Video"
+            }
+        }
+    },
+    {
+        "name": "MOHAMMAD FEBRIANTO KURNIAWAN",
+        "nisn": "0083727307",
+        "distance": "2108",
+        "registration_created_at": "2024-06-22 05:55:51",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Audio Video"
+            }
+        }
+    }
+]

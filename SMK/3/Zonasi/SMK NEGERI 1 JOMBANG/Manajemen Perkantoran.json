@@ -1,0 +1,86 @@
+[
+    {
+        "name": "PAMELA PUTRI HARDIANTY",
+        "nisn": "0087920862",
+        "distance": "302",
+        "registration_created_at": "2024-06-22 03:59:20",
+        "smk": {
+            "name": "SMK NEGERI 1 JOMBANG",
+            "major": {
+                "name": "Manajemen Perkantoran"
+            }
+        }
+    },
+    {
+        "name": "Sinta Nur Aini",
+        "nisn": "0083476556",
+        "distance": "398",
+        "registration_created_at": "2024-06-22 01:11:34",
+        "smk": {
+            "name": "SMK NEGERI 1 JOMBANG",
+            "major": {
+                "name": "Manajemen Perkantoran"
+            }
+        }
+    },
+    {
+        "name": "Alya Fildzah Kalila",
+        "nisn": "0081349353",
+        "distance": "567",
+        "registration_created_at": "2024-06-22 03:17:50",
+        "smk": {
+            "name": "SMK NEGERI 1 JOMBANG",
+            "major": {
+                "name": "Manajemen Perkantoran"
+            }
+        }
+    },
+    {
+        "name": "PATRICIA DEA AMELLYA",
+        "nisn": "0092889894",
+        "distance": "640",
+        "registration_created_at": "2024-06-22 09:49:17",
+        "smk": {
+            "name": "SMK NEGERI 1 JOMBANG",
+            "major": {
+                "name": "Manajemen Perkantoran"
+            }
+        }
+    },
+    {
+        "name": "Dhea Adinda Arianti",
+        "nisn": "0098271428",
+        "distance": "714",
+        "registration_created_at": "2024-06-22 00:13:51",
+        "smk": {
+            "name": "SMK NEGERI 1 JOMBANG",
+            "major": {
+                "name": "Manajemen Perkantoran"
+            }
+        }
+    },
+    {
+        "name": "DIOVA NIVELNIA KEYSHA HUDAYA",
+        "nisn": "3093598163",
+        "distance": "844",
+        "registration_created_at": "2024-06-22 00:04:13",
+        "smk": {
+            "name": "SMK NEGERI 1 JOMBANG",
+            "major": {
+                "name": "Manajemen Perkantoran"
+            }
+        }
+    },
+    {
+        "name": "Kharisma Dewi Sakhina",
+        "nisn": "0084987748",
+        "distance": "861",
+        "registration_created_at": "2024-06-22 03:59:41",
+        "smk": {
+            "name": "SMK NEGERI 1 JOMBANG",
+            "major": {
+                "name": "Manajemen Perkantoran"
+            }
+        }
+    }
+]

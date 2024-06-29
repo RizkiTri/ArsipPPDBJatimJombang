@@ -1,0 +1,182 @@
+[
+    {
+        "name": "RAHMAT EVAN DWI PRAKOSO",
+        "nisn": "0092744165",
+        "distance": "320",
+        "registration_created_at": "2024-06-22 05:45:39",
+        "smk": {
+            "name": "SMK NEGERI KUDU",
+            "major": {
+                "name": "Teknik Pemesinan"
+            }
+        }
+    },
+    {
+        "name": "MUHAMMAD RIZAL ANDIKA",
+        "nisn": "0088290411",
+        "distance": "438",
+        "registration_created_at": "2024-06-22 06:10:43",
+        "smk": {
+            "name": "SMK NEGERI KUDU",
+            "major": {
+                "name": "Teknik Pemesinan"
+            }
+        }
+    },
+    {
+        "name": "MUKHAMAD ABDUL KHOLIK",
+        "nisn": "0093163644",
+        "distance": "807",
+        "registration_created_at": "2024-06-22 05:26:28",
+        "smk": {
+            "name": "SMK NEGERI KUDU",
+            "major": {
+                "name": "Teknik Pemesinan"
+            }
+        }
+    },
+    {
+        "name": "RICO ACHMAD MAULANA",
+        "nisn": "0089647306",
+        "distance": "1146",
+        "registration_created_at": "2024-06-22 00:21:31",
+        "smk": {
+            "name": "SMK NEGERI KUDU",
+            "major": {
+                "name": "Teknik Pemesinan"
+            }
+        }
+    },
+    {
+        "name": "MUHAMMAD RIDHO MAULIDAN ",
+        "nisn": "3091639766",
+        "distance": "1148",
+        "registration_created_at": "2024-06-22 00:14:06",
+        "smk": {
+            "name": "SMK NEGERI KUDU",
+            "major": {
+                "name": "Teknik Pemesinan"
+            }
+        }
+    },
+    {
+        "name": "Mohamad Dwi Kurniawan",
+        "nisn": "0088499824",
+        "distance": "1227",
+        "registration_created_at": "2024-06-22 06:59:06",
+        "smk": {
+            "name": "SMK NEGERI KUDU",
+            "major": {
+                "name": "Teknik Pemesinan"
+            }
+        }
+    },
+    {
+        "name": "MUCHAMAD ISROFIL AMAR",
+        "nisn": "0088280653",
+        "distance": "1419",
+        "registration_created_at": "2024-06-22 16:39:18",
+        "smk": {
+            "name": "SMK NEGERI KUDU",
+            "major": {
+                "name": "Teknik Pemesinan"
+            }
+        }
+    },
+    {
+        "name": "ZIDANI MARCELYNO",
+        "nisn": "0082975000",
+        "distance": "1613",
+        "registration_created_at": "2024-06-22 07:38:31",
+        "smk": {
+            "name": "SMK NEGERI KUDU",
+            "major": {
+                "name": "Teknik Pemesinan"
+            }
+        }
+    },
+    {
+        "name": "MUHAMMAD WILLY RAMADHAN ALAMSYAH",
+        "nisn": "0095286116",
+        "distance": "1806",
+        "registration_created_at": "2024-06-22 09:31:50",
+        "smk": {
+            "name": "SMK NEGERI KUDU",
+            "major": {
+                "name": "Teknik Pemesinan"
+            }
+        }
+    },
+    {
+        "name": "Rasya Kasyafino Nauffal",
+        "nisn": "3087833986",
+        "distance": "1821",
+        "registration_created_at": "2024-06-22 09:20:56",
+        "smk": {
+            "name": "SMK NEGERI KUDU",
+            "major": {
+                "name": "Teknik Pemesinan"
+            }
+        }
+    },
+    {
+        "name": "RIZKI TRIYANTO",
+        "nisn": "0095893685",
+        "distance": "1884",
+        "registration_created_at": "2024-06-22 00:22:50",
+        "smk": {
+            "name": "SMK NEGERI KUDU",
+            "major": {
+                "name": "Teknik Pemesinan"
+            }
+        }
+    },
+    {
+        "name": "Mahfud Syahroni",
+        "nisn": "0098246130",
+        "distance": "1899",
+        "registration_created_at": "2024-06-22 06:41:33",
+        "smk": {
+            "name": "SMK NEGERI KUDU",
+            "major": {
+                "name": "Teknik Pemesinan"
+            }
+        }
+    },
+    {
+        "name": "REVALDI ADITYA CAHYA PRATAMA",
+        "nisn": "0072929347",
+        "distance": "2037",
+        "registration_created_at": "2024-06-22 07:50:44",
+        "smk": {
+            "name": "SMK NEGERI KUDU",
+            "major": {
+                "name": "Teknik Pemesinan"
+            }
+        }
+    },
+    {
+        "name": "MUHAMMAD ZAINURI",
+        "nisn": "0086394180",
+        "distance": "2102",
+        "registration_created_at": "2024-06-22 12:00:20",
+        "smk": {
+            "name": "SMK NEGERI KUDU",
+            "major": {
+                "name": "Teknik Pemesinan"
+            }
+        }
+    },
+    {
+        "name": "IRVAN",
+        "nisn": "0087316733",
+        "distance": "2131",
+        "registration_created_at": "2024-06-22 11:52:20",
+        "smk": {
+            "name": "SMK NEGERI KUDU",
+            "major": {
+                "name": "Teknik Pemesinan"
+            }
+        }
+    }
+]

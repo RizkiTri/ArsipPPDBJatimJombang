@@ -1,0 +1,314 @@
+[
+    {
+        "name": "ACHMALLUDIN GALANG SUBAGIO",
+        "nisn": "0092088714",
+        "distance": "167",
+        "registration_created_at": "2024-06-22 03:19:54",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Instalasi Tenaga Listrik"
+            }
+        }
+    },
+    {
+        "name": "REAGAN AFTIANDI PRATAMA",
+        "nisn": "0082080258",
+        "distance": "221",
+        "registration_created_at": "2024-06-22 00:17:36",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Instalasi Tenaga Listrik"
+            }
+        }
+    },
+    {
+        "name": "ALVIN ASYADULLOH FIRDAUS",
+        "nisn": "0087328146",
+        "distance": "575",
+        "registration_created_at": "2024-06-22 08:54:21",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Instalasi Tenaga Listrik"
+            }
+        }
+    },
+    {
+        "name": "MUHAMMAD ALDY AL LATHIF",
+        "nisn": "3094839810",
+        "distance": "635",
+        "registration_created_at": "2024-06-22 09:16:16",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Instalasi Tenaga Listrik"
+            }
+        }
+    },
+    {
+        "name": "MUHAMMAD HABIB SETYA PRAMODYA",
+        "nisn": "0084244091",
+        "distance": "735",
+        "registration_created_at": "2024-06-22 09:57:55",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Instalasi Tenaga Listrik"
+            }
+        }
+    },
+    {
+        "name": "MOECHAMMAD DUDE DWI HERLINO",
+        "nisn": "0081572909",
+        "distance": "802",
+        "registration_created_at": "2024-06-22 01:19:55",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Instalasi Tenaga Listrik"
+            }
+        }
+    },
+    {
+        "name": "Lintang Ramadhani",
+        "nisn": "0081417060",
+        "distance": "906",
+        "registration_created_at": "2024-06-22 00:07:44",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Instalasi Tenaga Listrik"
+            }
+        }
+    },
+    {
+        "name": "FEBRI DWI SANGAJI",
+        "nisn": "0029702681",
+        "distance": "909",
+        "registration_created_at": "2024-06-22 00:23:10",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Instalasi Tenaga Listrik"
+            }
+        }
+    },
+    {
+        "name": "Mohammad Zhaqy Firdaus Alfiyansyah",
+        "nisn": "3098908417",
+        "distance": "1040",
+        "registration_created_at": "2024-06-22 12:02:09",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Instalasi Tenaga Listrik"
+            }
+        }
+    },
+    {
+        "name": "RISKY RIDHLO MAULANA",
+        "nisn": "0085125584",
+        "distance": "1080",
+        "registration_created_at": "2024-06-22 02:40:09",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Instalasi Tenaga Listrik"
+            }
+        }
+    },
+    {
+        "name": "RENO NOVA ALIFIAN",
+        "nisn": "0098826965",
+        "distance": "1130",
+        "registration_created_at": "2024-06-22 05:56:23",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Instalasi Tenaga Listrik"
+            }
+        }
+    },
+    {
+        "name": "MAULANA HAFID ALEKTA",
+        "nisn": "0086945391",
+        "distance": "1150",
+        "registration_created_at": "2024-06-22 11:12:35",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Instalasi Tenaga Listrik"
+            }
+        }
+    },
+    {
+        "name": "MAULANA AYYUS ALIYUDDIN",
+        "nisn": "0084497232",
+        "distance": "1262",
+        "registration_created_at": "2024-06-22 00:05:46",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Instalasi Tenaga Listrik"
+            }
+        }
+    },
+    {
+        "name": "BIMA TRI SULAKSONO",
+        "nisn": "0088238349",
+        "distance": "1313",
+        "registration_created_at": "2024-06-22 05:24:16",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Instalasi Tenaga Listrik"
+            }
+        }
+    },
+    {
+        "name": "MUKHAMMAD FIKRI ABRORI",
+        "nisn": "3097277386",
+        "distance": "1354",
+        "registration_created_at": "2024-06-23 07:27:38",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Instalasi Tenaga Listrik"
+            }
+        }
+    },
+    {
+        "name": "SELA TRI HANDAYANI",
+        "nisn": "0072554193",
+        "distance": "1367",
+        "registration_created_at": "2024-06-22 08:11:16",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Instalasi Tenaga Listrik"
+            }
+        }
+    },
+    {
+        "name": "SURYA PUTRA PAMUNGKAS",
+        "nisn": "0075171597",
+        "distance": "1399",
+        "registration_created_at": "2024-06-22 14:01:58",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Instalasi Tenaga Listrik"
+            }
+        }
+    },
+    {
+        "name": "Ataya Fikri Rizqulah",
+        "nisn": "0087569620",
+        "distance": "1405",
+        "registration_created_at": "2024-06-23 17:21:28",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Instalasi Tenaga Listrik"
+            }
+        }
+    },
+    {
+        "name": "IRFATH MUHAMMAD SUBQI",
+        "nisn": "0088515774",
+        "distance": "1435",
+        "registration_created_at": "2024-06-23 15:30:35",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Instalasi Tenaga Listrik"
+            }
+        }
+    },
+    {
+        "name": "Mohammad Farhan Khoirul Azizi",
+        "nisn": "3098824951",
+        "distance": "1462",
+        "registration_created_at": "2024-06-22 02:58:24",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Instalasi Tenaga Listrik"
+            }
+        }
+    },
+    {
+        "name": "AKHMAD RIDHO YANUARI",
+        "nisn": "0095285017",
+        "distance": "1536",
+        "registration_created_at": "2024-06-22 08:26:41",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Instalasi Tenaga Listrik"
+            }
+        }
+    },
+    {
+        "name": "YUDHISTIRA SULIADI PUTRA",
+        "nisn": "0158298453",
+        "distance": "1543",
+        "registration_created_at": "2024-06-22 06:18:47",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Instalasi Tenaga Listrik"
+            }
+        }
+    },
+    {
+        "name": "ADITYA BAYU LESMANA",
+        "nisn": "0097590897",
+        "distance": "1631",
+        "registration_created_at": "2024-06-22 05:29:10",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Instalasi Tenaga Listrik"
+            }
+        }
+    },
+    {
+        "name": "VIKY EKA PRAMUDYA",
+        "nisn": "0096753828",
+        "distance": "1632",
+        "registration_created_at": "2024-06-22 05:38:00",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Instalasi Tenaga Listrik"
+            }
+        }
+    },
+    {
+        "name": "JESKY ROCHMAD WAHYUDI",
+        "nisn": "0076819392",
+        "distance": "1646",
+        "registration_created_at": "2024-06-22 04:32:39",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Instalasi Tenaga Listrik"
+            }
+        }
+    },
+    {
+        "name": "MUHAMMAD IBRAHIM AL HABSYI SANTOSO",
+        "nisn": "3083230363",
+        "distance": "1792",
+        "registration_created_at": "2024-06-22 00:04:32",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Instalasi Tenaga Listrik"
+            }
+        }
+    }
+]

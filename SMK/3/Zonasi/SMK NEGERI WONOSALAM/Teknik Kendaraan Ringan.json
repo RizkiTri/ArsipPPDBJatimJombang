@@ -1,0 +1,86 @@
+[
+    {
+        "name": "VERY AHMAD PUTRA",
+        "nisn": "0091859281",
+        "distance": "293",
+        "registration_created_at": "2024-06-22 11:02:43",
+        "smk": {
+            "name": "SMK NEGERI WONOSALAM",
+            "major": {
+                "name": "Teknik Kendaraan Ringan"
+            }
+        }
+    },
+    {
+        "name": "REFAN REFANDY PRAWIRA PUTRA",
+        "nisn": "0095850997",
+        "distance": "415",
+        "registration_created_at": "2024-06-22 07:09:28",
+        "smk": {
+            "name": "SMK NEGERI WONOSALAM",
+            "major": {
+                "name": "Teknik Kendaraan Ringan"
+            }
+        }
+    },
+    {
+        "name": "Weby Quariezma",
+        "nisn": "0084636341",
+        "distance": "467",
+        "registration_created_at": "2024-06-22 10:50:55",
+        "smk": {
+            "name": "SMK NEGERI WONOSALAM",
+            "major": {
+                "name": "Teknik Kendaraan Ringan"
+            }
+        }
+    },
+    {
+        "name": "ADI PERMANA FHATQURROHMAN",
+        "nisn": "0089264451",
+        "distance": "1750",
+        "registration_created_at": "2024-06-22 00:04:22",
+        "smk": {
+            "name": "SMK NEGERI WONOSALAM",
+            "major": {
+                "name": "Teknik Kendaraan Ringan"
+            }
+        }
+    },
+    {
+        "name": "GALANG RAMA SETIA AGUNG",
+        "nisn": "0088480777",
+        "distance": "2109",
+        "registration_created_at": "2024-06-23 07:04:38",
+        "smk": {
+            "name": "SMK NEGERI WONOSALAM",
+            "major": {
+                "name": "Teknik Kendaraan Ringan"
+            }
+        }
+    },
+    {
+        "name": "MUHAMAD AINUL FIKRI ROMADHON",
+        "nisn": "0084371608",
+        "distance": "2379",
+        "registration_created_at": "2024-06-22 10:32:59",
+        "smk": {
+            "name": "SMK NEGERI WONOSALAM",
+            "major": {
+                "name": "Teknik Kendaraan Ringan"
+            }
+        }
+    },
+    {
+        "name": "RAMADHAN ALDYANSACH",
+        "nisn": "0078076038",
+        "distance": "2623",
+        "registration_created_at": "2024-06-22 11:01:38",
+        "smk": {
+            "name": "SMK NEGERI WONOSALAM",
+            "major": {
+                "name": "Teknik Kendaraan Ringan"
+            }
+        }
+    }
+]

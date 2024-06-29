@@ -1,0 +1,122 @@
+[
+    {
+        "name": "AHMAD FADLI NUR HABIBI",
+        "nisn": "0088897065",
+        "distance": "427",
+        "registration_created_at": "2024-06-23 08:36:39",
+        "smk": {
+            "name": "SMK NEGERI KUDU",
+            "major": {
+                "name": "Teknik Konstruksi dan Perumahan"
+            }
+        }
+    },
+    {
+        "name": "SUSILO RAMA ADITYA",
+        "nisn": "0077636712",
+        "distance": "1053",
+        "registration_created_at": "2024-06-22 16:59:27",
+        "smk": {
+            "name": "SMK NEGERI KUDU",
+            "major": {
+                "name": "Teknik Konstruksi dan Perumahan"
+            }
+        }
+    },
+    {
+        "name": "AHMAD ZUNAN FIRMANSYAH",
+        "nisn": "3109929813",
+        "distance": "1079",
+        "registration_created_at": "2024-06-22 11:46:51",
+        "smk": {
+            "name": "SMK NEGERI KUDU",
+            "major": {
+                "name": "Teknik Konstruksi dan Perumahan"
+            }
+        }
+    },
+    {
+        "name": "MUHAMMAD BINTANG NURDIANSYAH",
+        "nisn": "0087413661",
+        "distance": "1123",
+        "registration_created_at": "2024-06-22 09:20:17",
+        "smk": {
+            "name": "SMK NEGERI KUDU",
+            "major": {
+                "name": "Teknik Konstruksi dan Perumahan"
+            }
+        }
+    },
+    {
+        "name": "MUHAMMAD RIZKY PRATAMA",
+        "nisn": "0094324839",
+        "distance": "1180",
+        "registration_created_at": "2024-06-22 05:07:02",
+        "smk": {
+            "name": "SMK NEGERI KUDU",
+            "major": {
+                "name": "Teknik Konstruksi dan Perumahan"
+            }
+        }
+    },
+    {
+        "name": "REHANDIKA ARJUNA PUTRA",
+        "nisn": "0092913251",
+        "distance": "1182",
+        "registration_created_at": "2024-06-22 17:09:23",
+        "smk": {
+            "name": "SMK NEGERI KUDU",
+            "major": {
+                "name": "Teknik Konstruksi dan Perumahan"
+            }
+        }
+    },
+    {
+        "name": "MUHAMMAD MISROUL SETIAWAN",
+        "nisn": "0098230968",
+        "distance": "2106",
+        "registration_created_at": "2024-06-22 11:54:08",
+        "smk": {
+            "name": "SMK NEGERI KUDU",
+            "major": {
+                "name": "Teknik Konstruksi dan Perumahan"
+            }
+        }
+    },
+    {
+        "name": "DWI ADI NUGRAHA FIRMANDY",
+        "nisn": "0088821402",
+        "distance": "2149",
+        "registration_created_at": "2024-06-22 00:06:44",
+        "smk": {
+            "name": "SMK NEGERI KUDU",
+            "major": {
+                "name": "Teknik Konstruksi dan Perumahan"
+            }
+        }
+    },
+    {
+        "name": "MUCHAMAD RIZKI",
+        "nisn": "0082671061",
+        "distance": "2240",
+        "registration_created_at": "2024-06-22 00:07:09",
+        "smk": {
+            "name": "SMK NEGERI KUDU",
+            "major": {
+                "name": "Teknik Konstruksi dan Perumahan"
+            }
+        }
+    },
+    {
+        "name": "ALVINO ZANUAR FRINSKY",
+        "nisn": "0098049735",
+        "distance": "2329",
+        "registration_created_at": "2024-06-22 01:15:02",
+        "smk": {
+            "name": "SMK NEGERI KUDU",
+            "major": {
+                "name": "Teknik Konstruksi dan Perumahan"
+            }
+        }
+    }
+]

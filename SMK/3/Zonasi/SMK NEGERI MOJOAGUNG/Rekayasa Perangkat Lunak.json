@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Nathanael Anargya Jatmiko",
+        "nisn": "0096956493",
+        "distance": "143",
+        "registration_created_at": "2024-06-22 00:43:23",
+        "smk": {
+            "name": "SMK NEGERI MOJOAGUNG",
+            "major": {
+                "name": "Rekayasa Perangkat Lunak"
+            }
+        }
+    },
+    {
+        "name": "RENALDY HARTONO",
+        "nisn": "0086037728",
+        "distance": "144",
+        "registration_created_at": "2024-06-22 00:21:27",
+        "smk": {
+            "name": "SMK NEGERI MOJOAGUNG",
+            "major": {
+                "name": "Rekayasa Perangkat Lunak"
+            }
+        }
+    },
+    {
+        "name": "DANI MAHENDRA",
+        "nisn": "0089780926",
+        "distance": "176",
+        "registration_created_at": "2024-06-22 09:28:01",
+        "smk": {
+            "name": "SMK NEGERI MOJOAGUNG",
+            "major": {
+                "name": "Rekayasa Perangkat Lunak"
+            }
+        }
+    }
+]

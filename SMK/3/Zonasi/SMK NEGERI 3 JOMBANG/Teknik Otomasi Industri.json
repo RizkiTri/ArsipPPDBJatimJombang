@@ -1,0 +1,74 @@
+[
+    {
+        "name": "MOCHAMMAD ZAKKY",
+        "nisn": "0086548238",
+        "distance": "1538",
+        "registration_created_at": "2024-06-22 01:04:51",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Otomasi Industri"
+            }
+        }
+    },
+    {
+        "name": "RENALD ALDO SEPTYAN",
+        "nisn": "0089788176",
+        "distance": "1662",
+        "registration_created_at": "2024-06-22 18:07:20",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Otomasi Industri"
+            }
+        }
+    },
+    {
+        "name": "Mochammad Naufal Farid Pratama",
+        "nisn": "0096064029",
+        "distance": "1805",
+        "registration_created_at": "2024-06-22 09:26:47",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Otomasi Industri"
+            }
+        }
+    },
+    {
+        "name": "MUHAMMAD DHARMA ADITYA",
+        "nisn": "0082169400",
+        "distance": "1820",
+        "registration_created_at": "2024-06-22 06:07:48",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Otomasi Industri"
+            }
+        }
+    },
+    {
+        "name": "ARGA BIMANTARA",
+        "nisn": "0083696393",
+        "distance": "1853",
+        "registration_created_at": "2024-06-22 01:04:46",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Otomasi Industri"
+            }
+        }
+    },
+    {
+        "name": "OKTA SURYA SAYOGA",
+        "nisn": "0083792251",
+        "distance": "1918",
+        "registration_created_at": "2024-06-22 00:13:13",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Otomasi Industri"
+            }
+        }
+    }
+]

@@ -1,0 +1,206 @@
+[
+    {
+        "name": "SAPUTRA RIZAL PRATAMA",
+        "nisn": "0091628464",
+        "distance": "675",
+        "registration_created_at": "2024-06-22 08:21:44",
+        "smk": {
+            "name": "SMK NEGERI WONOSALAM",
+            "major": {
+                "name": " Teknik Pemesinan "
+            }
+        }
+    },
+    {
+        "name": "DEVA AULIA",
+        "nisn": "0082987990",
+        "distance": "1441",
+        "registration_created_at": "2024-06-22 07:38:16",
+        "smk": {
+            "name": "SMK NEGERI WONOSALAM",
+            "major": {
+                "name": " Teknik Pemesinan "
+            }
+        }
+    },
+    {
+        "name": "MUHAMMAD FAKHRI AMINULLAH",
+        "nisn": "0099363414",
+        "distance": "1494",
+        "registration_created_at": "2024-06-22 10:28:27",
+        "smk": {
+            "name": "SMK NEGERI WONOSALAM",
+            "major": {
+                "name": " Teknik Pemesinan "
+            }
+        }
+    },
+    {
+        "name": "ARDIAN RISKI DWI FIRMANSA",
+        "nisn": "0072102032",
+        "distance": "1546",
+        "registration_created_at": "2024-06-22 10:45:15",
+        "smk": {
+            "name": "SMK NEGERI WONOSALAM",
+            "major": {
+                "name": " Teknik Pemesinan "
+            }
+        }
+    },
+    {
+        "name": "MOCHAMAD FATCHUR ROHMAN",
+        "nisn": "0082074307",
+        "distance": "1708",
+        "registration_created_at": "2024-06-22 07:49:37",
+        "smk": {
+            "name": "SMK NEGERI WONOSALAM",
+            "major": {
+                "name": " Teknik Pemesinan "
+            }
+        }
+    },
+    {
+        "name": "DANANG PUTRA SANTOSO",
+        "nisn": "0087923749",
+        "distance": "2266",
+        "registration_created_at": "2024-06-22 06:07:49",
+        "smk": {
+            "name": "SMK NEGERI WONOSALAM",
+            "major": {
+                "name": " Teknik Pemesinan "
+            }
+        }
+    },
+    {
+        "name": "MUHAMAD AMIRUDIN",
+        "nisn": "0089293667",
+        "distance": "2284",
+        "registration_created_at": "2024-06-22 05:31:47",
+        "smk": {
+            "name": "SMK NEGERI WONOSALAM",
+            "major": {
+                "name": " Teknik Pemesinan "
+            }
+        }
+    },
+    {
+        "name": "MUHAMAD KEVIN TEGAR MAULANA",
+        "nisn": "0089096580",
+        "distance": "2529",
+        "registration_created_at": "2024-06-22 09:20:27",
+        "smk": {
+            "name": "SMK NEGERI WONOSALAM",
+            "major": {
+                "name": " Teknik Pemesinan "
+            }
+        }
+    },
+    {
+        "name": "ALDO NIKOLA SAPUTRA",
+        "nisn": "0083578113",
+        "distance": "2619",
+        "registration_created_at": "2024-06-22 06:35:40",
+        "smk": {
+            "name": "SMK NEGERI WONOSALAM",
+            "major": {
+                "name": " Teknik Pemesinan "
+            }
+        }
+    },
+    {
+        "name": "ARIFA DANUNG PRATAMA",
+        "nisn": "0086966684",
+        "distance": "2653",
+        "registration_created_at": "2024-06-22 00:11:21",
+        "smk": {
+            "name": "SMK NEGERI WONOSALAM",
+            "major": {
+                "name": " Teknik Pemesinan "
+            }
+        }
+    },
+    {
+        "name": "WAHESYA ANDRO MEDA",
+        "nisn": "0075410919",
+        "distance": "2839",
+        "registration_created_at": "2024-06-22 07:23:48",
+        "smk": {
+            "name": "SMK NEGERI WONOSALAM",
+            "major": {
+                "name": " Teknik Pemesinan "
+            }
+        }
+    },
+    {
+        "name": "YUANDA CITRA VANESA",
+        "nisn": "0098382514",
+        "distance": "3103",
+        "registration_created_at": "2024-06-23 18:52:05",
+        "smk": {
+            "name": "SMK NEGERI WONOSALAM",
+            "major": {
+                "name": " Teknik Pemesinan "
+            }
+        }
+    },
+    {
+        "name": "KEVIN AHMAD BARDANSYAH",
+        "nisn": "0086688655",
+        "distance": "3250",
+        "registration_created_at": "2024-06-22 00:11:18",
+        "smk": {
+            "name": "SMK NEGERI WONOSALAM",
+            "major": {
+                "name": " Teknik Pemesinan "
+            }
+        }
+    },
+    {
+        "name": "KIRZAN ALI SOFYAN",
+        "nisn": "0096708835",
+        "distance": "3371",
+        "registration_created_at": "2024-06-22 08:13:22",
+        "smk": {
+            "name": "SMK NEGERI WONOSALAM",
+            "major": {
+                "name": " Teknik Pemesinan "
+            }
+        }
+    },
+    {
+        "name": "REHALYNO ZANUAR RUSDIANA",
+        "nisn": "0097118046",
+        "distance": "3474",
+        "registration_created_at": "2024-06-22 11:22:44",
+        "smk": {
+            "name": "SMK NEGERI WONOSALAM",
+            "major": {
+                "name": " Teknik Pemesinan "
+            }
+        }
+    },
+    {
+        "name": "FARHAN RONNA IMTYAAZ",
+        "nisn": "0096353057",
+        "distance": "3488",
+        "registration_created_at": "2024-06-22 02:01:43",
+        "smk": {
+            "name": "SMK NEGERI WONOSALAM",
+            "major": {
+                "name": " Teknik Pemesinan "
+            }
+        }
+    },
+    {
+        "name": "YOGI DWI SAPUTRA",
+        "nisn": "0083432745",
+        "distance": "3990",
+        "registration_created_at": "2024-06-23 09:45:38",
+        "smk": {
+            "name": "SMK NEGERI WONOSALAM",
+            "major": {
+                "name": " Teknik Pemesinan "
+            }
+        }
+    }
+]

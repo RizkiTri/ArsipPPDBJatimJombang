@@ -1,0 +1,86 @@
+[
+    {
+        "name": "ANISA BELA IFANI PUTRI",
+        "nisn": "0099449871",
+        "distance": "293",
+        "registration_created_at": "2024-06-22 07:30:25",
+        "smk": {
+            "name": "SMK NEGERI WONOSALAM",
+            "major": {
+                "name": "Kuliner"
+            }
+        }
+    },
+    {
+        "name": "SILFIYA AYU MARCELLA",
+        "nisn": "0096910011",
+        "distance": "306",
+        "registration_created_at": "2024-06-22 07:12:58",
+        "smk": {
+            "name": "SMK NEGERI WONOSALAM",
+            "major": {
+                "name": "Kuliner"
+            }
+        }
+    },
+    {
+        "name": "JENIFER TRI WIDIANTO",
+        "nisn": "0093632561",
+        "distance": "1534",
+        "registration_created_at": "2024-06-22 13:23:35",
+        "smk": {
+            "name": "SMK NEGERI WONOSALAM",
+            "major": {
+                "name": "Kuliner"
+            }
+        }
+    },
+    {
+        "name": "AZ ZAHRA NOVALITA ESYA",
+        "nisn": "0089948501",
+        "distance": "1560",
+        "registration_created_at": "2024-06-22 04:32:54",
+        "smk": {
+            "name": "SMK NEGERI WONOSALAM",
+            "major": {
+                "name": "Kuliner"
+            }
+        }
+    },
+    {
+        "name": "HABILAH TASYA NURANI",
+        "nisn": "0085236025",
+        "distance": "1781",
+        "registration_created_at": "2024-06-22 07:56:59",
+        "smk": {
+            "name": "SMK NEGERI WONOSALAM",
+            "major": {
+                "name": "Kuliner"
+            }
+        }
+    },
+    {
+        "name": "KAYLA MEI CAHYANI",
+        "nisn": "0084638871",
+        "distance": "1874",
+        "registration_created_at": "2024-06-22 10:07:01",
+        "smk": {
+            "name": "SMK NEGERI WONOSALAM",
+            "major": {
+                "name": "Kuliner"
+            }
+        }
+    },
+    {
+        "name": "INTAN NUR AINI",
+        "nisn": "0092527475",
+        "distance": "1999",
+        "registration_created_at": "2024-06-22 10:07:04",
+        "smk": {
+            "name": "SMK NEGERI WONOSALAM",
+            "major": {
+                "name": "Kuliner"
+            }
+        }
+    }
+]

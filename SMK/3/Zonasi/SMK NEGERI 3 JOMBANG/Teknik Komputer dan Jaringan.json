@@ -1,0 +1,146 @@
+[
+    {
+        "name": "YUDHISTIRA MIFTAKHUL RISQI",
+        "nisn": "0093961291",
+        "distance": "48",
+        "registration_created_at": "2024-06-22 03:19:29",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Komputer dan Jaringan"
+            }
+        }
+    },
+    {
+        "name": "Mochammad Hilman Aziz",
+        "nisn": "0089933077",
+        "distance": "82",
+        "registration_created_at": "2024-06-22 03:32:44",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Komputer dan Jaringan"
+            }
+        }
+    },
+    {
+        "name": "REVAN ADRIAN MAULANA",
+        "nisn": "0096107828",
+        "distance": "148",
+        "registration_created_at": "2024-06-22 05:46:40",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Komputer dan Jaringan"
+            }
+        }
+    },
+    {
+        "name": "MEISYA ALIFA NADIA SETYAWAN",
+        "nisn": "0091796564",
+        "distance": "159",
+        "registration_created_at": "2024-06-22 00:14:58",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Komputer dan Jaringan"
+            }
+        }
+    },
+    {
+        "name": "ALIF NUR SYAHPUTRA",
+        "nisn": "0093243312",
+        "distance": "195",
+        "registration_created_at": "2024-06-22 08:03:27",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Komputer dan Jaringan"
+            }
+        }
+    },
+    {
+        "name": "MUHAMMAD RAFI KHAN",
+        "nisn": "3098660344",
+        "distance": "308",
+        "registration_created_at": "2024-06-22 03:48:10",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Komputer dan Jaringan"
+            }
+        }
+    },
+    {
+        "name": "PIJAR RAHIDAY MULYA",
+        "nisn": "0094301750",
+        "distance": "326",
+        "registration_created_at": "2024-06-22 05:39:08",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Komputer dan Jaringan"
+            }
+        }
+    },
+    {
+        "name": "FAYI HAIDAR FITRIANTO",
+        "nisn": "3089156588",
+        "distance": "443",
+        "registration_created_at": "2024-06-22 04:58:14",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Komputer dan Jaringan"
+            }
+        }
+    },
+    {
+        "name": "KHARISMA EKA PUTRI",
+        "nisn": "0086092067",
+        "distance": "587",
+        "registration_created_at": "2024-06-22 00:10:53",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Komputer dan Jaringan"
+            }
+        }
+    },
+    {
+        "name": "PUTRA DWI RAHMADHAN",
+        "nisn": "0089439556",
+        "distance": "595",
+        "registration_created_at": "2024-06-22 00:02:19",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Komputer dan Jaringan"
+            }
+        }
+    },
+    {
+        "name": "MUHAMMAD EKA BAGUS PRASETYO",
+        "nisn": "0084215977",
+        "distance": "629",
+        "registration_created_at": "2024-06-22 00:09:40",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Komputer dan Jaringan"
+            }
+        }
+    },
+    {
+        "name": "RIDHO MUHARRAM CHANYTAMA PUTRA",
+        "nisn": "0086575130",
+        "distance": "966",
+        "registration_created_at": "2024-06-22 06:23:48",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Komputer dan Jaringan"
+            }
+        }
+    }
+]

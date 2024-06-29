@@ -1,0 +1,622 @@
+{
+    "code": 200,
+    "status": "OK",
+    "meta": {
+        "total": 87,
+        "last_page": 1,
+        "from": 1,
+        "to": 1,
+        "last_update": "2024-06-19 21:07:23"
+    },
+    "data": [
+        {
+            "name": "Abdillah Dewata Putra",
+            "nisn": "0091284589",
+            "grade_final": "90.17",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-18 13:22:15"
+        },
+        {
+            "name": "GHONI BAYHAQI ARFINSYAH",
+            "nisn": "0097249440",
+            "grade_final": "89.70",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-18 01:20:32"
+        },
+        {
+            "name": "INTAN AZIZAH MIFTAHUL FAHMI",
+            "nisn": "0088767219",
+            "grade_final": "89.69",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-18 10:42:54"
+        },
+        {
+            "name": "Lionel Messi Al Yusufi",
+            "nisn": "0083488660",
+            "grade_final": "89.49",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-18 00:10:16"
+        },
+        {
+            "name": "AISYAH NURIL FIRDAUS",
+            "nisn": "0094524821",
+            "grade_final": "89.47",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-18 09:27:35"
+        },
+        {
+            "name": "MUHAMMAD MIFTAH AL KHOIR",
+            "nisn": "0088957996",
+            "grade_final": "89.37",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-19 17:07:04"
+        },
+        {
+            "name": "ARDISA KANANI ARYADI",
+            "nisn": "3093248870",
+            "grade_final": "89.35",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-19 13:26:02"
+        },
+        {
+            "name": "Kynan Athahita Anzali",
+            "nisn": "0093074094",
+            "grade_final": "89.34",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-18 00:13:39"
+        },
+        {
+            "name": "KANYA JULIA MONICA DEDO",
+            "nisn": "0086961113",
+            "grade_final": "89.34",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-19 10:18:37"
+        },
+        {
+            "name": "FAZA AYUDIAN FADHILAH",
+            "nisn": "0099324369",
+            "grade_final": "89.33",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-18 09:10:15"
+        },
+        {
+            "name": "AYUNDA RAHMA AULIA",
+            "nisn": "0093704164",
+            "grade_final": "89.32",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-18 04:33:08"
+        },
+        {
+            "name": "AHMAD IQBAL ALIF ALFIKRI",
+            "nisn": "3088389901",
+            "grade_final": "89.29",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-18 05:06:12"
+        },
+        {
+            "name": "DEVI TRI LESTARI",
+            "nisn": "0099812934",
+            "grade_final": "89.28",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-18 09:01:40"
+        },
+        {
+            "name": "AURA CATHERINE ADELLIA",
+            "nisn": "0091878445",
+            "grade_final": "89.27",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-18 12:04:47"
+        },
+        {
+            "name": "Rethania Arta Alviani",
+            "nisn": "0093220444",
+            "grade_final": "89.26",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-18 01:28:02"
+        },
+        {
+            "name": "YULIAEKA SOFI IRIANTI PUTRI",
+            "nisn": "0082126248",
+            "grade_final": "89.25",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-18 00:32:23"
+        },
+        {
+            "name": "MUHAMMAD SAMI NASHRI ABDURRASYID",
+            "nisn": "3086502590",
+            "grade_final": "89.22",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-18 00:04:25"
+        },
+        {
+            "name": "NESSA NUR AZKIYA",
+            "nisn": "0084222509",
+            "grade_final": "89.20",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-18 00:03:28"
+        },
+        {
+            "name": "ALYSSA ZIDNY NUR AZKIA",
+            "nisn": "0082521507",
+            "grade_final": "89.20",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-19 09:30:36"
+        },
+        {
+            "name": "ELFARAH FAUZIAH ZAHRA SUMARSONO",
+            "nisn": "0091913910",
+            "grade_final": "89.19",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-19 07:50:17"
+        },
+        {
+            "name": "KAYLA FELLISHA KURIDHO",
+            "nisn": "0081622680",
+            "grade_final": "89.17",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-18 01:08:46"
+        },
+        {
+            "name": "INAYA VALENT PUTRI PRASETYO",
+            "nisn": "3098642263",
+            "grade_final": "89.17",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-18 00:03:06"
+        },
+        {
+            "name": "Bramantyo Adji Senopati",
+            "nisn": "0087254606",
+            "grade_final": "89.17",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-18 02:09:12"
+        },
+        {
+            "name": "ZAHRA AZYA AZIZAH",
+            "nisn": "3090385199",
+            "grade_final": "89.15",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-19 07:48:42"
+        },
+        {
+            "name": "Awanis Zoya Makrima",
+            "nisn": "0092830465",
+            "grade_final": "89.14",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-18 00:05:30"
+        },
+        {
+            "name": "NOKA RAISYA MAYLASHITA",
+            "nisn": "0095992529",
+            "grade_final": "89.14",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-18 06:24:31"
+        },
+        {
+            "name": "Al Hamda Naurun Al Arif",
+            "nisn": "0088982101",
+            "grade_final": "89.12",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-18 08:19:25"
+        },
+        {
+            "name": "LAILA ISMI PUTRI ALEXA",
+            "nisn": "0095895504",
+            "grade_final": "89.10",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-18 06:17:52"
+        },
+        {
+            "name": "YUSVI NAILA FAIRUZHA",
+            "nisn": "0097206219",
+            "grade_final": "89.09",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-19 12:10:42"
+        },
+        {
+            "name": "GALUH PRABANINDYTHA",
+            "nisn": "0093116512",
+            "grade_final": "89.09",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-19 13:55:51"
+        },
+        {
+            "name": "Mohammad Furqon Ubaidillah",
+            "nisn": "0084614402",
+            "grade_final": "89.08",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-18 08:37:37"
+        },
+        {
+            "name": "ILLONA NASYWA DWI WIYANA",
+            "nisn": "0084962625",
+            "grade_final": "89.08",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-18 00:03:45"
+        },
+        {
+            "name": "AIDAH TASYA NADHIFA",
+            "nisn": "3084284704",
+            "grade_final": "89.05",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-18 05:20:43"
+        },
+        {
+            "name": "AMANDA PUTRI NATHANIELA",
+            "nisn": "0082397493",
+            "grade_final": "89.05",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-19 16:21:32"
+        },
+        {
+            "name": "MOCHAMAD BRIAN ARDITIAN",
+            "nisn": "0084992627",
+            "grade_final": "89.05",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-19 14:07:39"
+        },
+        {
+            "name": "JANE VANESHA DIAH AYU PRAMITA",
+            "nisn": "0081168641",
+            "grade_final": "89.03",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-18 06:53:31"
+        },
+        {
+            "name": "RATU KEISHA AZZAHRA",
+            "nisn": "0089234469",
+            "grade_final": "89.02",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-18 12:10:06"
+        },
+        {
+            "name": "JENNICE SESAR LOVECIA CHOLIQ",
+            "nisn": "0084385019",
+            "grade_final": "89.02",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-18 08:25:56"
+        },
+        {
+            "name": "GISELA NEILA OKALIN",
+            "nisn": "0092095579",
+            "grade_final": "89.01",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-18 01:15:39"
+        },
+        {
+            "name": "ALLISIYA FAIRUZ RAZAQ ALJUFRI",
+            "nisn": "3099651026",
+            "grade_final": "89.01",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-18 11:45:10"
+        },
+        {
+            "name": "SHAHADA DINDA RISQULLAH",
+            "nisn": "0098863751",
+            "grade_final": "89.00",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-19 09:33:10"
+        },
+        {
+            "name": "ATHA KIRANI ZAHARA",
+            "nisn": "0088934147",
+            "grade_final": "88.98",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-19 08:43:18"
+        },
+        {
+            "name": "SELA LAVINA FEBRIANA",
+            "nisn": "0093059891",
+            "grade_final": "88.98",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-18 00:26:06"
+        },
+        {
+            "name": "FAIQOH RIZKI HANIFA",
+            "nisn": "3094155164",
+            "grade_final": "88.98",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-18 10:05:11"
+        },
+        {
+            "name": "SYIFA KARIMA DINATA",
+            "nisn": "3098307713",
+            "grade_final": "88.97",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-19 17:58:52"
+        },
+        {
+            "name": "RANIA ANINDHITA LAZULFA",
+            "nisn": "3088342033",
+            "grade_final": "88.96",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-19 15:09:37"
+        },
+        {
+            "name": "ALLVEDRO ACHMAD HUSEIN",
+            "nisn": "0086687692",
+            "grade_final": "88.94",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-18 00:09:44"
+        },
+        {
+            "name": "ATRIRORA MUMTAZ ZAHRANI",
+            "nisn": "0097965719",
+            "grade_final": "88.94",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-18 00:17:51"
+        },
+        {
+            "name": "MUTIARA RATU ANJANI",
+            "nisn": "0084618790",
+            "grade_final": "88.92",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-18 10:49:06"
+        },
+        {
+            "name": "HANIFA NUR AZURA",
+            "nisn": "0082877134",
+            "grade_final": "88.92",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-18 00:12:22"
+        },
+        {
+            "name": "TALENTA NABIILAH TSARWA",
+            "nisn": "3082586054",
+            "grade_final": "88.91",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-18 06:22:53"
+        },
+        {
+            "name": "GAIDAN ABYAN NAZHEFA",
+            "nisn": "0092347884",
+            "grade_final": "88.91",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-18 07:04:11"
+        },
+        {
+            "name": "ALMIERA SEPTIA RAMADHANI",
+            "nisn": "0081268020",
+            "grade_final": "88.90",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-18 05:21:20"
+        },
+        {
+            "name": "NICOLAS",
+            "nisn": "0091783594",
+            "grade_final": "88.89",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-18 00:04:06"
+        },
+        {
+            "name": "AISYAH HERDIANA SUKMAWATI",
+            "nisn": "0098033723",
+            "grade_final": "88.88",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-18 09:47:15"
+        },
+        {
+            "name": "MOCH NABIL IZDIHAR AFANDI",
+            "nisn": "0085742400",
+            "grade_final": "88.86",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-19 04:50:08"
+        },
+        {
+            "name": "ZAHRANI MAHDIA IZZATY",
+            "nisn": "0086262707",
+            "grade_final": "88.83",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-19 06:18:52"
+        },
+        {
+            "name": "Zalva Nafisa",
+            "nisn": "0081424932",
+            "grade_final": "88.82",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-18 02:13:41"
+        },
+        {
+            "name": "Alhamda Naurin Al Arif",
+            "nisn": "0089003513",
+            "grade_final": "88.81",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-18 08:16:45"
+        },
+        {
+            "name": "DIFA MEILANI PUTRI PRASTYA",
+            "nisn": "0087660128",
+            "grade_final": "88.81",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-19 15:35:29"
+        },
+        {
+            "name": "RENATA GEIZKA PELANGI",
+            "nisn": "0089305626",
+            "grade_final": "88.81",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-18 00:10:36"
+        },
+        {
+            "name": "Najwa Amira Muzakki",
+            "nisn": "0094741142",
+            "grade_final": "88.81",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-19 15:11:46"
+        },
+        {
+            "name": "RAHMA MALILY DIWANTI",
+            "nisn": "0089507648",
+            "grade_final": "88.80",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-18 23:58:37"
+        },
+        {
+            "name": "KAYLA SYAFIRA PUTRI WIYONO",
+            "nisn": "0096769621",
+            "grade_final": "88.79",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-18 00:04:05"
+        },
+        {
+            "name": "Leonzio Aquilla Vanrick",
+            "nisn": "0085582855",
+            "grade_final": "88.79",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-18 00:02:01"
+        },
+        {
+            "name": "ZAHRATUL AFIDAH",
+            "nisn": "3097418993",
+            "grade_final": "88.79",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-19 17:47:34"
+        },
+        {
+            "name": "SHOFIA ALI EL HUMAIRA",
+            "nisn": "0098732494",
+            "grade_final": "88.79",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-18 00:09:50"
+        },
+        {
+            "name": "ARDIRA KUSUMA NINGRUM",
+            "nisn": "3091883281",
+            "grade_final": "88.78",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-18 16:59:44"
+        },
+        {
+            "name": "Nabila Fatimah Azzahra",
+            "nisn": "3096412160",
+            "grade_final": "88.77",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-19 18:46:47"
+        },
+        {
+            "name": "NAYLA SYAFA AZZAHRA",
+            "nisn": "0099314242",
+            "grade_final": "88.76",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-18 09:58:38"
+        },
+        {
+            "name": "ACHMAD KHOIRUL AZAM",
+            "nisn": "3091689061",
+            "grade_final": "88.75",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-19 19:52:39"
+        },
+        {
+            "name": "GEISKA KIRANA MASRURI",
+            "nisn": "0083287922",
+            "grade_final": "88.75",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-18 00:19:17"
+        },
+        {
+            "name": "CITRA GALIH YOGA WASKITA",
+            "nisn": "0086347717",
+            "grade_final": "88.72",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-18 19:16:12"
+        },
+        {
+            "name": "SALWA AQILLA ZAHARINA",
+            "nisn": "0096391431",
+            "grade_final": "88.72",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-18 00:07:50"
+        },
+        {
+            "name": "NISSA KURNIA ANDREAN",
+            "nisn": "0093352967",
+            "grade_final": "88.72",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-18 04:55:39"
+        },
+        {
+            "name": "RIFIYAH NANDA PUSPITA",
+            "nisn": "9998829520",
+            "grade_final": "88.71",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-18 11:51:20"
+        },
+        {
+            "name": "Keisharani Raissa Putri Nugroho",
+            "nisn": "0081507301",
+            "grade_final": "88.71",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-18 00:17:50"
+        },
+        {
+            "name": "SALSABILA ZAHRA RIHHADATUL AISYA",
+            "nisn": "0096922342",
+            "grade_final": "88.71",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-19 11:37:52"
+        },
+        {
+            "name": "KHARISMA INTAN MAULIDYA",
+            "nisn": "3092767115",
+            "grade_final": "88.69",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-19 14:40:20"
+        },
+        {
+            "name": "ROSA LOVELIA PUTRI",
+            "nisn": "3092985516",
+            "grade_final": "88.69",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-18 08:29:16"
+        },
+        {
+            "name": "FARDHAN REYZA MAULANA",
+            "nisn": "0089072145",
+            "grade_final": "88.68",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-18 13:05:29"
+        },
+        {
+            "name": "Hanna Radistya Khawarizmi",
+            "nisn": "0081716269",
+            "grade_final": "88.67",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-18 00:30:57"
+        },
+        {
+            "name": "SITI CHUMAIROH",
+            "nisn": "3087141101",
+            "grade_final": "88.67",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-18 13:05:17"
+        },
+        {
+            "name": "NAURA CAHYA DEWI",
+            "nisn": "3088885949",
+            "grade_final": "88.67",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-18 06:30:08"
+        },
+        {
+            "name": "JOHAN FAADHILAH DANISWARA",
+            "nisn": "0088724655",
+            "grade_final": "88.65",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-18 06:42:59"
+        },
+        {
+            "name": "Naira Marnesa Fatima",
+            "nisn": "0094634996",
+            "grade_final": "88.64",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-18 00:02:25"
+        },
+        {
+            "name": "TSANIYA NUR MAULIDIYA",
+            "nisn": "0081963106",
+            "grade_final": "88.64",
+            "sma": "SMA NEGERI 3  JOMBANG",
+            "registration_created_at": "2024-06-19 15:09:55"
+        }
+    ]
+}

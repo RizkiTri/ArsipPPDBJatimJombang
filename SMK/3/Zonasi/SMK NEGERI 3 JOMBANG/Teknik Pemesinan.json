@@ -1,0 +1,230 @@
+[
+    {
+        "name": "AHMAD ALIEF FAHRI",
+        "nisn": "0084687217",
+        "distance": "135",
+        "registration_created_at": "2024-06-22 04:30:30",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Pemesinan"
+            }
+        }
+    },
+    {
+        "name": "ALFA PUTRA YULIAN",
+        "nisn": "0089877004",
+        "distance": "148",
+        "registration_created_at": "2024-06-22 04:08:35",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Pemesinan"
+            }
+        }
+    },
+    {
+        "name": "DANIEN ABDI KURNIAWAN",
+        "nisn": "0086055392",
+        "distance": "234",
+        "registration_created_at": "2024-06-22 05:24:17",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Pemesinan"
+            }
+        }
+    },
+    {
+        "name": "FEDINARTA ABIYA ZEIN",
+        "nisn": "3096802329",
+        "distance": "302",
+        "registration_created_at": "2024-06-22 01:24:11",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Pemesinan"
+            }
+        }
+    },
+    {
+        "name": "RAIHAN RAUF PRATAMA",
+        "nisn": "0083713887",
+        "distance": "350",
+        "registration_created_at": "2024-06-22 01:36:00",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Pemesinan"
+            }
+        }
+    },
+    {
+        "name": "MOCHAMAD ARIS KHODIRIL",
+        "nisn": "0082800181",
+        "distance": "519",
+        "registration_created_at": "2024-06-22 00:23:22",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Pemesinan"
+            }
+        }
+    },
+    {
+        "name": "MUHAMMAD RAFLY MAULANA",
+        "nisn": "0097778848",
+        "distance": "583",
+        "registration_created_at": "2024-06-22 19:48:35",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Pemesinan"
+            }
+        }
+    },
+    {
+        "name": "Muhamad Farid Khansa Adinata",
+        "nisn": "0087207476",
+        "distance": "681",
+        "registration_created_at": "2024-06-22 09:34:04",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Pemesinan"
+            }
+        }
+    },
+    {
+        "name": "MOH AGUS MAULIDIN",
+        "nisn": "0082137696",
+        "distance": "714",
+        "registration_created_at": "2024-06-22 00:14:39",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Pemesinan"
+            }
+        }
+    },
+    {
+        "name": "ACHMAD VARDHAN ZACHARIAH",
+        "nisn": "0097752217",
+        "distance": "956",
+        "registration_created_at": "2024-06-22 06:49:03",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Pemesinan"
+            }
+        }
+    },
+    {
+        "name": "REIHAN SURYA PUTRA LESMANA",
+        "nisn": "0083795667",
+        "distance": "1027",
+        "registration_created_at": "2024-06-22 09:41:39",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Pemesinan"
+            }
+        }
+    },
+    {
+        "name": "RIFKY AZZUAN ROBBIUL IKHSAN",
+        "nisn": "3081877452",
+        "distance": "1031",
+        "registration_created_at": "2024-06-22 05:10:26",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Pemesinan"
+            }
+        }
+    },
+    {
+        "name": "MOHAMAD ROSYIDUL IBAD AL IBRAHIMI",
+        "nisn": "3080940090",
+        "distance": "1038",
+        "registration_created_at": "2024-06-22 06:08:42",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Pemesinan"
+            }
+        }
+    },
+    {
+        "name": "Sapta Wijaya",
+        "nisn": "0083848791",
+        "distance": "1042",
+        "registration_created_at": "2024-06-22 07:15:49",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Pemesinan"
+            }
+        }
+    },
+    {
+        "name": "ANDIKA SURYA PRATAMA",
+        "nisn": "0085442684",
+        "distance": "1061",
+        "registration_created_at": "2024-06-22 00:06:53",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Pemesinan"
+            }
+        }
+    },
+    {
+        "name": "M EZHAR RADITYA ALGHANY",
+        "nisn": "0098457065",
+        "distance": "1132",
+        "registration_created_at": "2024-06-22 00:37:36",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Pemesinan"
+            }
+        }
+    },
+    {
+        "name": "MUHAMMAD ASROR MUSTAGHFIRI",
+        "nisn": "0088537832",
+        "distance": "1321",
+        "registration_created_at": "2024-06-22 20:12:50",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Pemesinan"
+            }
+        }
+    },
+    {
+        "name": "ILYAS YULADU MAULID",
+        "nisn": "0081781612",
+        "distance": "1375",
+        "registration_created_at": "2024-06-22 00:06:50",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Pemesinan"
+            }
+        }
+    },
+    {
+        "name": "MUCHAMMAD FAHMI EL ABDILLAH",
+        "nisn": "3089056161",
+        "distance": "1406",
+        "registration_created_at": "2024-06-22 06:38:33",
+        "smk": {
+            "name": "SMK NEGERI 3 JOMBANG",
+            "major": {
+                "name": "Teknik Pemesinan"
+            }
+        }
+    }
+]

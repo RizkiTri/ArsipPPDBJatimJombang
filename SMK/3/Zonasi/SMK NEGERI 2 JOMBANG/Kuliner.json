@@ -1,0 +1,422 @@
+[
+    {
+        "name": "INTAN RAHMA SASMITA",
+        "nisn": "0081887949",
+        "distance": "515",
+        "registration_created_at": "2024-06-22 07:54:07",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Kuliner"
+            }
+        }
+    },
+    {
+        "name": "AYYUB HIBATULLAH",
+        "nisn": "0061067198",
+        "distance": "579",
+        "registration_created_at": "2024-06-23 13:14:36",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Kuliner"
+            }
+        }
+    },
+    {
+        "name": "RIZKA ARIFA EL HUSNA",
+        "nisn": "0082721980",
+        "distance": "930",
+        "registration_created_at": "2024-06-22 10:52:24",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Kuliner"
+            }
+        }
+    },
+    {
+        "name": "ALISYA EKA FEBRIANA",
+        "nisn": "0092720441",
+        "distance": "932",
+        "registration_created_at": "2024-06-22 10:16:38",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Kuliner"
+            }
+        }
+    },
+    {
+        "name": "ARIESTA DAYANTI PRATIWI",
+        "nisn": "0099508925",
+        "distance": "1041",
+        "registration_created_at": "2024-06-22 06:05:17",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Kuliner"
+            }
+        }
+    },
+    {
+        "name": "ZIAN ARTALITA PUTRI KINANTA",
+        "nisn": "0082012690",
+        "distance": "1210",
+        "registration_created_at": "2024-06-22 00:14:04",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Kuliner"
+            }
+        }
+    },
+    {
+        "name": "Kalista Dwi Oktavia",
+        "nisn": "0085453061",
+        "distance": "1335",
+        "registration_created_at": "2024-06-22 01:08:54",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Kuliner"
+            }
+        }
+    },
+    {
+        "name": "WINDI PURBA",
+        "nisn": "0068708924",
+        "distance": "1445",
+        "registration_created_at": "2024-06-22 00:19:34",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Kuliner"
+            }
+        }
+    },
+    {
+        "name": "MUHAMMAD ARIEF ARYA PRATAMA",
+        "nisn": "0089860951",
+        "distance": "1449",
+        "registration_created_at": "2024-06-22 01:20:08",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Kuliner"
+            }
+        }
+    },
+    {
+        "name": "DESSY ANNISA LARASATI",
+        "nisn": "0081666572",
+        "distance": "1482",
+        "registration_created_at": "2024-06-22 00:08:15",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Kuliner"
+            }
+        }
+    },
+    {
+        "name": "IZZA WIDJAYANTI",
+        "nisn": "0081037409",
+        "distance": "1489",
+        "registration_created_at": "2024-06-22 09:02:40",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Kuliner"
+            }
+        }
+    },
+    {
+        "name": "Najwa Earline Elysia",
+        "nisn": "0155916962",
+        "distance": "1491",
+        "registration_created_at": "2024-06-22 00:06:02",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Kuliner"
+            }
+        }
+    },
+    {
+        "name": "OKTAVIANA SOFIATHUL MAHMUDAH",
+        "nisn": "3089702435",
+        "distance": "1750",
+        "registration_created_at": "2024-06-23 14:02:04",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Kuliner"
+            }
+        }
+    },
+    {
+        "name": "SHAFIRA OKTA AMELIA",
+        "nisn": "0081857709",
+        "distance": "1769",
+        "registration_created_at": "2024-06-22 00:07:39",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Kuliner"
+            }
+        }
+    },
+    {
+        "name": "NOVITA DWI RAHAYU",
+        "nisn": "0081339343",
+        "distance": "1807",
+        "registration_created_at": "2024-06-22 09:51:49",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Kuliner"
+            }
+        }
+    },
+    {
+        "name": "RASYIDTA TRYAS SAN PRASETYO",
+        "nisn": "0084205790",
+        "distance": "1849",
+        "registration_created_at": "2024-06-22 13:09:32",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Kuliner"
+            }
+        }
+    },
+    {
+        "name": "ALFIAN VANESYA PUTRA",
+        "nisn": "0086521155",
+        "distance": "1855",
+        "registration_created_at": "2024-06-22 00:09:22",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Kuliner"
+            }
+        }
+    },
+    {
+        "name": "MUHAMMAD KEVIN FIRMANSYAH",
+        "nisn": "0097197887",
+        "distance": "1859",
+        "registration_created_at": "2024-06-22 02:40:14",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Kuliner"
+            }
+        }
+    },
+    {
+        "name": "MUHAMMAD AFIF AMRULLOH",
+        "nisn": "3087363771",
+        "distance": "1875",
+        "registration_created_at": "2024-06-22 10:16:26",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Kuliner"
+            }
+        }
+    },
+    {
+        "name": "EKA PUTRI CAHYATI",
+        "nisn": "0082956232",
+        "distance": "1920",
+        "registration_created_at": "2024-06-22 04:21:25",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Kuliner"
+            }
+        }
+    },
+    {
+        "name": "MELYSA AGUSTINA",
+        "nisn": "0082998709",
+        "distance": "1941",
+        "registration_created_at": "2024-06-22 10:30:07",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Kuliner"
+            }
+        }
+    },
+    {
+        "name": "INKA PRATIWI ANGGRAINI",
+        "nisn": "0099609511",
+        "distance": "1977",
+        "registration_created_at": "2024-06-22 00:09:46",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Kuliner"
+            }
+        }
+    },
+    {
+        "name": "AYU MUSLIMAH",
+        "nisn": "0089632267",
+        "distance": "2017",
+        "registration_created_at": "2024-06-22 05:10:43",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Kuliner"
+            }
+        }
+    },
+    {
+        "name": "BILQIST BILBINA",
+        "nisn": "0089783939",
+        "distance": "2048",
+        "registration_created_at": "2024-06-22 04:56:16",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Kuliner"
+            }
+        }
+    },
+    {
+        "name": "SARAH AL KHOIROTUN HISAN",
+        "nisn": "3080237334",
+        "distance": "2158",
+        "registration_created_at": "2024-06-22 05:00:14",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Kuliner"
+            }
+        }
+    },
+    {
+        "name": "FENCY DIAH OKTAVIA",
+        "nisn": "0086009990",
+        "distance": "2163",
+        "registration_created_at": "2024-06-22 00:37:42",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Kuliner"
+            }
+        }
+    },
+    {
+        "name": "SAFIRA AL KHOIROTUN HISAN",
+        "nisn": "3087455736",
+        "distance": "2167",
+        "registration_created_at": "2024-06-22 05:00:16",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Kuliner"
+            }
+        }
+    },
+    {
+        "name": "AHMAD FAHRIZAM AR RASYID",
+        "nisn": "3086565488",
+        "distance": "2266",
+        "registration_created_at": "2024-06-22 08:10:02",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Kuliner"
+            }
+        }
+    },
+    {
+        "name": "RIANTY SYUFIANDARU",
+        "nisn": "0085075918",
+        "distance": "2281",
+        "registration_created_at": "2024-06-22 00:13:32",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Kuliner"
+            }
+        }
+    },
+    {
+        "name": "RESTANIA PUTRI AULISA",
+        "nisn": "0085670969",
+        "distance": "2301",
+        "registration_created_at": "2024-06-22 06:43:00",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Kuliner"
+            }
+        }
+    },
+    {
+        "name": "ALFIAN RIFQI IBNU HANIF",
+        "nisn": "3086951786",
+        "distance": "2419",
+        "registration_created_at": "2024-06-22 05:39:57",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Kuliner"
+            }
+        }
+    },
+    {
+        "name": "NAILA ZAKIYAH",
+        "nisn": "0085458693",
+        "distance": "2453",
+        "registration_created_at": "2024-06-22 00:03:57",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Kuliner"
+            }
+        }
+    },
+    {
+        "name": "SYITA NAORA APRILLYA PUTRI",
+        "nisn": "0089643161",
+        "distance": "2457",
+        "registration_created_at": "2024-06-22 09:43:24",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Kuliner"
+            }
+        }
+    },
+    {
+        "name": "YUAN MARSELA",
+        "nisn": "0093951868",
+        "distance": "2490",
+        "registration_created_at": "2024-06-22 07:09:56",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Kuliner"
+            }
+        }
+    },
+    {
+        "name": "ADEL YANISSA NADYARISVA",
+        "nisn": "0082003723",
+        "distance": "2555",
+        "registration_created_at": "2024-06-22 12:03:14",
+        "smk": {
+            "name": "SMK NEGERI 2 JOMBANG",
+            "major": {
+                "name": "Kuliner"
+            }
+        }
+    }
+]

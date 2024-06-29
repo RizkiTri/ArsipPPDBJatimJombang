@@ -1,0 +1,122 @@
+[
+    {
+        "name": "NAILA SEPTI ANGGRAINI",
+        "nisn": "0085578443",
+        "distance": "437",
+        "registration_created_at": "2024-06-22 05:07:09",
+        "smk": {
+            "name": "SMK NEGERI GUDO",
+            "major": {
+                "name": "Desain Komunikasi Visual"
+            }
+        }
+    },
+    {
+        "name": "YUNIA PUTRI CAHYANI",
+        "nisn": "0084778964",
+        "distance": "1122",
+        "registration_created_at": "2024-06-22 05:14:45",
+        "smk": {
+            "name": "SMK NEGERI GUDO",
+            "major": {
+                "name": "Desain Komunikasi Visual"
+            }
+        }
+    },
+    {
+        "name": "FEBRIAN AFRIS PRATAMA",
+        "nisn": "0084937566",
+        "distance": "1381",
+        "registration_created_at": "2024-06-22 00:20:29",
+        "smk": {
+            "name": "SMK NEGERI GUDO",
+            "major": {
+                "name": "Desain Komunikasi Visual"
+            }
+        }
+    },
+    {
+        "name": "RIZKY RAHMADHANI",
+        "nisn": "0087885269",
+        "distance": "1426",
+        "registration_created_at": "2024-06-22 07:11:29",
+        "smk": {
+            "name": "SMK NEGERI GUDO",
+            "major": {
+                "name": "Desain Komunikasi Visual"
+            }
+        }
+    },
+    {
+        "name": "RAFANDIKA KURNIAWAN",
+        "nisn": "3080290184",
+        "distance": "1530",
+        "registration_created_at": "2024-06-22 00:03:04",
+        "smk": {
+            "name": "SMK NEGERI GUDO",
+            "major": {
+                "name": "Desain Komunikasi Visual"
+            }
+        }
+    },
+    {
+        "name": "PUTRI AZ  ZAHRA",
+        "nisn": "0093202573",
+        "distance": "1748",
+        "registration_created_at": "2024-06-22 06:36:07",
+        "smk": {
+            "name": "SMK NEGERI GUDO",
+            "major": {
+                "name": "Desain Komunikasi Visual"
+            }
+        }
+    },
+    {
+        "name": "Alif Septianto Ramadhan",
+        "nisn": "0083713775",
+        "distance": "1829",
+        "registration_created_at": "2024-06-22 20:14:21",
+        "smk": {
+            "name": "SMK NEGERI GUDO",
+            "major": {
+                "name": "Desain Komunikasi Visual"
+            }
+        }
+    },
+    {
+        "name": "AGUSTINO PUTRA RAHMADHANI",
+        "nisn": "0082243920",
+        "distance": "1897",
+        "registration_created_at": "2024-06-22 10:09:40",
+        "smk": {
+            "name": "SMK NEGERI GUDO",
+            "major": {
+                "name": "Desain Komunikasi Visual"
+            }
+        }
+    },
+    {
+        "name": "TAQIZZA ALFI HUSNI",
+        "nisn": "0099485292",
+        "distance": "2044",
+        "registration_created_at": "2024-06-22 08:59:34",
+        "smk": {
+            "name": "SMK NEGERI GUDO",
+            "major": {
+                "name": "Desain Komunikasi Visual"
+            }
+        }
+    },
+    {
+        "name": "REVIKA VAILLA SUFA",
+        "nisn": "0099214206",
+        "distance": "2057",
+        "registration_created_at": "2024-06-22 08:23:29",
+        "smk": {
+            "name": "SMK NEGERI GUDO",
+            "major": {
+                "name": "Desain Komunikasi Visual"
+            }
+        }
+    }
+]
