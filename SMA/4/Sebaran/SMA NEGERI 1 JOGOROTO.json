@@ -1,0 +1,386 @@
+[
+    {
+        "name": "SHINTA PUSPITASARI",
+        "nisn": "3099129652",
+        "village": "Wringinpitu",
+        "distance": "6322",
+        "sma": "SMA NEGERI 1 JOGOROTO",
+        "registration_created_at": "2024-06-27 23:56:55"
+    },
+    {
+        "name": "DWI SYAVA AL ZAHRA",
+        "nisn": "0099609725",
+        "village": "Sukomulyo",
+        "distance": "4166",
+        "sma": "SMA NEGERI 1 JOGOROTO",
+        "registration_created_at": "2024-06-27 07:52:34"
+    },
+    {
+        "name": "EKI NAFA AULIA RAHMADANI",
+        "nisn": "0082388280",
+        "village": "Sidokerto",
+        "distance": "3172",
+        "sma": "SMA NEGERI 1 JOGOROTO",
+        "registration_created_at": "2024-06-27 00:12:06"
+    },
+    {
+        "name": "Fanny Nur Rahmawati",
+        "nisn": "3099043946",
+        "village": "Selorejo",
+        "distance": "3737",
+        "sma": "SMA NEGERI 1 JOGOROTO",
+        "registration_created_at": "2024-06-27 00:19:32"
+    },
+    {
+        "name": "ALZI EKA ANDRIANI",
+        "nisn": "3095103785",
+        "village": "Rejoslamet",
+        "distance": "6228",
+        "sma": "SMA NEGERI 1 JOGOROTO",
+        "registration_created_at": "2024-06-27 08:35:14"
+    },
+    {
+        "name": "CHELSEA WAHYU AZZAHRA",
+        "nisn": "0094862990",
+        "village": "Menganto",
+        "distance": "2771",
+        "sma": "SMA NEGERI 1 JOGOROTO",
+        "registration_created_at": "2024-06-27 05:59:05"
+    },
+    {
+        "name": "M Nawal Virgil Al Wafa",
+        "nisn": "3095367855",
+        "village": "Menganto",
+        "distance": "2850",
+        "sma": "SMA NEGERI 1 JOGOROTO",
+        "registration_created_at": "2024-06-27 08:35:08"
+    },
+    {
+        "name": "Fika Ayu Putri Margareta",
+        "nisn": "0102714193",
+        "village": "Gondek",
+        "distance": "2835",
+        "sma": "SMA NEGERI 1 JOGOROTO",
+        "registration_created_at": "2024-06-27 09:12:34"
+    },
+    {
+        "name": "ERA NANDA PARAWANSA",
+        "nisn": "0087465242",
+        "village": "Grobogan",
+        "distance": "7474",
+        "sma": "SMA NEGERI 1 JOGOROTO",
+        "registration_created_at": "2024-06-27 00:03:57"
+    },
+    {
+        "name": "INDA RIZKIYATUL MAHFIRO",
+        "nisn": "0085132639",
+        "village": "Gedangan",
+        "distance": "2803",
+        "sma": "SMA NEGERI 1 JOGOROTO",
+        "registration_created_at": "2024-06-27 18:06:55"
+    },
+    {
+        "name": "ZAHWA NUR FITRIA",
+        "nisn": "3081350705",
+        "village": "Gedangan",
+        "distance": "2816",
+        "sma": "SMA NEGERI 1 JOGOROTO",
+        "registration_created_at": "2024-06-28 09:57:25"
+    },
+    {
+        "name": "DAFA SATYA PURWANSYAH",
+        "nisn": "0091987081",
+        "village": "Catakgayam",
+        "distance": "4983",
+        "sma": "SMA NEGERI 1 JOGOROTO",
+        "registration_created_at": "2024-06-27 08:07:54"
+    },
+    {
+        "name": "SYAFIRA WIBOWO PUTRI",
+        "nisn": "0096190953",
+        "village": "Kedawong",
+        "distance": "2842",
+        "sma": "SMA NEGERI 1 JOGOROTO",
+        "registration_created_at": "2024-06-27 00:10:00"
+    },
+    {
+        "name": "ZAHROTUS AULIA REISMA PUTRI SUTEDJO",
+        "nisn": "3097385398",
+        "village": "Kedawong",
+        "distance": "2925",
+        "sma": "SMA NEGERI 1 JOGOROTO",
+        "registration_created_at": "2024-06-27 03:14:24"
+    },
+    {
+        "name": "Mukhammad Khamim",
+        "nisn": "3092341824",
+        "village": "Ngudirejo",
+        "distance": "2792",
+        "sma": "SMA NEGERI 1 JOGOROTO",
+        "registration_created_at": "2024-06-27 00:27:21"
+    },
+    {
+        "name": "Anggun Natasya Pujianti",
+        "nisn": "0095183759",
+        "village": "Sumobito",
+        "distance": "11347",
+        "sma": "SMA NEGERI 1 JOGOROTO",
+        "registration_created_at": "2024-06-27 19:21:47"
+    },
+    {
+        "name": "Dienella Azzaqia",
+        "nisn": "0084281018",
+        "village": "Segodorejo",
+        "distance": "9093",
+        "sma": "SMA NEGERI 1 JOGOROTO",
+        "registration_created_at": "2024-06-27 05:44:22"
+    },
+    {
+        "name": "ADITYA RACHMA PAMUNGKAS",
+        "nisn": "0086079551",
+        "village": "Palrejo",
+        "distance": "5710",
+        "sma": "SMA NEGERI 1 JOGOROTO",
+        "registration_created_at": "2024-06-27 03:51:59"
+    },
+    {
+        "name": "AHMAD HAFIDZ HIDAYAT",
+        "nisn": "0098132688",
+        "village": "Nglele",
+        "distance": "7496",
+        "sma": "SMA NEGERI 1 JOGOROTO",
+        "registration_created_at": "2024-06-27 00:20:40"
+    },
+    {
+        "name": "MUCHAMMAD RIZAL HIDAYATULLOH",
+        "nisn": "3081932289",
+        "village": "Mentoro",
+        "distance": "10431",
+        "sma": "SMA NEGERI 1 JOGOROTO",
+        "registration_created_at": "2024-06-27 00:07:48"
+    },
+    {
+        "name": "SHIFA ALTHAFUNNISA PUTRI RACHMAN",
+        "nisn": "0093210271",
+        "village": "Kendalsari",
+        "distance": "15248",
+        "sma": "SMA NEGERI 1 JOGOROTO",
+        "registration_created_at": "2024-06-27 05:27:33"
+    },
+    {
+        "name": "VELIS LAURENSIA HERTINOV",
+        "nisn": "0081594217",
+        "village": "Jogoloyo",
+        "distance": "5479",
+        "sma": "SMA NEGERI 1 JOGOROTO",
+        "registration_created_at": "2024-06-27 09:46:35"
+    },
+    {
+        "name": "ANGGIE META WIJAYANTO",
+        "nisn": "0094898302",
+        "village": "Gedangan",
+        "distance": "11680",
+        "sma": "SMA NEGERI 1 JOGOROTO",
+        "registration_created_at": "2024-06-27 07:26:05"
+    },
+    {
+        "name": "ROSTA DEWI AMALIYA",
+        "nisn": "0096922936",
+        "village": "Curahmalang",
+        "distance": "11521",
+        "sma": "SMA NEGERI 1 JOGOROTO",
+        "registration_created_at": "2024-06-27 06:10:41"
+    },
+    {
+        "name": "ABEL DIANI SHELLA",
+        "nisn": "0098472599",
+        "village": "Brudu",
+        "distance": "7054",
+        "sma": "SMA NEGERI 1 JOGOROTO",
+        "registration_created_at": "2024-06-27 06:16:03"
+    },
+    {
+        "name": "EVELITAN GERIN",
+        "nisn": "3082680768",
+        "village": "Bakalan",
+        "distance": "11537",
+        "sma": "SMA NEGERI 1 JOGOROTO",
+        "registration_created_at": "2024-06-27 11:19:18"
+    },
+    {
+        "name": "MUHAMMAD ALIF ZULIANTO",
+        "nisn": "0084863437",
+        "village": "Badas",
+        "distance": "6297",
+        "sma": "SMA NEGERI 1 JOGOROTO",
+        "registration_created_at": "2024-06-27 03:56:48"
+    },
+    {
+        "name": "Bilqis Alfinatuz Zahira",
+        "nisn": "3093747456",
+        "village": "Ngrandulor",
+        "distance": "10396",
+        "sma": "SMA NEGERI 1 JOGOROTO",
+        "registration_created_at": "2024-06-27 00:54:09"
+    },
+    {
+        "name": "MUHAMAD ALFI ACHSANI ROHMAN",
+        "nisn": "0095318588",
+        "village": "Senden",
+        "distance": "10538",
+        "sma": "SMA NEGERI 1 JOGOROTO",
+        "registration_created_at": "2024-06-28 15:13:33"
+    },
+    {
+        "name": "RIZAD ALI DAROJAD",
+        "nisn": "0091441010",
+        "village": "Tugusumberjo",
+        "distance": "7650",
+        "sma": "SMA NEGERI 1 JOGOROTO",
+        "registration_created_at": "2024-06-27 11:51:09"
+    },
+    {
+        "name": "BOBBY ILHAM RAMADHANI",
+        "nisn": "0085226400",
+        "village": "Bongkot",
+        "distance": "8921",
+        "sma": "SMA NEGERI 1 JOGOROTO",
+        "registration_created_at": "2024-06-27 11:17:16"
+    },
+    {
+        "name": "CINTHYA NOVELIN",
+        "nisn": "0085086704",
+        "village": "Tanggalrejo",
+        "distance": "11401",
+        "sma": "SMA NEGERI 1 JOGOROTO",
+        "registration_created_at": "2024-06-28 15:55:25"
+    },
+    {
+        "name": "AMAR KUBRO WASESO",
+        "nisn": "0086211138",
+        "village": "Kedunglumpang",
+        "distance": "11278",
+        "sma": "SMA NEGERI 1 JOGOROTO",
+        "registration_created_at": "2024-06-27 08:29:03"
+    },
+    {
+        "name": "Khafidzon Putra Hendra Pratama",
+        "nisn": "3082894671",
+        "village": "Dukuhdimoro",
+        "distance": "10593",
+        "sma": "SMA NEGERI 1 JOGOROTO",
+        "registration_created_at": "2024-06-27 07:16:32"
+    },
+    {
+        "name": "ALLENA YATIM FITRI NINGRUM",
+        "nisn": "0092069443",
+        "village": "Watudakon",
+        "distance": "13170",
+        "sma": "SMA NEGERI 1 JOGOROTO",
+        "registration_created_at": "2024-06-27 07:14:13"
+    },
+    {
+        "name": "GILANG ADE FIRANSYAH",
+        "nisn": "0091974333",
+        "village": "Podoroto",
+        "distance": "15044",
+        "sma": "SMA NEGERI 1 JOGOROTO",
+        "registration_created_at": "2024-06-27 00:30:43"
+    },
+    {
+        "name": "RAFI NASRIL RAHMADANI",
+        "nisn": "0088317429",
+        "village": "Kedungmlati",
+        "distance": "12082",
+        "sma": "SMA NEGERI 1 JOGOROTO",
+        "registration_created_at": "2024-06-27 10:50:06"
+    },
+    {
+        "name": "MUHAMAD NAUFAL TSAQIF",
+        "nisn": "0099868212",
+        "village": "Kedungbetik",
+        "distance": "11682",
+        "sma": "SMA NEGERI 1 JOGOROTO",
+        "registration_created_at": "2024-06-28 19:11:09"
+    },
+    {
+        "name": "BIMA GANDA WIJAYA",
+        "nisn": "0089555438",
+        "village": "Tambar",
+        "distance": "3498",
+        "sma": "SMA NEGERI 1 JOGOROTO",
+        "registration_created_at": "2024-06-27 00:05:09"
+    },
+    {
+        "name": "RATNA ANISA HARTATIK",
+        "nisn": "0098452490",
+        "village": "Sumbermulyo",
+        "distance": "3169",
+        "sma": "SMA NEGERI 1 JOGOROTO",
+        "registration_created_at": "2024-06-27 09:04:26"
+    },
+    {
+        "name": "MUHAMMAD HASAN KHUSOIRY",
+        "nisn": "0098422352",
+        "village": "Sukosari",
+        "distance": "2817",
+        "sma": "SMA NEGERI 1 JOGOROTO",
+        "registration_created_at": "2024-06-27 06:51:12"
+    },
+    {
+        "name": "ALIVIA MASLICHATUL AINI",
+        "nisn": "0085259584",
+        "village": "Sambirejo",
+        "distance": "3526",
+        "sma": "SMA NEGERI 1 JOGOROTO",
+        "registration_created_at": "2024-06-27 00:22:01"
+    },
+    {
+        "name": "FITA RAKHMANIA",
+        "nisn": "0098932097",
+        "village": "Ngumpul",
+        "distance": "2996",
+        "sma": "SMA NEGERI 1 JOGOROTO",
+        "registration_created_at": "2024-06-27 00:09:45"
+    },
+    {
+        "name": "ANDINI DYAH PITALOKA",
+        "nisn": "0093388115",
+        "village": "Mayangan",
+        "distance": "2860",
+        "sma": "SMA NEGERI 1 JOGOROTO",
+        "registration_created_at": "2024-06-27 00:46:56"
+    },
+    {
+        "name": "MUH DONI SYAWALUDIN",
+        "nisn": "0087067431",
+        "village": "Mayangan",
+        "distance": "3590",
+        "sma": "SMA NEGERI 1 JOGOROTO",
+        "registration_created_at": "2024-06-27 00:28:45"
+    },
+    {
+        "name": "WANDA NUR HAMIDAH",
+        "nisn": "3087380046",
+        "village": "Janti",
+        "distance": "4111",
+        "sma": "SMA NEGERI 1 JOGOROTO",
+        "registration_created_at": "2024-06-27 09:05:19"
+    },
+    {
+        "name": "MUHAMMAD FAIZ TAUFIQURROHMAN",
+        "nisn": "0097228185",
+        "village": "Sawiji",
+        "distance": "2858",
+        "sma": "SMA NEGERI 1 JOGOROTO",
+        "registration_created_at": "2024-06-27 02:00:40"
+    },
+    {
+        "name": "SITI ZULAIKHO",
+        "nisn": "0092383415",
+        "village": "Sawiji",
+        "distance": "3020",
+        "sma": "SMA NEGERI 1 JOGOROTO",
+        "registration_created_at": "2024-06-27 06:38:29"
+    }
+]

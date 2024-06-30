@@ -1,0 +1,802 @@
+[
+    {
+        "name": "MUHAMMAD ATHALLAH",
+        "nisn": "3080832474",
+        "village": "Kauman",
+        "distance": "14",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 00:06:54"
+    },
+    {
+        "name": "AURA WULAN RAHMADANI",
+        "nisn": "0085193547",
+        "village": "Janti",
+        "distance": "318",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 00:58:55"
+    },
+    {
+        "name": "JASMINE PUTRI ALMEERA",
+        "nisn": "0091336779",
+        "village": "Janti",
+        "distance": "347",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 00:05:19"
+    },
+    {
+        "name": "MAWADDAH FATIMATUZZAHRA",
+        "nisn": "3080781902",
+        "village": "Janti",
+        "distance": "359",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 06:50:49"
+    },
+    {
+        "name": "NADIN MAYSAM",
+        "nisn": "0096179464",
+        "village": "Janti",
+        "distance": "394",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-28 18:18:12"
+    },
+    {
+        "name": "FEYOLA VALENCIA UTOMO",
+        "nisn": "0081212791",
+        "village": "Gambiran",
+        "distance": "439",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 00:10:20"
+    },
+    {
+        "name": "MUKHAMMAD FAHRUL RISKIANTO",
+        "nisn": "3088826806",
+        "village": "Janti",
+        "distance": "463",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 01:47:52"
+    },
+    {
+        "name": "MUHAMMAD RIZQI ADITIA",
+        "nisn": "0095275794",
+        "village": "Janti",
+        "distance": "498",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 00:23:37"
+    },
+    {
+        "name": "SITI KHUMAYROH",
+        "nisn": "3099276912",
+        "village": "Wringinpitu",
+        "distance": "535",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 06:42:41"
+    },
+    {
+        "name": "Mafaza Risky Salsabila Putri",
+        "nisn": "0081941795",
+        "village": "Gambiran",
+        "distance": "573",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 16:02:13"
+    },
+    {
+        "name": "DWI APRILIANI",
+        "nisn": "0088586942",
+        "village": "Janti",
+        "distance": "630",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 08:17:53"
+    },
+    {
+        "name": "CINTA RAHMADHANI",
+        "nisn": "0083565586",
+        "village": "Gambiran",
+        "distance": "657",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 05:16:33"
+    },
+    {
+        "name": "ADINDA LAILATUZ ZUHRO",
+        "nisn": "0085058565",
+        "village": "Gambiran",
+        "distance": "673",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 00:05:05"
+    },
+    {
+        "name": "SAFIRA AFRYA NESA",
+        "nisn": "0092701129",
+        "village": "Gambiran",
+        "distance": "680",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 00:14:21"
+    },
+    {
+        "name": "DIANA DWI AZZAHRA",
+        "nisn": "0056555843",
+        "village": "Janti",
+        "distance": "724",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 07:30:56"
+    },
+    {
+        "name": "M AHNAF RAMADHANI",
+        "nisn": "3087864747",
+        "village": "Wringinpitu",
+        "distance": "741",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 05:11:55"
+    },
+    {
+        "name": "MUHAMMAD FATHIR AFZA ANWAR",
+        "nisn": "0088147148",
+        "village": "Janti",
+        "distance": "761",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 00:04:25"
+    },
+    {
+        "name": "RETA AULIA SALSABILA",
+        "nisn": "0093321531",
+        "village": "Gambiran",
+        "distance": "782",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 00:16:08"
+    },
+    {
+        "name": "Achmad Fauzan Dwi Ghazalah",
+        "nisn": "0089321293",
+        "village": "Gambiran",
+        "distance": "830",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 01:02:30"
+    },
+    {
+        "name": "MOCHAMAD NURIL MAHMUDI AL TAZAM BILLAH",
+        "nisn": "3097271004",
+        "village": "Gambiran",
+        "distance": "869",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 00:40:12"
+    },
+    {
+        "name": "Bilqistosy Calista Quyirnafa",
+        "nisn": "0095576463",
+        "village": "Wringinpitu",
+        "distance": "904",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 00:04:23"
+    },
+    {
+        "name": "Bagas Prawira Bimantara",
+        "nisn": "0096806567",
+        "village": "Gambiran",
+        "distance": "915",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 00:06:03"
+    },
+    {
+        "name": "NARARYA DEVIA NALINI",
+        "nisn": "3091972565",
+        "village": "Kademangan",
+        "distance": "923",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 05:15:26"
+    },
+    {
+        "name": "MUHAMMAD ILHAM FIRMANSYAH",
+        "nisn": "0081270024",
+        "village": "Kademangan",
+        "distance": "964",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 00:06:46"
+    },
+    {
+        "name": "Joseph Kenzie Surya Wijaya",
+        "nisn": "0096936303",
+        "village": "Janti",
+        "distance": "978",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 07:10:49"
+    },
+    {
+        "name": "AHMAD AZRIL IBRAHIM",
+        "nisn": "0088460595",
+        "village": "Gambiran",
+        "distance": "995",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 01:01:34"
+    },
+    {
+        "name": "M ABYAZ MAULIDI AL BALAWI",
+        "nisn": "0093374649",
+        "village": "Wringinpitu",
+        "distance": "1011",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 05:46:28"
+    },
+    {
+        "name": "AZLAN RIZQI FEBRIANSYAH",
+        "nisn": "3091429397",
+        "village": "Mancilan",
+        "distance": "1025",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 04:39:35"
+    },
+    {
+        "name": "APRIAN ISNA FITRADAYUNAN",
+        "nisn": "3082202765",
+        "village": "Janti",
+        "distance": "1051",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 07:23:23"
+    },
+    {
+        "name": "RAFAEL AURELIO WIDYA PUTRA",
+        "nisn": "0086704099",
+        "village": "Mancilan",
+        "distance": "1061",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 00:23:45"
+    },
+    {
+        "name": "NUR KHALILAH JABIRAH",
+        "nisn": "3090991475",
+        "village": "Kademangan",
+        "distance": "1088",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 07:02:46"
+    },
+    {
+        "name": "LAILA ARTA DEWI",
+        "nisn": "0097712693",
+        "village": "Mancilan",
+        "distance": "1094",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 05:04:17"
+    },
+    {
+        "name": "NILA AMALIA NABILA",
+        "nisn": "0077355247",
+        "village": "Catakgayam",
+        "distance": "1097",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 02:38:49"
+    },
+    {
+        "name": "Fahmida Hapsari Razzaqee",
+        "nisn": "0151585020",
+        "village": "Mancilan",
+        "distance": "1099",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 06:08:05"
+    },
+    {
+        "name": "GABRIEL AGGALIO RINDRA SAPUTRA",
+        "nisn": "0089668185",
+        "village": "Mancilan",
+        "distance": "1216",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 00:11:23"
+    },
+    {
+        "name": "AURA SINTA MARGARETA",
+        "nisn": "3097331990",
+        "village": "Mancilan",
+        "distance": "1250",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 00:04:56"
+    },
+    {
+        "name": "MUHAMMAD HADID ROHMATULLAH",
+        "nisn": "0094768617",
+        "village": "Wringinpitu",
+        "distance": "1283",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 06:38:45"
+    },
+    {
+        "name": "ZALFA NAIDIA NATASYA",
+        "nisn": "3089907474",
+        "village": "Kauman",
+        "distance": "1343",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 00:12:57"
+    },
+    {
+        "name": "TALITA DWI KHUMAIRA",
+        "nisn": "3096612306",
+        "village": "Mancilan",
+        "distance": "1349",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 02:02:22"
+    },
+    {
+        "name": "SHAQILLA GHAZANY SISWANTARI",
+        "nisn": "3094304801",
+        "village": "Kauman",
+        "distance": "1408",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 04:41:42"
+    },
+    {
+        "name": "ARLETHA PUTRI LESTARI",
+        "nisn": "0088010742",
+        "village": "Mancilan",
+        "distance": "1468",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 09:37:28"
+    },
+    {
+        "name": "ARLYNE ANINDYA ANDIK",
+        "nisn": "3089091316",
+        "village": "Plemahan",
+        "distance": "1513",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 00:13:39"
+    },
+    {
+        "name": "MUHAMAD FAHRI ARIFFULLOH",
+        "nisn": "0092562794",
+        "village": "Kademangan",
+        "distance": "1561",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 07:09:32"
+    },
+    {
+        "name": "MEI SHELLA YOLANDA PUTRI",
+        "nisn": "3086972220",
+        "village": "Mancilan",
+        "distance": "1573",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 00:12:14"
+    },
+    {
+        "name": "MAULANA RADITIYA SAPUTRA",
+        "nisn": "0158780443",
+        "village": "Plemahan",
+        "distance": "1595",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 00:02:38"
+    },
+    {
+        "name": "Muhammad Syauqil Jinan",
+        "nisn": "0081294718",
+        "village": "Mancilan",
+        "distance": "1605",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 05:31:47"
+    },
+    {
+        "name": "FIRDA LIBYANA",
+        "nisn": "0082906090",
+        "village": "Mancilan",
+        "distance": "1618",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 00:06:42"
+    },
+    {
+        "name": "KAISYA MUAMMAR",
+        "nisn": "0099640057",
+        "village": "Mancilan",
+        "distance": "1652",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 05:56:45"
+    },
+    {
+        "name": "YOSSI AMRU ATTAUFIK",
+        "nisn": "3083123860",
+        "village": "Tejo",
+        "distance": "1653",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 00:13:05"
+    },
+    {
+        "name": "BENI RAIHAN ADRIANSYAH",
+        "nisn": "0082338777",
+        "village": "Plemahan",
+        "distance": "1678",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 00:04:09"
+    },
+    {
+        "name": "AMILIA WAHONO",
+        "nisn": "0089969714",
+        "village": "Tejo",
+        "distance": "1679",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 00:03:35"
+    },
+    {
+        "name": "ABIFAEYZA MUHAMMAD DYAURRAHMAN",
+        "nisn": "0083783567",
+        "village": "Mancilan",
+        "distance": "1682",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 06:37:56"
+    },
+    {
+        "name": "VONNY INDRIYANTI",
+        "nisn": "0097637463",
+        "village": "Kademangan",
+        "distance": "1697",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 08:31:32"
+    },
+    {
+        "name": "REZA TANGGUH SAGARA",
+        "nisn": "0094667513",
+        "village": "Tejo",
+        "distance": "1706",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 00:11:09"
+    },
+    {
+        "name": "NAVISYA AURA MADA",
+        "nisn": "0086900584",
+        "village": "Kademangan",
+        "distance": "1725",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 07:45:41"
+    },
+    {
+        "name": "RASYA ISLAMI HEPPY PRATAMA",
+        "nisn": "0081917994",
+        "village": "Tejo",
+        "distance": "1728",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 00:17:00"
+    },
+    {
+        "name": "KEZIA NATALIE WIBOWO",
+        "nisn": "0085731144",
+        "village": "Tejo",
+        "distance": "1753",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 00:15:02"
+    },
+    {
+        "name": "LUNA ALMAURA",
+        "nisn": "3094321500",
+        "village": "Mancilan",
+        "distance": "1753",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 00:03:19"
+    },
+    {
+        "name": "NASWA LAILY QUTROTUL AINI",
+        "nisn": "0095333641",
+        "village": "Mancilan",
+        "distance": "1779",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 00:46:15"
+    },
+    {
+        "name": "RAHMAT ADI PRASETYO",
+        "nisn": "0087562029",
+        "village": "Karangwinongan",
+        "distance": "1781",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 00:19:55"
+    },
+    {
+        "name": "RAHARDIAN PUTRA RAYA ALBANI",
+        "nisn": "0094960648",
+        "village": "Tejo",
+        "distance": "1791",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 07:09:23"
+    },
+    {
+        "name": "REHANA ZEMMA ALDINIA VERARI",
+        "nisn": "0099259419",
+        "village": "Kademangan",
+        "distance": "1803",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 19:08:26"
+    },
+    {
+        "name": "AJENG INDRAMINARTI",
+        "nisn": "0081664765",
+        "village": "Mancilan",
+        "distance": "1823",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 01:43:37"
+    },
+    {
+        "name": "SANASTASIA KINANTI",
+        "nisn": "0091721598",
+        "village": "Mancilan",
+        "distance": "1845",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 08:31:34"
+    },
+    {
+        "name": "ANISAH PRATIWI",
+        "nisn": "0091446906",
+        "village": "Tejo",
+        "distance": "1874",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 09:20:31"
+    },
+    {
+        "name": "PUTRI ARFELI PRIBADI",
+        "nisn": "0086492378",
+        "village": "Mancilan",
+        "distance": "1906",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 00:11:10"
+    },
+    {
+        "name": "ORBAR HASBILASYEH",
+        "nisn": "0096016521",
+        "village": "Tejo",
+        "distance": "1934",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 02:02:05"
+    },
+    {
+        "name": "ARINA KHOIRUN NISA",
+        "nisn": "0092470654",
+        "village": "Catakgayam",
+        "distance": "1946",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 00:09:45"
+    },
+    {
+        "name": "ALFITO RAMADHANI WINANTORO",
+        "nisn": "0082816184",
+        "village": "Tejo",
+        "distance": "2005",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 00:13:23"
+    },
+    {
+        "name": "AHMAD DAFFA WIJOYO",
+        "nisn": "3095621925",
+        "village": "Betek",
+        "distance": "2020",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 00:03:04"
+    },
+    {
+        "name": "LAILATUL MAGHFIROH HAYATI",
+        "nisn": "0082213770",
+        "village": "Tejo",
+        "distance": "2026",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 05:41:02"
+    },
+    {
+        "name": "RIVALDO RAMA COKI ANDRIANTO",
+        "nisn": "0073824935",
+        "village": "Dukuhmojo",
+        "distance": "2030",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 15:46:08"
+    },
+    {
+        "name": "MALVINO CHOLVI JOVANTAMA",
+        "nisn": "0085357270",
+        "village": "Mancilan",
+        "distance": "2042",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 00:02:46"
+    },
+    {
+        "name": "PUTRI KUMALASARI",
+        "nisn": "0086049794",
+        "village": "Mojotrisno",
+        "distance": "2042",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 01:21:57"
+    },
+    {
+        "name": "MUHAMMAD SEPTIAN FALAH RAMADHAN",
+        "nisn": "0084650125",
+        "village": "Mojotrisno",
+        "distance": "2043",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 04:13:07"
+    },
+    {
+        "name": "YOEL PURNOMO",
+        "nisn": "0089577331",
+        "village": "Mancilan",
+        "distance": "2054",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 00:10:35"
+    },
+    {
+        "name": "ALVIRA VAIRA VANENINA",
+        "nisn": "0081459902",
+        "village": "Palrejo",
+        "distance": "2056",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 00:18:46"
+    },
+    {
+        "name": "CLARISYA AFRILITA PUTRI",
+        "nisn": "0081439536",
+        "village": "Mojotrisno",
+        "distance": "2078",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 10:11:19"
+    },
+    {
+        "name": "SAFIYANA YUSRIYA",
+        "nisn": "0085347227",
+        "village": "Dukuhmojo",
+        "distance": "2082",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 00:55:22"
+    },
+    {
+        "name": "RIFQI ATHALLAH SYAH",
+        "nisn": "0088558121",
+        "village": "Mojotrisno",
+        "distance": "2085",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 08:15:32"
+    },
+    {
+        "name": "MAHENDRA VIJAYA SUGIARTO",
+        "nisn": "0095282580",
+        "village": "Mojotrisno",
+        "distance": "2132",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 00:08:04"
+    },
+    {
+        "name": "FERA ANGGRAINI",
+        "nisn": "0084406001",
+        "village": "Tejo",
+        "distance": "2155",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-28 16:18:13"
+    },
+    {
+        "name": "AZIZ AHMAD MUDHAKAR",
+        "nisn": "0077439775",
+        "village": "Dukuhmojo",
+        "distance": "2166",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 06:33:12"
+    },
+    {
+        "name": "MUHAMMAD ASHRAF PUTRA RAHMANI",
+        "nisn": "0092949853",
+        "village": "Plemahan",
+        "distance": "2231",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 00:03:23"
+    },
+    {
+        "name": "FIOLA RAMADHANIE SHINDU",
+        "nisn": "0084505916",
+        "village": "Dukuhmojo",
+        "distance": "2235",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 10:06:53"
+    },
+    {
+        "name": "ATHAILLAH AILSA JACINDA",
+        "nisn": "0094269325",
+        "village": "Betek",
+        "distance": "2239",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 00:32:25"
+    },
+    {
+        "name": "ISHA HABIBILLAH",
+        "nisn": "0087378723",
+        "village": "Mancilan",
+        "distance": "2257",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 05:32:40"
+    },
+    {
+        "name": "Muhammad Satria Maulana",
+        "nisn": "3098747448",
+        "village": "Betek",
+        "distance": "2259",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 07:22:17"
+    },
+    {
+        "name": "KEZIA CIQUITA NAIRA",
+        "nisn": "0099039203",
+        "village": "Mojotrisno",
+        "distance": "2281",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 00:13:30"
+    },
+    {
+        "name": "KEYLA DINAR ANANTA",
+        "nisn": "0084695270",
+        "village": "Palrejo",
+        "distance": "2284",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 01:20:57"
+    },
+    {
+        "name": "ROSITA DEWI",
+        "nisn": "0087036409",
+        "village": "Wringinpitu",
+        "distance": "2297",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 04:51:59"
+    },
+    {
+        "name": "RIZKI ANDI ABDILLAH",
+        "nisn": "0089515064",
+        "village": "Betek",
+        "distance": "2301",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 00:08:05"
+    },
+    {
+        "name": "BIANCHA VALENCIA ARIFIZANTYP",
+        "nisn": "0089210220",
+        "village": "Mojotrisno",
+        "distance": "2313",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 08:12:18"
+    },
+    {
+        "name": "NADIN HERLITA FRIDIANA",
+        "nisn": "0083038333",
+        "village": "Mojotrisno",
+        "distance": "2325",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 08:19:36"
+    },
+    {
+        "name": "NOVIA MAYSAROH",
+        "nisn": "0084602006",
+        "village": "Mojotrisno",
+        "distance": "2351",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 07:13:02"
+    },
+    {
+        "name": "ARKA DAEGAL ATMA JAYA",
+        "nisn": "0083896453",
+        "village": "Betek",
+        "distance": "2372",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 14:41:21"
+    },
+    {
+        "name": "MOCHAMAD TITO PRASETYO",
+        "nisn": "0087609744",
+        "village": "Miagan",
+        "distance": "2400",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 08:03:17"
+    },
+    {
+        "name": "FAIRA RIZKA ELYSIA",
+        "nisn": "0097694170",
+        "village": "Wringinpitu",
+        "distance": "2414",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 06:39:18"
+    },
+    {
+        "name": "MARINDA AISYAH MAWLAAYA IRBAH",
+        "nisn": "3086929227",
+        "village": "Mojotrisno",
+        "distance": "2416",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-28 11:12:09"
+    },
+    {
+        "name": "ALIF SETIAWAN",
+        "nisn": "3086136578",
+        "village": "Mancilan",
+        "distance": "2438",
+        "sma": "SMA NEGERI MOJOAGUNG",
+        "registration_created_at": "2024-06-27 11:03:55"
+    }
+]

@@ -1,0 +1,330 @@
+[
+    {
+        "name": "Ahmad Hafiz Al Azzar",
+        "nisn": "3094038978",
+        "village": "Tapen",
+        "distance": "10177",
+        "sma": "SMA NEGERI KABUH",
+        "registration_created_at": "2024-06-27 13:11:14"
+    },
+    {
+        "name": "ERLIS THYAS WIDIANINGRUM",
+        "nisn": "0087568825",
+        "village": "Katemas",
+        "distance": "7183",
+        "sma": "SMA NEGERI KABUH",
+        "registration_created_at": "2024-06-27 13:33:16"
+    },
+    {
+        "name": "AHMAD ZAKI ALFAHRI",
+        "nisn": "0087321924",
+        "village": "Bendungan",
+        "distance": "8072",
+        "sma": "SMA NEGERI KABUH",
+        "registration_created_at": "2024-06-27 08:27:50"
+    },
+    {
+        "name": "DARELL CANDRA WIJAYA",
+        "nisn": "0099925099",
+        "village": "Sentul",
+        "distance": "8015",
+        "sma": "SMA NEGERI KABUH",
+        "registration_created_at": "2024-06-27 14:55:35"
+    },
+    {
+        "name": "AGATHA LOIS LUCIEN",
+        "nisn": "0097819739",
+        "village": "Gabusbanaran",
+        "distance": "7574",
+        "sma": "SMA NEGERI KABUH",
+        "registration_created_at": "2024-06-27 00:04:32"
+    },
+    {
+        "name": "MOHAMAD AZRUL ANANDA",
+        "nisn": "0099769920",
+        "village": "Pulogedang",
+        "distance": "8248",
+        "sma": "SMA NEGERI KABUH",
+        "registration_created_at": "2024-06-27 05:16:55"
+    },
+    {
+        "name": "SATRIO BHAKTI",
+        "nisn": "0086890722",
+        "village": "Bedahlawak",
+        "distance": "7289",
+        "sma": "SMA NEGERI KABUH",
+        "registration_created_at": "2024-06-28 18:15:34"
+    },
+    {
+        "name": "Yolanda Aprilia Putri",
+        "nisn": "3097524704",
+        "village": "Kepuhdoko",
+        "distance": "8051",
+        "sma": "SMA NEGERI KABUH",
+        "registration_created_at": "2024-06-27 03:59:01"
+    },
+    {
+        "name": "VALENCIA ESA NAYAKA",
+        "nisn": "0092467446",
+        "village": "Pacarpeluk",
+        "distance": "8288",
+        "sma": "SMA NEGERI KABUH",
+        "registration_created_at": "2024-06-27 12:53:00"
+    },
+    {
+        "name": "MELVA ERLYNDA KALLISTA",
+        "nisn": "0091346915",
+        "village": "Kedungrejo",
+        "distance": "7642",
+        "sma": "SMA NEGERI KABUH",
+        "registration_created_at": "2024-06-27 14:37:51"
+    },
+    {
+        "name": "ELLY LAILATURROHMAH",
+        "nisn": "3090102193",
+        "village": "Tanjungwadung",
+        "distance": "2595",
+        "sma": "SMA NEGERI KABUH",
+        "registration_created_at": "2024-06-27 02:27:50"
+    },
+    {
+        "name": "Bagus Tri Hariono",
+        "nisn": "0085125800",
+        "village": "Sumberingin",
+        "distance": "3473",
+        "sma": "SMA NEGERI KABUH",
+        "registration_created_at": "2024-06-27 00:06:58"
+    },
+    {
+        "name": "GALIH SUSILO",
+        "nisn": "0091654446",
+        "village": "Sumbergondang",
+        "distance": "4363",
+        "sma": "SMA NEGERI KABUH",
+        "registration_created_at": "2024-06-27 09:53:30"
+    },
+    {
+        "name": "SITI NURDAYATI",
+        "nisn": "0088487663",
+        "village": "Sumberaji",
+        "distance": "3908",
+        "sma": "SMA NEGERI KABUH",
+        "registration_created_at": "2024-06-27 05:44:07"
+    },
+    {
+        "name": "RINDU SYAFA AISYAH",
+        "nisn": "0089871151",
+        "village": "Sukodadi",
+        "distance": "3024",
+        "sma": "SMA NEGERI KABUH",
+        "registration_created_at": "2024-06-27 00:11:44"
+    },
+    {
+        "name": "NABILA FIRGIANZAH",
+        "nisn": "0087856078",
+        "village": "Pengampon",
+        "distance": "2523",
+        "sma": "SMA NEGERI KABUH",
+        "registration_created_at": "2024-06-27 00:05:28"
+    },
+    {
+        "name": "YUNITA ANGGRAINI",
+        "nisn": "0088917093",
+        "village": "Munungkerep",
+        "distance": "6601",
+        "sma": "SMA NEGERI KABUH",
+        "registration_created_at": "2024-06-27 07:41:01"
+    },
+    {
+        "name": "PUTRA DIMAS PRIARTIYANTO",
+        "nisn": "0097558907",
+        "village": "Marmoyo",
+        "distance": "6260",
+        "sma": "SMA NEGERI KABUH",
+        "registration_created_at": "2024-06-27 00:03:32"
+    },
+    {
+        "name": "YURIZTA EVELYNA VERANICA DIANDRA",
+        "nisn": "0092296490",
+        "village": "Mangunan",
+        "distance": "2312",
+        "sma": "SMA NEGERI KABUH",
+        "registration_created_at": "2024-06-27 04:39:14"
+    },
+    {
+        "name": "DESY ANGGRAYNI",
+        "nisn": "0086225779",
+        "village": "Manduro",
+        "distance": "2558",
+        "sma": "SMA NEGERI KABUH",
+        "registration_created_at": "2024-06-27 06:58:25"
+    },
+    {
+        "name": "LAILANI PUTRI DWI LESTARI",
+        "nisn": "0082283560",
+        "village": "Kedungjati",
+        "distance": "2305",
+        "sma": "SMA NEGERI KABUH",
+        "registration_created_at": "2024-06-27 09:28:27"
+    },
+    {
+        "name": "ADINDA CAHAYA APRILLIAN",
+        "nisn": "0084859088",
+        "village": "Kauman",
+        "distance": "6111",
+        "sma": "SMA NEGERI KABUH",
+        "registration_created_at": "2024-06-27 06:15:08"
+    },
+    {
+        "name": "MUHAMMAD ALVIAN JUNIOR",
+        "nisn": "0098348676",
+        "village": "Karangpakis",
+        "distance": "2403",
+        "sma": "SMA NEGERI KABUH",
+        "registration_created_at": "2024-06-27 00:44:33"
+    },
+    {
+        "name": "Septian Rahmadani Putri Sejati",
+        "nisn": "0085621417",
+        "village": "Genenganjasem",
+        "distance": "5432",
+        "sma": "SMA NEGERI KABUH",
+        "registration_created_at": "2024-06-27 13:47:34"
+    },
+    {
+        "name": "MEISYA NUR AMALIA",
+        "nisn": "0098230731",
+        "village": "Banjardowo",
+        "distance": "2655",
+        "sma": "SMA NEGERI KABUH",
+        "registration_created_at": "2024-06-27 05:52:44"
+    },
+    {
+        "name": "MOHAMAD PANJI ARYANTO",
+        "nisn": "0098883039",
+        "village": "Tondowulan",
+        "distance": "2563",
+        "sma": "SMA NEGERI KABUH",
+        "registration_created_at": "2024-06-27 00:37:39"
+    },
+    {
+        "name": "SATRIYO UTOMO BEKTI",
+        "nisn": "0089630912",
+        "village": "Sumberjo",
+        "distance": "3336",
+        "sma": "SMA NEGERI KABUH",
+        "registration_created_at": "2024-06-27 03:51:44"
+    },
+    {
+        "name": "ILMADINA HESTYANI AQILA",
+        "nisn": "0089612972",
+        "village": "Purisemanding",
+        "distance": "5526",
+        "sma": "SMA NEGERI KABUH",
+        "registration_created_at": "2024-06-27 07:06:17"
+    },
+    {
+        "name": "VANDA ADI KARTIKA",
+        "nisn": "0094697673",
+        "village": "Darurejo",
+        "distance": "3258",
+        "sma": "SMA NEGERI KABUH",
+        "registration_created_at": "2024-06-27 11:12:22"
+    },
+    {
+        "name": "RAFI FAIRUS PUTRA AGUSTI",
+        "nisn": "0093920664",
+        "village": "Tanggungkramat",
+        "distance": "7415",
+        "sma": "SMA NEGERI KABUH",
+        "registration_created_at": "2024-06-27 00:23:32"
+    },
+    {
+        "name": "SHERINA ARIF PUTRI MAULIDIYA",
+        "nisn": "0086893730",
+        "village": "Rejoagung",
+        "distance": "6747",
+        "sma": "SMA NEGERI KABUH",
+        "registration_created_at": "2024-06-27 05:29:07"
+    },
+    {
+        "name": "DIANA PUTRI RAMADHANI",
+        "nisn": "0087601619",
+        "village": "Ploso",
+        "distance": "5784",
+        "sma": "SMA NEGERI KABUH",
+        "registration_created_at": "2024-06-27 00:15:03"
+    },
+    {
+        "name": "FEBBYAN SHAFARUDIN",
+        "nisn": "0096731592",
+        "village": "Pandanblole",
+        "distance": "3142",
+        "sma": "SMA NEGERI KABUH",
+        "registration_created_at": "2024-06-27 00:07:34"
+    },
+    {
+        "name": "LEO MAIKO SISWOYO",
+        "nisn": "0081147468",
+        "village": "Pagertanjung",
+        "distance": "4982",
+        "sma": "SMA NEGERI KABUH",
+        "registration_created_at": "2024-06-27 02:33:05"
+    },
+    {
+        "name": "ANGELINA NATASYA PUTRI",
+        "nisn": "0098211014",
+        "village": "Losari",
+        "distance": "6374",
+        "sma": "SMA NEGERI KABUH",
+        "registration_created_at": "2024-06-27 00:38:02"
+    },
+    {
+        "name": "MEI HELGA ARTANTI",
+        "nisn": "0096284365",
+        "village": "Kedungdowo",
+        "distance": "3078",
+        "sma": "SMA NEGERI KABUH",
+        "registration_created_at": "2024-06-27 05:49:08"
+    },
+    {
+        "name": "DANI RAMAYANTO",
+        "nisn": "0092449755",
+        "village": "Kebonagung",
+        "distance": "3952",
+        "sma": "SMA NEGERI KABUH",
+        "registration_created_at": "2024-06-27 07:54:32"
+    },
+    {
+        "name": "ALFIANA MAHARANI DILESTARI",
+        "nisn": "0095406969",
+        "village": "Jatigedong",
+        "distance": "6839",
+        "sma": "SMA NEGERI KABUH",
+        "registration_created_at": "2024-06-27 05:53:26"
+    },
+    {
+        "name": "MUHAMMAD THORIQ FAHRI RACHMADSYAH MACHMUD",
+        "nisn": "0085823205",
+        "village": "Jatibanjar",
+        "distance": "3983",
+        "sma": "SMA NEGERI KABUH",
+        "registration_created_at": "2024-06-27 07:05:23"
+    },
+    {
+        "name": "MELA MARISCHA AZ ZAHRA",
+        "nisn": "0098386030",
+        "village": "Daditunggal",
+        "distance": "7932",
+        "sma": "SMA NEGERI KABUH",
+        "registration_created_at": "2024-06-27 00:03:50"
+    },
+    {
+        "name": "FAREL DISTI ADITIA",
+        "nisn": "0086240701",
+        "village": "Bawangan",
+        "distance": "4912",
+        "sma": "SMA NEGERI KABUH",
+        "registration_created_at": "2024-06-27 00:32:23"
+    }
+]

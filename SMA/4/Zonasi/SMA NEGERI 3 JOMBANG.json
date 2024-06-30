@@ -1,0 +1,850 @@
+[
+    {
+        "name": "Elvira Putri Khoirunisa",
+        "nisn": "0083351083",
+        "village": "Jombatan",
+        "distance": "116",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 03:58:40"
+    },
+    {
+        "name": "RIKO MUKTI WIBOWO",
+        "nisn": "0098057704",
+        "village": "Jombatan",
+        "distance": "140",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 00:06:31"
+    },
+    {
+        "name": "HUMAIRA NEILA NATHANIA",
+        "nisn": "0092350713",
+        "village": "Jombatan",
+        "distance": "156",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 00:31:30"
+    },
+    {
+        "name": "RAFA SYUHADA",
+        "nisn": "0096177005",
+        "village": "Jombatan",
+        "distance": "162",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 02:49:30"
+    },
+    {
+        "name": "Afzalurrahman",
+        "nisn": "3082447841",
+        "village": "Jombatan",
+        "distance": "168",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 06:48:47"
+    },
+    {
+        "name": "ALLEN RIZKY FAHREZY",
+        "nisn": "0097153072",
+        "village": "Jombatan",
+        "distance": "188",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 07:06:39"
+    },
+    {
+        "name": "MOHAMMAD ADHITYA PUTRA PAMUNGKAS",
+        "nisn": "0083617396",
+        "village": "Jombatan",
+        "distance": "206",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 05:29:13"
+    },
+    {
+        "name": "EKY YUNIAR ASWANTI",
+        "nisn": "0085198806",
+        "village": "Jombatan",
+        "distance": "221",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 00:05:10"
+    },
+    {
+        "name": "FAIROZA AN NASSYA",
+        "nisn": "0084533441",
+        "village": "Jombatan",
+        "distance": "241",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 00:07:52"
+    },
+    {
+        "name": "KHUMAIRA ZAHRATUNNISA",
+        "nisn": "0081529275",
+        "village": "Jombatan",
+        "distance": "248",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 06:00:33"
+    },
+    {
+        "name": "Albaric Zachri Khan",
+        "nisn": "0095030340",
+        "village": "Jombatan",
+        "distance": "266",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 00:04:31"
+    },
+    {
+        "name": "agdena zavy syarafah",
+        "nisn": "0087324209",
+        "village": "Jombatan",
+        "distance": "268",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 05:05:17"
+    },
+    {
+        "name": "MUHAMMAD AKBAR",
+        "nisn": "0088746396",
+        "village": "Jombatan",
+        "distance": "352",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 00:15:17"
+    },
+    {
+        "name": "AQILLA PUTRI RAHMADHANI",
+        "nisn": "0091217223",
+        "village": "Jombatan",
+        "distance": "366",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 08:46:37"
+    },
+    {
+        "name": "SYAFIRA ZIANA FAHZA",
+        "nisn": "0098544696",
+        "village": "Jombatan",
+        "distance": "368",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 10:51:32"
+    },
+    {
+        "name": "SHERENA PEPTY DWI SARI",
+        "nisn": "0092590574",
+        "village": "Jombatan",
+        "distance": "378",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 00:14:42"
+    },
+    {
+        "name": "ZAHRINA SAFIRA ASHFA",
+        "nisn": "0089918984",
+        "village": "Jombatan",
+        "distance": "384",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 00:13:26"
+    },
+    {
+        "name": "ZUFAR MUHAMMAD AZIZ",
+        "nisn": "0083352605",
+        "village": "Jombatan",
+        "distance": "387",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 00:04:49"
+    },
+    {
+        "name": "DZULFIQAR MUHAMMAD HAKIM",
+        "nisn": "0088922290",
+        "village": "Jombatan",
+        "distance": "388",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 00:04:48"
+    },
+    {
+        "name": "ALIFUDIN",
+        "nisn": "0094357359",
+        "village": "Jombatan",
+        "distance": "412",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 00:28:15"
+    },
+    {
+        "name": "SINDY KURNIA SARI",
+        "nisn": "0089984073",
+        "village": "Jombatan",
+        "distance": "413",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 00:10:51"
+    },
+    {
+        "name": "SABRINA BUNGA FERNANSYA",
+        "nisn": "0089711697",
+        "village": "Jombatan",
+        "distance": "415",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 08:27:06"
+    },
+    {
+        "name": "NAURA ANINDYA PUTRI",
+        "nisn": "0081168616",
+        "village": "Sengon",
+        "distance": "421",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 01:14:23"
+    },
+    {
+        "name": "SILVIA AGGRE MAHARANI",
+        "nisn": "0081782215",
+        "village": "Kepanjen",
+        "distance": "422",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 07:06:34"
+    },
+    {
+        "name": "KHAMIMA ABIDATUL AINI",
+        "nisn": "0084892684",
+        "village": "Kepanjen",
+        "distance": "433",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 00:09:18"
+    },
+    {
+        "name": "DIONYSIUS CELIO GUERINO OZORA RAHARJANTO",
+        "nisn": "0083856079",
+        "village": "Jombatan",
+        "distance": "434",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-28 05:39:28"
+    },
+    {
+        "name": "Artika Sinta Dewi",
+        "nisn": "0093129974",
+        "village": "Jombatan",
+        "distance": "437",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 00:23:06"
+    },
+    {
+        "name": "TRI CANDRA RIZKYANSYAH",
+        "nisn": "0085712049",
+        "village": "Jombatan",
+        "distance": "449",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-28 16:46:23"
+    },
+    {
+        "name": "SALSABILA NIRMALASARI SETIYADI",
+        "nisn": "3095128062",
+        "village": "Jombatan",
+        "distance": "450",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 07:34:02"
+    },
+    {
+        "name": "ZAYRA PUTRI",
+        "nisn": "0094599682",
+        "village": "Kepanjen",
+        "distance": "451",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 00:08:22"
+    },
+    {
+        "name": "RADYA RAISAH RAMADHANI",
+        "nisn": "3083353644",
+        "village": "Kepanjen",
+        "distance": "466",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 07:31:53"
+    },
+    {
+        "name": "REYHAN MAULANA AFANDI",
+        "nisn": "0097478081",
+        "village": "Sengon",
+        "distance": "485",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 01:41:25"
+    },
+    {
+        "name": "Achmad Fariel Apriliawan",
+        "nisn": "0084111833",
+        "village": "Jombatan",
+        "distance": "486",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 00:14:54"
+    },
+    {
+        "name": "HANDHIKA DWI CAHYO",
+        "nisn": "0097167733",
+        "village": "Sengon",
+        "distance": "491",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 02:29:43"
+    },
+    {
+        "name": "MUHAMMAD FAHMI HUSEN",
+        "nisn": "0091826768",
+        "village": "Sengon",
+        "distance": "497",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 08:48:01"
+    },
+    {
+        "name": "NABILA MEISYA",
+        "nisn": "0085621226",
+        "village": "Kepanjen",
+        "distance": "505",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 03:16:43"
+    },
+    {
+        "name": "Mohammad Syahdan Ahsanta",
+        "nisn": "0099987128",
+        "village": "Sengon",
+        "distance": "526",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 00:17:17"
+    },
+    {
+        "name": "SYAHLANDRA RIZQI ALI MUHAMMAD",
+        "nisn": "0082802903",
+        "village": "Jombatan",
+        "distance": "538",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 06:43:56"
+    },
+    {
+        "name": "RATU LYONS ARTHA VAYCILLA",
+        "nisn": "3093778313",
+        "village": "Sengon",
+        "distance": "538",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 01:19:18"
+    },
+    {
+        "name": "FADIA NAZILA ZULFA",
+        "nisn": "0087963876",
+        "village": "Sengon",
+        "distance": "549",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 00:06:01"
+    },
+    {
+        "name": "AULIA NUR SYAFIRA",
+        "nisn": "0087950060",
+        "village": "Sengon",
+        "distance": "558",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 02:14:48"
+    },
+    {
+        "name": "Yulianisa Dea Lestari",
+        "nisn": "0087828033",
+        "village": "Sengon",
+        "distance": "563",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 00:27:25"
+    },
+    {
+        "name": "MOHAMMAD SATRIO ANDIAN",
+        "nisn": "0088298884",
+        "village": "Sengon",
+        "distance": "577",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 00:10:52"
+    },
+    {
+        "name": "Mahza Karnela Rahma Tuniza",
+        "nisn": "0081223825",
+        "village": "Sengon",
+        "distance": "591",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 08:13:26"
+    },
+    {
+        "name": "ANNISA WULAN SHAKIRA MAHARANI",
+        "nisn": "3099455067",
+        "village": "Sengon",
+        "distance": "597",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 01:59:30"
+    },
+    {
+        "name": "Hilmi Febriyanti",
+        "nisn": "0085869824",
+        "village": "Sengon",
+        "distance": "624",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 01:57:50"
+    },
+    {
+        "name": "RAYHAN IBRAHIM HUSAIN",
+        "nisn": "0088139700",
+        "village": "Jombatan",
+        "distance": "628",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 05:14:50"
+    },
+    {
+        "name": "NISWAA AZZAHRAA QUEENTARI",
+        "nisn": "0092683516",
+        "village": "Jombatan",
+        "distance": "630",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-28 13:33:44"
+    },
+    {
+        "name": "WILDAN LANGIT PRAWIRO",
+        "nisn": "0082264689",
+        "village": "Pulolor",
+        "distance": "632",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 05:28:08"
+    },
+    {
+        "name": "TSANIA AQILA RAMADHANI",
+        "nisn": "0086398949",
+        "village": "Sengon",
+        "distance": "636",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 12:43:55"
+    },
+    {
+        "name": "DYCA KARUNIA AVINZA",
+        "nisn": "0075681079",
+        "village": "Sengon",
+        "distance": "640",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 00:09:10"
+    },
+    {
+        "name": "LAILA GUSTI ADINDA",
+        "nisn": "0089117328",
+        "village": "Pulolor",
+        "distance": "640",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 00:04:49"
+    },
+    {
+        "name": "AHMAD ZAYYAN ZUFAR",
+        "nisn": "0088260640",
+        "village": "Pulolor",
+        "distance": "649",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 00:04:36"
+    },
+    {
+        "name": "RADITYA ADLAR PRATAMA",
+        "nisn": "0082272785",
+        "village": "Kepatihan",
+        "distance": "675",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 02:46:52"
+    },
+    {
+        "name": "CYSYA GHAIDHA NAZHIFAH",
+        "nisn": "0086970425",
+        "village": "Jombatan",
+        "distance": "678",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 00:26:06"
+    },
+    {
+        "name": "KHANZA CALLULA ERWANDA",
+        "nisn": "0083194499",
+        "village": "Jombatan",
+        "distance": "681",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 06:06:40"
+    },
+    {
+        "name": "AQILAH INTAN PRATIWI",
+        "nisn": "0097373876",
+        "village": "Pulolor",
+        "distance": "690",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 02:11:39"
+    },
+    {
+        "name": "ANASTASIA BETHA FLOURESITA",
+        "nisn": "0081849749",
+        "village": "Jombatan",
+        "distance": "695",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 00:05:07"
+    },
+    {
+        "name": "RASYA PUTRA PERDANA",
+        "nisn": "0082046435",
+        "village": "Sengon",
+        "distance": "705",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 05:34:14"
+    },
+    {
+        "name": "GALANG PRIHATINO",
+        "nisn": "3094277189",
+        "village": "Pulolor",
+        "distance": "716",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 02:49:35"
+    },
+    {
+        "name": "GANDHANG GIRI LEGOWO",
+        "nisn": "0088497935",
+        "village": "Kepatihan",
+        "distance": "717",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 05:15:27"
+    },
+    {
+        "name": "RUDY CHAMDANY KAMAL",
+        "nisn": "0083240285",
+        "village": "Jombatan",
+        "distance": "723",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 00:05:55"
+    },
+    {
+        "name": "Wafiyyun Ahmad Fauzan",
+        "nisn": "0093914638",
+        "village": "Pulolor",
+        "distance": "726",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 05:15:09"
+    },
+    {
+        "name": "ARIANI EMILIANA SALSABILA",
+        "nisn": "0099415552",
+        "village": "Jombatan",
+        "distance": "741",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 06:44:03"
+    },
+    {
+        "name": "DAVINA AZ ZAHRA SALSABILA",
+        "nisn": "0084667830",
+        "village": "Sengon",
+        "distance": "752",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 07:51:03"
+    },
+    {
+        "name": "LAREINA RASHIDA ARFIYANTI",
+        "nisn": "0094833204",
+        "village": "Pulolor",
+        "distance": "774",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 00:04:58"
+    },
+    {
+        "name": "MUHAMMAD AZRIEL AZMI",
+        "nisn": "0082355071",
+        "village": "Jombatan",
+        "distance": "792",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 00:05:43"
+    },
+    {
+        "name": "NASYWA PRATIWI",
+        "nisn": "0081835804",
+        "village": "Kepatihan",
+        "distance": "810",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 14:45:47"
+    },
+    {
+        "name": "ALBIZIA CHRISTA MARCHIANTONO",
+        "nisn": "0094390603",
+        "village": "Kepatihan",
+        "distance": "818",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 00:03:44"
+    },
+    {
+        "name": "Naura Revalina Putri",
+        "nisn": "0096092818",
+        "village": "Kaliwungu",
+        "distance": "820",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 00:06:15"
+    },
+    {
+        "name": "MIFTAQHUR RIZKI AKBAR",
+        "nisn": "0089865800",
+        "village": "Kepanjen",
+        "distance": "852",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 00:32:01"
+    },
+    {
+        "name": "ADITYA TATA RAMADANI",
+        "nisn": "0084094391",
+        "village": "Sengon",
+        "distance": "857",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 03:21:10"
+    },
+    {
+        "name": "Shafa Raudhatul Kamilah",
+        "nisn": "0081610843",
+        "village": "Jombatan",
+        "distance": "869",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 04:58:38"
+    },
+    {
+        "name": "Gadis Ersa Monic",
+        "nisn": "0081689734",
+        "village": "Jombatan",
+        "distance": "876",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 00:43:58"
+    },
+    {
+        "name": "Rasya Novalino Andriawan",
+        "nisn": "0089420629",
+        "village": "Kaliwungu",
+        "distance": "881",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 17:30:52"
+    },
+    {
+        "name": "IRENA ANINDITA",
+        "nisn": "0098568697",
+        "village": "Jombatan",
+        "distance": "881",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 00:06:19"
+    },
+    {
+        "name": "REGAN AVILA ZACHARY",
+        "nisn": "0087022950",
+        "village": "Kepanjen",
+        "distance": "885",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 05:24:21"
+    },
+    {
+        "name": "ZAKIA AURELIESHA",
+        "nisn": "0086299885",
+        "village": "Sengon",
+        "distance": "885",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 00:10:03"
+    },
+    {
+        "name": "PERTIWI PUTRI FARDYANT",
+        "nisn": "0089932142",
+        "village": "Kaliwungu",
+        "distance": "887",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 09:22:01"
+    },
+    {
+        "name": "Salma Zahrotushita Imrani",
+        "nisn": "0096454212",
+        "village": "Sengon",
+        "distance": "890",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 00:09:05"
+    },
+    {
+        "name": "Nurhan Hadrian Ahmad",
+        "nisn": "0093942317",
+        "village": "Kaliwungu",
+        "distance": "890",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 00:38:40"
+    },
+    {
+        "name": "AULIA FITRI OKTAVIANI",
+        "nisn": "3088872151",
+        "village": "Kaliwungu",
+        "distance": "891",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 01:33:48"
+    },
+    {
+        "name": "TSABITTA NURIS SALMA",
+        "nisn": "0096593216",
+        "village": "Sengon",
+        "distance": "892",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 09:10:55"
+    },
+    {
+        "name": "ARIF BUDI WICAKSONO",
+        "nisn": "0083096164",
+        "village": "Sengon",
+        "distance": "919",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 01:54:13"
+    },
+    {
+        "name": "MUHAMMAD ALTHAF ZAIDAN",
+        "nisn": "0089416466",
+        "village": "Sengon",
+        "distance": "925",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 00:05:06"
+    },
+    {
+        "name": "FAIZA NADIVA RAMADHANI",
+        "nisn": "0082169420",
+        "village": "Sengon",
+        "distance": "932",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 00:12:32"
+    },
+    {
+        "name": "RESTIANA HILDA RAHAYU",
+        "nisn": "0086885826",
+        "village": "Sengon",
+        "distance": "933",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 09:18:58"
+    },
+    {
+        "name": "DIKA SETIAWAN",
+        "nisn": "0099996085",
+        "village": "Kaliwungu",
+        "distance": "935",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 05:59:08"
+    },
+    {
+        "name": "DAVID PARDOSI",
+        "nisn": "0098386148",
+        "village": "Sengon",
+        "distance": "935",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 07:43:21"
+    },
+    {
+        "name": "ARYA NOVA WIJAYA JANARKO",
+        "nisn": "0081686067",
+        "village": "Jombatan",
+        "distance": "943",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 00:56:28"
+    },
+    {
+        "name": "Rasya Satria Andilaka",
+        "nisn": "0092923475",
+        "village": "Pulolor",
+        "distance": "946",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 17:54:40"
+    },
+    {
+        "name": "DYANDRA LUNA RAMADHANI",
+        "nisn": "0089559138",
+        "village": "Sengon",
+        "distance": "971",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 00:03:13"
+    },
+    {
+        "name": "EXCEL FIRLANDO DESRAYTITAN",
+        "nisn": "0082356605",
+        "village": "Kaliwungu",
+        "distance": "971",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 00:08:09"
+    },
+    {
+        "name": "RASYA MAULANA",
+        "nisn": "0087347344",
+        "village": "Sengon",
+        "distance": "974",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 00:12:47"
+    },
+    {
+        "name": "EZAR SATRIYA ADINATA",
+        "nisn": "0091443899",
+        "village": "Pulolor",
+        "distance": "974",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 00:04:34"
+    },
+    {
+        "name": "ISELYA MUTIARA ZAHRA",
+        "nisn": "0098873014",
+        "village": "Sengon",
+        "distance": "989",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 06:45:38"
+    },
+    {
+        "name": "MEIRA PRAMESWARI WITARIANI",
+        "nisn": "3084534479",
+        "village": "Sengon",
+        "distance": "990",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 02:51:14"
+    },
+    {
+        "name": "THALITA YASMIN SELINA",
+        "nisn": "0096908665",
+        "village": "Kaliwungu",
+        "distance": "992",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-28 11:07:11"
+    },
+    {
+        "name": "ALUNA RAMADHANI PUTRI GUMILAR",
+        "nisn": "0086128838",
+        "village": "Kepanjen",
+        "distance": "993",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-28 17:27:59"
+    },
+    {
+        "name": "INTAN HUMAIRA",
+        "nisn": "0088276053",
+        "village": "Jombatan",
+        "distance": "1016",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 11:40:44"
+    },
+    {
+        "name": "Faizadnan Rafi Salma",
+        "nisn": "0086034419",
+        "village": "Sengon",
+        "distance": "1019",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-28 13:49:57"
+    },
+    {
+        "name": "ADITYA AFRIZKY PUTRA",
+        "nisn": "0071052803",
+        "village": "Sengon",
+        "distance": "1023",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 00:03:56"
+    },
+    {
+        "name": "SHELLA AURELYA",
+        "nisn": "0086890623",
+        "village": "Pulolor",
+        "distance": "1026",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 00:02:38"
+    },
+    {
+        "name": "Zuke Cindy Pranata",
+        "nisn": "0087669051",
+        "village": "Sengon",
+        "distance": "1032",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 00:08:08"
+    },
+    {
+        "name": "KHUSNUL MAIYASA FIROHMATi",
+        "nisn": "0151573806",
+        "village": "Sengon",
+        "distance": "1036",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 00:59:51"
+    },
+    {
+        "name": "MOCHAMMAD THARIQ ZAIDAN ALY FAWWAZ",
+        "nisn": "3081748160",
+        "village": "Kepatihan",
+        "distance": "1037",
+        "sma": "SMA NEGERI 3  JOMBANG",
+        "registration_created_at": "2024-06-27 00:02:32"
+    }
+]

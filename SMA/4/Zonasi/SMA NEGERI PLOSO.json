@@ -1,0 +1,594 @@
+[
+    {
+        "name": "Nacca Karuna Salim Murdhani",
+        "nisn": "0098313519",
+        "village": "Bawangan",
+        "distance": "58",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 07:10:10"
+    },
+    {
+        "name": "FATCHIYAH",
+        "nisn": "0091491030",
+        "village": "Bawangan",
+        "distance": "127",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 07:14:01"
+    },
+    {
+        "name": "AYUNDA MARATUS SHOLIKAH",
+        "nisn": "0082685874",
+        "village": "Bawangan",
+        "distance": "144",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 10:19:31"
+    },
+    {
+        "name": "JESSICA ADELIA",
+        "nisn": "0081549230",
+        "village": "Bawangan",
+        "distance": "152",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 00:40:25"
+    },
+    {
+        "name": "AISYAH ANUGRA PUTRI",
+        "nisn": "0087699177",
+        "village": "Bawangan",
+        "distance": "153",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 07:54:59"
+    },
+    {
+        "name": "INTAN PERMATASARI",
+        "nisn": "0083677634",
+        "village": "Losari",
+        "distance": "165",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 04:46:08"
+    },
+    {
+        "name": "Tegar Tricahya",
+        "nisn": "0085628619",
+        "village": "Losari",
+        "distance": "193",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 00:10:43"
+    },
+    {
+        "name": "NADIA DEWI INDAYANI",
+        "nisn": "0093940188",
+        "village": "Losari",
+        "distance": "200",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 02:32:16"
+    },
+    {
+        "name": "NAURA HASNA PUTRI AZZAHLYA",
+        "nisn": "0086642623",
+        "village": "Ploso",
+        "distance": "201",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 15:23:08"
+    },
+    {
+        "name": "DANUR RHOMADONA",
+        "nisn": "0089602023",
+        "village": "Losari",
+        "distance": "207",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 16:36:01"
+    },
+    {
+        "name": "ARISTA MAHARANI",
+        "nisn": "0091371900",
+        "village": "Losari",
+        "distance": "231",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 05:32:43"
+    },
+    {
+        "name": "ANIATUL KHAMIDAH",
+        "nisn": "3096497454",
+        "village": "Losari",
+        "distance": "235",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 00:04:39"
+    },
+    {
+        "name": "MARSHA RAMADHANI",
+        "nisn": "0088873189",
+        "village": "Bawangan",
+        "distance": "250",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 03:07:44"
+    },
+    {
+        "name": "Cindy Permata Sari",
+        "nisn": "0075137911",
+        "village": "Losari",
+        "distance": "279",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 20:03:48"
+    },
+    {
+        "name": "MAYLIN DWI NATASHA",
+        "nisn": "0094017520",
+        "village": "Losari",
+        "distance": "296",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 03:32:52"
+    },
+    {
+        "name": "Mochammad Yovie Dwi Prasetyo",
+        "nisn": "0084092890",
+        "village": "Losari",
+        "distance": "297",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 06:02:26"
+    },
+    {
+        "name": "FELISYA DWI NUR FAIQIAH",
+        "nisn": "0085919590",
+        "village": "Bawangan",
+        "distance": "312",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 05:19:36"
+    },
+    {
+        "name": "CINTA KEY SYA AURA RAHMA DINA",
+        "nisn": "0077704577",
+        "village": "Losari",
+        "distance": "316",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 18:02:19"
+    },
+    {
+        "name": "MEI WULANDARI",
+        "nisn": "0099847340",
+        "village": "Bawangan",
+        "distance": "317",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 00:25:06"
+    },
+    {
+        "name": "Muhamad Ilham Ravadenta",
+        "nisn": "0078078897",
+        "village": "Losari",
+        "distance": "322",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 10:03:20"
+    },
+    {
+        "name": "Icha Aprilliya",
+        "nisn": "0082811738",
+        "village": "Losari",
+        "distance": "332",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 05:21:59"
+    },
+    {
+        "name": "Zaki Mifthakul Furqon",
+        "nisn": "0088566570",
+        "village": "Losari",
+        "distance": "336",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 00:54:05"
+    },
+    {
+        "name": "MUHAMMAD MAULANA",
+        "nisn": "0096523217",
+        "village": "Bawangan",
+        "distance": "337",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 00:15:40"
+    },
+    {
+        "name": "Mochammad Afriansyah Aditya Pratama",
+        "nisn": "0084788750",
+        "village": "Losari",
+        "distance": "339",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 09:59:12"
+    },
+    {
+        "name": "Annisa Nafis Azzahra",
+        "nisn": "0084648960",
+        "village": "Losari",
+        "distance": "339",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 06:01:30"
+    },
+    {
+        "name": "MUHAMMAD FAHMI ADITYA ROCHIM",
+        "nisn": "0093563795",
+        "village": "Losari",
+        "distance": "346",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 00:05:10"
+    },
+    {
+        "name": "EISMI LIAN AFRIANTIO",
+        "nisn": "0081226465",
+        "village": "Losari",
+        "distance": "364",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 07:39:49"
+    },
+    {
+        "name": "LUCKY DWI SATRIA",
+        "nisn": "0099030890",
+        "village": "Losari",
+        "distance": "365",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 00:20:44"
+    },
+    {
+        "name": "Reynando Elfiansyah Oktafian",
+        "nisn": "0088036191",
+        "village": "Losari",
+        "distance": "382",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 00:29:44"
+    },
+    {
+        "name": "MUTIARA ZALIANTI SUTRISNA",
+        "nisn": "0086096155",
+        "village": "Losari",
+        "distance": "385",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 00:06:01"
+    },
+    {
+        "name": "AMELYA AYU PRAMESWARI",
+        "nisn": "0087562349",
+        "village": "Bawangan",
+        "distance": "399",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 07:04:45"
+    },
+    {
+        "name": "DYLAN OKTAVIANT",
+        "nisn": "0088344046",
+        "village": "Losari",
+        "distance": "402",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 00:21:47"
+    },
+    {
+        "name": "FAHREZA ARDIANSYAH",
+        "nisn": "0083737129",
+        "village": "Losari",
+        "distance": "404",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 00:31:08"
+    },
+    {
+        "name": "Bagus Eric Setiawan",
+        "nisn": "0088419455",
+        "village": "Losari",
+        "distance": "406",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 00:37:26"
+    },
+    {
+        "name": "Dimas Ridho Alfareno",
+        "nisn": "0081584747",
+        "village": "Losari",
+        "distance": "406",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 10:05:04"
+    },
+    {
+        "name": "Shofwil Widad AlJamilah",
+        "nisn": "0087861252",
+        "village": "Losari",
+        "distance": "416",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 06:26:17"
+    },
+    {
+        "name": "Puguh Dwi Hamdani",
+        "nisn": "0098354733",
+        "village": "Losari",
+        "distance": "420",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 00:45:43"
+    },
+    {
+        "name": "SELVIRA PUTRI ANUGRAH RAHMADHANI",
+        "nisn": "0089392471",
+        "village": "Losari",
+        "distance": "444",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 00:06:00"
+    },
+    {
+        "name": "Warid Mubdi",
+        "nisn": "0082897097",
+        "village": "Losari",
+        "distance": "469",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 00:26:48"
+    },
+    {
+        "name": "MUHAMMAD SATRIO RAJENDRA ABIMANYU",
+        "nisn": "0084347446",
+        "village": "Losari",
+        "distance": "477",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 11:08:21"
+    },
+    {
+        "name": "JAFAR RIZAL ABIDIN",
+        "nisn": "0085420400",
+        "village": "Losari",
+        "distance": "500",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 09:18:59"
+    },
+    {
+        "name": "ANJA ALIFIYA NUR MAGHFIROH",
+        "nisn": "0092847617",
+        "village": "Bawangan",
+        "distance": "529",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 02:18:58"
+    },
+    {
+        "name": "DZIHNI AULIA HERLINA SISWOYO",
+        "nisn": "0086886380",
+        "village": "Bawangan",
+        "distance": "551",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 00:22:05"
+    },
+    {
+        "name": "Sava Nuzulla Sir Fani",
+        "nisn": "0099826429",
+        "village": "Losari",
+        "distance": "569",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 07:52:48"
+    },
+    {
+        "name": "HERISNA ALFARIZ SUJIONO PUTRA",
+        "nisn": "0082852746",
+        "village": "Rejoagung",
+        "distance": "594",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 00:50:35"
+    },
+    {
+        "name": "AZIZ FAHRY AKBAR FAUZI",
+        "nisn": "0082084990",
+        "village": "Rejoagung",
+        "distance": "604",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 19:51:16"
+    },
+    {
+        "name": "Savira Syistiarani Eka Safitri",
+        "nisn": "0083830175",
+        "village": "Losari",
+        "distance": "606",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 05:55:57"
+    },
+    {
+        "name": "NAYLA SYIFAUL UMMAH",
+        "nisn": "0093802321",
+        "village": "Ploso",
+        "distance": "629",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 05:55:39"
+    },
+    {
+        "name": "Kiara Larasati",
+        "nisn": "0082716986",
+        "village": "Losari",
+        "distance": "631",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 06:03:24"
+    },
+    {
+        "name": "MUDHILUL ABROR",
+        "nisn": "3093726350",
+        "village": "Losari",
+        "distance": "636",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 06:12:04"
+    },
+    {
+        "name": "FRANDA NABIETHA AURA QIRANA",
+        "nisn": "0093933767",
+        "village": "Losari",
+        "distance": "643",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 05:30:45"
+    },
+    {
+        "name": "GREENDA ANJANI AL VISAN",
+        "nisn": "0096038172",
+        "village": "Losari",
+        "distance": "690",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 07:11:42"
+    },
+    {
+        "name": "ACHMAD CHAMAL ARIF BILLAH",
+        "nisn": "0086570300",
+        "village": "Losari",
+        "distance": "709",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 07:10:40"
+    },
+    {
+        "name": "AISIYAH RUKHIATUS SHOLIKAH",
+        "nisn": "3099377879",
+        "village": "Losari",
+        "distance": "715",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 06:51:11"
+    },
+    {
+        "name": "Tahsinatul Hamidah",
+        "nisn": "0075900859",
+        "village": "Losari",
+        "distance": "724",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 04:08:39"
+    },
+    {
+        "name": "THANIA JULIANTI CHAERUNISYA",
+        "nisn": "0084228598",
+        "village": "Losari",
+        "distance": "827",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 12:17:33"
+    },
+    {
+        "name": "ANGGUN LAILA KIRANI PUTRI",
+        "nisn": "0097441064",
+        "village": "Losari",
+        "distance": "831",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 09:04:29"
+    },
+    {
+        "name": "LARAS KINANTHI ANDANERI",
+        "nisn": "0087661467",
+        "village": "Bawangan",
+        "distance": "848",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 11:51:28"
+    },
+    {
+        "name": "IRFAN OCKY CAHYONO",
+        "nisn": "0075206811",
+        "village": "Pagertanjung",
+        "distance": "875",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 09:25:01"
+    },
+    {
+        "name": "VRIZA ARDYANSA",
+        "nisn": "0084831725",
+        "village": "Pagertanjung",
+        "distance": "878",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 07:00:01"
+    },
+    {
+        "name": "ADEREVINO PRADANA PUTRA",
+        "nisn": "0091280601",
+        "village": "Pagertanjung",
+        "distance": "885",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 00:21:26"
+    },
+    {
+        "name": "Nalendra Puja Romadhan",
+        "nisn": "0083941601",
+        "village": "Losari",
+        "distance": "896",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 00:39:09"
+    },
+    {
+        "name": "SEVA USHJROTUL ISTIANAH",
+        "nisn": "0083137958",
+        "village": "Losari",
+        "distance": "898",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 06:03:05"
+    },
+    {
+        "name": "NAFISYAH DWI AULIA SARI",
+        "nisn": "0095173204",
+        "village": "Bawangan",
+        "distance": "901",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 00:09:34"
+    },
+    {
+        "name": "NIDYA KEISYA MUTYA NUR ROHMAH",
+        "nisn": "0093861321",
+        "village": "Bawangan",
+        "distance": "942",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 07:30:12"
+    },
+    {
+        "name": "CITRA ELVARENSYA",
+        "nisn": "0083574496",
+        "village": "Bawangan",
+        "distance": "945",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 07:17:12"
+    },
+    {
+        "name": "AISILLA SILVA NUR ROSYIDAH",
+        "nisn": "3099475551",
+        "village": "Ploso",
+        "distance": "955",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 00:11:08"
+    },
+    {
+        "name": "FIFI PANDU TASKIA MAFAZA",
+        "nisn": "3083541619",
+        "village": "Losari",
+        "distance": "973",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 00:07:10"
+    },
+    {
+        "name": "MOHAMMAD HAAFIZH SURYA DEWANTARA",
+        "nisn": "0084652984",
+        "village": "Ploso",
+        "distance": "976",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 00:22:03"
+    },
+    {
+        "name": "DEVICA CENCEN ZUNAYLDA",
+        "nisn": "0082229720",
+        "village": "Kedungdowo",
+        "distance": "976",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 05:36:26"
+    },
+    {
+        "name": "ENI SUPRIANI",
+        "nisn": "0082936640",
+        "village": "Losari",
+        "distance": "978",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 07:20:29"
+    },
+    {
+        "name": "DHINI MEGA LESTARI",
+        "nisn": "0087482152",
+        "village": "Ploso",
+        "distance": "990",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 00:09:20"
+    },
+    {
+        "name": "AURELLIA YASMINE SUGIONO",
+        "nisn": "0095920846",
+        "village": "Bawangan",
+        "distance": "990",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 13:48:54"
+    },
+    {
+        "name": "ZIDNI ABDULLOH",
+        "nisn": "3081866831",
+        "village": "Bawangan",
+        "distance": "993",
+        "sma": "SMA NEGERI PLOSO",
+        "registration_created_at": "2024-06-27 10:47:01"
+    }
+]

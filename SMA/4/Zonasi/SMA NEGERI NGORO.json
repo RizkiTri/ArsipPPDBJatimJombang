@@ -1,0 +1,594 @@
+[
+    {
+        "name": "ALIF OCTAVIA",
+        "nisn": "0088944266",
+        "village": "Ngoro",
+        "distance": "349",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 00:31:57"
+    },
+    {
+        "name": "Nathania Kirana Putri Dariyanto",
+        "nisn": "3094686946",
+        "village": "Ngoro",
+        "distance": "367",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 06:46:19"
+    },
+    {
+        "name": "ANGGRES AULIYA ALAM AKBAR",
+        "nisn": "0084518029",
+        "village": "Kauman",
+        "distance": "403",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 00:30:14"
+    },
+    {
+        "name": "MEYLA LUPITA ALEXANDRA KS",
+        "nisn": "0093093083",
+        "village": "Ngoro",
+        "distance": "444",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 06:11:32"
+    },
+    {
+        "name": "Fika Andriani",
+        "nisn": "0078851154",
+        "village": "Ngoro",
+        "distance": "447",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 06:17:57"
+    },
+    {
+        "name": "KHAREEMA ANTARESA RAMADHAN",
+        "nisn": "0094532802",
+        "village": "Kauman",
+        "distance": "448",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 08:19:07"
+    },
+    {
+        "name": "VINCENT WISENA PERMANA",
+        "nisn": "0093694044",
+        "village": "Kauman",
+        "distance": "451",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 01:11:47"
+    },
+    {
+        "name": "MUHAMMAD REZVAN YUSRON ARSHAD",
+        "nisn": "0082903447",
+        "village": "Ngoro",
+        "distance": "478",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 00:26:32"
+    },
+    {
+        "name": "Dimas Yofi Sasikirono",
+        "nisn": "0096154532",
+        "village": "Ngoro",
+        "distance": "487",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 01:33:13"
+    },
+    {
+        "name": "VALENCIA ERIN INIESTA",
+        "nisn": "3082647089",
+        "village": "Kauman",
+        "distance": "539",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 00:11:54"
+    },
+    {
+        "name": "NIKEN NURAINI",
+        "nisn": "0087589117",
+        "village": "Ngoro",
+        "distance": "637",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 00:43:13"
+    },
+    {
+        "name": "BAGAS TRI ALAMSYAH",
+        "nisn": "0082335574",
+        "village": "Ngoro",
+        "distance": "652",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 02:31:31"
+    },
+    {
+        "name": "YONATHAN OMEGA SATRIO RAHARJO",
+        "nisn": "0099984160",
+        "village": "Ngoro",
+        "distance": "655",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 00:09:34"
+    },
+    {
+        "name": "Mochammad Miftakhul Mubarok",
+        "nisn": "0076460313",
+        "village": "Ngoro",
+        "distance": "671",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 07:22:53"
+    },
+    {
+        "name": "MUHAMMAD HARIS LUQMAN AL HAKIM",
+        "nisn": "3090572008",
+        "village": "Ngoro",
+        "distance": "679",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 03:24:21"
+    },
+    {
+        "name": "ALFIRA DWI ISWANTI",
+        "nisn": "3093147912",
+        "village": "Ngoro",
+        "distance": "690",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 06:35:10"
+    },
+    {
+        "name": "RINDI KARTIKA PUTRI",
+        "nisn": "0096573903",
+        "village": "Ngoro",
+        "distance": "697",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 05:36:31"
+    },
+    {
+        "name": "Yoga Gigih Imanto",
+        "nisn": "0084401406",
+        "village": "Ngoro",
+        "distance": "734",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 00:14:51"
+    },
+    {
+        "name": "ARYA SATYA MAHESWARA",
+        "nisn": "0084866339",
+        "village": "Ngoro",
+        "distance": "744",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 06:50:22"
+    },
+    {
+        "name": "CLARISA PUTRI MAHARANI",
+        "nisn": "0085189058",
+        "village": "Ngoro",
+        "distance": "745",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 06:46:04"
+    },
+    {
+        "name": "SATRIA MAARIF",
+        "nisn": "0083607371",
+        "village": "Ngoro",
+        "distance": "755",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 10:03:31"
+    },
+    {
+        "name": "MUHAMMAD ALGHIFARI PRAYOGA",
+        "nisn": "3089777120",
+        "village": "Kauman",
+        "distance": "758",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 09:24:39"
+    },
+    {
+        "name": "FITRI SETIYANI",
+        "nisn": "0086500972",
+        "village": "Ngoro",
+        "distance": "764",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 00:59:33"
+    },
+    {
+        "name": "KEVIN FEBRIANTAMA",
+        "nisn": "0099465065",
+        "village": "Ngoro",
+        "distance": "775",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 09:03:57"
+    },
+    {
+        "name": "MOCHAMAD VERDI ARDIANSYAH",
+        "nisn": "0084871038",
+        "village": "Ngoro",
+        "distance": "777",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 06:29:21"
+    },
+    {
+        "name": "APRILLIA DEVI NOVITA SARI",
+        "nisn": "3097379206",
+        "village": "Kauman",
+        "distance": "794",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 01:11:07"
+    },
+    {
+        "name": "RAFFI NUR AHMAD",
+        "nisn": "0097091277",
+        "village": "Ngoro",
+        "distance": "799",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 05:43:51"
+    },
+    {
+        "name": "DAMAZHA NUR MARETTA TRI PRIANA SHIFA",
+        "nisn": "0093202058",
+        "village": "Badang",
+        "distance": "800",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 06:15:05"
+    },
+    {
+        "name": "NAURA KHALILA AZZAHRA",
+        "nisn": "3087526340",
+        "village": "Badang",
+        "distance": "804",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 05:58:18"
+    },
+    {
+        "name": "EDWIN SURYA ATMAJA",
+        "nisn": "0086060022",
+        "village": "Ngoro",
+        "distance": "807",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 08:54:18"
+    },
+    {
+        "name": "MUHAMMAD ABBDUL QAHHAR",
+        "nisn": "0084736975",
+        "village": "Ngoro",
+        "distance": "808",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 00:48:06"
+    },
+    {
+        "name": "DEVINA DINDA PRESTIANA",
+        "nisn": "0082886066",
+        "village": "Ngoro",
+        "distance": "809",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 00:15:22"
+    },
+    {
+        "name": "AUDREY CHERYL VIOLETTA KHALFANI",
+        "nisn": "0082883218",
+        "village": "Ngoro",
+        "distance": "825",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 00:16:31"
+    },
+    {
+        "name": "HERLUWIN GRESSIANO PUTRA",
+        "nisn": "0089951798",
+        "village": "Ngoro",
+        "distance": "829",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 08:16:51"
+    },
+    {
+        "name": "AZIZATUL AINI",
+        "nisn": "0099166818",
+        "village": "Badang",
+        "distance": "836",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 09:46:26"
+    },
+    {
+        "name": "Jesslyn Livia Nuraini",
+        "nisn": "0093860497",
+        "village": "Ngoro",
+        "distance": "845",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 00:27:39"
+    },
+    {
+        "name": "Septo Abdi Ramdhan",
+        "nisn": "0085087467",
+        "village": "Kauman",
+        "distance": "849",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 13:25:17"
+    },
+    {
+        "name": "Nathania Gladis Ailsa",
+        "nisn": "0087399665",
+        "village": "Ngoro",
+        "distance": "861",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 06:35:17"
+    },
+    {
+        "name": "KUKUH SETYA DARMAWAN",
+        "nisn": "0099243351",
+        "village": "Ngoro",
+        "distance": "862",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 00:03:46"
+    },
+    {
+        "name": "MUHAMMAD ADLY FAIRUZ NAFIS",
+        "nisn": "0079370993",
+        "village": "Kauman",
+        "distance": "865",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 00:27:26"
+    },
+    {
+        "name": "ABDIL ADRIANSYAH PRANATA",
+        "nisn": "0088841299",
+        "village": "Ngoro",
+        "distance": "872",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 16:57:37"
+    },
+    {
+        "name": "EUNIKE LOVES",
+        "nisn": "0086120685",
+        "village": "Ngoro",
+        "distance": "885",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 00:09:52"
+    },
+    {
+        "name": "Jasmine Aliyah Naswa Hertina",
+        "nisn": "0096149731",
+        "village": "Ngoro",
+        "distance": "886",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 10:29:49"
+    },
+    {
+        "name": "Dhinar Laura Krisnamurti",
+        "nisn": "0092231942",
+        "village": "Ngoro",
+        "distance": "896",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 08:49:31"
+    },
+    {
+        "name": "JASTIN ARDIKA SANDY",
+        "nisn": "0099726569",
+        "village": "Ngoro",
+        "distance": "896",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 02:55:16"
+    },
+    {
+        "name": "MUKHAMMAD ALLIF HIBATULLOH",
+        "nisn": "0086714075",
+        "village": "Kauman",
+        "distance": "908",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 06:26:18"
+    },
+    {
+        "name": "NATHANIA EGALITA ADLIYAH",
+        "nisn": "0096702086",
+        "village": "Kauman",
+        "distance": "919",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 05:35:42"
+    },
+    {
+        "name": "AISYATUL JANNAH",
+        "nisn": "0085375334",
+        "village": "Ngoro",
+        "distance": "936",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 00:14:57"
+    },
+    {
+        "name": "NAIDA NUR JANNAH",
+        "nisn": "3093761455",
+        "village": "Kauman",
+        "distance": "948",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 04:51:24"
+    },
+    {
+        "name": "MOHAMAD REHAN DWI ANDIKA",
+        "nisn": "3093099199",
+        "village": "Badang",
+        "distance": "949",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 00:05:37"
+    },
+    {
+        "name": "Muhammad Fachry Sugiharto",
+        "nisn": "0086681187",
+        "village": "Ngoro",
+        "distance": "959",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 01:26:03"
+    },
+    {
+        "name": "Sivana Keisya Maulida",
+        "nisn": "0091862004",
+        "village": "Badang",
+        "distance": "964",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 01:02:17"
+    },
+    {
+        "name": "GAMALIEL ALFARUH SETYAWAN",
+        "nisn": "0083553316",
+        "village": "Ngoro",
+        "distance": "970",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 01:49:07"
+    },
+    {
+        "name": "Muhammad Fadly Sugiharto",
+        "nisn": "0089923319",
+        "village": "Ngoro",
+        "distance": "973",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 00:03:12"
+    },
+    {
+        "name": "AHMAD SYIFAUDIN",
+        "nisn": "3083870780",
+        "village": "Badang",
+        "distance": "983",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 02:32:56"
+    },
+    {
+        "name": "AIRYN MUFIZATUL MEKKAH",
+        "nisn": "0086254288",
+        "village": "Badang",
+        "distance": "1008",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 00:03:44"
+    },
+    {
+        "name": "MUHAMAD WAHYU PAKU BUWONO D",
+        "nisn": "3084966753",
+        "village": "Badang",
+        "distance": "1033",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-28 12:44:46"
+    },
+    {
+        "name": "CALSIA SHAFA USWATUN HASANAH",
+        "nisn": "3085450547",
+        "village": "Badang",
+        "distance": "1039",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 06:43:37"
+    },
+    {
+        "name": "Naira Zahwa Qurrotuain",
+        "nisn": "0081217633",
+        "village": "Ngoro",
+        "distance": "1062",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 05:41:06"
+    },
+    {
+        "name": "JEMBAR TAHTA AUNILLAH",
+        "nisn": "0088277265",
+        "village": "Kebondalem",
+        "distance": "1074",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 00:04:22"
+    },
+    {
+        "name": "REGAN VALENCIA DIKY WIDODO",
+        "nisn": "0088746251",
+        "village": "Kebondalem",
+        "distance": "1081",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 00:13:58"
+    },
+    {
+        "name": "DWI NUGROHO HADI PRASETYO",
+        "nisn": "0076400584",
+        "village": "Ngoro",
+        "distance": "1087",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 00:33:17"
+    },
+    {
+        "name": "Bismo Banyu Biru",
+        "nisn": "0084054884",
+        "village": "Ngoro",
+        "distance": "1105",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 00:43:25"
+    },
+    {
+        "name": "Elang Bramanta",
+        "nisn": "0084691076",
+        "village": "Ngoro",
+        "distance": "1115",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 05:33:06"
+    },
+    {
+        "name": "ADELIA PUTRI ANDINI",
+        "nisn": "0097704673",
+        "village": "Kebondalem",
+        "distance": "1124",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 09:44:00"
+    },
+    {
+        "name": "ANDIKA DWI PUTRA PRATAMA",
+        "nisn": "0081768384",
+        "village": "Kauman",
+        "distance": "1155",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 08:22:43"
+    },
+    {
+        "name": "ARDIANSYAH IBRAHIM",
+        "nisn": "3089394468",
+        "village": "Kauman",
+        "distance": "1175",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 10:14:22"
+    },
+    {
+        "name": "MOHAMMAD RASYA WARDHANA",
+        "nisn": "3093259905",
+        "village": "Tebel",
+        "distance": "1187",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 09:42:09"
+    },
+    {
+        "name": "CLARISTA VICTORIA HALIM",
+        "nisn": "0081679235",
+        "village": "Kauman",
+        "distance": "1196",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 07:04:52"
+    },
+    {
+        "name": "MUHAMMAD SYARIFUDDIN YAHYA",
+        "nisn": "0096296275",
+        "village": "Kauman",
+        "distance": "1242",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 03:32:00"
+    },
+    {
+        "name": "HARIS FERDIANSYAH",
+        "nisn": "0096550243",
+        "village": "Kebondalem",
+        "distance": "1248",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 08:29:39"
+    },
+    {
+        "name": "ILHAM CHOIRUR RAHMATULLOH",
+        "nisn": "3086343639",
+        "village": "Kauman",
+        "distance": "1261",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 00:29:57"
+    },
+    {
+        "name": "AIRA ZAKIYAH PUTRI",
+        "nisn": "0091113672",
+        "village": "Ngoro",
+        "distance": "1263",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 00:54:17"
+    },
+    {
+        "name": "AGUNG WIJAYA",
+        "nisn": "0085923224",
+        "village": "Kebondalem",
+        "distance": "1315",
+        "sma": "SMA NEGERI NGORO",
+        "registration_created_at": "2024-06-27 05:56:35"
+    }
+]

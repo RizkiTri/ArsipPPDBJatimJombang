@@ -1,17 +1,20 @@
 <?php
 
-/*for($i = 97; $i < 109; $i++){
-    $file = fopen(__DIR__."/json/$i.json", "wb");
+/*$data = json_decode(file_get_contents(__DIR__."/SMA/Data.json"), true);
+for($i = 0; $i < count($data); $i++){
+    $sch = $data[$i]["name"];
+    $id = $data[$i]["id"];
+    
+    $file = fopen(__DIR__."/SMA/2/$sch.json", "wb");
     fwrite($file, 
         json_encode(
             json_decode(
-                file_get_contents("https://api.ppdbjatim.net/api/acceptances/second-wave-registration/sma/grades?enable_pagination=0&filter%5Bschool_id%5D=$i")
+                file_get_contents("https://api.ppdbjatim.net/api/acceptances/second-wave-registration/sma/grades?enable_pagination=0&filter%5Bschool_id%5D=$id")
             , true)
         , JSON_PRETTY_PRINT)
     );
     fclose($file);
 }
-
 
 $data = json_decode(file_get_contents(__DIR__."/SMK/Data.json"), true);
 for($i = 0; $i < count($data); $i++){
@@ -51,4 +54,36 @@ for($i = 0; $i < count($data); $i++){
             , JSON_PRETTY_PRINT)
         );
     }
+}
+
+$data = json_decode(file_get_contents(__DIR__."/SMA/Data.json"), true);
+for($i = 0; $i < count($data); $i++){
+    $sch = $data[$i]["name"];
+    $id = $data[$i]["id"];
+    
+    $file = fopen(__DIR__."/SMA/4/Zonasi/$sch.json", "wb");
+    fwrite($file, 
+        json_encode(
+            json_decode(
+                file_get_contents("https://static.ppdbjatim.net/fourth-wave-acceptance/radius/$id.json")
+            , true)
+        , JSON_PRETTY_PRINT)
+    );
+    fclose($file);
 }*/
+
+$data = json_decode(file_get_contents(__DIR__."/SMA/Data.json"), true);
+for($i = 0; $i < count($data); $i++){
+    $sch = $data[$i]["name"];
+    $id = $data[$i]["id"];
+    
+    $file = fopen(__DIR__."/SMA/4/Sebaran/$sch.json", "wb");
+    fwrite($file, 
+        json_encode(
+            json_decode(
+                file_get_contents("https://static.ppdbjatim.net/fourth-wave-acceptance/distribution/$id.json")
+            , true)
+        , JSON_PRETTY_PRINT)
+    );
+    fclose($file);
+}

@@ -1,0 +1,706 @@
+[
+    {
+        "name": "Dea Nur Imani",
+        "nisn": "0098034009",
+        "village": "Gondangmanis",
+        "distance": "210",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 00:03:49"
+    },
+    {
+        "name": "ALFIN NABILAH",
+        "nisn": "0098684411",
+        "village": "Gondangmanis",
+        "distance": "229",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 08:31:16"
+    },
+    {
+        "name": "Helma Zakaria Moreno",
+        "nisn": "0091947136",
+        "village": "Gondangmanis",
+        "distance": "256",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 00:05:32"
+    },
+    {
+        "name": "Anita Oktavia Safitri",
+        "nisn": "0085784474",
+        "village": "Gondangmanis",
+        "distance": "274",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 06:40:33"
+    },
+    {
+        "name": "AHMAD RAFI AL GHIFARI",
+        "nisn": "0084972600",
+        "village": "Gondangmanis",
+        "distance": "333",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 00:16:56"
+    },
+    {
+        "name": "UBAIDILLAH JOFANA",
+        "nisn": "3117535765",
+        "village": "Gondangmanis",
+        "distance": "342",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 00:09:50"
+    },
+    {
+        "name": "CHANTIKA RAMADHANI YOUNARTA",
+        "nisn": "3092243813",
+        "village": "Kayen",
+        "distance": "380",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 00:06:10"
+    },
+    {
+        "name": "AZARA ALENA DINAR",
+        "nisn": "0097539747",
+        "village": "Gondangmanis",
+        "distance": "397",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 05:17:56"
+    },
+    {
+        "name": "RAFAY ALAMAR ISLAM NIHAL",
+        "nisn": "3085600641",
+        "village": "Gondangmanis",
+        "distance": "435",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 06:31:28"
+    },
+    {
+        "name": "NATANAEILLA HAFIZA",
+        "nisn": "0088722300",
+        "village": "Kayen",
+        "distance": "453",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 00:21:14"
+    },
+    {
+        "name": "KANIA ARADEA",
+        "nisn": "3087271038",
+        "village": "Kayen",
+        "distance": "454",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 07:53:08"
+    },
+    {
+        "name": "Diva Ekka Rohmalia",
+        "nisn": "0092082884",
+        "village": "Gondangmanis",
+        "distance": "477",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 00:16:29"
+    },
+    {
+        "name": "ZAHREENA AULIA SOFIE ANANDA",
+        "nisn": "0082283456",
+        "village": "Kayen",
+        "distance": "678",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 06:22:42"
+    },
+    {
+        "name": "Kayla Marzudinta Nursetya",
+        "nisn": "0087892257",
+        "village": "Kayen",
+        "distance": "682",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 00:03:36"
+    },
+    {
+        "name": "AHMAD AFFAN HARIYANTO",
+        "nisn": "3098313948",
+        "village": "Kayen",
+        "distance": "692",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 00:10:56"
+    },
+    {
+        "name": "GALANG PRAMONO",
+        "nisn": "0098605971",
+        "village": "Kayen",
+        "distance": "703",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 09:51:42"
+    },
+    {
+        "name": "LIU ZAIYIN BARKI AULIA",
+        "nisn": "3098262393",
+        "village": "Kayen",
+        "distance": "710",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 00:02:33"
+    },
+    {
+        "name": "APRELLIA CONTESA",
+        "nisn": "0091135458",
+        "village": "Kayen",
+        "distance": "768",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 06:29:21"
+    },
+    {
+        "name": "WACHID DANANG BUDIARTO",
+        "nisn": "0096964996",
+        "village": "Kayen",
+        "distance": "802",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 01:17:18"
+    },
+    {
+        "name": "MUHAMMAD ZAENAL ABIDIN",
+        "nisn": "0084908348",
+        "village": "Kayen",
+        "distance": "805",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 07:56:22"
+    },
+    {
+        "name": "SEPTIAN AYU WULANDARI",
+        "nisn": "0085552724",
+        "village": "Kayen",
+        "distance": "823",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 07:50:25"
+    },
+    {
+        "name": "MUGHNIA HUSNA LATIFUNISA",
+        "nisn": "0081512256",
+        "village": "Kayen",
+        "distance": "874",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 00:04:33"
+    },
+    {
+        "name": "RATIH DIAN BUDIARTY",
+        "nisn": "0081179372",
+        "village": "Gondangmanis",
+        "distance": "907",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 08:31:43"
+    },
+    {
+        "name": "Zesika Aulia Selfiana",
+        "nisn": "0093615258",
+        "village": "Gondangmanis",
+        "distance": "1011",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 00:35:26"
+    },
+    {
+        "name": "Evinka Velizay Sheza Amalia",
+        "nisn": "0081434056",
+        "village": "Kayen",
+        "distance": "1044",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 00:12:07"
+    },
+    {
+        "name": "MUHAMAD FARELL ILMIAWAN",
+        "nisn": "3089351477",
+        "village": "Bandarkedungmulyo",
+        "distance": "1245",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 00:21:29"
+    },
+    {
+        "name": "ADITYA IRSYAD SIDQI NAUFAL",
+        "nisn": "0089466738",
+        "village": "Kayen",
+        "distance": "1257",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 08:56:54"
+    },
+    {
+        "name": "MUHAMMAD ARDIANSYAH",
+        "nisn": "0096786212",
+        "village": "Bandarkedungmulyo",
+        "distance": "1261",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 14:05:13"
+    },
+    {
+        "name": "DINDA ZAHRA RAMADHANI",
+        "nisn": "0094530104",
+        "village": "Bandarkedungmulyo",
+        "distance": "1262",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 06:54:28"
+    },
+    {
+        "name": "MOH SYIFAUL KAHFI HIDAYAH",
+        "nisn": "3088853401",
+        "village": "Gondangmanis",
+        "distance": "1280",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 02:07:04"
+    },
+    {
+        "name": "MUCH RAYHAN NASRULLOH",
+        "nisn": "3080485657",
+        "village": "Mojokambang",
+        "distance": "1371",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 07:00:13"
+    },
+    {
+        "name": "WISNU ADITYA NUGRAHA",
+        "nisn": "3090547516",
+        "village": "Gondangmanis",
+        "distance": "1405",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 02:00:35"
+    },
+    {
+        "name": "CINTYA DEWI MAHARANI",
+        "nisn": "0093151882",
+        "village": "Bandarkedungmulyo",
+        "distance": "1417",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 00:08:57"
+    },
+    {
+        "name": "AIRA SALSABILLAH",
+        "nisn": "3099850774",
+        "village": "Bandarkedungmulyo",
+        "distance": "1420",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-28 15:22:05"
+    },
+    {
+        "name": "UMI LATHIFATUR ROHMAH",
+        "nisn": "3085227345",
+        "village": "Kayen",
+        "distance": "1523",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 03:40:29"
+    },
+    {
+        "name": "DEVAN SATYA PANDHITA HIDAYAT",
+        "nisn": "3085637166",
+        "village": "Kayen",
+        "distance": "1524",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 05:47:04"
+    },
+    {
+        "name": "MURAD HARIS",
+        "nisn": "3092079624",
+        "village": "Gondangmanis",
+        "distance": "1594",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 04:24:46"
+    },
+    {
+        "name": "NOVITA FITRIANI",
+        "nisn": "3085211730",
+        "village": "Kayen",
+        "distance": "1637",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 05:16:05"
+    },
+    {
+        "name": "KEYSHA TRIANA LUTFIAH",
+        "nisn": "3088042281",
+        "village": "Barongsawahan",
+        "distance": "1644",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-28 11:26:05"
+    },
+    {
+        "name": "TITA AULIA ARTANTI",
+        "nisn": "0093759081",
+        "village": "Barongsawahan",
+        "distance": "1698",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 01:07:25"
+    },
+    {
+        "name": "FITRI RAMADANI",
+        "nisn": "3081050892",
+        "village": "Barongsawahan",
+        "distance": "1740",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-28 20:31:48"
+    },
+    {
+        "name": "RIZQI ZANUAR ARIF",
+        "nisn": "0099739093",
+        "village": "Barongsawahan",
+        "distance": "1749",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 00:10:00"
+    },
+    {
+        "name": "MUHAMMAD MAULID PRIYANTO",
+        "nisn": "3090408528",
+        "village": "Bandarkedungmulyo",
+        "distance": "1807",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 00:57:56"
+    },
+    {
+        "name": "RISKI BAGUS WINARKO",
+        "nisn": "3082553566",
+        "village": "Bandarkedungmulyo",
+        "distance": "1815",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 01:26:44"
+    },
+    {
+        "name": "AHMAD TEGAR SUGIESTI",
+        "nisn": "3084521746",
+        "village": "Kayen",
+        "distance": "1824",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 01:17:35"
+    },
+    {
+        "name": "MUHAMMAD RAYHAN FAHREZA",
+        "nisn": "3086655144",
+        "village": "Bandarkedungmulyo",
+        "distance": "1835",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 00:51:15"
+    },
+    {
+        "name": "MUHAMMAD DAVA FIRDAUS",
+        "nisn": "0084126400",
+        "village": "Bandarkedungmulyo",
+        "distance": "1846",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 00:11:39"
+    },
+    {
+        "name": "ACHMAD LUKYS INDRIYANTO",
+        "nisn": "3088832777",
+        "village": "Kayen",
+        "distance": "1875",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 00:23:57"
+    },
+    {
+        "name": "AGHYSTA ZAHWA DELLAFANINA",
+        "nisn": "0082551286",
+        "village": "Bandarkedungmulyo",
+        "distance": "1900",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 06:45:25"
+    },
+    {
+        "name": "MAYMATUS OLIVYA",
+        "nisn": "0098868772",
+        "village": "Barongsawahan",
+        "distance": "1928",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 00:09:16"
+    },
+    {
+        "name": "MUHAMMAD FEBRIAN PRATAMA",
+        "nisn": "0095874356",
+        "village": "Mojokambang",
+        "distance": "1962",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 18:38:58"
+    },
+    {
+        "name": "DUDON ASHWIN TRIO FELIXO",
+        "nisn": "0089676267",
+        "village": "Bandarkedungmulyo",
+        "distance": "1973",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 08:48:41"
+    },
+    {
+        "name": "RAHMAH AMELIA ASHIFA FISABILILLAH",
+        "nisn": "0094961485",
+        "village": "Pagerwojo",
+        "distance": "1976",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 00:15:59"
+    },
+    {
+        "name": "KIAN WIJAYA PUTRA IKHWAN",
+        "nisn": "0086570479",
+        "village": "Bandarkedungmulyo",
+        "distance": "2015",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 00:08:03"
+    },
+    {
+        "name": "M ANDROMEDA MAHESWARA SANTOSO",
+        "nisn": "0092273433",
+        "village": "Bandarkedungmulyo",
+        "distance": "2064",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 05:04:10"
+    },
+    {
+        "name": "BHAKTI DYNASTI SATRIA",
+        "nisn": "0088999458",
+        "village": "Mojokambang",
+        "distance": "2065",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 00:05:17"
+    },
+    {
+        "name": "ANISA SELVIANA LAILI",
+        "nisn": "0084240687",
+        "village": "Pucangsimo",
+        "distance": "2072",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 00:14:01"
+    },
+    {
+        "name": "ALFINA DWI AZIZI",
+        "nisn": "3085254609",
+        "village": "Pucangsimo",
+        "distance": "2079",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-28 15:20:35"
+    },
+    {
+        "name": "RISKY FEBRI AHDITIA",
+        "nisn": "0098433986",
+        "village": "Pagerwojo",
+        "distance": "2103",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-28 15:11:45"
+    },
+    {
+        "name": "DHEFAN PUTRA NASRULLOH",
+        "nisn": "0096523428",
+        "village": "Pucangsimo",
+        "distance": "2119",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 00:06:28"
+    },
+    {
+        "name": "TSABITHAUNNISA",
+        "nisn": "0086557490",
+        "village": "Pagerwojo",
+        "distance": "2173",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 00:31:45"
+    },
+    {
+        "name": "SUKMA MAHARDIKA WIBOWO",
+        "nisn": "3080030661",
+        "village": "Pucangsimo",
+        "distance": "2180",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 00:05:25"
+    },
+    {
+        "name": "NURUL FADHILAH",
+        "nisn": "3093237468",
+        "village": "Mojokambang",
+        "distance": "2199",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 00:40:53"
+    },
+    {
+        "name": "KHAFIAN PUTRA NAFISA",
+        "nisn": "0082236972",
+        "village": "Mekikis",
+        "distance": "2200",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 00:06:22"
+    },
+    {
+        "name": "AHMAD NABIL RIZQI",
+        "nisn": "0096842021",
+        "village": "Mekikis",
+        "distance": "2208",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 13:25:01"
+    },
+    {
+        "name": "LAMAAT NUR QOHARU ROHMAN",
+        "nisn": "3083416441",
+        "village": "Pucangsimo",
+        "distance": "2209",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 00:02:32"
+    },
+    {
+        "name": "RIVIA NILAM FEBRIYANI WIBOWO",
+        "nisn": "0098691297",
+        "village": "Mekikis",
+        "distance": "2223",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 07:48:48"
+    },
+    {
+        "name": "ANGGI LUTVIANA PRATAMA SARI",
+        "nisn": "0096701826",
+        "village": "Barongsawahan",
+        "distance": "2256",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 00:26:17"
+    },
+    {
+        "name": "MUHAMMAD FAUZI NAYOTTAMA",
+        "nisn": "3082497527",
+        "village": "Pucangsimo",
+        "distance": "2266",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 07:20:32"
+    },
+    {
+        "name": "Muhammad Dimas Ersaputra",
+        "nisn": "0095509187",
+        "village": "Mekikis",
+        "distance": "2280",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 13:20:17"
+    },
+    {
+        "name": "NURLYANA EARLINDA KHAIRUNNISA",
+        "nisn": "3109657769",
+        "village": "Pucangsimo",
+        "distance": "2299",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 05:11:13"
+    },
+    {
+        "name": "MOHAMMAD JUHANNA",
+        "nisn": "0094821661",
+        "village": "Pucangsimo",
+        "distance": "2316",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 03:21:23"
+    },
+    {
+        "name": "Nabila Sania Agustin",
+        "nisn": "0087138952",
+        "village": "Barongsawahan",
+        "distance": "2327",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 05:29:30"
+    },
+    {
+        "name": "ADINIA CANTIKASARI",
+        "nisn": "0085441737",
+        "village": "Barongsawahan",
+        "distance": "2332",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 07:56:47"
+    },
+    {
+        "name": "AIDZIL AKBAR",
+        "nisn": "3081695798",
+        "village": "Sumberagung",
+        "distance": "2334",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 00:06:00"
+    },
+    {
+        "name": "FEBRIANA PUSPASARI",
+        "nisn": "0086167085",
+        "village": "Barongsawahan",
+        "distance": "2337",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 00:42:09"
+    },
+    {
+        "name": "CALLYSTA BILQIS ASHFI AMELIA",
+        "nisn": "3089288046",
+        "village": "Sumberagung",
+        "distance": "2337",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 05:45:58"
+    },
+    {
+        "name": "MUHAMMAD ILHAM MAULANA PUTRA",
+        "nisn": "3091322138",
+        "village": "Sumberagung",
+        "distance": "2338",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 00:16:17"
+    },
+    {
+        "name": "DEHLIA EKA LESTARI",
+        "nisn": "0087652718",
+        "village": "Pucangsimo",
+        "distance": "2344",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 06:35:02"
+    },
+    {
+        "name": "AYU AULIA PUTRI ANANTA",
+        "nisn": "0083724046",
+        "village": "Mekikis",
+        "distance": "2359",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 17:26:14"
+    },
+    {
+        "name": "RADIT RAFHAEL FEBRIANSYACH",
+        "nisn": "0097498663",
+        "village": "Perak",
+        "distance": "2376",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 00:04:30"
+    },
+    {
+        "name": "AFLAH ARHABURRIZQI",
+        "nisn": "3096065374",
+        "village": "Pagerwojo",
+        "distance": "2404",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 08:12:46"
+    },
+    {
+        "name": "PUTRI AMELIYA",
+        "nisn": "0084783344",
+        "village": "Perak",
+        "distance": "2413",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-28 11:31:53"
+    },
+    {
+        "name": "DEVI SAHFITRI",
+        "nisn": "0099372214",
+        "village": "Perak",
+        "distance": "2415",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 00:08:39"
+    },
+    {
+        "name": "AISYAH FATMAWATI",
+        "nisn": "0081303042",
+        "village": "Sumberagung",
+        "distance": "2419",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-28 11:29:04"
+    },
+    {
+        "name": "MUHAMMAD FADLI RAHMAN SAIFULLOH",
+        "nisn": "0083496897",
+        "village": "Sumberagung",
+        "distance": "2421",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 11:31:24"
+    },
+    {
+        "name": "ASYIFA NASWA AZZAHRA",
+        "nisn": "0087820050",
+        "village": "Barongsawahan",
+        "distance": "2440",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 03:10:31"
+    },
+    {
+        "name": "SALSABILA NURIL MAULIDIA",
+        "nisn": "0098004072",
+        "village": "Barongsawahan",
+        "distance": "2446",
+        "sma": "SMA NEGERI BANDAR KEDUNGMULYO",
+        "registration_created_at": "2024-06-27 00:05:35"
+    }
+]

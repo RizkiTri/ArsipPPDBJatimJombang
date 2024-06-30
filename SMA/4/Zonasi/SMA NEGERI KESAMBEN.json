@@ -1,0 +1,618 @@
+[
+    {
+        "name": "LAILI RAHMADHANI",
+        "nisn": "0082180208",
+        "village": "Carangrejo",
+        "distance": "81",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 07:13:50"
+    },
+    {
+        "name": "Tsania Fithrotul Maulidah",
+        "nisn": "0084662229",
+        "village": "Carangrejo",
+        "distance": "83",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 05:28:26"
+    },
+    {
+        "name": "OLIVIA NUR HIKMAH",
+        "nisn": "0086442329",
+        "village": "Carangrejo",
+        "distance": "115",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 06:52:48"
+    },
+    {
+        "name": "ALDI FERDINAL TRIANDI PUTRA",
+        "nisn": "0087595731",
+        "village": "Carangrejo",
+        "distance": "122",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 07:52:22"
+    },
+    {
+        "name": "JESSICA ANASTASYA AFLAH F",
+        "nisn": "0098034591",
+        "village": "Carangrejo",
+        "distance": "155",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 09:52:38"
+    },
+    {
+        "name": "IVAN RAHMAD DHANI",
+        "nisn": "0095297742",
+        "village": "Carangrejo",
+        "distance": "157",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 08:13:12"
+    },
+    {
+        "name": "ALFIAN BAIHAQI",
+        "nisn": "0084668484",
+        "village": "Carangrejo",
+        "distance": "165",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 09:34:47"
+    },
+    {
+        "name": "M ARSA AL MUQORROBI",
+        "nisn": "0083448943",
+        "village": "Carangrejo",
+        "distance": "176",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 00:12:30"
+    },
+    {
+        "name": "ARVIN ARDIANSYAH PRATAMA",
+        "nisn": "0086432391",
+        "village": "Carangrejo",
+        "distance": "236",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 01:04:48"
+    },
+    {
+        "name": "ARDIKAH BAYU SETIAWAN",
+        "nisn": "0088153674",
+        "village": "Carangrejo",
+        "distance": "238",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 07:47:52"
+    },
+    {
+        "name": "PUTRA ERNESTA ANDIKA PRATAMA",
+        "nisn": "0095418544",
+        "village": "Carangrejo",
+        "distance": "245",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 06:10:48"
+    },
+    {
+        "name": "LIONEL MESSI PRATAMA",
+        "nisn": "0081043318",
+        "village": "Carangrejo",
+        "distance": "245",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 00:44:21"
+    },
+    {
+        "name": "FIRLI ALFARIZZI",
+        "nisn": "0081471656",
+        "village": "Carangrejo",
+        "distance": "249",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 08:23:26"
+    },
+    {
+        "name": "AULYA HANA MUDZALIVA",
+        "nisn": "0094119975",
+        "village": "Carangrejo",
+        "distance": "254",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 05:13:09"
+    },
+    {
+        "name": "Richie Mahameru Lelaki Prayogo",
+        "nisn": "0083221312",
+        "village": "Carangrejo",
+        "distance": "366",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 11:35:40"
+    },
+    {
+        "name": "LAILATUL FADILAH",
+        "nisn": "0093415655",
+        "village": "Carangrejo",
+        "distance": "397",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 07:31:42"
+    },
+    {
+        "name": "NIZZAM HASBY ASH SHIDIQI",
+        "nisn": "0085449243",
+        "village": "Carangrejo",
+        "distance": "449",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 00:06:25"
+    },
+    {
+        "name": "NATASYA AYU CLARITASARI",
+        "nisn": "0082204151",
+        "village": "Carangrejo",
+        "distance": "534",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 00:08:59"
+    },
+    {
+        "name": "ZANNUBA ARIFAHCHAFSOH",
+        "nisn": "0089681864",
+        "village": "Carangrejo",
+        "distance": "537",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 00:10:19"
+    },
+    {
+        "name": "Muhammad Ahsanuddin Ali Mabruri",
+        "nisn": "0095782552",
+        "village": "Carangrejo",
+        "distance": "541",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 19:50:40"
+    },
+    {
+        "name": "Tahta Umamuridha",
+        "nisn": "0092485630",
+        "village": "Carangrejo",
+        "distance": "543",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 00:04:23"
+    },
+    {
+        "name": "NAILA AZ ZAHRA",
+        "nisn": "0084110369",
+        "village": "Carangrejo",
+        "distance": "614",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 00:09:45"
+    },
+    {
+        "name": "LATIFA EKA WIBOWO",
+        "nisn": "0099344305",
+        "village": "Carangrejo",
+        "distance": "634",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 06:30:50"
+    },
+    {
+        "name": "RIRIN DWI ARIYANTI",
+        "nisn": "0093916838",
+        "village": "Carangrejo",
+        "distance": "647",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 06:08:08"
+    },
+    {
+        "name": "IQBAL PRANATAGAMA ABIDIN",
+        "nisn": "0084869722",
+        "village": "Carangrejo",
+        "distance": "674",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 07:03:06"
+    },
+    {
+        "name": "CERDAS SUKMA ANUGRAH",
+        "nisn": "0093471803",
+        "village": "Madiopuro",
+        "distance": "683",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 07:09:31"
+    },
+    {
+        "name": "ARJUNA TRI MAHFUDHO",
+        "nisn": "0087429564",
+        "village": "Kendalsari",
+        "distance": "727",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 00:13:43"
+    },
+    {
+        "name": "ZAHWA ELOK MASYIFA WIJAYANTI",
+        "nisn": "0095245964",
+        "village": "Carangrejo",
+        "distance": "731",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 00:06:17"
+    },
+    {
+        "name": "MOHAMAD ALTAF ANUGRAH BYHAQI",
+        "nisn": "0083541501",
+        "village": "Carangrejo",
+        "distance": "735",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 09:06:31"
+    },
+    {
+        "name": "MAYA INDRI KARTIKA SARI",
+        "nisn": "0099823251",
+        "village": "Carangrejo",
+        "distance": "759",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 00:05:11"
+    },
+    {
+        "name": "ARRI REHAN EVENDI",
+        "nisn": "0088908794",
+        "village": "Carangrejo",
+        "distance": "794",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 08:37:53"
+    },
+    {
+        "name": "AKHMAD REGANANDA",
+        "nisn": "0086113102",
+        "village": "Madiopuro",
+        "distance": "818",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 15:30:27"
+    },
+    {
+        "name": "SASKIA NABILA PUTRI",
+        "nisn": "0094961862",
+        "village": "Carangrejo",
+        "distance": "857",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 00:06:44"
+    },
+    {
+        "name": "EFAN COKRO ARDIANSYAH",
+        "nisn": "0092405568",
+        "village": "Carangrejo",
+        "distance": "878",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 00:15:11"
+    },
+    {
+        "name": "SATRIO WIDYA PRATAMA",
+        "nisn": "0091872494",
+        "village": "Carangrejo",
+        "distance": "893",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 06:28:10"
+    },
+    {
+        "name": "FATIAH SHAFIRA DEWI",
+        "nisn": "0098755250",
+        "village": "Madiopuro",
+        "distance": "900",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 06:50:15"
+    },
+    {
+        "name": "ANISA ZAHROTUL ILMI",
+        "nisn": "0084875636",
+        "village": "Kendalsari",
+        "distance": "903",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 01:10:59"
+    },
+    {
+        "name": "ZAKIYATUS SHOLIHAH",
+        "nisn": "0088020277",
+        "village": "Kendalsari",
+        "distance": "917",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 00:15:30"
+    },
+    {
+        "name": "NUR AINI AISYAH PUTRI",
+        "nisn": "0093668115",
+        "village": "Carangrejo",
+        "distance": "939",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 00:06:57"
+    },
+    {
+        "name": "CALYSTA ELYSIA PUTRI",
+        "nisn": "0094400903",
+        "village": "Carangrejo",
+        "distance": "950",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 00:04:25"
+    },
+    {
+        "name": "WARDA SALEYSA RAHMADINA",
+        "nisn": "0089320136",
+        "village": "Carangrejo",
+        "distance": "952",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 06:17:25"
+    },
+    {
+        "name": "ZAKY ZAKARIYA",
+        "nisn": "0094199556",
+        "village": "Carangrejo",
+        "distance": "955",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 09:46:47"
+    },
+    {
+        "name": "IVIOLA KIRANA AGUSTINA",
+        "nisn": "0086004354",
+        "village": "Kendalsari",
+        "distance": "973",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 01:39:04"
+    },
+    {
+        "name": "LEVRANS ALVIAN PUTRA NUR EKA FARDANI",
+        "nisn": "0089868147",
+        "village": "Carangrejo",
+        "distance": "989",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 08:57:11"
+    },
+    {
+        "name": "MUHAMMAD ZHAFIF RAYHAN",
+        "nisn": "0082859269",
+        "village": "Carangrejo",
+        "distance": "991",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 02:14:09"
+    },
+    {
+        "name": "ALFIRA JENITA EKA PUTRI",
+        "nisn": "0091165575",
+        "village": "Carangrejo",
+        "distance": "1017",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 13:35:23"
+    },
+    {
+        "name": "MOHAMMAD ARDIYANSYAH",
+        "nisn": "0083440759",
+        "village": "Carangrejo",
+        "distance": "1024",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 02:28:56"
+    },
+    {
+        "name": "LUKMANUL HAKIM ZULHAN SAPUTRA",
+        "nisn": "0082012644",
+        "village": "Carangrejo",
+        "distance": "1038",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 00:30:45"
+    },
+    {
+        "name": "DZAKI RAMA PUTRA RADITYA",
+        "nisn": "0096551891",
+        "village": "Carangrejo",
+        "distance": "1043",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 09:45:38"
+    },
+    {
+        "name": "SAHRUL LESMANA",
+        "nisn": "0087148439",
+        "village": "Talunkidul",
+        "distance": "1066",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 00:04:30"
+    },
+    {
+        "name": "Duta Pandu Aji",
+        "nisn": "0084633280",
+        "village": "Carangrejo",
+        "distance": "1084",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 06:56:37"
+    },
+    {
+        "name": "ADITYA PUTRA DWI CANDRA",
+        "nisn": "0084458744",
+        "village": "Talunkidul",
+        "distance": "1133",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 00:08:44"
+    },
+    {
+        "name": "WENI FAMITA CHUSWAN",
+        "nisn": "3086486167",
+        "village": "Kendalsari",
+        "distance": "1143",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 00:05:18"
+    },
+    {
+        "name": "MUHAMMAD OKTAVIYAN HARDIANTO",
+        "nisn": "0086928584",
+        "village": "Carangrejo",
+        "distance": "1204",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 00:05:26"
+    },
+    {
+        "name": "DHEWI RAYHANA AYU PUTRI",
+        "nisn": "0082986299",
+        "village": "Kendalsari",
+        "distance": "1209",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 00:11:18"
+    },
+    {
+        "name": "MUKHAMAD NUR ELFAN",
+        "nisn": "0071536541",
+        "village": "Carangrejo",
+        "distance": "1241",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 08:44:37"
+    },
+    {
+        "name": "RAHMAD BAGUS KURNIA WARDANU",
+        "nisn": "0096451326",
+        "village": "Kendalsari",
+        "distance": "1247",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 00:04:30"
+    },
+    {
+        "name": "EKA NOVITASARI",
+        "nisn": "0086479027",
+        "village": "Kendalsari",
+        "distance": "1283",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 02:52:32"
+    },
+    {
+        "name": "GILANG RACHMATULOH",
+        "nisn": "0087198833",
+        "village": "Talunkidul",
+        "distance": "1286",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 00:08:24"
+    },
+    {
+        "name": "Clarista Amelia Sari",
+        "nisn": "3083543772",
+        "village": "Kendalsari",
+        "distance": "1296",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 08:04:26"
+    },
+    {
+        "name": "FERLI DWI PRASTYO",
+        "nisn": "0016721861",
+        "village": "Watudakon",
+        "distance": "1360",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 06:30:22"
+    },
+    {
+        "name": "RAISYAH AURELIA RAMADHANI",
+        "nisn": "0081974274",
+        "village": "Watudakon",
+        "distance": "1366",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 00:52:48"
+    },
+    {
+        "name": "CHELSEA ANDREA WULAN MARGARETH",
+        "nisn": "0089798872",
+        "village": "Watudakon",
+        "distance": "1381",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 01:37:22"
+    },
+    {
+        "name": "RISTA TIYA NURLAILY",
+        "nisn": "0086381120",
+        "village": "Watudakon",
+        "distance": "1409",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 00:04:23"
+    },
+    {
+        "name": "FARELINO DAFFATRI HIBATTULLOH",
+        "nisn": "0085125547",
+        "village": "Watudakon",
+        "distance": "1442",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 04:43:30"
+    },
+    {
+        "name": "MARITSA BILQISH DEWANTI",
+        "nisn": "0095943382",
+        "village": "Watudakon",
+        "distance": "1539",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 01:34:41"
+    },
+    {
+        "name": "BELLA ANATASYA PUTRI",
+        "nisn": "0085627376",
+        "village": "Kendalsari",
+        "distance": "1592",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 00:04:39"
+    },
+    {
+        "name": "RAYHAN ADHITYA SUSANTO",
+        "nisn": "0098467072",
+        "village": "Curahmalang",
+        "distance": "1629",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 04:25:48"
+    },
+    {
+        "name": "LAILY RIZKIKA",
+        "nisn": "0087797582",
+        "village": "Kendalsari",
+        "distance": "1632",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 00:10:54"
+    },
+    {
+        "name": "ALFINIA PUTRI CAHYA",
+        "nisn": "0095366125",
+        "village": "Curahmalang",
+        "distance": "1638",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 10:56:15"
+    },
+    {
+        "name": "RAVINO SASTIAN",
+        "nisn": "0092635838",
+        "village": "Curahmalang",
+        "distance": "1650",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 00:14:11"
+    },
+    {
+        "name": "MUHAMMAD KAKA PUTRA SUITOMO",
+        "nisn": "0089355006",
+        "village": "Carangrejo",
+        "distance": "1688",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 00:17:57"
+    },
+    {
+        "name": "MUHAMMAD ILHAM AMRULLAH",
+        "nisn": "0081836810",
+        "village": "Bakalan",
+        "distance": "1693",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 00:12:34"
+    },
+    {
+        "name": "Vita Aini Zainia",
+        "nisn": "0085642243",
+        "village": "Carangrejo",
+        "distance": "1700",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 00:46:29"
+    },
+    {
+        "name": "MUHAMMAD FAUZAN",
+        "nisn": "0085851465",
+        "village": "Madiopuro",
+        "distance": "1722",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 14:32:21"
+    },
+    {
+        "name": "Merry Khusmadwiyanti",
+        "nisn": "0085180670",
+        "village": "Kendalsari",
+        "distance": "1733",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 14:58:26"
+    },
+    {
+        "name": "MAULINDA AMINATUS ZAHROH",
+        "nisn": "0096902134",
+        "village": "Kendalsari",
+        "distance": "1738",
+        "sma": "SMA NEGERI KESAMBEN",
+        "registration_created_at": "2024-06-27 06:40:49"
+    }
+]

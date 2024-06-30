@@ -1,0 +1,466 @@
+[
+    {
+        "name": "NABILAH SYARAFINA",
+        "nisn": "3081272705",
+        "village": "Temuwulan",
+        "distance": "4951",
+        "sma": "SMA NEGERI 1 JOMBANG",
+        "registration_created_at": "2024-06-27 08:31:15"
+    },
+    {
+        "name": "Nesya Ragil Pramesti",
+        "nisn": "0083484614",
+        "village": "Sukorejo",
+        "distance": "5083",
+        "sma": "SMA NEGERI 1 JOMBANG",
+        "registration_created_at": "2024-06-28 08:51:51"
+    },
+    {
+        "name": "MOCH FARHAN MAULANA",
+        "nisn": "3082985654",
+        "village": "Sembung",
+        "distance": "7491",
+        "sma": "SMA NEGERI 1 JOMBANG",
+        "registration_created_at": "2024-06-27 06:38:56"
+    },
+    {
+        "name": "NATASYA EKA NAZWA",
+        "nisn": "0087539310",
+        "village": "Plosogenuk",
+        "distance": "7002",
+        "sma": "SMA NEGERI 1 JOMBANG",
+        "registration_created_at": "2024-06-27 06:17:43"
+    },
+    {
+        "name": "MUHAMMAD SHOLIHUL ADI",
+        "nisn": "0094607050",
+        "village": "Glagahan",
+        "distance": "5961",
+        "sma": "SMA NEGERI 1 JOMBANG",
+        "registration_created_at": "2024-06-27 05:07:38"
+    },
+    {
+        "name": "M DIMAS ARYA HADI WIJAYA",
+        "nisn": "0086625319",
+        "village": "Cangkringrandu",
+        "distance": "3378",
+        "sma": "SMA NEGERI 1 JOMBANG",
+        "registration_created_at": "2024-06-27 00:12:58"
+    },
+    {
+        "name": "UMMI SALAMAH NUGRAHANI",
+        "nisn": "0078996530",
+        "village": "Cukir",
+        "distance": "5585",
+        "sma": "SMA NEGERI 1 JOMBANG",
+        "registration_created_at": "2024-06-27 17:13:51"
+    },
+    {
+        "name": "ELFINA HAMARDIKA AGUSTINA",
+        "nisn": "0099166043",
+        "village": "Keras",
+        "distance": "5826",
+        "sma": "SMA NEGERI 1 JOMBANG",
+        "registration_created_at": "2024-06-27 06:25:45"
+    },
+    {
+        "name": "ACHMAD RIFQI AFANDY",
+        "nisn": "3098727304",
+        "village": "Jatirejo",
+        "distance": "5082",
+        "sma": "SMA NEGERI 1 JOMBANG",
+        "registration_created_at": "2024-06-27 15:00:27"
+    },
+    {
+        "name": "KIKAN MAHARANI PUTRI",
+        "nisn": "3082199108",
+        "village": "Watugaluh",
+        "distance": "4340",
+        "sma": "SMA NEGERI 1 JOMBANG",
+        "registration_created_at": "2024-06-27 08:00:23"
+    },
+    {
+        "name": "SITI HAMZAH RANI",
+        "nisn": "0092707345",
+        "village": "Diwek",
+        "distance": "3974",
+        "sma": "SMA NEGERI 1 JOMBANG",
+        "registration_created_at": "2024-06-27 14:05:47"
+    },
+    {
+        "name": "MOHAMAD HABIBI AL FARIZI",
+        "nisn": "3088140396",
+        "village": "Jatipelem",
+        "distance": "4620",
+        "sma": "SMA NEGERI 1 JOMBANG",
+        "registration_created_at": "2024-06-27 03:41:27"
+    },
+    {
+        "name": "Luthfiah Bella Syafira",
+        "nisn": "0099975969",
+        "village": "Ceweng",
+        "distance": "2718",
+        "sma": "SMA NEGERI 1 JOMBANG",
+        "registration_created_at": "2024-06-27 06:03:03"
+    },
+    {
+        "name": "NETHANIA JIHAN KIRANI",
+        "nisn": "0086778871",
+        "village": "Pundong",
+        "distance": "3630",
+        "sma": "SMA NEGERI 1 JOMBANG",
+        "registration_created_at": "2024-06-27 08:46:11"
+    },
+    {
+        "name": "DAFFA DWI IRSYADUL IBAD",
+        "nisn": "0081896421",
+        "village": "Balongbesuk",
+        "distance": "2035",
+        "sma": "SMA NEGERI 1 JOMBANG",
+        "registration_created_at": "2024-06-27 12:24:04"
+    },
+    {
+        "name": "INKGA DWI WARINGGA",
+        "nisn": "0158872525",
+        "village": "Brambang",
+        "distance": "3525",
+        "sma": "SMA NEGERI 1 JOMBANG",
+        "registration_created_at": "2024-06-28 07:13:41"
+    },
+    {
+        "name": "ELVIRA KHOIRUNNISA",
+        "nisn": "0087213144",
+        "village": "Kwaron",
+        "distance": "4453",
+        "sma": "SMA NEGERI 1 JOMBANG",
+        "registration_created_at": "2024-06-27 09:20:26"
+    },
+    {
+        "name": "ANDREAN YUDHISTIRA ARDHI",
+        "nisn": "0099738230",
+        "village": "Pandanwangi",
+        "distance": "1525",
+        "sma": "SMA NEGERI 1 JOMBANG",
+        "registration_created_at": "2024-06-27 00:03:04"
+    },
+    {
+        "name": "APRILIA LILANANDA FIRDAUSI",
+        "nisn": "3082195395",
+        "village": "Mojokrapak",
+        "distance": "4798",
+        "sma": "SMA NEGERI 1 JOMBANG",
+        "registration_created_at": "2024-06-27 13:29:51"
+    },
+    {
+        "name": "AULIA AMILUSHOLIKHATI",
+        "nisn": "0092226705",
+        "village": "Kalikejambon",
+        "distance": "5340",
+        "sma": "SMA NEGERI 1 JOMBANG",
+        "registration_created_at": "2024-06-27 08:38:28"
+    },
+    {
+        "name": "ICHA OLIVIANTI",
+        "nisn": "3089792715",
+        "village": "Tampingmojo",
+        "distance": "5509",
+        "sma": "SMA NEGERI 1 JOMBANG",
+        "registration_created_at": "2024-06-27 09:56:51"
+    },
+    {
+        "name": "VALENT WAHYU PRATAMA",
+        "nisn": "0095149142",
+        "village": "Kedunglosari",
+        "distance": "7174",
+        "sma": "SMA NEGERI 1 JOMBANG",
+        "registration_created_at": "2024-06-27 17:40:41"
+    },
+    {
+        "name": "FARAH RAISYA AZZAHRA ZAHIDIN",
+        "nisn": "0084678279",
+        "village": "Pesantren",
+        "distance": "7723",
+        "sma": "SMA NEGERI 1 JOMBANG",
+        "registration_created_at": "2024-06-27 14:48:29"
+    },
+    {
+        "name": "MEYLINA PUTRI PERMATASARI",
+        "nisn": "0085412064",
+        "village": "Sumbersari",
+        "distance": "6660",
+        "sma": "SMA NEGERI 1 JOMBANG",
+        "registration_created_at": "2024-06-27 08:14:14"
+    },
+    {
+        "name": "ERIKA YULIA SARI",
+        "nisn": "0085455225",
+        "village": "Ngogri",
+        "distance": "8444",
+        "sma": "SMA NEGERI 1 JOMBANG",
+        "registration_created_at": "2024-06-28 10:27:33"
+    },
+    {
+        "name": "FRINOLA HILDA SAVIRA",
+        "nisn": "0097547065",
+        "village": "Sidomulyo",
+        "distance": "6659",
+        "sma": "SMA NEGERI 1 JOMBANG",
+        "registration_created_at": "2024-06-27 10:00:03"
+    },
+    {
+        "name": "ADINDA LAURA JULIEANDRY",
+        "nisn": "3081119222",
+        "village": "Morosunggingan",
+        "distance": "5677",
+        "sma": "SMA NEGERI 1 JOMBANG",
+        "registration_created_at": "2024-06-27 05:17:31"
+    },
+    {
+        "name": "ANI CHABIBAH",
+        "nisn": "0085449028",
+        "village": "Kebontemu",
+        "distance": "4425",
+        "sma": "SMA NEGERI 1 JOMBANG",
+        "registration_created_at": "2024-06-27 05:58:22"
+    },
+    {
+        "name": "EKILA SHEYKHA FARANADIRA",
+        "nisn": "0086721063",
+        "village": "Mancar",
+        "distance": "4506",
+        "sma": "SMA NEGERI 1 JOMBANG",
+        "registration_created_at": "2024-06-27 07:50:05"
+    },
+    {
+        "name": "ZAHRA ALFIANI AZAH",
+        "nisn": "0086857096",
+        "village": "Peterongan",
+        "distance": "4369",
+        "sma": "SMA NEGERI 1 JOMBANG",
+        "registration_created_at": "2024-06-28 17:17:40"
+    },
+    {
+        "name": "ROSYIANA NURLITA ANDRIANTI",
+        "nisn": "3091127853",
+        "village": "Keplaksari",
+        "distance": "3228",
+        "sma": "SMA NEGERI 1 JOMBANG",
+        "registration_created_at": "2024-06-27 00:07:43"
+    },
+    {
+        "name": "AZMI AHTAR AFGANDI",
+        "nisn": "3081216169",
+        "village": "Kepuhkembeng",
+        "distance": "2486",
+        "sma": "SMA NEGERI 1 JOMBANG",
+        "registration_created_at": "2024-06-27 07:18:46"
+    },
+    {
+        "name": "ARDIAN NUR FATKHUL AZIZ",
+        "nisn": "0095692300",
+        "village": "Dukuhklopo",
+        "distance": "5433",
+        "sma": "SMA NEGERI 1 JOMBANG",
+        "registration_created_at": "2024-06-27 05:15:37"
+    },
+    {
+        "name": "Achmad David Nugroho",
+        "nisn": "3096778310",
+        "village": "Tanjunggunung",
+        "distance": "5899",
+        "sma": "SMA NEGERI 1 JOMBANG",
+        "registration_created_at": "2024-06-27 11:04:39"
+    },
+    {
+        "name": "Aminati Nur Fadhilah",
+        "nisn": "0089162569",
+        "village": "Sumberagung",
+        "distance": "7060",
+        "sma": "SMA NEGERI 1 JOMBANG",
+        "registration_created_at": "2024-06-27 07:16:07"
+    },
+    {
+        "name": "FAIZATUL KAMILA",
+        "nisn": "0087191958",
+        "village": "Krembangan",
+        "distance": "6805",
+        "sma": "SMA NEGERI 1 JOMBANG",
+        "registration_created_at": "2024-06-27 09:28:59"
+    },
+    {
+        "name": "SEKAR AULIA RETNANINGRUM",
+        "nisn": "3095341860",
+        "village": "Mejoyolosari",
+        "distance": "7769",
+        "sma": "SMA NEGERI 1 JOMBANG",
+        "registration_created_at": "2024-06-27 07:43:41"
+    },
+    {
+        "name": "Valentina Febriyanti",
+        "nisn": "0096073165",
+        "village": "Godong",
+        "distance": "6040",
+        "sma": "SMA NEGERI 1 JOMBANG",
+        "registration_created_at": "2024-06-27 05:02:06"
+    },
+    {
+        "name": "ZALFA HATI QUTRATU AIN",
+        "nisn": "0083268545",
+        "village": "Tanggungan",
+        "distance": "6492",
+        "sma": "SMA NEGERI 1 JOMBANG",
+        "registration_created_at": "2024-06-27 05:44:23"
+    },
+    {
+        "name": "GRACIA IRINE ATALAU LANMA",
+        "nisn": "0082724709",
+        "village": "Kepanjen",
+        "distance": "1402",
+        "sma": "SMA NEGERI 1 JOMBANG",
+        "registration_created_at": "2024-06-27 00:06:13"
+    },
+    {
+        "name": "Ghany Septino Ramadhan",
+        "nisn": "0087525159",
+        "village": "Jelakombo",
+        "distance": "1558",
+        "sma": "SMA NEGERI 1 JOMBANG",
+        "registration_created_at": "2024-06-27 06:26:13"
+    },
+    {
+        "name": "NABILLA CANTIKA ZAHRA",
+        "nisn": "0089578618",
+        "village": "Jombatan",
+        "distance": "7594",
+        "sma": "SMA NEGERI 1 JOMBANG",
+        "registration_created_at": "2024-06-27 09:52:46"
+    },
+    {
+        "name": "NAYCILLA PUTRI CAHYANI",
+        "nisn": "0081484756",
+        "village": "Tunggorono",
+        "distance": "1903",
+        "sma": "SMA NEGERI 1 JOMBANG",
+        "registration_created_at": "2024-06-27 01:24:26"
+    },
+    {
+        "name": "ANEIRA LINTANG TAUZIAH",
+        "nisn": "3094404592",
+        "village": "Tambakrejo",
+        "distance": "3443",
+        "sma": "SMA NEGERI 1 JOMBANG",
+        "registration_created_at": "2024-06-27 07:30:34"
+    },
+    {
+        "name": "KHANAYA AUREL SONIAGHATA",
+        "nisn": "0085087154",
+        "village": "Sumberjo",
+        "distance": "6104",
+        "sma": "SMA NEGERI 1 JOMBANG",
+        "registration_created_at": "2024-06-27 02:14:10"
+    },
+    {
+        "name": "GADIS KIRANI",
+        "nisn": "0081172768",
+        "village": "Sengon",
+        "distance": "1409",
+        "sma": "SMA NEGERI 1 JOMBANG",
+        "registration_created_at": "2024-06-27 00:57:34"
+    },
+    {
+        "name": "BUNGA JULIA BIANTO",
+        "nisn": "3092506977",
+        "village": "Sambongdukuh",
+        "distance": "2647",
+        "sma": "SMA NEGERI 1 JOMBANG",
+        "registration_created_at": "2024-06-27 05:40:48"
+    },
+    {
+        "name": "NOVA APRILIA",
+        "nisn": "0083799987",
+        "village": "Pulolor",
+        "distance": "1439",
+        "sma": "SMA NEGERI 1 JOMBANG",
+        "registration_created_at": "2024-06-27 02:40:56"
+    },
+    {
+        "name": "IRWAN JOEC ANDRIANSYAH",
+        "nisn": "0084430229",
+        "village": "Plosogeneng",
+        "distance": "3821",
+        "sma": "SMA NEGERI 1 JOMBANG",
+        "registration_created_at": "2024-06-28 00:49:23"
+    },
+    {
+        "name": "Sabrina Mirza Islami",
+        "nisn": "0088521324",
+        "village": "Plandi",
+        "distance": "1403",
+        "sma": "SMA NEGERI 1 JOMBANG",
+        "registration_created_at": "2024-06-27 05:33:43"
+    },
+    {
+        "name": "SAFIRA FIRDA AMANDA",
+        "nisn": "3084393310",
+        "village": "Mojongapit",
+        "distance": "1910",
+        "sma": "SMA NEGERI 1 JOMBANG",
+        "registration_created_at": "2024-06-27 09:55:38"
+    },
+    {
+        "name": "ALVINO KRESNA DANIEL PUTRA",
+        "nisn": "0094724908",
+        "village": "Kepatihan",
+        "distance": "1455",
+        "sma": "SMA NEGERI 1 JOMBANG",
+        "registration_created_at": "2024-06-27 10:01:37"
+    },
+    {
+        "name": "DHEA NOVITA WIJAYANTI",
+        "nisn": "0086947624",
+        "village": "Jombang",
+        "distance": "1550",
+        "sma": "SMA NEGERI 1 JOMBANG",
+        "registration_created_at": "2024-06-27 10:43:04"
+    },
+    {
+        "name": "LADYANA AZUMARDINE",
+        "nisn": "3080071695",
+        "village": "Jabon",
+        "distance": "1846",
+        "sma": "SMA NEGERI 1 JOMBANG",
+        "registration_created_at": "2024-06-27 00:16:59"
+    },
+    {
+        "name": "Fajar Oktavian Yukata Rachiem",
+        "nisn": "0084814420",
+        "village": "Denanyar",
+        "distance": "2242",
+        "sma": "SMA NEGERI 1 JOMBANG",
+        "registration_created_at": "2024-06-27 00:13:20"
+    },
+    {
+        "name": "AURA BENING PUTRI YUANDA",
+        "nisn": "0094767614",
+        "village": "Dapurkejambon",
+        "distance": "3805",
+        "sma": "SMA NEGERI 1 JOMBANG",
+        "registration_created_at": "2024-06-27 05:28:23"
+    },
+    {
+        "name": "NABILLA CINTA RAHMA AULIA",
+        "nisn": "3089281789",
+        "village": "Candimulyo",
+        "distance": "2031",
+        "sma": "SMA NEGERI 1 JOMBANG",
+        "registration_created_at": "2024-06-27 04:14:53"
+    },
+    {
+        "name": "ALFINA CAHYANINGRUM",
+        "nisn": "0094339998",
+        "village": "Banjardowo",
+        "distance": "4410",
+        "sma": "SMA NEGERI 1 JOMBANG",
+        "registration_created_at": "2024-06-27 05:50:58"
+    }
+]

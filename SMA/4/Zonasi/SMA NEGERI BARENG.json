@@ -1,0 +1,738 @@
+[
+    {
+        "name": "MUHAMMAD ANDREW MAULANA",
+        "nisn": "3091440496",
+        "village": "Mojotengah",
+        "distance": "197",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 06:50:41"
+    },
+    {
+        "name": "LASETHARIA IRHAMNA HARIONO",
+        "nisn": "0083864405",
+        "village": "Mojotengah",
+        "distance": "209",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 07:24:01"
+    },
+    {
+        "name": "RAFIE NUR SYAIFULLOH",
+        "nisn": "0108088386",
+        "village": "Mojotengah",
+        "distance": "209",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 11:32:33"
+    },
+    {
+        "name": "MUHAMMAD FADLILLAH AWWALY",
+        "nisn": "3096018423",
+        "village": "Mojotengah",
+        "distance": "225",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 04:18:55"
+    },
+    {
+        "name": "KESYA PUTRI AHYU SAKINA",
+        "nisn": "3090833216",
+        "village": "Mojotengah",
+        "distance": "394",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 07:52:52"
+    },
+    {
+        "name": "MUHAMMAD RAFA ADITYA PRATAMA",
+        "nisn": "0088353934",
+        "village": "Mojotengah",
+        "distance": "399",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 07:14:00"
+    },
+    {
+        "name": "GANGSAR BIMA PUTRA ARI ZONA",
+        "nisn": "0088290843",
+        "village": "Mojotengah",
+        "distance": "452",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 02:50:07"
+    },
+    {
+        "name": "ERLIN ELENA REVI SAGITA",
+        "nisn": "3085869508",
+        "village": "Mojotengah",
+        "distance": "467",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 05:51:23"
+    },
+    {
+        "name": "HELMI MAULANA ROZAQ",
+        "nisn": "3099704088",
+        "village": "Mojotengah",
+        "distance": "491",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 00:07:36"
+    },
+    {
+        "name": "RERE RESTUATI",
+        "nisn": "3099761799",
+        "village": "Mojotengah",
+        "distance": "518",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 00:09:09"
+    },
+    {
+        "name": "KHAYLA RUSMAY WARDANI",
+        "nisn": "0084584280",
+        "village": "Mojotengah",
+        "distance": "791",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 07:09:19"
+    },
+    {
+        "name": "MUHAMMAD SAHAL MIFTAKH",
+        "nisn": "0092953667",
+        "village": "Banjaragung",
+        "distance": "912",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 02:10:42"
+    },
+    {
+        "name": "RIDHO AKHMAD SAPUTRA",
+        "nisn": "0094532364",
+        "village": "Latsari",
+        "distance": "1087",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 08:20:54"
+    },
+    {
+        "name": "JUWITA PUTRI AMANDA",
+        "nisn": "0094571148",
+        "village": "Mojotengah",
+        "distance": "1094",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 06:31:03"
+    },
+    {
+        "name": "MARCELINO ANDIKA PRATAMA",
+        "nisn": "0092075323",
+        "village": "Banjaragung",
+        "distance": "1128",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 06:17:38"
+    },
+    {
+        "name": "MUCHAMMAD FIRMAN NURDYANSYAH",
+        "nisn": "3089882082",
+        "village": "Latsari",
+        "distance": "1183",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 09:19:37"
+    },
+    {
+        "name": "ADITYA DARMAWANGSA",
+        "nisn": "0087613042",
+        "village": "Banjaragung",
+        "distance": "1184",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 00:16:34"
+    },
+    {
+        "name": "Wisnu Adi Wijaya",
+        "nisn": "0078865905",
+        "village": "Mojotengah",
+        "distance": "1190",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 00:29:00"
+    },
+    {
+        "name": "EGA BAYU HERNANDA",
+        "nisn": "3084089066",
+        "village": "Latsari",
+        "distance": "1191",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 00:54:30"
+    },
+    {
+        "name": "PUTRI AYUNDA SARI",
+        "nisn": "3094101937",
+        "village": "Latsari",
+        "distance": "1194",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 01:05:25"
+    },
+    {
+        "name": "JOFIANDO RASYA PUTRA HARINDRA",
+        "nisn": "0075084947",
+        "village": "Mojotengah",
+        "distance": "1230",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 00:14:03"
+    },
+    {
+        "name": "TRUBUS RIZKY SAPUTRA",
+        "nisn": "3087168743",
+        "village": "Latsari",
+        "distance": "1243",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 10:03:34"
+    },
+    {
+        "name": "ANGGI LESMANA",
+        "nisn": "0083395363",
+        "village": "Mojotengah",
+        "distance": "1243",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 07:33:23"
+    },
+    {
+        "name": "Galih Wahyu Nalendro",
+        "nisn": "0084052899",
+        "village": "Mojotengah",
+        "distance": "1269",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 00:20:19"
+    },
+    {
+        "name": "ania rovi",
+        "nisn": "0092104402",
+        "village": "Mojotengah",
+        "distance": "1293",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 04:49:56"
+    },
+    {
+        "name": "MAUREEN LAURENSIA",
+        "nisn": "0081043888",
+        "village": "Mojotengah",
+        "distance": "1326",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 06:18:27"
+    },
+    {
+        "name": "ALYSA PUTRI FIRDIANI",
+        "nisn": "0097161856",
+        "village": "Banjaragung",
+        "distance": "1370",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 00:44:15"
+    },
+    {
+        "name": "MUHAMMAD RAIHAN SAKSONO",
+        "nisn": "0093269644",
+        "village": "Latsari",
+        "distance": "1426",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 04:44:10"
+    },
+    {
+        "name": "GERY ACHMAD ERWINSYAH",
+        "nisn": "0096338463",
+        "village": "Banjaragung",
+        "distance": "1449",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 00:16:11"
+    },
+    {
+        "name": "TEDY HANVEN SEPTRIAN",
+        "nisn": "0084356025",
+        "village": "Banjaragung",
+        "distance": "1494",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 00:04:59"
+    },
+    {
+        "name": "HANUM CYKA DESI NATALIA",
+        "nisn": "0081324134",
+        "village": "Banjaragung",
+        "distance": "1508",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 00:38:25"
+    },
+    {
+        "name": "SINDYA NOVITA SARI",
+        "nisn": "0086560877",
+        "village": "Mojowarno",
+        "distance": "1532",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 06:02:54"
+    },
+    {
+        "name": "HAFIDZ ADI NUGROHO",
+        "nisn": "0085848271",
+        "village": "Banjaragung",
+        "distance": "1534",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 00:53:57"
+    },
+    {
+        "name": "RONA WIJAYANTI",
+        "nisn": "0086437137",
+        "village": "Mojowarno",
+        "distance": "1584",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 06:09:13"
+    },
+    {
+        "name": "SYAFARA NABILLA STEVIEANE",
+        "nisn": "0093141743",
+        "village": "Mojowarno",
+        "distance": "1621",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 02:32:14"
+    },
+    {
+        "name": "ABIL FILDA HIDAYATULLOH",
+        "nisn": "0086475073",
+        "village": "Banjaragung",
+        "distance": "1627",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 20:42:22"
+    },
+    {
+        "name": "ALVIN RADITYA",
+        "nisn": "0083055830",
+        "village": "Mojowarno",
+        "distance": "1659",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-28 06:40:40"
+    },
+    {
+        "name": "AKHMAD BAGAS ARIANTO",
+        "nisn": "0091972802",
+        "village": "Banjaragung",
+        "distance": "1675",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 10:08:25"
+    },
+    {
+        "name": "VENA ANNISA",
+        "nisn": "0084760596",
+        "village": "Banjaragung",
+        "distance": "1692",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 05:38:17"
+    },
+    {
+        "name": "MOCHAMAD RYEHAN FRIZKY ADITYA",
+        "nisn": "0089226008",
+        "village": "Kertorejo",
+        "distance": "1767",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 06:21:11"
+    },
+    {
+        "name": "VONY OKTAFIANA",
+        "nisn": "0086552822",
+        "village": "Penggaron",
+        "distance": "1768",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 06:50:47"
+    },
+    {
+        "name": "GARIN FAJAR ARRIZKY",
+        "nisn": "0099848144",
+        "village": "Mojowarno",
+        "distance": "1787",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 02:29:11"
+    },
+    {
+        "name": "NOVISCHA EGAW MAHARANI",
+        "nisn": "0087870694",
+        "village": "Mojowarno",
+        "distance": "1791",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 00:23:54"
+    },
+    {
+        "name": "MEYSA DINI AULIA",
+        "nisn": "0097094012",
+        "village": "Penggaron",
+        "distance": "1798",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 08:11:31"
+    },
+    {
+        "name": "PUTRI MAISYAH",
+        "nisn": "3081680247",
+        "village": "Tebel",
+        "distance": "1807",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 07:15:23"
+    },
+    {
+        "name": "JERNI IKVI PERMATA QOLBI",
+        "nisn": "3081344878",
+        "village": "Kertorejo",
+        "distance": "1843",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 08:26:24"
+    },
+    {
+        "name": "ALFI HUDA KHOIRONI",
+        "nisn": "3086698630",
+        "village": "Tebel",
+        "distance": "1848",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 16:28:16"
+    },
+    {
+        "name": "LOVELI NAURA ANGGRAINI",
+        "nisn": "0087459817",
+        "village": "Penggaron",
+        "distance": "1859",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 08:59:57"
+    },
+    {
+        "name": "NADYVA BERLIANA SAFIRA",
+        "nisn": "3099788445",
+        "village": "Karanglo",
+        "distance": "1868",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 00:35:53"
+    },
+    {
+        "name": "JAGAD SATRIA",
+        "nisn": "0087638208",
+        "village": "Penggaron",
+        "distance": "1892",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 06:45:27"
+    },
+    {
+        "name": "MELINDA DWI FEBRIA SAFIRA",
+        "nisn": "0096339965",
+        "village": "Penggaron",
+        "distance": "1949",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 03:42:07"
+    },
+    {
+        "name": "AHMAD FAHRI RAMDHANI",
+        "nisn": "0081066635",
+        "village": "Tebel",
+        "distance": "1974",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 05:04:36"
+    },
+    {
+        "name": "SHELINA RAHMAWATI",
+        "nisn": "0099714581",
+        "village": "Kertorejo",
+        "distance": "2007",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 05:53:27"
+    },
+    {
+        "name": "NOVAN NURGEN",
+        "nisn": "0086492135",
+        "village": "Karanglo",
+        "distance": "2013",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-28 20:27:38"
+    },
+    {
+        "name": "GRACEYLA TRAVIZCHA JELANG REVANGGA",
+        "nisn": "0081456989",
+        "village": "Mojowarno",
+        "distance": "2105",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 03:12:40"
+    },
+    {
+        "name": "DIKA AGUSTYAN SAPUTRA",
+        "nisn": "3084202695",
+        "village": "Tebel",
+        "distance": "2116",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 02:48:37"
+    },
+    {
+        "name": "NASYA ANAYA ANGGRAINI",
+        "nisn": "0098162831",
+        "village": "Kertorejo",
+        "distance": "2118",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 05:27:51"
+    },
+    {
+        "name": "ANDIEN EGA STEPHANE",
+        "nisn": "0084694964",
+        "village": "Mojowarno",
+        "distance": "2159",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 06:47:19"
+    },
+    {
+        "name": "HIMAWAN SUSILO",
+        "nisn": "0078667770",
+        "village": "Mojowarno",
+        "distance": "2174",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 00:45:07"
+    },
+    {
+        "name": "LISTIANA ZAHROTUS SITA",
+        "nisn": "3095830427",
+        "village": "Penggaron",
+        "distance": "2185",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 05:33:34"
+    },
+    {
+        "name": "ALYA ZAHROTUS SITA",
+        "nisn": "3091212294",
+        "village": "Penggaron",
+        "distance": "2192",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 12:16:49"
+    },
+    {
+        "name": "SALSA BILA MAULIDIYAH",
+        "nisn": "0081815813",
+        "village": "Kertorejo",
+        "distance": "2208",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 02:23:02"
+    },
+    {
+        "name": "ACHMAD WIJAYA PRATAMA",
+        "nisn": "0098406896",
+        "village": "Mojowarno",
+        "distance": "2226",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 04:03:48"
+    },
+    {
+        "name": "DAFA AKFAL NUGRAHA",
+        "nisn": "3087057768",
+        "village": "Mojowarno",
+        "distance": "2233",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 02:17:18"
+    },
+    {
+        "name": "ALENTA MAZIDARIZQI",
+        "nisn": "3099183222",
+        "village": "Mojowarno",
+        "distance": "2241",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 01:39:49"
+    },
+    {
+        "name": "DEA MELASARI",
+        "nisn": "0089472906",
+        "village": "Nglebak",
+        "distance": "2265",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 05:40:30"
+    },
+    {
+        "name": "IKA INDRIANI",
+        "nisn": "3090414160",
+        "village": "Mojowarno",
+        "distance": "2281",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 01:28:44"
+    },
+    {
+        "name": "ADE TEGAR AL FAJRI",
+        "nisn": "3089016971",
+        "village": "Kertorejo",
+        "distance": "2285",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 10:19:17"
+    },
+    {
+        "name": "SHELA MAQDALIA",
+        "nisn": "3087619380",
+        "village": "Mojowarno",
+        "distance": "2318",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 08:45:28"
+    },
+    {
+        "name": "DANIEL ZAXI YUANGGA",
+        "nisn": "0084439385",
+        "village": "Mojowarno",
+        "distance": "2320",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 06:40:33"
+    },
+    {
+        "name": "MOCHAMMAD MAULANA ALDYANSYACH",
+        "nisn": "3091409667",
+        "village": "Bareng",
+        "distance": "2328",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 02:53:49"
+    },
+    {
+        "name": "WIJI KRISDIONO",
+        "nisn": "0083827153",
+        "village": "Bareng",
+        "distance": "2329",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 02:40:22"
+    },
+    {
+        "name": "SANIA PRATIWI ANGGRAINI",
+        "nisn": "3094619597",
+        "village": "Mojowarno",
+        "distance": "2339",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 10:44:20"
+    },
+    {
+        "name": "FARHAN RAHMAD SYAIFULLOH",
+        "nisn": "0082041990",
+        "village": "Bareng",
+        "distance": "2340",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 09:13:08"
+    },
+    {
+        "name": "ROISATUL HAJJAH NIHAYATUL HAWA",
+        "nisn": "3085083773",
+        "village": "Bareng",
+        "distance": "2406",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 08:51:28"
+    },
+    {
+        "name": "MISHIELL ANUGRAH",
+        "nisn": "0095769489",
+        "village": "Mojowarno",
+        "distance": "2433",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 09:51:48"
+    },
+    {
+        "name": "M ARIF HERDIANSYAH",
+        "nisn": "0088578614",
+        "village": "Karanglo",
+        "distance": "2435",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 06:25:12"
+    },
+    {
+        "name": "RADIEN MUSQAFA ARRIDLO",
+        "nisn": "3082660809",
+        "village": "Mojowarno",
+        "distance": "2438",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 00:44:33"
+    },
+    {
+        "name": "SAFIRA LIANAHARDI",
+        "nisn": "0097859980",
+        "village": "Kertorejo",
+        "distance": "2446",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 07:40:05"
+    },
+    {
+        "name": "MUTIARA PERMATASARI",
+        "nisn": "0091458739",
+        "village": "Penggaron",
+        "distance": "2472",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 06:07:21"
+    },
+    {
+        "name": "SITI DEVITA DWI NURANGGRAENI",
+        "nisn": "3089053464",
+        "village": "Kertorejo",
+        "distance": "2481",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 12:57:07"
+    },
+    {
+        "name": "KEYSHA AMELIA ARDHINA SASKYA",
+        "nisn": "0092157834",
+        "village": "Penggaron",
+        "distance": "2488",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 07:35:09"
+    },
+    {
+        "name": "IKHTIARA SYAFA FISABILLA",
+        "nisn": "0083355273",
+        "village": "Bareng",
+        "distance": "2492",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 05:34:54"
+    },
+    {
+        "name": "GISELA VALENTINA AYUDIA RUMPOKO",
+        "nisn": "0093565145",
+        "village": "Tebel",
+        "distance": "2501",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 00:09:17"
+    },
+    {
+        "name": "REVALINA DEWI SURYA PUTRI",
+        "nisn": "3099392788",
+        "village": "Kertorejo",
+        "distance": "2532",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 07:27:32"
+    },
+    {
+        "name": "MAISYA ZIZANA BRIPKANIA",
+        "nisn": "0099830169",
+        "village": "Bareng",
+        "distance": "2536",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 07:03:57"
+    },
+    {
+        "name": "Muhammad David Pratama",
+        "nisn": "0082662922",
+        "village": "Kertorejo",
+        "distance": "2537",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 07:09:41"
+    },
+    {
+        "name": "HABIBI MAULANA",
+        "nisn": "3080355975",
+        "village": "Mojowarno",
+        "distance": "2538",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 00:09:42"
+    },
+    {
+        "name": "AMELYA SAGITA SARI",
+        "nisn": "0081601479",
+        "village": "Mojowarno",
+        "distance": "2551",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 09:33:05"
+    },
+    {
+        "name": "ADINDA ILLONA ELYSIA",
+        "nisn": "3086283359",
+        "village": "Mojowarno",
+        "distance": "2552",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 01:13:56"
+    },
+    {
+        "name": "RAKHMAD FAUZI",
+        "nisn": "0087596136",
+        "village": "Karanglo",
+        "distance": "2552",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 04:56:27"
+    },
+    {
+        "name": "REALITA KASIH MELANI PUTRI",
+        "nisn": "0081975684",
+        "village": "Mojowarno",
+        "distance": "2566",
+        "sma": "SMA NEGERI BARENG",
+        "registration_created_at": "2024-06-27 00:13:06"
+    }
+]
