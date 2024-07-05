@@ -1,0 +1,553 @@
+{
+    "code": 200,
+    "status": "OK",
+    "meta": {
+        "total": 45,
+        "last_page": 1,
+        "from": 1,
+        "to": 1,
+        "last_update": "2024-07-04 21:08:08"
+    },
+    "data": [
+        {
+            "name": "HIDAYAT SANDI SAPUTRA",
+            "nisn": "0088039616",
+            "grade_final": "88.16",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:05:01"
+        },
+        {
+            "name": "Alya Mukhbita Nabilah",
+            "nisn": "0086886093",
+            "grade_final": "88.07",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:08:13"
+        },
+        {
+            "name": "ANISA MAHARANI",
+            "nisn": "0084081713",
+            "grade_final": "87.54",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:15:38"
+        },
+        {
+            "name": "DEISY DWI CAHYANI",
+            "nisn": "0078257549",
+            "grade_final": "87.39",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 03:21:25"
+        },
+        {
+            "name": "NUR SYIFA AZZAHIRAH",
+            "nisn": "0094382955",
+            "grade_final": "87.35",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-04 15:16:45"
+        },
+        {
+            "name": "FELIZIA PUTRI WIDODO",
+            "nisn": "0094034996",
+            "grade_final": "87.13",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:57:06"
+        },
+        {
+            "name": "KHARISMA PUTRI",
+            "nisn": "0087456402",
+            "grade_final": "87.02",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:43:54"
+        },
+        {
+            "name": "MUHAMAD UBAYDILLAH ROHMAN",
+            "nisn": "0087788432",
+            "grade_final": "86.91",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:16:20"
+        },
+        {
+            "name": "M ASIF AL MUSYARROF",
+            "nisn": "3082005200",
+            "grade_final": "86.78",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 13:52:56"
+        },
+        {
+            "name": "MUHAMAD AMIRURAFI",
+            "nisn": "3082536265",
+            "grade_final": "86.75",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:11:08"
+        },
+        {
+            "name": "BILQIS NUR BUHARI",
+            "nisn": "0098001171",
+            "grade_final": "86.73",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 17:01:44"
+        },
+        {
+            "name": "ASCARYA NABIHAN AQSHO",
+            "nisn": "0084801475",
+            "grade_final": "86.68",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-04 15:25:41"
+        },
+        {
+            "name": "DEWANGGA CHANDRA ZIDDANY",
+            "nisn": "0083023854",
+            "grade_final": "86.58",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:02:20"
+        },
+        {
+            "name": "SISKA AMELIA",
+            "nisn": "0088751959",
+            "grade_final": "86.57",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:48:35"
+        },
+        {
+            "name": "Novanda Cantika Sari",
+            "nisn": "3084945244",
+            "grade_final": "86.54",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 14:34:18"
+        },
+        {
+            "name": "ADHITYA SYAH FATAH",
+            "nisn": "0085792872",
+            "grade_final": "86.42",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 11:00:53"
+        },
+        {
+            "name": "NOVA RIO PRATAMA",
+            "nisn": "0089048796",
+            "grade_final": "86.40",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:25:15"
+        },
+        {
+            "name": "ALBERT DEVIN SAPUTRA",
+            "nisn": "0087880338",
+            "grade_final": "86.33",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:37:09"
+        },
+        {
+            "name": "MUHAMMAD DZAKWAN ABI FIKRI",
+            "nisn": "0084219724",
+            "grade_final": "86.28",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 17:13:18"
+        },
+        {
+            "name": "MUHAMMAD DAVA PRANATA",
+            "nisn": "0093715039",
+            "grade_final": "86.27",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-04 03:38:19"
+        },
+        {
+            "name": "DAVI MAULANA AKBAR",
+            "nisn": "3097685762",
+            "grade_final": "86.20",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:51:30"
+        },
+        {
+            "name": "Ninda Eka Supriastiwi",
+            "nisn": "3093698198",
+            "grade_final": "86.16",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:48:37"
+        },
+        {
+            "name": "RAKA PRATAMA MANDALA PUTRA",
+            "nisn": "0081353175",
+            "grade_final": "86.13",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:11:27"
+        },
+        {
+            "name": "FARIS HISYAM AHMADA",
+            "nisn": "3098979286",
+            "grade_final": "86.07",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:11:34"
+        },
+        {
+            "name": "CHANDRA YUNAN ZAQI",
+            "nisn": "0088740611",
+            "grade_final": "86.07",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 16:24:01"
+        },
+        {
+            "name": "MUHAMMAD HARIS HIDAYATULLOH",
+            "nisn": "0096635180",
+            "grade_final": "86.06",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:53:40"
+        },
+        {
+            "name": "MOCHAMMAD RAFI RISKIANSYAH",
+            "nisn": "3087977895",
+            "grade_final": "86.04",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-04 06:50:54"
+        },
+        {
+            "name": "Muhammad Alif Norman B",
+            "nisn": "3098362515",
+            "grade_final": "85.99",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:03:21"
+        },
+        {
+            "name": "HENI RAHMADANI",
+            "nisn": "0085138334",
+            "grade_final": "85.95",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:08:07"
+        },
+        {
+            "name": "ANDIKA ARMADAN PUTRA",
+            "nisn": "0087570531",
+            "grade_final": "85.95",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:04:50"
+        },
+        {
+            "name": "RIKI ADITIA SAPUTRA",
+            "nisn": "0084026267",
+            "grade_final": "85.91",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 04:41:49"
+        },
+        {
+            "name": "SEVERIN FREYA ANATASYA",
+            "nisn": "0081143010",
+            "grade_final": "85.86",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 16:43:42"
+        },
+        {
+            "name": "PUTRI DEWI AGUSTINA",
+            "nisn": "0099949474",
+            "grade_final": "85.85",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-04 16:48:29"
+        },
+        {
+            "name": "MUHAMMAD FERRYL RAFAEL",
+            "nisn": "3080778641",
+            "grade_final": "85.84",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:06:44"
+        },
+        {
+            "name": "STVEN ADIANSYAH",
+            "nisn": "0091161275",
+            "grade_final": "85.82",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 15:56:52"
+        },
+        {
+            "name": "MUHAMMAD AKBAR FATIH SYUHADA",
+            "nisn": "0098039152",
+            "grade_final": "85.81",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:33:05"
+        },
+        {
+            "name": "BILQIS ELFIRA",
+            "nisn": "0082310147",
+            "grade_final": "85.81",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-04 00:08:05"
+        },
+        {
+            "name": "BAYU ADAM MAULANA",
+            "nisn": "3090678787",
+            "grade_final": "85.75",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:47:55"
+        },
+        {
+            "name": "FAJAR GUNAWAN",
+            "nisn": "0092205035",
+            "grade_final": "85.71",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:05:07"
+        },
+        {
+            "name": "MOCH  ABIL HASAN ASYADILY",
+            "nisn": "0077260326",
+            "grade_final": "85.68",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:01:00"
+        },
+        {
+            "name": "MUHAMMAD HABIB ALIYUDIN",
+            "nisn": "3086459757",
+            "grade_final": "85.66",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 18:45:34"
+        },
+        {
+            "name": "AMANDA SETYAWATI PUTRI",
+            "nisn": "0081853306",
+            "grade_final": "85.64",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:32:45"
+        },
+        {
+            "name": "Alvina Fitri Maida Ardelia",
+            "nisn": "3089189752",
+            "grade_final": "85.63",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-04 14:19:49"
+        },
+        {
+            "name": "BINTANG NUR ALIF",
+            "nisn": "3081963281",
+            "grade_final": "85.63",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:36:41"
+        },
+        {
+            "name": "ELINDA NUR CAHYATI",
+            "nisn": "0092548591",
+            "grade_final": "85.60",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 19:27:56"
+        }
+    ]
+}

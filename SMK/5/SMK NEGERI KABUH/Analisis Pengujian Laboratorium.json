@@ -1,0 +1,553 @@
+{
+    "code": 200,
+    "status": "OK",
+    "meta": {
+        "total": 45,
+        "last_page": 1,
+        "from": 1,
+        "to": 1,
+        "last_update": "2024-07-04 21:08:08"
+    },
+    "data": [
+        {
+            "name": "EKA SARI WIDAYANTI",
+            "nisn": "0092179864",
+            "grade_final": "86.87",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Analisis Pengujian Laboratorium"
+                }
+            },
+            "registration_created_at": "2024-07-03 21:19:37"
+        },
+        {
+            "name": "JUWITA PUTRI HANDAYANI",
+            "nisn": "0072534152",
+            "grade_final": "86.63",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Analisis Pengujian Laboratorium"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:05:42"
+        },
+        {
+            "name": "Thasya Oktavia",
+            "nisn": "0099124832",
+            "grade_final": "86.62",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Analisis Pengujian Laboratorium"
+                }
+            },
+            "registration_created_at": "2024-07-03 19:32:00"
+        },
+        {
+            "name": "CANTIKA ANGELITA WULANDARI",
+            "nisn": "0093892161",
+            "grade_final": "86.55",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Analisis Pengujian Laboratorium"
+                }
+            },
+            "registration_created_at": "2024-07-03 14:29:01"
+        },
+        {
+            "name": "DIANA MARSELLA",
+            "nisn": "0088164529",
+            "grade_final": "86.24",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Analisis Pengujian Laboratorium"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:31:39"
+        },
+        {
+            "name": "DIVA PUTRI AGUSTINA",
+            "nisn": "3080471899",
+            "grade_final": "86.21",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Analisis Pengujian Laboratorium"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:06:56"
+        },
+        {
+            "name": "RYO APRILLYAN",
+            "nisn": "0087519359",
+            "grade_final": "85.78",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Analisis Pengujian Laboratorium"
+                }
+            },
+            "registration_created_at": "2024-07-03 20:40:32"
+        },
+        {
+            "name": "NADIEN OKTAVIAN ARIFANY",
+            "nisn": "0086111106",
+            "grade_final": "85.35",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Analisis Pengujian Laboratorium"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:15:28"
+        },
+        {
+            "name": "AQILLA RISALATIL LAILI",
+            "nisn": "0093741292",
+            "grade_final": "85.33",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Analisis Pengujian Laboratorium"
+                }
+            },
+            "registration_created_at": "2024-07-03 04:40:10"
+        },
+        {
+            "name": "NICKO ARDYAWAN",
+            "nisn": "0098276367",
+            "grade_final": "85.27",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Analisis Pengujian Laboratorium"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:04:31"
+        },
+        {
+            "name": "FADHIL KUSUMA WARDANNI",
+            "nisn": "0086413391",
+            "grade_final": "85.22",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Analisis Pengujian Laboratorium"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:00:25"
+        },
+        {
+            "name": "MARIO RAMADHANI ANANDA PUTRA",
+            "nisn": "0082671670",
+            "grade_final": "85.22",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Analisis Pengujian Laboratorium"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:42:23"
+        },
+        {
+            "name": "OFIANA ENJEL DWI ANDINI",
+            "nisn": "0095479357",
+            "grade_final": "85.16",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Analisis Pengujian Laboratorium"
+                }
+            },
+            "registration_created_at": "2024-07-04 16:31:07"
+        },
+        {
+            "name": "INTAN APRILIA SARI",
+            "nisn": "0096455478",
+            "grade_final": "85.15",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Analisis Pengujian Laboratorium"
+                }
+            },
+            "registration_created_at": "2024-07-04 16:10:40"
+        },
+        {
+            "name": "VERIN AUDIA PRATIWI",
+            "nisn": "0081009328",
+            "grade_final": "85.12",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Analisis Pengujian Laboratorium"
+                }
+            },
+            "registration_created_at": "2024-07-03 04:03:38"
+        },
+        {
+            "name": "IRFAN DWI ARDYANSYAH",
+            "nisn": "0085768966",
+            "grade_final": "85.11",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Analisis Pengujian Laboratorium"
+                }
+            },
+            "registration_created_at": "2024-07-03 02:45:43"
+        },
+        {
+            "name": "ZAHRA AURELLIA CALISTA",
+            "nisn": "0097543667",
+            "grade_final": "85.10",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Analisis Pengujian Laboratorium"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:45:21"
+        },
+        {
+            "name": "SIVA DWI ARIANTI",
+            "nisn": "0091865127",
+            "grade_final": "85.09",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Analisis Pengujian Laboratorium"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:12:54"
+        },
+        {
+            "name": "SELVI DWI CAHYANI",
+            "nisn": "0087133295",
+            "grade_final": "85.08",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Analisis Pengujian Laboratorium"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:51:05"
+        },
+        {
+            "name": "REHAN FIRMANSYAH",
+            "nisn": "0089975300",
+            "grade_final": "85.07",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Analisis Pengujian Laboratorium"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:05:32"
+        },
+        {
+            "name": "VISCA AULIA PRATIWI",
+            "nisn": "0087815636",
+            "grade_final": "85.07",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Analisis Pengujian Laboratorium"
+                }
+            },
+            "registration_created_at": "2024-07-03 04:03:34"
+        },
+        {
+            "name": "DAVIN PRADANA YUDIANTO",
+            "nisn": "0096923000",
+            "grade_final": "85.07",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Analisis Pengujian Laboratorium"
+                }
+            },
+            "registration_created_at": "2024-07-03 11:38:57"
+        },
+        {
+            "name": "FELICIA CALISTA ANINDYA",
+            "nisn": "0094804413",
+            "grade_final": "85.02",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Analisis Pengujian Laboratorium"
+                }
+            },
+            "registration_created_at": "2024-07-03 13:32:19"
+        },
+        {
+            "name": "Abdul Rahmad",
+            "nisn": "3091577866",
+            "grade_final": "85.02",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Analisis Pengujian Laboratorium"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:46:11"
+        },
+        {
+            "name": "ERIC ALFARELINO",
+            "nisn": "0096414510",
+            "grade_final": "84.98",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Analisis Pengujian Laboratorium"
+                }
+            },
+            "registration_created_at": "2024-07-03 11:41:41"
+        },
+        {
+            "name": "Fitria Ayu Damayanti",
+            "nisn": "0089160915",
+            "grade_final": "84.96",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Analisis Pengujian Laboratorium"
+                }
+            },
+            "registration_created_at": "2024-07-03 04:49:26"
+        },
+        {
+            "name": "MOHAMMAD DWI FEBRI RAMADANI",
+            "nisn": "0081674479",
+            "grade_final": "84.90",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Analisis Pengujian Laboratorium"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:13:01"
+        },
+        {
+            "name": "MUTIARA VELINSIA PUTRI",
+            "nisn": "0096561012",
+            "grade_final": "84.89",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Analisis Pengujian Laboratorium"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:15:30"
+        },
+        {
+            "name": "YENI PUSPITASARI",
+            "nisn": "0093737637",
+            "grade_final": "84.88",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Analisis Pengujian Laboratorium"
+                }
+            },
+            "registration_created_at": "2024-07-04 18:21:46"
+        },
+        {
+            "name": "MARSELLA DWI NOFIANA",
+            "nisn": "0092860778",
+            "grade_final": "84.87",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Analisis Pengujian Laboratorium"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:57:19"
+        },
+        {
+            "name": "KEISYAH AULIA HIDAYAH",
+            "nisn": "0088229062",
+            "grade_final": "84.84",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Analisis Pengujian Laboratorium"
+                }
+            },
+            "registration_created_at": "2024-07-03 04:31:19"
+        },
+        {
+            "name": "CINTA KHIRANIA PUTRI PRATAMA",
+            "nisn": "0083599230",
+            "grade_final": "84.84",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Analisis Pengujian Laboratorium"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:46:37"
+        },
+        {
+            "name": "LUTFI DWI KURNIAWAN",
+            "nisn": "0096570144",
+            "grade_final": "84.84",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Analisis Pengujian Laboratorium"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:07:21"
+        },
+        {
+            "name": "MUHAMMAD MIFTAHUL KHOIR WIJAYANTO",
+            "nisn": "0084414249",
+            "grade_final": "84.81",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Analisis Pengujian Laboratorium"
+                }
+            },
+            "registration_created_at": "2024-07-03 18:45:25"
+        },
+        {
+            "name": "MOCHAMAD ARIFIN ILHAM",
+            "nisn": "0085756618",
+            "grade_final": "84.79",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Analisis Pengujian Laboratorium"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:15:10"
+        },
+        {
+            "name": "IVANNA NUR QOMAIROH",
+            "nisn": "0099800948",
+            "grade_final": "84.76",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Analisis Pengujian Laboratorium"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:36:44"
+        },
+        {
+            "name": "INDRA DWIPUTRA NUGRAHA",
+            "nisn": "0086679565",
+            "grade_final": "84.75",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Analisis Pengujian Laboratorium"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:19:38"
+        },
+        {
+            "name": "ANDINIFITRI NUR KUMALA SARI",
+            "nisn": "0089238148",
+            "grade_final": "84.72",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Analisis Pengujian Laboratorium"
+                }
+            },
+            "registration_created_at": "2024-07-04 12:18:48"
+        },
+        {
+            "name": "MOCHAMAD ALTOFUROHMAN IMANULLOH",
+            "nisn": "0081692820",
+            "grade_final": "84.71",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Analisis Pengujian Laboratorium"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:31:42"
+        },
+        {
+            "name": "CHELSI KESYA AURELIA",
+            "nisn": "0097740876",
+            "grade_final": "84.71",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Analisis Pengujian Laboratorium"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:07:49"
+        },
+        {
+            "name": "MOCHAMMAD NOVAN HUSNIANTO",
+            "nisn": "0087353146",
+            "grade_final": "84.71",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Analisis Pengujian Laboratorium"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:05:29"
+        },
+        {
+            "name": "MUHAMMAD RIZKI YUDHISTIRA",
+            "nisn": "0085459101",
+            "grade_final": "84.69",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Analisis Pengujian Laboratorium"
+                }
+            },
+            "registration_created_at": "2024-07-04 19:19:52"
+        },
+        {
+            "name": "SYAFA AZUANITA",
+            "nisn": "0098894737",
+            "grade_final": "84.68",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Analisis Pengujian Laboratorium"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:51:14"
+        },
+        {
+            "name": "ANDHINI KURNIAWATI",
+            "nisn": "3084619616",
+            "grade_final": "84.67",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Analisis Pengujian Laboratorium"
+                }
+            },
+            "registration_created_at": "2024-07-04 18:10:43"
+        },
+        {
+            "name": "Selvya Enjellina",
+            "nisn": "0099955740",
+            "grade_final": "84.62",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Analisis Pengujian Laboratorium"
+                }
+            },
+            "registration_created_at": "2024-07-03 04:30:34"
+        }
+    ]
+}

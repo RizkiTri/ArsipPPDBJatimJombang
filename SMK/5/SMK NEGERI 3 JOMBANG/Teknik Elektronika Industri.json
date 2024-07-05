@@ -1,0 +1,277 @@
+{
+    "code": 200,
+    "status": "OK",
+    "meta": {
+        "total": 22,
+        "last_page": 1,
+        "from": 1,
+        "to": 1,
+        "last_update": "2024-07-04 21:08:08"
+    },
+    "data": [
+        {
+            "name": "MAULANA IRSYAD ASSAUQI",
+            "nisn": "0085143465",
+            "grade_final": "87.65",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Elektronika Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:10:03"
+        },
+        {
+            "name": "ILHAM SETA SAPUTRA",
+            "nisn": "0082985212",
+            "grade_final": "87.21",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Elektronika Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:41:01"
+        },
+        {
+            "name": "ALDI KUSUMA PRATAMA",
+            "nisn": "0085114741",
+            "grade_final": "86.71",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Elektronika Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 13:27:49"
+        },
+        {
+            "name": "MUHAMMAD RAKHA DANENDRA",
+            "nisn": "0085107984",
+            "grade_final": "86.34",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Elektronika Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:38:42"
+        },
+        {
+            "name": "DIVA RIZKY PRAKASA",
+            "nisn": "3084209255",
+            "grade_final": "86.29",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Elektronika Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:05:40"
+        },
+        {
+            "name": "Abdul Haris Rahmatulloh",
+            "nisn": "0087105743",
+            "grade_final": "86.23",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Elektronika Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:50:55"
+        },
+        {
+            "name": "Muhammad Ainul Yaqin",
+            "nisn": "3096663444",
+            "grade_final": "85.98",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Elektronika Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:26:51"
+        },
+        {
+            "name": "RAFAEL ATHALA CLISYAFARIL",
+            "nisn": "0081802458",
+            "grade_final": "85.95",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Elektronika Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:28:27"
+        },
+        {
+            "name": "ARSALAN HAMAM ZULFIKAR",
+            "nisn": "3082028105",
+            "grade_final": "85.93",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Elektronika Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:35:10"
+        },
+        {
+            "name": "Aditiya Deri Tri Prasetya",
+            "nisn": "0082505747",
+            "grade_final": "85.90",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Elektronika Industri"
+                }
+            },
+            "registration_created_at": "2024-07-04 03:41:57"
+        },
+        {
+            "name": "MUHAMMAD RIZAL FAHRUDIN",
+            "nisn": "3089172556",
+            "grade_final": "85.67",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Elektronika Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 11:34:42"
+        },
+        {
+            "name": "MOH FABYAN IHZA ARIANSYAH",
+            "nisn": "0076956886",
+            "grade_final": "85.61",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Elektronika Industri"
+                }
+            },
+            "registration_created_at": "2024-07-04 09:37:08"
+        },
+        {
+            "name": "Muhammad Abizar Alghifari",
+            "nisn": "0082552844",
+            "grade_final": "85.51",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Elektronika Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:02:14"
+        },
+        {
+            "name": "SAIF MUHAMMAD WAFA",
+            "nisn": "3082274514",
+            "grade_final": "85.50",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Elektronika Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 12:23:20"
+        },
+        {
+            "name": "MOHAMMAD WAHYU DWI ARIYANTO",
+            "nisn": "3086002009",
+            "grade_final": "85.48",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Elektronika Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:12:16"
+        },
+        {
+            "name": "Rizqi Wahyu Nur Rokhim",
+            "nisn": "0091564574",
+            "grade_final": "85.47",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Elektronika Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:16:59"
+        },
+        {
+            "name": "ALJEDA YUDEAN PRASETYO",
+            "nisn": "0092618254",
+            "grade_final": "85.40",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Elektronika Industri"
+                }
+            },
+            "registration_created_at": "2024-07-04 08:01:52"
+        },
+        {
+            "name": "REVAN AKBAR FIRMANSYAH",
+            "nisn": "3085365143",
+            "grade_final": "85.28",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Elektronika Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:10:25"
+        },
+        {
+            "name": "BRYAN BAGUS BIMANTARA",
+            "nisn": "0094796113",
+            "grade_final": "85.25",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Elektronika Industri"
+                }
+            },
+            "registration_created_at": "2024-07-04 17:46:55"
+        },
+        {
+            "name": "MAULIDYA SAFA ANGGRAINI",
+            "nisn": "0093491515",
+            "grade_final": "85.24",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Elektronika Industri"
+                }
+            },
+            "registration_created_at": "2024-07-04 11:58:16"
+        },
+        {
+            "name": "DAGO HYERRA PRATAMA",
+            "nisn": "3089468575",
+            "grade_final": "85.24",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Elektronika Industri"
+                }
+            },
+            "registration_created_at": "2024-07-04 18:22:10"
+        },
+        {
+            "name": "ASRORU MAULA ASYARI",
+            "nisn": "0085077810",
+            "grade_final": "85.23",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Elektronika Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:11:23"
+        }
+    ]
+}

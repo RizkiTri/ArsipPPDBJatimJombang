@@ -1,0 +1,553 @@
+{
+    "code": 200,
+    "status": "OK",
+    "meta": {
+        "total": 45,
+        "last_page": 1,
+        "from": 1,
+        "to": 1,
+        "last_update": "2024-07-04 21:08:08"
+    },
+    "data": [
+        {
+            "name": "ARYA DHIKA PRATAMA",
+            "nisn": "0094321058",
+            "grade_final": "86.37",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:47:13"
+        },
+        {
+            "name": "ERVAN NOPIANTO",
+            "nisn": "0077065594",
+            "grade_final": "85.93",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:03:37"
+        },
+        {
+            "name": "Muhammad Haedar Fikri Fakhrandi",
+            "nisn": "0088482066",
+            "grade_final": "85.83",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:32:45"
+        },
+        {
+            "name": "MUHAMMAD ARYA EGA MULYA",
+            "nisn": "3098294406",
+            "grade_final": "85.76",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:06:33"
+        },
+        {
+            "name": "KESAWA DHARMA PUTRA",
+            "nisn": "0083339899",
+            "grade_final": "85.74",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:04:54"
+        },
+        {
+            "name": "IRGHI AHMAD FAHREZI",
+            "nisn": "0083008250",
+            "grade_final": "85.60",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:29:41"
+        },
+        {
+            "name": "MOCH ZIDAN FATCHUR ROZAK",
+            "nisn": "0094374275",
+            "grade_final": "85.53",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:58:00"
+        },
+        {
+            "name": "BRYLIAN NOVANTRA SUGIANTO",
+            "nisn": "0083265473",
+            "grade_final": "85.24",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:56:14"
+        },
+        {
+            "name": "MUHAMMAD KEVIN SAPUTRA",
+            "nisn": "3098518038",
+            "grade_final": "85.20",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:08:17"
+        },
+        {
+            "name": "VICKY HENDRAWAN",
+            "nisn": "0071600275",
+            "grade_final": "85.13",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:17:07"
+        },
+        {
+            "name": "Angga Ribut Mardi Nandaka",
+            "nisn": "0083095287",
+            "grade_final": "85.13",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:25:15"
+        },
+        {
+            "name": "MUHAMMAD ULIL FIKRI",
+            "nisn": "3085762805",
+            "grade_final": "85.10",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:09:02"
+        },
+        {
+            "name": "DWI STYO BUDI",
+            "nisn": "0099727839",
+            "grade_final": "85.08",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 04:42:59"
+        },
+        {
+            "name": "MUHAMMAD EVAN ANDHIKA SAPUTRA",
+            "nisn": "0084260165",
+            "grade_final": "85.08",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:10:28"
+        },
+        {
+            "name": "ZUSSAX DHARMAWAN BINAR PUTRA",
+            "nisn": "0082594232",
+            "grade_final": "85.05",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:16:38"
+        },
+        {
+            "name": "ZAKHQIS REYHAN YOGA PRAMONO",
+            "nisn": "0097448462",
+            "grade_final": "85.05",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:29:41"
+        },
+        {
+            "name": "MUHAMMAD REGA ISWAN DIQTA",
+            "nisn": "3097552925",
+            "grade_final": "85.04",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:03:15"
+        },
+        {
+            "name": "WIDA SUGIANTORO",
+            "nisn": "0081901301",
+            "grade_final": "84.99",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 17:00:37"
+        },
+        {
+            "name": "RADIT VERDIANSYAH",
+            "nisn": "0085192707",
+            "grade_final": "84.97",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:18:53"
+        },
+        {
+            "name": "RIKI RIDHOTUL FAREZA",
+            "nisn": "0096092111",
+            "grade_final": "84.96",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:11:14"
+        },
+        {
+            "name": "ACHMAD FAREL SETIYA PURNOMO",
+            "nisn": "0089447120",
+            "grade_final": "84.96",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:22:23"
+        },
+        {
+            "name": "CAHYO SATRIO WIBOWO",
+            "nisn": "0089665255",
+            "grade_final": "84.94",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:51:08"
+        },
+        {
+            "name": "ACHMAD FARIS ARDIANSYAH",
+            "nisn": "0088292572",
+            "grade_final": "84.93",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:49:45"
+        },
+        {
+            "name": "MUHAMMAD SYAHRUR ROZIQIN",
+            "nisn": "3082313116",
+            "grade_final": "84.92",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:18:47"
+        },
+        {
+            "name": "ARDIYA ROKHMAN",
+            "nisn": "0083468935",
+            "grade_final": "84.89",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:07:04"
+        },
+        {
+            "name": "Daniel Firmanuddin",
+            "nisn": "0094495172",
+            "grade_final": "84.89",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-04 15:54:52"
+        },
+        {
+            "name": "IVAN MAULANA",
+            "nisn": "3093850371",
+            "grade_final": "84.87",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 18:35:29"
+        },
+        {
+            "name": "ALFINSYAH REZA SYAHPUTRA",
+            "nisn": "0083867574",
+            "grade_final": "84.83",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:08:33"
+        },
+        {
+            "name": "IRVAN DIAZ PRAMUDIA",
+            "nisn": "3095435702",
+            "grade_final": "84.80",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:19:54"
+        },
+        {
+            "name": "MOCH ALIEF FIRMANDA RAHMATULLOH",
+            "nisn": "0082815650",
+            "grade_final": "84.80",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:35:02"
+        },
+        {
+            "name": "AHMAD ADI FIRANSYAH",
+            "nisn": "3085372768",
+            "grade_final": "84.76",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 11:08:57"
+        },
+        {
+            "name": "RONI DWI HERMAWAN",
+            "nisn": "0089913800",
+            "grade_final": "84.75",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:54:16"
+        },
+        {
+            "name": "CRISTIAN HENGKY PRATAMA",
+            "nisn": "0088582844",
+            "grade_final": "84.75",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:18:11"
+        },
+        {
+            "name": "MAYDY SINDHUNG EGA ZARQOLI",
+            "nisn": "0099926591",
+            "grade_final": "84.74",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 12:09:26"
+        },
+        {
+            "name": "FARREL BAGAS ADINATA",
+            "nisn": "0094235412",
+            "grade_final": "84.65",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-04 15:59:18"
+        },
+        {
+            "name": "YOGIE KURNIA DWI SAPUTRA",
+            "nisn": "0086310212",
+            "grade_final": "84.62",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:51:24"
+        },
+        {
+            "name": "JIBRIEL FACHRY ALFAHRUDIN",
+            "nisn": "3094015172",
+            "grade_final": "84.61",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:22:00"
+        },
+        {
+            "name": "MUHAMMAD AFIFATUR ROZIKIN",
+            "nisn": "0091056422",
+            "grade_final": "84.60",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:12:17"
+        },
+        {
+            "name": "BRAHMANTYO KADAFFY ACHMAD",
+            "nisn": "3094491705",
+            "grade_final": "84.60",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:05:18"
+        },
+        {
+            "name": "ANDRA SAPUTRA",
+            "nisn": "3098600879",
+            "grade_final": "84.57",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 18:35:35"
+        },
+        {
+            "name": "MUHAMMAD RAFIUL AKBAR",
+            "nisn": "0083830696",
+            "grade_final": "84.57",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:19:06"
+        },
+        {
+            "name": "MAULANA FAREL PRATAMA",
+            "nisn": "0092870061",
+            "grade_final": "84.56",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:10:26"
+        },
+        {
+            "name": "ALFINO TEGAR MAULANA",
+            "nisn": "0084029080",
+            "grade_final": "84.54",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 12:14:46"
+        },
+        {
+            "name": "AFRIZAL AZIZ STYAWAN",
+            "nisn": "3098173334",
+            "grade_final": "84.54",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:29:27"
+        },
+        {
+            "name": "ASY SAM FATHIR AN NUR",
+            "nisn": "0085530138",
+            "grade_final": "84.53",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-04 18:35:41"
+        }
+    ]
+}

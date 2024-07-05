@@ -1,0 +1,1117 @@
+{
+    "code": 200,
+    "status": "OK",
+    "meta": {
+        "total": 92,
+        "last_page": 1,
+        "from": 1,
+        "to": 1,
+        "last_update": "2024-07-04 21:08:08"
+    },
+    "data": [
+        {
+            "name": "RAHMAH NUR MAULIDYA",
+            "nisn": "0085900138",
+            "grade_final": "88.49",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:12:32"
+        },
+        {
+            "name": "SIKA ANGELY JANSAFARA",
+            "nisn": "0098217850",
+            "grade_final": "88.09",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:11:57"
+        },
+        {
+            "name": "SIKA ANGELA JANSAFIRA",
+            "nisn": "0096249283",
+            "grade_final": "87.73",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:07:28"
+        },
+        {
+            "name": "EKA NURUL KOMARIAH",
+            "nisn": "3085363755",
+            "grade_final": "87.47",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:12:30"
+        },
+        {
+            "name": "CHIKA ASILAH QURROTUL AIN",
+            "nisn": "3098338115",
+            "grade_final": "87.09",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:03:02"
+        },
+        {
+            "name": "INGGAR AULIA DEWANTARI",
+            "nisn": "0091469492",
+            "grade_final": "87.07",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:16:37"
+        },
+        {
+            "name": "EKA NURLAILY LATIFA",
+            "nisn": "3083919026",
+            "grade_final": "86.86",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:16:54"
+        },
+        {
+            "name": "MEISYA EKA NUR AISYAH",
+            "nisn": "0096467291",
+            "grade_final": "86.52",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 04:28:35"
+        },
+        {
+            "name": "LAILATUL MUKAROMAH",
+            "nisn": "0098552378",
+            "grade_final": "86.47",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:33:52"
+        },
+        {
+            "name": "NURETA DAMAYANTI",
+            "nisn": "0098745723",
+            "grade_final": "86.17",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:00:38"
+        },
+        {
+            "name": "SITI UMROATUL ULFIA",
+            "nisn": "0094057225",
+            "grade_final": "86.14",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:53:14"
+        },
+        {
+            "name": "Dina Farauhin Nawa",
+            "nisn": "0093141977",
+            "grade_final": "86.12",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-04 08:41:18"
+        },
+        {
+            "name": "ZULIANA SUSANTI",
+            "nisn": "0082376903",
+            "grade_final": "86.09",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 11:50:35"
+        },
+        {
+            "name": "SILVIA ANGGRAINI",
+            "nisn": "0086741536",
+            "grade_final": "86.03",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:47:34"
+        },
+        {
+            "name": "NOVI DESWITASARI",
+            "nisn": "3088774785",
+            "grade_final": "86.02",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:50:51"
+        },
+        {
+            "name": "BETA YESI NOVALIA",
+            "nisn": "0094347147",
+            "grade_final": "86.02",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 11:10:54"
+        },
+        {
+            "name": "FITRI DWI NUR OKTAVIANI",
+            "nisn": "0154496632",
+            "grade_final": "86.02",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:18:56"
+        },
+        {
+            "name": "Sillah Nur Aisah",
+            "nisn": "0088846211",
+            "grade_final": "86.00",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 04:15:01"
+        },
+        {
+            "name": "ALIFTA MEISYA AYU",
+            "nisn": "3082256837",
+            "grade_final": "86.00",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 03:23:02"
+        },
+        {
+            "name": "LAILATUL ILAFI RAMADHANI",
+            "nisn": "3085084737",
+            "grade_final": "85.98",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 18:07:52"
+        },
+        {
+            "name": "INGE DESITA RAHMAWATI",
+            "nisn": "0088884745",
+            "grade_final": "85.83",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-04 19:59:15"
+        },
+        {
+            "name": "REVALINA EKA MARCELLA",
+            "nisn": "0097566864",
+            "grade_final": "85.83",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-04 08:57:46"
+        },
+        {
+            "name": "DINA UKHTI FADHILAH",
+            "nisn": "0095773298",
+            "grade_final": "85.83",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 11:03:29"
+        },
+        {
+            "name": "JELITA HARDIYANTI",
+            "nisn": "0091134664",
+            "grade_final": "85.68",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-04 08:57:50"
+        },
+        {
+            "name": "ERLIN OKTAVIARI",
+            "nisn": "0085915355",
+            "grade_final": "85.63",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:46:50"
+        },
+        {
+            "name": "CHINTYA ALEXANDRA FEBRIANTI",
+            "nisn": "3097378395",
+            "grade_final": "85.61",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 17:27:13"
+        },
+        {
+            "name": "BILKHIS KHUMAIROH",
+            "nisn": "3099151570",
+            "grade_final": "85.57",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-04 07:06:37"
+        },
+        {
+            "name": "SILVYA RAHMA AULYA",
+            "nisn": "0091355839",
+            "grade_final": "85.52",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:12:15"
+        },
+        {
+            "name": "DESTIK IFTIA",
+            "nisn": "3089345533",
+            "grade_final": "85.49",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:08:06"
+        },
+        {
+            "name": "ZOLA AISHMIRA LIDYANSYAH",
+            "nisn": "3098433409",
+            "grade_final": "85.48",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-04 07:56:27"
+        },
+        {
+            "name": "RIFANTHY SALSABILA",
+            "nisn": "0083122846",
+            "grade_final": "85.44",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-04 19:16:06"
+        },
+        {
+            "name": "ISTI MAFFIDHATUL WILDA",
+            "nisn": "0099665813",
+            "grade_final": "85.44",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:50:30"
+        },
+        {
+            "name": "FIKKA FERNANDA RAMADHANI",
+            "nisn": "0089278970",
+            "grade_final": "85.44",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:11:52"
+        },
+        {
+            "name": "ANASTASYA WAHYU PRATIWI",
+            "nisn": "0086743899",
+            "grade_final": "85.43",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 04:33:27"
+        },
+        {
+            "name": "EVA AYUNINGTYAS",
+            "nisn": "3088189374",
+            "grade_final": "85.42",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:41:30"
+        },
+        {
+            "name": "SAFINA ISNAINI ROSADI",
+            "nisn": "0086312383",
+            "grade_final": "85.42",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-04 19:16:08"
+        },
+        {
+            "name": "OLYVIA DWI FIRMANDA",
+            "nisn": "3081950553",
+            "grade_final": "85.41",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 04:55:27"
+        },
+        {
+            "name": "Aldina Fidela Hafiz",
+            "nisn": "0089269956",
+            "grade_final": "85.40",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-04 08:50:22"
+        },
+        {
+            "name": "SEKAR AYU WIDYAWATI",
+            "nisn": "0093560658",
+            "grade_final": "85.38",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 20:47:44"
+        },
+        {
+            "name": "ADINDA DWI LARASATI",
+            "nisn": "0086499867",
+            "grade_final": "85.35",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 04:16:50"
+        },
+        {
+            "name": "SINTA KURNIAWATI",
+            "nisn": "0084305400",
+            "grade_final": "85.35",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:52:56"
+        },
+        {
+            "name": "EVI RAHMATUS SHOLIKHA",
+            "nisn": "0092714876",
+            "grade_final": "85.34",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:23:31"
+        },
+        {
+            "name": "ALEA ELLIEN CECILLIAH PUTRI",
+            "nisn": "0094210470",
+            "grade_final": "85.34",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:08:00"
+        },
+        {
+            "name": "ADIS PUTRI OCTAVIANI",
+            "nisn": "0082338505",
+            "grade_final": "85.30",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:54:56"
+        },
+        {
+            "name": "AMELIA EKA RUSNISA",
+            "nisn": "0086358095",
+            "grade_final": "85.29",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:26:47"
+        },
+        {
+            "name": "RINI DWI ARIANTI",
+            "nisn": "0094244221",
+            "grade_final": "85.28",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:04:18"
+        },
+        {
+            "name": "IMELDA PUTRI CAHYANI",
+            "nisn": "3095233436",
+            "grade_final": "85.27",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:06:43"
+        },
+        {
+            "name": "KASIH ANGGUN JUNIARTI",
+            "nisn": "3089154998",
+            "grade_final": "85.27",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 17:54:44"
+        },
+        {
+            "name": "PUTRI UMIATUL FAJRIAH",
+            "nisn": "0095306301",
+            "grade_final": "85.26",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:07:13"
+        },
+        {
+            "name": "ADINDA PUTRI FAIZA",
+            "nisn": "3085067978",
+            "grade_final": "85.24",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:06:53"
+        },
+        {
+            "name": "ARIMBI TRISNANINGTYAS",
+            "nisn": "0088937475",
+            "grade_final": "85.21",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 03:11:22"
+        },
+        {
+            "name": "AYU ARIFA",
+            "nisn": "0095153631",
+            "grade_final": "85.21",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:51:02"
+        },
+        {
+            "name": "AMELIA DWI NURAINI",
+            "nisn": "0098054257",
+            "grade_final": "85.16",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 13:08:03"
+        },
+        {
+            "name": "ANASTASYA DWI PRAMESWARI",
+            "nisn": "0085552592",
+            "grade_final": "85.09",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 12:01:35"
+        },
+        {
+            "name": "ZURIS NUR KUMALA",
+            "nisn": "0081361871",
+            "grade_final": "85.08",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:40:46"
+        },
+        {
+            "name": "LILIANA ROSA",
+            "nisn": "0088429967",
+            "grade_final": "85.05",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:42:26"
+        },
+        {
+            "name": "SILVIA INTAN ANAS TASIYAH",
+            "nisn": "0099310639",
+            "grade_final": "85.04",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:04:53"
+        },
+        {
+            "name": "AMELIA MAISARA",
+            "nisn": "0084611298",
+            "grade_final": "85.03",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:38:30"
+        },
+        {
+            "name": "Risti Aura Febrianti",
+            "nisn": "0095441970",
+            "grade_final": "85.00",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 11:12:14"
+        },
+        {
+            "name": "IMELDA ADELYA ROSA",
+            "nisn": "0086908369",
+            "grade_final": "84.99",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:39:53"
+        },
+        {
+            "name": "NAZUAR PRASISTA IKSA HIDAYAT",
+            "nisn": "0083337909",
+            "grade_final": "84.98",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-04 08:21:35"
+        },
+        {
+            "name": "AISYAH RULIANTI PUTRI",
+            "nisn": "0093100346",
+            "grade_final": "84.92",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 15:27:39"
+        },
+        {
+            "name": "ILMA HANDAYANI",
+            "nisn": "0085209572",
+            "grade_final": "84.92",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 12:29:55"
+        },
+        {
+            "name": "Imelia Putri Sifa lestari",
+            "nisn": "0092960475",
+            "grade_final": "84.89",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-04 09:04:29"
+        },
+        {
+            "name": "FAJAR DWI CAHYO",
+            "nisn": "0087977925",
+            "grade_final": "84.87",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 11:30:15"
+        },
+        {
+            "name": "NURMA NURAINI",
+            "nisn": "3084913488",
+            "grade_final": "84.87",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 17:21:23"
+        },
+        {
+            "name": "IKE NUR FAIZAH",
+            "nisn": "3088033113",
+            "grade_final": "84.87",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:48:27"
+        },
+        {
+            "name": "DEVIA NUR ANGGRAINI",
+            "nisn": "0098180179",
+            "grade_final": "84.85",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-04 08:34:56"
+        },
+        {
+            "name": "DEWI NUR LAILY",
+            "nisn": "0098577063",
+            "grade_final": "84.83",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-04 11:07:48"
+        },
+        {
+            "name": "BELLA FRISYAH MEI FADILLAH",
+            "nisn": "0095068659",
+            "grade_final": "84.79",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:47:26"
+        },
+        {
+            "name": "NAZILATUR RAHMA",
+            "nisn": "0152917221",
+            "grade_final": "84.73",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:50:48"
+        },
+        {
+            "name": "Ananda Putri",
+            "nisn": "3081731130",
+            "grade_final": "84.72",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:09:35"
+        },
+        {
+            "name": "FARA PUTRI AVRELIA",
+            "nisn": "3090197050",
+            "grade_final": "84.69",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-04 09:22:25"
+        },
+        {
+            "name": "DEWI NURHIDAYAH",
+            "nisn": "0083010288",
+            "grade_final": "84.68",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:04:52"
+        },
+        {
+            "name": "VERINDA VINY AGUSTINE",
+            "nisn": "0082095983",
+            "grade_final": "84.67",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:03:46"
+        },
+        {
+            "name": "Aura Syafa Cahyani",
+            "nisn": "0093321644",
+            "grade_final": "84.66",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:52:38"
+        },
+        {
+            "name": "APRILIA IKA WIDYAWATI",
+            "nisn": "3097298082",
+            "grade_final": "84.62",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:00:03"
+        },
+        {
+            "name": "Yulia Windari",
+            "nisn": "3099544270",
+            "grade_final": "84.59",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 17:41:12"
+        },
+        {
+            "name": "DINDA FEBRIANI",
+            "nisn": "0099334720",
+            "grade_final": "84.59",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:22:55"
+        },
+        {
+            "name": "NOVITA ANJARWATI",
+            "nisn": "0084634182",
+            "grade_final": "84.58",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:13:41"
+        },
+        {
+            "name": "ZESI DEVIANTI SAPUTRI",
+            "nisn": "0091496252",
+            "grade_final": "84.57",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:17:10"
+        },
+        {
+            "name": "ASTRID FIRDAYANTI",
+            "nisn": "0088512182",
+            "grade_final": "84.56",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-04 00:16:20"
+        },
+        {
+            "name": "ANJANI FIRNANDA",
+            "nisn": "0081603071",
+            "grade_final": "84.52",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:50:23"
+        },
+        {
+            "name": "NAZIFATUM MUTHOHIROH ANNAZILI",
+            "nisn": "0082531464",
+            "grade_final": "84.51",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-04 06:41:14"
+        },
+        {
+            "name": "Juwita Nurin Allafa",
+            "nisn": "0093229971",
+            "grade_final": "84.48",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:57:17"
+        },
+        {
+            "name": "KEYSA EKA SYAH PUTRI",
+            "nisn": "0084574316",
+            "grade_final": "84.47",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-04 08:44:43"
+        },
+        {
+            "name": "SALPI ANGGI NAVITIA AINUR",
+            "nisn": "0087051923",
+            "grade_final": "84.47",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:48:56"
+        },
+        {
+            "name": "ANNISSA DEANDRA SARI",
+            "nisn": "0091792456",
+            "grade_final": "84.46",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:44:57"
+        },
+        {
+            "name": "Cindy Ariqha Maulidya",
+            "nisn": "0087965354",
+            "grade_final": "84.44",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:51:04"
+        },
+        {
+            "name": "Diana Zakiatur Rosidah",
+            "nisn": "3093999568",
+            "grade_final": "84.42",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 17:04:44"
+        },
+        {
+            "name": "Nadya Canda Kinanti",
+            "nisn": "0081357442",
+            "grade_final": "84.41",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:04:08"
+        },
+        {
+            "name": "NAUFAL HILMI FAKHRULLAH",
+            "nisn": "0095407751",
+            "grade_final": "84.40",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-04 13:46:59"
+        }
+    ]
+}

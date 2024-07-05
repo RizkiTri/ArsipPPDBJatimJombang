@@ -1,0 +1,277 @@
+{
+    "code": 200,
+    "status": "OK",
+    "meta": {
+        "total": 22,
+        "last_page": 1,
+        "from": 1,
+        "to": 1,
+        "last_update": "2024-07-04 21:08:08"
+    },
+    "data": [
+        {
+            "name": "ADE ANTA MAULANA",
+            "nisn": "0081617752",
+            "grade_final": "86.20",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Audio Video"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:20:10"
+        },
+        {
+            "name": "JAVIER YUSTINO MEGAN",
+            "nisn": "0087414808",
+            "grade_final": "86.11",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Audio Video"
+                }
+            },
+            "registration_created_at": "2024-07-04 18:11:21"
+        },
+        {
+            "name": "RIVALDO OCTO ALVIANSYAH",
+            "nisn": "0086804385",
+            "grade_final": "85.97",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Audio Video"
+                }
+            },
+            "registration_created_at": "2024-07-03 12:33:05"
+        },
+        {
+            "name": "AHMAD FARHAN KURNIAWAN",
+            "nisn": "3081565836",
+            "grade_final": "85.90",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Audio Video"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:20:27"
+        },
+        {
+            "name": "VIANKA FAIRUSI AFIFANI",
+            "nisn": "3085697223",
+            "grade_final": "85.87",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Audio Video"
+                }
+            },
+            "registration_created_at": "2024-07-03 17:55:57"
+        },
+        {
+            "name": "ARDIAN CANDRA KURNIAWAN",
+            "nisn": "0096384198",
+            "grade_final": "85.77",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Audio Video"
+                }
+            },
+            "registration_created_at": "2024-07-04 17:31:21"
+        },
+        {
+            "name": "AURELLIA KHADAFI",
+            "nisn": "0094160172",
+            "grade_final": "85.75",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Audio Video"
+                }
+            },
+            "registration_created_at": "2024-07-04 11:28:04"
+        },
+        {
+            "name": "Burhan Dika Putra",
+            "nisn": "0079061368",
+            "grade_final": "85.58",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Audio Video"
+                }
+            },
+            "registration_created_at": "2024-07-04 15:09:10"
+        },
+        {
+            "name": "MAHARDIKARAYA FAREL SETIAWAN",
+            "nisn": "0131306027",
+            "grade_final": "85.54",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Audio Video"
+                }
+            },
+            "registration_created_at": "2024-07-03 15:36:40"
+        },
+        {
+            "name": "NEYLA RATNA DAMARA",
+            "nisn": "3096370418",
+            "grade_final": "85.43",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Audio Video"
+                }
+            },
+            "registration_created_at": "2024-07-04 16:40:54"
+        },
+        {
+            "name": "AYATUSYIFA NUR FARISMA",
+            "nisn": "0098580320",
+            "grade_final": "85.32",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Audio Video"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:49:49"
+        },
+        {
+            "name": "ARDIANSYAH SYAQIRUL AMIN",
+            "nisn": "0082511135",
+            "grade_final": "85.31",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Audio Video"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:19:29"
+        },
+        {
+            "name": "RIZAL KATSIRUN NAWAL",
+            "nisn": "0082822213",
+            "grade_final": "85.27",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Audio Video"
+                }
+            },
+            "registration_created_at": "2024-07-04 18:38:31"
+        },
+        {
+            "name": "ZAHRA ANASTA RAMADANI",
+            "nisn": "0087695199",
+            "grade_final": "85.23",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Audio Video"
+                }
+            },
+            "registration_created_at": "2024-07-04 07:53:39"
+        },
+        {
+            "name": "MIFTA AULIA PUTRI",
+            "nisn": "0086250101",
+            "grade_final": "85.20",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Audio Video"
+                }
+            },
+            "registration_created_at": "2024-07-04 11:45:32"
+        },
+        {
+            "name": "RAMA WAHYU HIDAYATULLOH",
+            "nisn": "3098744808",
+            "grade_final": "85.17",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Audio Video"
+                }
+            },
+            "registration_created_at": "2024-07-04 09:05:49"
+        },
+        {
+            "name": "RAFI MAULANA ATMAJA",
+            "nisn": "0088493136",
+            "grade_final": "85.15",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Audio Video"
+                }
+            },
+            "registration_created_at": "2024-07-03 15:17:49"
+        },
+        {
+            "name": "IRSYAD ADLIAL HAQQANI",
+            "nisn": "3091010912",
+            "grade_final": "85.10",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Audio Video"
+                }
+            },
+            "registration_created_at": "2024-07-03 14:21:44"
+        },
+        {
+            "name": "MUHAMMAD ADITYA SURYA SAPUTRA",
+            "nisn": "3088097372",
+            "grade_final": "85.10",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Audio Video"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:09:52"
+        },
+        {
+            "name": "SUCI TRI LESTARI",
+            "nisn": "3096917397",
+            "grade_final": "85.05",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Audio Video"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:51:37"
+        },
+        {
+            "name": "M ADITYA MAULANA",
+            "nisn": "0083013322",
+            "grade_final": "85.04",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Audio Video"
+                }
+            },
+            "registration_created_at": "2024-07-04 18:23:29"
+        },
+        {
+            "name": "ALVIN MIRZA PERMANA",
+            "nisn": "0086385862",
+            "grade_final": "85.04",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Audio Video"
+                }
+            },
+            "registration_created_at": "2024-07-03 21:28:06"
+        }
+    ]
+}

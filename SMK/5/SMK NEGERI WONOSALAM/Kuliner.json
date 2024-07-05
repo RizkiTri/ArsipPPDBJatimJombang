@@ -1,0 +1,553 @@
+{
+    "code": 200,
+    "status": "OK",
+    "meta": {
+        "total": 45,
+        "last_page": 1,
+        "from": 1,
+        "to": 1,
+        "last_update": "2024-07-04 21:08:08"
+    },
+    "data": [
+        {
+            "name": "FEMILIANA INDAH SEKARING WIDIASTUTI",
+            "nisn": "0081425577",
+            "grade_final": "86.87",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:51:36"
+        },
+        {
+            "name": "ILMA SYAADATUL AKHIROT",
+            "nisn": "0087334857",
+            "grade_final": "86.87",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:46:38"
+        },
+        {
+            "name": "RARA AYUNDA AFIFAH",
+            "nisn": "0082050259",
+            "grade_final": "86.86",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:45:01"
+        },
+        {
+            "name": "ANANDA DERA TRIA SARI",
+            "nisn": "0074296142",
+            "grade_final": "86.64",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:42:49"
+        },
+        {
+            "name": "ZAHROTUS SITA",
+            "nisn": "0066643996",
+            "grade_final": "86.53",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:04:35"
+        },
+        {
+            "name": "NATASYA EXA WIRANTIKA PUTRI",
+            "nisn": "0092200317",
+            "grade_final": "86.43",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:05:30"
+        },
+        {
+            "name": "CALVIN RIZKI ALDIAN PRATAMA",
+            "nisn": "0096396574",
+            "grade_final": "86.40",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:12:37"
+        },
+        {
+            "name": "LISAANA SIDQIN ALIYYA",
+            "nisn": "0084396330",
+            "grade_final": "86.24",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:05:15"
+        },
+        {
+            "name": "DIVA LAURA MIFTAQUR ROHMAH",
+            "nisn": "0089028483",
+            "grade_final": "86.10",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:47:54"
+        },
+        {
+            "name": "KINTARA MUFIDAH",
+            "nisn": "0092419215",
+            "grade_final": "86.09",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:37:25"
+        },
+        {
+            "name": "LIDIA USMAWATI",
+            "nisn": "0089856352",
+            "grade_final": "85.89",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:10:24"
+        },
+        {
+            "name": "ANANDA DHEA SAFIRA",
+            "nisn": "0095616458",
+            "grade_final": "85.86",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:02:10"
+        },
+        {
+            "name": "Vika Maulidiawati",
+            "nisn": "0095899126",
+            "grade_final": "85.84",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:15:33"
+        },
+        {
+            "name": "NERLINA RESTI ANDYTA",
+            "nisn": "3082344356",
+            "grade_final": "85.76",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:07:38"
+        },
+        {
+            "name": "YENI PRATIWI",
+            "nisn": "0089985111",
+            "grade_final": "85.68",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:49:26"
+        },
+        {
+            "name": "ANATASYA FERONIKA",
+            "nisn": "0089110097",
+            "grade_final": "85.57",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:48:14"
+        },
+        {
+            "name": "INDIANA DWI OCTA KEDRAWATI",
+            "nisn": "0081872457",
+            "grade_final": "85.46",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 12:14:53"
+        },
+        {
+            "name": "FITRIA RAHMADHANI",
+            "nisn": "0084620042",
+            "grade_final": "85.40",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:43:39"
+        },
+        {
+            "name": "Tri Widyasari",
+            "nisn": "0074728755",
+            "grade_final": "85.31",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:38:49"
+        },
+        {
+            "name": "AJENG LELY SUKMA",
+            "nisn": "0094894601",
+            "grade_final": "85.25",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:27:58"
+        },
+        {
+            "name": "DINDA AZZALIA NUZULA",
+            "nisn": "0098287723",
+            "grade_final": "85.20",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:20:08"
+        },
+        {
+            "name": "DIMAS YUWANA PRATAMA",
+            "nisn": "0099381299",
+            "grade_final": "85.16",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-04 14:22:47"
+        },
+        {
+            "name": "SEPTI RESA EKA FAUZIAH",
+            "nisn": "0088536500",
+            "grade_final": "85.16",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:07:04"
+        },
+        {
+            "name": "Riska Devi Syahrawati",
+            "nisn": "0088387029",
+            "grade_final": "85.14",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:32:16"
+        },
+        {
+            "name": "SINTIA NADIA PUSPITA",
+            "nisn": "3097636911",
+            "grade_final": "84.92",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:37:32"
+        },
+        {
+            "name": "Vita Tri Asmarani",
+            "nisn": "0088294355",
+            "grade_final": "84.76",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:40:18"
+        },
+        {
+            "name": "Ellena Dwy Kayla Putri",
+            "nisn": "0082240606",
+            "grade_final": "84.64",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-04 09:22:34"
+        },
+        {
+            "name": "VALENCIA RAHMADHANI",
+            "nisn": "0097350601",
+            "grade_final": "84.59",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-04 12:17:57"
+        },
+        {
+            "name": "DESITA NUR FATMA",
+            "nisn": "0079681957",
+            "grade_final": "84.57",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:18:48"
+        },
+        {
+            "name": "MUHAMMAD GHATHFAAN JULIO SHAKA",
+            "nisn": "0099710413",
+            "grade_final": "84.50",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:54:37"
+        },
+        {
+            "name": "AZ ZAHRA NABILA ADIM",
+            "nisn": "0096787125",
+            "grade_final": "84.50",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:46:02"
+        },
+        {
+            "name": "NILAM CAHAYA PUTRI PANGGUGAH",
+            "nisn": "0087109432",
+            "grade_final": "84.50",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:06:11"
+        },
+        {
+            "name": "KARTIKA CANDRA TUNGGADEWI",
+            "nisn": "0091320467",
+            "grade_final": "84.47",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:35:14"
+        },
+        {
+            "name": "EREN NADIA SEVILLA RANIERI",
+            "nisn": "0094282065",
+            "grade_final": "84.34",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 17:08:08"
+        },
+        {
+            "name": "AYCELLA SAZKIA FEBRIANTY",
+            "nisn": "0097157016",
+            "grade_final": "84.29",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 02:13:13"
+        },
+        {
+            "name": "SABRINA INDRI LESTARI",
+            "nisn": "0085584697",
+            "grade_final": "84.25",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:21:45"
+        },
+        {
+            "name": "DAVINA ISTI MAHARANI",
+            "nisn": "0096355234",
+            "grade_final": "84.24",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-04 10:36:02"
+        },
+        {
+            "name": "Irine Elok Amelkisedekya",
+            "nisn": "0098708601",
+            "grade_final": "84.16",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:08:58"
+        },
+        {
+            "name": "MIFTAQUL JANNAH",
+            "nisn": "0085467329",
+            "grade_final": "84.14",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:22:21"
+        },
+        {
+            "name": "PUTRI INDRIANINGSIH",
+            "nisn": "0086103664",
+            "grade_final": "84.02",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:20:07"
+        },
+        {
+            "name": "ALIFA AISHA FAIS",
+            "nisn": "0091547396",
+            "grade_final": "84.00",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 17:06:34"
+        },
+        {
+            "name": "LINTANG AILA MELODI",
+            "nisn": "0091254849",
+            "grade_final": "83.79",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-04 09:12:18"
+        },
+        {
+            "name": "DEVY AULIA ASHARI",
+            "nisn": "0098423801",
+            "grade_final": "83.75",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:55:43"
+        },
+        {
+            "name": "ERINA SEKAR MELATI",
+            "nisn": "0081170510",
+            "grade_final": "83.65",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-04 11:55:37"
+        },
+        {
+            "name": "AFGAN DEANDRA JHOVA WILDANTA",
+            "nisn": "0083758607",
+            "grade_final": "83.64",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:08:39"
+        }
+    ]
+}

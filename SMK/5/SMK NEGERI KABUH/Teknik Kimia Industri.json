@@ -1,0 +1,829 @@
+{
+    "code": 200,
+    "status": "OK",
+    "meta": {
+        "total": 68,
+        "last_page": 1,
+        "from": 1,
+        "to": 1,
+        "last_update": "2024-07-04 21:08:08"
+    },
+    "data": [
+        {
+            "name": "RISKA SINTIA BELA",
+            "nisn": "0095388648",
+            "grade_final": "87.72",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:29:04"
+        },
+        {
+            "name": "HADI WIDAYAT KUSUMO",
+            "nisn": "0098806381",
+            "grade_final": "87.64",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:14:31"
+        },
+        {
+            "name": "DEVINA ANGGRAENI",
+            "nisn": "0084958569",
+            "grade_final": "87.35",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:30:27"
+        },
+        {
+            "name": "ISNAIN KHAIRUNNISA",
+            "nisn": "0088441525",
+            "grade_final": "87.28",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:10:43"
+        },
+        {
+            "name": "DEVIKA ANGGUN PERMATA SARI",
+            "nisn": "0082746651",
+            "grade_final": "87.12",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:08:16"
+        },
+        {
+            "name": "RENDRA ADITYA MAULANA",
+            "nisn": "3093441334",
+            "grade_final": "87.10",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 17:36:42"
+        },
+        {
+            "name": "JI ZHIN WAHYU TERTANINGRUM",
+            "nisn": "0087558695",
+            "grade_final": "87.01",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 20:53:09"
+        },
+        {
+            "name": "NADINE SHAFA MAULITA",
+            "nisn": "0097840367",
+            "grade_final": "86.96",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:08:29"
+        },
+        {
+            "name": "MUHAMAD DINO ARIANTO",
+            "nisn": "0087745890",
+            "grade_final": "86.78",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:15:20"
+        },
+        {
+            "name": "SAFIRA KARTIKOWATI",
+            "nisn": "0099370559",
+            "grade_final": "86.75",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:30:09"
+        },
+        {
+            "name": "SHOFIA NISWATUZ ZAHRAH",
+            "nisn": "3089009045",
+            "grade_final": "86.56",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:24:39"
+        },
+        {
+            "name": "TIKA VITRIANI",
+            "nisn": "0083402958",
+            "grade_final": "86.51",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 19:05:40"
+        },
+        {
+            "name": "YULIAN NUR FADILAH",
+            "nisn": "0088513200",
+            "grade_final": "86.48",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-04 10:02:11"
+        },
+        {
+            "name": "Aisyah Dwi Puspaningrum",
+            "nisn": "0081602791",
+            "grade_final": "86.43",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:04:02"
+        },
+        {
+            "name": "Defina Vigi Selumita",
+            "nisn": "0081105886",
+            "grade_final": "86.42",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-04 08:22:25"
+        },
+        {
+            "name": "DEVY PUTRI FEBRIANI",
+            "nisn": "0098371936",
+            "grade_final": "86.36",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:11:06"
+        },
+        {
+            "name": "AISYAH ALIFIAH PUTRI AULIA",
+            "nisn": "0085034439",
+            "grade_final": "86.31",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 16:29:11"
+        },
+        {
+            "name": "MEILINA BELLA RISTYA",
+            "nisn": "0084294830",
+            "grade_final": "86.29",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:04:20"
+        },
+        {
+            "name": "DEVI RAMADHANI",
+            "nisn": "0089070158",
+            "grade_final": "86.26",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:30:14"
+        },
+        {
+            "name": "AYUNDA PUTRI RAMADHANI",
+            "nisn": "0085530719",
+            "grade_final": "86.26",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:35:44"
+        },
+        {
+            "name": "AZALIA RAHMADI AYU PUTRI",
+            "nisn": "0098487203",
+            "grade_final": "86.22",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:44:41"
+        },
+        {
+            "name": "JENNY ALIVNI AULIA KASIH",
+            "nisn": "0094128239",
+            "grade_final": "86.17",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:15:45"
+        },
+        {
+            "name": "DAMAR DWI SAPUTRO",
+            "nisn": "0094948871",
+            "grade_final": "86.15",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:04:46"
+        },
+        {
+            "name": "DITA NOVIANA DWI WANDI",
+            "nisn": "3092069894",
+            "grade_final": "86.13",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:50:03"
+        },
+        {
+            "name": "ZAHRA APRILIA",
+            "nisn": "0092649583",
+            "grade_final": "86.12",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:49:57"
+        },
+        {
+            "name": "FELYTA ELANMIA DIARTRI",
+            "nisn": "0091032604",
+            "grade_final": "86.06",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:41:33"
+        },
+        {
+            "name": "SILVIA EKA DWI AGUSTIN",
+            "nisn": "0088039590",
+            "grade_final": "86.06",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:01:00"
+        },
+        {
+            "name": "AMELIA EKA BELLA",
+            "nisn": "0098889623",
+            "grade_final": "86.03",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 02:52:00"
+        },
+        {
+            "name": "Safa Izzatun Nafsiyah",
+            "nisn": "3091182225",
+            "grade_final": "86.01",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-04 09:23:57"
+        },
+        {
+            "name": "DINA APRILIYA",
+            "nisn": "0091361315",
+            "grade_final": "85.99",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:15:42"
+        },
+        {
+            "name": "YULIA DWI SUSANTI",
+            "nisn": "0092759667",
+            "grade_final": "85.98",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:19:09"
+        },
+        {
+            "name": "AHMAD NURSYAM RIFAI YULIANTO",
+            "nisn": "0087951130",
+            "grade_final": "85.95",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-04 07:19:33"
+        },
+        {
+            "name": "SHERINA CAHYA RAMADHANI",
+            "nisn": "0088946678",
+            "grade_final": "85.93",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:33:37"
+        },
+        {
+            "name": "NADIN NUR AULIYA",
+            "nisn": "0086000802",
+            "grade_final": "85.91",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:18:18"
+        },
+        {
+            "name": "AISYAH NISAUL FITHRIAH",
+            "nisn": "0092487736",
+            "grade_final": "85.84",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:13:04"
+        },
+        {
+            "name": "DELA NUR ROHMANINGSIH",
+            "nisn": "0093877249",
+            "grade_final": "85.84",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 14:24:16"
+        },
+        {
+            "name": "CHOIRUL ANAM",
+            "nisn": "0081934559",
+            "grade_final": "85.79",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:15:22"
+        },
+        {
+            "name": "NAYSILA RAHMA NOVITA SARI",
+            "nisn": "0089100297",
+            "grade_final": "85.77",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:38:26"
+        },
+        {
+            "name": "Ribka",
+            "nisn": "0074084193",
+            "grade_final": "85.74",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:03:51"
+        },
+        {
+            "name": "RISMA AVRILIA",
+            "nisn": "0089694745",
+            "grade_final": "85.70",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:08:38"
+        },
+        {
+            "name": "AIRIN MAURA KHOERUNNISA",
+            "nisn": "0098557384",
+            "grade_final": "85.70",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 16:09:09"
+        },
+        {
+            "name": "KIRANA IKA CAHYANI",
+            "nisn": "0081032835",
+            "grade_final": "85.69",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-04 15:45:20"
+        },
+        {
+            "name": "LUTHFI KHOIRIL HADI",
+            "nisn": "0089523084",
+            "grade_final": "85.68",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:25:08"
+        },
+        {
+            "name": "TRI YULIANASARI",
+            "nisn": "0099151433",
+            "grade_final": "85.64",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:00:06"
+        },
+        {
+            "name": "PUTRI WINDARI",
+            "nisn": "0098095483",
+            "grade_final": "85.59",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-04 13:25:22"
+        },
+        {
+            "name": "Lusy Ernita Sari",
+            "nisn": "0089076337",
+            "grade_final": "85.56",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:00:36"
+        },
+        {
+            "name": "SYAVIRA NAILA CANTIKA RAHMADANI",
+            "nisn": "0088107195",
+            "grade_final": "85.55",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:34:25"
+        },
+        {
+            "name": "ACHMAD FIRDAUS MUHAMAD JAFAR",
+            "nisn": "0092783719",
+            "grade_final": "85.52",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 02:48:15"
+        },
+        {
+            "name": "SILVANA BILQISS LABHIBHA",
+            "nisn": "0089317173",
+            "grade_final": "85.52",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:45:31"
+        },
+        {
+            "name": "SITI NUR FADILAH",
+            "nisn": "0096508364",
+            "grade_final": "85.51",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:33:57"
+        },
+        {
+            "name": "NUR LAILI ISTIQOMAH",
+            "nisn": "3091516178",
+            "grade_final": "85.50",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 15:15:39"
+        },
+        {
+            "name": "ARGA ALFIAN YUANDIKA",
+            "nisn": "0085339351",
+            "grade_final": "85.49",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-04 08:36:47"
+        },
+        {
+            "name": "FAIRUZ NADHIFA AQILABILQIS",
+            "nisn": "0099169729",
+            "grade_final": "85.49",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:39:55"
+        },
+        {
+            "name": "RIDA SABILLA",
+            "nisn": "0096299520",
+            "grade_final": "85.48",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:03:18"
+        },
+        {
+            "name": "SHELI NATASHA ISROQI FAJRI",
+            "nisn": "0086990996",
+            "grade_final": "85.47",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-04 19:05:33"
+        },
+        {
+            "name": "Aurel Salsabila Tunggadewi",
+            "nisn": "0086153206",
+            "grade_final": "85.45",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:03:03"
+        },
+        {
+            "name": "LAELA RAHMAWATI",
+            "nisn": "0093800431",
+            "grade_final": "85.37",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:22:54"
+        },
+        {
+            "name": "MELATI LINDA AYU",
+            "nisn": "0094616431",
+            "grade_final": "85.35",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:37:40"
+        },
+        {
+            "name": "SANTI FATIKASARI",
+            "nisn": "0088213824",
+            "grade_final": "85.32",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-04 14:44:17"
+        },
+        {
+            "name": "Agisna Dwi Liolita",
+            "nisn": "0083097256",
+            "grade_final": "85.31",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:15:34"
+        },
+        {
+            "name": "JINGGA SATRIA ANANTA",
+            "nisn": "0087327712",
+            "grade_final": "85.30",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:22:50"
+        },
+        {
+            "name": "DIKA HARIS PRADITA",
+            "nisn": "0082113152",
+            "grade_final": "85.29",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:39:12"
+        },
+        {
+            "name": "SEPTIANA TRI RAHMADANITA",
+            "nisn": "0089623944",
+            "grade_final": "85.28",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:23:29"
+        },
+        {
+            "name": "REFI JULI CALYSTA SARI",
+            "nisn": "3081245393",
+            "grade_final": "85.28",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-04 11:04:40"
+        },
+        {
+            "name": "ADITYA CANDRA SETIAWAN",
+            "nisn": "3081347682",
+            "grade_final": "85.27",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 22:54:07"
+        },
+        {
+            "name": "Putri Azahra Syifa Salsabilla",
+            "nisn": "0098664566",
+            "grade_final": "85.26",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 19:20:32"
+        },
+        {
+            "name": "SHALVA NUR AINI",
+            "nisn": "0085721164",
+            "grade_final": "85.22",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:12:53"
+        },
+        {
+            "name": "DIAH NOVITA SARI",
+            "nisn": "0086065933",
+            "grade_final": "85.22",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:10:41"
+        }
+    ]
+}

@@ -1,0 +1,829 @@
+{
+    "code": 200,
+    "status": "OK",
+    "meta": {
+        "total": 68,
+        "last_page": 1,
+        "from": 1,
+        "to": 1,
+        "last_update": "2024-07-04 21:08:08"
+    },
+    "data": [
+        {
+            "name": "CANDRA PUTRA WIJAYA KUSUMA",
+            "nisn": "0089800063",
+            "grade_final": "87.71",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Instalasi Tenaga Listrik"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:11:51"
+        },
+        {
+            "name": "MOHAMMAD AKHNAF IMTIYAN MAJDAN",
+            "nisn": "3097954392",
+            "grade_final": "87.18",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Instalasi Tenaga Listrik"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:58:56"
+        },
+        {
+            "name": "FADIL RIFA RENDRA PUTRA",
+            "nisn": "0081478819",
+            "grade_final": "86.95",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Instalasi Tenaga Listrik"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:48:48"
+        },
+        {
+            "name": "MUHAMMAD RANGGA YUSUF HARDWIANTO",
+            "nisn": "3080503111",
+            "grade_final": "86.94",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Instalasi Tenaga Listrik"
+                }
+            },
+            "registration_created_at": "2024-07-03 02:39:10"
+        },
+        {
+            "name": "Troy Cedric Anarchy Firmansyah",
+            "nisn": "0099806536",
+            "grade_final": "86.90",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Instalasi Tenaga Listrik"
+                }
+            },
+            "registration_created_at": "2024-07-03 16:59:55"
+        },
+        {
+            "name": "RIZWAN AKHSANI NUGROHO",
+            "nisn": "0081597142",
+            "grade_final": "86.82",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Instalasi Tenaga Listrik"
+                }
+            },
+            "registration_created_at": "2024-07-03 20:14:47"
+        },
+        {
+            "name": "ACHMAD ARBY HABIBUR ROCHMAN",
+            "nisn": "0009414625",
+            "grade_final": "86.56",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Instalasi Tenaga Listrik"
+                }
+            },
+            "registration_created_at": "2024-07-03 19:19:09"
+        },
+        {
+            "name": "Gustiatta Al Ghazali",
+            "nisn": "0098690890",
+            "grade_final": "86.54",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Instalasi Tenaga Listrik"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:05:28"
+        },
+        {
+            "name": "SEPTA MAHARDIKA RAMADHANI",
+            "nisn": "3080668855",
+            "grade_final": "86.54",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Instalasi Tenaga Listrik"
+                }
+            },
+            "registration_created_at": "2024-07-03 21:58:36"
+        },
+        {
+            "name": "NISA APRILIA",
+            "nisn": "0088895645",
+            "grade_final": "86.43",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Instalasi Tenaga Listrik"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:22:43"
+        },
+        {
+            "name": "Ilham Eka Andreansyah",
+            "nisn": "0098369083",
+            "grade_final": "86.42",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Instalasi Tenaga Listrik"
+                }
+            },
+            "registration_created_at": "2024-07-04 16:27:40"
+        },
+        {
+            "name": "AHMAD ALFIAN AGUNG NUGRAHA",
+            "nisn": "0086561481",
+            "grade_final": "86.42",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Instalasi Tenaga Listrik"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:09:54"
+        },
+        {
+            "name": "VERLITA ATTATI MANDAESA",
+            "nisn": "3088900280",
+            "grade_final": "86.40",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Instalasi Tenaga Listrik"
+                }
+            },
+            "registration_created_at": "2024-07-04 00:01:46"
+        },
+        {
+            "name": "RADITYA RAFIF PRATAMA",
+            "nisn": "3098258620",
+            "grade_final": "86.31",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Instalasi Tenaga Listrik"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:09:24"
+        },
+        {
+            "name": "MUHAMMAD KENTARO OZORA SUPRAPTO",
+            "nisn": "0094167374",
+            "grade_final": "86.27",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Instalasi Tenaga Listrik"
+                }
+            },
+            "registration_created_at": "2024-07-04 16:14:11"
+        },
+        {
+            "name": "MUHAMMAD SYAH REZA MUSLIM",
+            "nisn": "3090430745",
+            "grade_final": "86.23",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Instalasi Tenaga Listrik"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:01:24"
+        },
+        {
+            "name": "FABIAN HERU SATRIO",
+            "nisn": "0091911133",
+            "grade_final": "86.23",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Instalasi Tenaga Listrik"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:02:49"
+        },
+        {
+            "name": "ILHAM JAYA PERMANA",
+            "nisn": "0094454111",
+            "grade_final": "86.23",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Instalasi Tenaga Listrik"
+                }
+            },
+            "registration_created_at": "2024-07-03 18:50:29"
+        },
+        {
+            "name": "NATHAN ARYA YOGISWARA",
+            "nisn": "0099388313",
+            "grade_final": "86.21",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Instalasi Tenaga Listrik"
+                }
+            },
+            "registration_created_at": "2024-07-03 23:37:56"
+        },
+        {
+            "name": "FADHIL IBNU ABBAS",
+            "nisn": "0089140274",
+            "grade_final": "86.20",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Instalasi Tenaga Listrik"
+                }
+            },
+            "registration_created_at": "2024-07-04 12:12:34"
+        },
+        {
+            "name": "AHMAD ZAHRO MAFATIH AMINULLOH",
+            "nisn": "3099623886",
+            "grade_final": "86.10",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Instalasi Tenaga Listrik"
+                }
+            },
+            "registration_created_at": "2024-07-03 20:21:45"
+        },
+        {
+            "name": "ATHAYA ZAIDAN RIZQULLAH KURNIAWAN",
+            "nisn": "0087337074",
+            "grade_final": "86.06",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Instalasi Tenaga Listrik"
+                }
+            },
+            "registration_created_at": "2024-07-04 08:33:06"
+        },
+        {
+            "name": "GILANG PERMADI",
+            "nisn": "0095715148",
+            "grade_final": "86.03",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Instalasi Tenaga Listrik"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:19:47"
+        },
+        {
+            "name": "MUCHAMMAD ARFA HIDAYAT",
+            "nisn": "3082033881",
+            "grade_final": "86.01",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Instalasi Tenaga Listrik"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:27:56"
+        },
+        {
+            "name": "NIZAR AZMI MAULANA",
+            "nisn": "0091532154",
+            "grade_final": "85.97",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Instalasi Tenaga Listrik"
+                }
+            },
+            "registration_created_at": "2024-07-03 15:54:38"
+        },
+        {
+            "name": "IRFAN GUNAWAN",
+            "nisn": "0089402343",
+            "grade_final": "85.94",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Instalasi Tenaga Listrik"
+                }
+            },
+            "registration_created_at": "2024-07-03 04:41:13"
+        },
+        {
+            "name": "Muchammad Valentino",
+            "nisn": "0097794350",
+            "grade_final": "85.93",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Instalasi Tenaga Listrik"
+                }
+            },
+            "registration_created_at": "2024-07-03 12:39:09"
+        },
+        {
+            "name": "MOHAMMMAD ZULFAN ARDIANSYAH",
+            "nisn": "0081023408",
+            "grade_final": "85.92",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Instalasi Tenaga Listrik"
+                }
+            },
+            "registration_created_at": "2024-07-04 16:49:21"
+        },
+        {
+            "name": "MOHAMMAD ARI HADIYANTO",
+            "nisn": "0085704643",
+            "grade_final": "85.89",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Instalasi Tenaga Listrik"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:24:16"
+        },
+        {
+            "name": "MAHESYA BINTANG PRATAMA",
+            "nisn": "0092339002",
+            "grade_final": "85.89",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Instalasi Tenaga Listrik"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:13:27"
+        },
+        {
+            "name": "MUHAMMAD HAYDAR TAUFIQUL HAFIDZ",
+            "nisn": "0085490283",
+            "grade_final": "85.87",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Instalasi Tenaga Listrik"
+                }
+            },
+            "registration_created_at": "2024-07-04 18:48:17"
+        },
+        {
+            "name": "NASSYD HAFIDZ ARUMI",
+            "nisn": "0096963558",
+            "grade_final": "85.84",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Instalasi Tenaga Listrik"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:09:53"
+        },
+        {
+            "name": "MOHAMMAD GADING PRATAMA",
+            "nisn": "3098259751",
+            "grade_final": "85.84",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Instalasi Tenaga Listrik"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:26:59"
+        },
+        {
+            "name": "MOHAMAD ANDRE PRASETYO",
+            "nisn": "0082711087",
+            "grade_final": "85.83",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Instalasi Tenaga Listrik"
+                }
+            },
+            "registration_created_at": "2024-07-04 17:12:17"
+        },
+        {
+            "name": "ALVINZA RACHMATUL AKBAR",
+            "nisn": "0087385914",
+            "grade_final": "85.80",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Instalasi Tenaga Listrik"
+                }
+            },
+            "registration_created_at": "2024-07-03 16:31:47"
+        },
+        {
+            "name": "FITRI OCTAVIA",
+            "nisn": "0082212737",
+            "grade_final": "85.80",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Instalasi Tenaga Listrik"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:10:44"
+        },
+        {
+            "name": "GALIH RAMADHAN",
+            "nisn": "0082719410",
+            "grade_final": "85.74",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Instalasi Tenaga Listrik"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:41:44"
+        },
+        {
+            "name": "MOHAMMAD BAYU DWI ANDHIKA",
+            "nisn": "0089621305",
+            "grade_final": "85.67",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Instalasi Tenaga Listrik"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:45:28"
+        },
+        {
+            "name": "M AMRULLOH SAPUTRA",
+            "nisn": "0083331027",
+            "grade_final": "85.67",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Instalasi Tenaga Listrik"
+                }
+            },
+            "registration_created_at": "2024-07-04 08:55:27"
+        },
+        {
+            "name": "BRIYANT DWILENDRA PERMANA PUTRA",
+            "nisn": "0081192373",
+            "grade_final": "85.66",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Instalasi Tenaga Listrik"
+                }
+            },
+            "registration_created_at": "2024-07-04 07:15:07"
+        },
+        {
+            "name": "DAVID PUTRA PAMUNGKAS",
+            "nisn": "0085205470",
+            "grade_final": "85.63",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Instalasi Tenaga Listrik"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:32:21"
+        },
+        {
+            "name": "MOHAMMAD IQBAL RAHMAN",
+            "nisn": "3094498013",
+            "grade_final": "85.62",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Instalasi Tenaga Listrik"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:52:49"
+        },
+        {
+            "name": "LUKY AGUNG HERMAWAN",
+            "nisn": "0091591317",
+            "grade_final": "85.60",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Instalasi Tenaga Listrik"
+                }
+            },
+            "registration_created_at": "2024-07-04 10:44:40"
+        },
+        {
+            "name": "MUHAMMAD IRWANSYAH",
+            "nisn": "0082747459",
+            "grade_final": "85.57",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Instalasi Tenaga Listrik"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:06:55"
+        },
+        {
+            "name": "ANDIKA DWI PERMANA PUTRA",
+            "nisn": "0085594613",
+            "grade_final": "85.56",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Instalasi Tenaga Listrik"
+                }
+            },
+            "registration_created_at": "2024-07-03 13:05:29"
+        },
+        {
+            "name": "M HAFID MAULANA",
+            "nisn": "3081363125",
+            "grade_final": "85.54",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Instalasi Tenaga Listrik"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:08:39"
+        },
+        {
+            "name": "MUHAMMAD RIZKY ADITYA",
+            "nisn": "0089278326",
+            "grade_final": "85.54",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Instalasi Tenaga Listrik"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:22:57"
+        },
+        {
+            "name": "DWI CAHYONO",
+            "nisn": "0091757470",
+            "grade_final": "85.52",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Instalasi Tenaga Listrik"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:26:30"
+        },
+        {
+            "name": "JUNIOR ADEN SURAGA",
+            "nisn": "0082853182",
+            "grade_final": "85.51",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Instalasi Tenaga Listrik"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:14:19"
+        },
+        {
+            "name": "FAHMI BUDI SETYAWAN",
+            "nisn": "0093264533",
+            "grade_final": "85.50",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Instalasi Tenaga Listrik"
+                }
+            },
+            "registration_created_at": "2024-07-03 11:08:14"
+        },
+        {
+            "name": "PRAKA BENO SATRIA",
+            "nisn": "0078614353",
+            "grade_final": "85.50",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Instalasi Tenaga Listrik"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:08:26"
+        },
+        {
+            "name": "ANDIKA FARISYA HAKAM",
+            "nisn": "0087261867",
+            "grade_final": "85.49",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Instalasi Tenaga Listrik"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:53:02"
+        },
+        {
+            "name": "ABDUL AZIZ MUZAQQI",
+            "nisn": "0088197398",
+            "grade_final": "85.47",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Instalasi Tenaga Listrik"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:14:22"
+        },
+        {
+            "name": "MUHAMMAD FAIRUZ BAHAUDDIN",
+            "nisn": "3081671478",
+            "grade_final": "85.45",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Instalasi Tenaga Listrik"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:54:58"
+        },
+        {
+            "name": "ACHMAD ERIK FERDIANSYAH",
+            "nisn": "0085250947",
+            "grade_final": "85.45",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Instalasi Tenaga Listrik"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:46:30"
+        },
+        {
+            "name": "MUHAMMAD DEVAN ADI ARIFTA",
+            "nisn": "0086298843",
+            "grade_final": "85.45",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Instalasi Tenaga Listrik"
+                }
+            },
+            "registration_created_at": "2024-07-03 19:53:39"
+        },
+        {
+            "name": "SAADAH HILMIN NISA",
+            "nisn": "3089397368",
+            "grade_final": "85.42",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Instalasi Tenaga Listrik"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:02:07"
+        },
+        {
+            "name": "JIHAN AKBAR SIFANSYAH",
+            "nisn": "3071893176",
+            "grade_final": "85.40",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Instalasi Tenaga Listrik"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:15:42"
+        },
+        {
+            "name": "MOHAMMAD ZIDAN ABDULLAH",
+            "nisn": "3085372745",
+            "grade_final": "85.39",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Instalasi Tenaga Listrik"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:04:36"
+        },
+        {
+            "name": "LAILIS NUR AINI",
+            "nisn": "3082613353",
+            "grade_final": "85.38",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Instalasi Tenaga Listrik"
+                }
+            },
+            "registration_created_at": "2024-07-04 11:10:41"
+        },
+        {
+            "name": "FAJAR AGUS SETIAWAN",
+            "nisn": "3083553474",
+            "grade_final": "85.37",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Instalasi Tenaga Listrik"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:06:15"
+        },
+        {
+            "name": "RENDRA WAHYU MULIATAMA",
+            "nisn": "0092376625",
+            "grade_final": "85.34",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Instalasi Tenaga Listrik"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:09:52"
+        },
+        {
+            "name": "PRIMAGHANY ADNAN DINATA",
+            "nisn": "0091154256",
+            "grade_final": "85.33",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Instalasi Tenaga Listrik"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:39:57"
+        },
+        {
+            "name": "NIKE AMELIA ARDANA",
+            "nisn": "0099092231",
+            "grade_final": "85.31",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Instalasi Tenaga Listrik"
+                }
+            },
+            "registration_created_at": "2024-07-04 07:05:35"
+        },
+        {
+            "name": "FAIRUZ FALAH HAQIQI",
+            "nisn": "0091037710",
+            "grade_final": "85.30",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Instalasi Tenaga Listrik"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:37:12"
+        },
+        {
+            "name": "ILHAM JAYA OKTAPRIYANA",
+            "nisn": "0083938075",
+            "grade_final": "85.29",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Instalasi Tenaga Listrik"
+                }
+            },
+            "registration_created_at": "2024-07-03 18:45:59"
+        },
+        {
+            "name": "NICOLAS RIZKY PRATAMA",
+            "nisn": "0081108691",
+            "grade_final": "85.28",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Instalasi Tenaga Listrik"
+                }
+            },
+            "registration_created_at": "2024-07-04 17:46:46"
+        },
+        {
+            "name": "MUHAMMAD RAFIANSYAH",
+            "nisn": "3089002692",
+            "grade_final": "85.27",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Instalasi Tenaga Listrik"
+                }
+            },
+            "registration_created_at": "2024-07-04 18:47:12"
+        }
+    ]
+}

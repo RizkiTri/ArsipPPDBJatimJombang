@@ -1,0 +1,553 @@
+{
+    "code": 200,
+    "status": "OK",
+    "meta": {
+        "total": 45,
+        "last_page": 1,
+        "from": 1,
+        "to": 1,
+        "last_update": "2024-07-04 21:08:08"
+    },
+    "data": [
+        {
+            "name": "FERI DIKO ANDRIANTO",
+            "nisn": "0007060587",
+            "grade_final": "86.59",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": " Teknik Pemesinan "
+                }
+            },
+            "registration_created_at": "2024-07-03 07:50:32"
+        },
+        {
+            "name": "MUHAMMAD REZA NASRUL HIDAYAT",
+            "nisn": "0089006635",
+            "grade_final": "86.45",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": " Teknik Pemesinan "
+                }
+            },
+            "registration_created_at": "2024-07-03 00:36:00"
+        },
+        {
+            "name": "REYANGGA VERINO",
+            "nisn": "0089821915",
+            "grade_final": "86.28",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": " Teknik Pemesinan "
+                }
+            },
+            "registration_created_at": "2024-07-03 11:08:42"
+        },
+        {
+            "name": "RACHA ARYA PUTRA DANU WIJAYA",
+            "nisn": "0085491304",
+            "grade_final": "86.14",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": " Teknik Pemesinan "
+                }
+            },
+            "registration_created_at": "2024-07-03 00:21:57"
+        },
+        {
+            "name": "VEDRAN RAFALEN",
+            "nisn": "0091477210",
+            "grade_final": "85.92",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": " Teknik Pemesinan "
+                }
+            },
+            "registration_created_at": "2024-07-03 01:33:49"
+        },
+        {
+            "name": "JIBRIL ABI NUSANTARA",
+            "nisn": "3088411352",
+            "grade_final": "85.63",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": " Teknik Pemesinan "
+                }
+            },
+            "registration_created_at": "2024-07-03 09:28:17"
+        },
+        {
+            "name": "MUHAMMAD RAMDHAN RISKI ADITYA",
+            "nisn": "0096795627",
+            "grade_final": "85.24",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": " Teknik Pemesinan "
+                }
+            },
+            "registration_created_at": "2024-07-03 00:15:27"
+        },
+        {
+            "name": "RIZKY ADITIYA RAMADHAN",
+            "nisn": "0087689305",
+            "grade_final": "85.16",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": " Teknik Pemesinan "
+                }
+            },
+            "registration_created_at": "2024-07-03 01:33:41"
+        },
+        {
+            "name": "OKTAVIANO RICKY PERDANA",
+            "nisn": "3087982850",
+            "grade_final": "85.02",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": " Teknik Pemesinan "
+                }
+            },
+            "registration_created_at": "2024-07-03 00:49:28"
+        },
+        {
+            "name": "MUHAMMAD FARID HIDAYAH",
+            "nisn": "3098376140",
+            "grade_final": "84.77",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": " Teknik Pemesinan "
+                }
+            },
+            "registration_created_at": "2024-07-03 06:03:23"
+        },
+        {
+            "name": "ENRI QUE DENI SETIAWAN",
+            "nisn": "3086358893",
+            "grade_final": "84.39",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": " Teknik Pemesinan "
+                }
+            },
+            "registration_created_at": "2024-07-03 00:07:05"
+        },
+        {
+            "name": "YUSRIZAL ALI WIJAYA",
+            "nisn": "0085297448",
+            "grade_final": "84.16",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": " Teknik Pemesinan "
+                }
+            },
+            "registration_created_at": "2024-07-03 09:37:48"
+        },
+        {
+            "name": "SELLA HADINIA ROSSA",
+            "nisn": "0098151863",
+            "grade_final": "84.01",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": " Teknik Pemesinan "
+                }
+            },
+            "registration_created_at": "2024-07-03 08:41:51"
+        },
+        {
+            "name": "KAMALUDDIN FAKHRI",
+            "nisn": "0092227696",
+            "grade_final": "83.89",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": " Teknik Pemesinan "
+                }
+            },
+            "registration_created_at": "2024-07-03 09:17:35"
+        },
+        {
+            "name": "DIMAS HANUNG ADIANSYAH",
+            "nisn": "0089593180",
+            "grade_final": "83.76",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": " Teknik Pemesinan "
+                }
+            },
+            "registration_created_at": "2024-07-03 15:41:02"
+        },
+        {
+            "name": "FIRMAN FARERA",
+            "nisn": "0089353601",
+            "grade_final": "83.66",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": " Teknik Pemesinan "
+                }
+            },
+            "registration_created_at": "2024-07-03 07:44:15"
+        },
+        {
+            "name": "ARIL KURNIAWAN WIJAYA",
+            "nisn": "0085822222",
+            "grade_final": "83.57",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": " Teknik Pemesinan "
+                }
+            },
+            "registration_created_at": "2024-07-03 01:57:15"
+        },
+        {
+            "name": "Henndrik Islakhudi Maruf",
+            "nisn": "0087766674",
+            "grade_final": "83.38",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": " Teknik Pemesinan "
+                }
+            },
+            "registration_created_at": "2024-07-03 07:56:42"
+        },
+        {
+            "name": "Akhmad Zakky Zakariya",
+            "nisn": "3083738300",
+            "grade_final": "83.29",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": " Teknik Pemesinan "
+                }
+            },
+            "registration_created_at": "2024-07-03 19:51:50"
+        },
+        {
+            "name": "MUZAKI PRI ZUSFIYAH",
+            "nisn": "0095227715",
+            "grade_final": "83.24",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": " Teknik Pemesinan "
+                }
+            },
+            "registration_created_at": "2024-07-03 07:38:25"
+        },
+        {
+            "name": "Kimba Sabil Aliansyah",
+            "nisn": "0087998558",
+            "grade_final": "83.19",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": " Teknik Pemesinan "
+                }
+            },
+            "registration_created_at": "2024-07-03 08:32:13"
+        },
+        {
+            "name": "MIFTAQUL SAFA",
+            "nisn": "0105611671",
+            "grade_final": "83.19",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": " Teknik Pemesinan "
+                }
+            },
+            "registration_created_at": "2024-07-04 09:52:11"
+        },
+        {
+            "name": "ERFAN SETYO WAHYUDI",
+            "nisn": "0084013348",
+            "grade_final": "83.11",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": " Teknik Pemesinan "
+                }
+            },
+            "registration_created_at": "2024-07-03 07:59:53"
+        },
+        {
+            "name": "WILLY PRAYOGA",
+            "nisn": "3095924395",
+            "grade_final": "83.06",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": " Teknik Pemesinan "
+                }
+            },
+            "registration_created_at": "2024-07-03 04:46:10"
+        },
+        {
+            "name": "AHMAD YUSUF SAPUTRA",
+            "nisn": "0086522995",
+            "grade_final": "82.95",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": " Teknik Pemesinan "
+                }
+            },
+            "registration_created_at": "2024-07-03 08:19:26"
+        },
+        {
+            "name": "HAKAM KHOMSANA FIRDAUS",
+            "nisn": "0087034789",
+            "grade_final": "82.84",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": " Teknik Pemesinan "
+                }
+            },
+            "registration_created_at": "2024-07-04 07:17:41"
+        },
+        {
+            "name": "GUNTUR ALFA MUHAMMAD NURZAINI",
+            "nisn": "0088455435",
+            "grade_final": "82.77",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": " Teknik Pemesinan "
+                }
+            },
+            "registration_created_at": "2024-07-03 09:11:45"
+        },
+        {
+            "name": "REHAN YOGA FERNANDA",
+            "nisn": "0089842900",
+            "grade_final": "82.72",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": " Teknik Pemesinan "
+                }
+            },
+            "registration_created_at": "2024-07-03 03:28:40"
+        },
+        {
+            "name": "Ashiva Febrianti",
+            "nisn": "3090621861",
+            "grade_final": "82.62",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": " Teknik Pemesinan "
+                }
+            },
+            "registration_created_at": "2024-07-03 08:08:28"
+        },
+        {
+            "name": "RENI DWI ANGGRAINI",
+            "nisn": "0091166775",
+            "grade_final": "82.62",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": " Teknik Pemesinan "
+                }
+            },
+            "registration_created_at": "2024-07-03 00:15:59"
+        },
+        {
+            "name": "MUHAMAT DENIOS",
+            "nisn": "0091999123",
+            "grade_final": "82.46",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": " Teknik Pemesinan "
+                }
+            },
+            "registration_created_at": "2024-07-03 09:08:36"
+        },
+        {
+            "name": "FIKRI ALI BURUD",
+            "nisn": "3086202787",
+            "grade_final": "81.96",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": " Teknik Pemesinan "
+                }
+            },
+            "registration_created_at": "2024-07-03 08:23:06"
+        },
+        {
+            "name": "HERMAWAN PRASETIYO",
+            "nisn": "0088404444",
+            "grade_final": "81.64",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": " Teknik Pemesinan "
+                }
+            },
+            "registration_created_at": "2024-07-03 11:32:43"
+        },
+        {
+            "name": "AFANDI GALIH PRASETYO",
+            "nisn": "0099399838",
+            "grade_final": "81.49",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": " Teknik Pemesinan "
+                }
+            },
+            "registration_created_at": "2024-07-03 10:48:38"
+        },
+        {
+            "name": "ANGGI TEGUH FEBRIANSYAH",
+            "nisn": "0088667108",
+            "grade_final": "81.17",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": " Teknik Pemesinan "
+                }
+            },
+            "registration_created_at": "2024-07-03 08:56:29"
+        },
+        {
+            "name": "Kelfin Erlandio Pratama",
+            "nisn": "0091391088",
+            "grade_final": "80.93",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": " Teknik Pemesinan "
+                }
+            },
+            "registration_created_at": "2024-07-04 11:21:01"
+        },
+        {
+            "name": "ANDHIKA DAFA PRATAMA",
+            "nisn": "0081902525",
+            "grade_final": "80.85",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": " Teknik Pemesinan "
+                }
+            },
+            "registration_created_at": "2024-07-03 17:07:59"
+        },
+        {
+            "name": "DIAR JUGHO LISTIANTO",
+            "nisn": "0082685231",
+            "grade_final": "80.67",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": " Teknik Pemesinan "
+                }
+            },
+            "registration_created_at": "2024-07-03 07:43:20"
+        },
+        {
+            "name": "MUHAMAD ATA AMRULLOH",
+            "nisn": "0096613678",
+            "grade_final": "79.90",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": " Teknik Pemesinan "
+                }
+            },
+            "registration_created_at": "2024-07-03 01:11:16"
+        },
+        {
+            "name": "Budi Azwin",
+            "nisn": "3088925880",
+            "grade_final": "79.86",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": " Teknik Pemesinan "
+                }
+            },
+            "registration_created_at": "2024-07-03 10:37:26"
+        },
+        {
+            "name": "IKSAN DIKA PRATAMA",
+            "nisn": "0097805249",
+            "grade_final": "79.31",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": " Teknik Pemesinan "
+                }
+            },
+            "registration_created_at": "2024-07-03 00:12:18"
+        },
+        {
+            "name": "Feri Setya Fernanda",
+            "nisn": "0094145357",
+            "grade_final": "79.26",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": " Teknik Pemesinan "
+                }
+            },
+            "registration_created_at": "2024-07-03 08:27:50"
+        },
+        {
+            "name": "Mukhammad Amin Akbar",
+            "nisn": "3081463569",
+            "grade_final": "78.85",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": " Teknik Pemesinan "
+                }
+            },
+            "registration_created_at": "2024-07-04 08:08:13"
+        },
+        {
+            "name": "MOCHAMAD MUCHOROBIN",
+            "nisn": "0092185262",
+            "grade_final": "78.22",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": " Teknik Pemesinan "
+                }
+            },
+            "registration_created_at": "2024-07-03 11:32:17"
+        },
+        {
+            "name": "HAIKAL KURNIA SANDY",
+            "nisn": "0096541369",
+            "grade_final": "76.62",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": " Teknik Pemesinan "
+                }
+            },
+            "registration_created_at": "2024-07-03 08:05:14"
+        }
+    ]
+}

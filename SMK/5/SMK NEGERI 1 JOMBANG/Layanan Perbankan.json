@@ -1,0 +1,553 @@
+{
+    "code": 200,
+    "status": "OK",
+    "meta": {
+        "total": 45,
+        "last_page": 1,
+        "from": 1,
+        "to": 1,
+        "last_update": "2024-07-04 21:08:08"
+    },
+    "data": [
+        {
+            "name": "RAISYAH CAMILA ANJANI",
+            "nisn": "0089269674",
+            "grade_final": "88.74",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-04 20:12:14"
+        },
+        {
+            "name": "Septiya Ningrum",
+            "nisn": "3087901190",
+            "grade_final": "87.95",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:35:16"
+        },
+        {
+            "name": "IMELDA NOVITASARI",
+            "nisn": "3086736900",
+            "grade_final": "87.82",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:46:30"
+        },
+        {
+            "name": "CAHAYA AFRIL LAILUNNAJMA",
+            "nisn": "0094103024",
+            "grade_final": "87.51",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:08:31"
+        },
+        {
+            "name": "YUSNINA PUTRI RAMADHANI",
+            "nisn": "0082608064",
+            "grade_final": "87.44",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-03 21:59:48"
+        },
+        {
+            "name": "NACHLAH ALYSIA NAFISA HALIMI",
+            "nisn": "3084959738",
+            "grade_final": "87.32",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-04 16:11:22"
+        },
+        {
+            "name": "IZZA PRICILIA",
+            "nisn": "3087866859",
+            "grade_final": "86.93",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-04 09:26:27"
+        },
+        {
+            "name": "DELLA INDAH RAHAYU",
+            "nisn": "0083481186",
+            "grade_final": "86.92",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:28:58"
+        },
+        {
+            "name": "NESTI RAHMAWATI",
+            "nisn": "0082523888",
+            "grade_final": "86.92",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-04 15:59:45"
+        },
+        {
+            "name": "NIA RAMADHANI",
+            "nisn": "0089918095",
+            "grade_final": "86.89",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-03 18:53:33"
+        },
+        {
+            "name": "WAHYU LAILATUL FITRIAH",
+            "nisn": "0083870811",
+            "grade_final": "86.79",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:08:07"
+        },
+        {
+            "name": "AURELLIA NUR AINI",
+            "nisn": "3089181033",
+            "grade_final": "86.71",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:58:21"
+        },
+        {
+            "name": "AFINA JAUHAROTUR ROHMAH",
+            "nisn": "0085062723",
+            "grade_final": "86.70",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:56:05"
+        },
+        {
+            "name": "MUHAMMAD HARISUDIN HAKIM",
+            "nisn": "0084597859",
+            "grade_final": "86.70",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-04 20:58:28"
+        },
+        {
+            "name": "JESSICA PATRICIA",
+            "nisn": "0084023621",
+            "grade_final": "86.68",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:21:36"
+        },
+        {
+            "name": "INDI ROSIDAH LESTARI",
+            "nisn": "0097810858",
+            "grade_final": "86.67",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-04 13:54:02"
+        },
+        {
+            "name": "NENA ACDIA IMA PRATIWI",
+            "nisn": "3087906682",
+            "grade_final": "86.67",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-03 13:31:31"
+        },
+        {
+            "name": "PUTRI VINA SARI",
+            "nisn": "0097756894",
+            "grade_final": "86.64",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-04 11:04:57"
+        },
+        {
+            "name": "RIZKI ESA FEBRIANI",
+            "nisn": "0095625042",
+            "grade_final": "86.63",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:05:58"
+        },
+        {
+            "name": "QURIN INDRYANTI",
+            "nisn": "0082064182",
+            "grade_final": "86.63",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-04 12:52:51"
+        },
+        {
+            "name": "KIARA LAYLA MEGAPUSPITA",
+            "nisn": "0087911656",
+            "grade_final": "86.62",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:54:28"
+        },
+        {
+            "name": "DHEFINA AYUDYA NUR RAHMA",
+            "nisn": "0093247150",
+            "grade_final": "86.62",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-04 11:54:00"
+        },
+        {
+            "name": "BUNGA CITRA LESTARI",
+            "nisn": "0084261987",
+            "grade_final": "86.62",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:15:48"
+        },
+        {
+            "name": "Harum Warda Diningrum",
+            "nisn": "0098352239",
+            "grade_final": "86.61",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-03 17:37:51"
+        },
+        {
+            "name": "SALMA NUR INSANI",
+            "nisn": "0099157685",
+            "grade_final": "86.60",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:41:14"
+        },
+        {
+            "name": "AYU NINGTYAS",
+            "nisn": "0092329949",
+            "grade_final": "86.58",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:11:09"
+        },
+        {
+            "name": "FIOLITA APRILIA",
+            "nisn": "0094313604",
+            "grade_final": "86.57",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-04 12:46:24"
+        },
+        {
+            "name": "SILVI EKA RAHMAWATI",
+            "nisn": "0087889527",
+            "grade_final": "86.56",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:36:16"
+        },
+        {
+            "name": "DEVI SINTA SARI",
+            "nisn": "0082347398",
+            "grade_final": "86.53",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-04 10:08:04"
+        },
+        {
+            "name": "ZOLA EKA FATEKHATUL ZAHRA",
+            "nisn": "0086688996",
+            "grade_final": "86.52",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:19:38"
+        },
+        {
+            "name": "WINDI AYU FIANTI",
+            "nisn": "0083799767",
+            "grade_final": "86.51",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:09:32"
+        },
+        {
+            "name": "Yanti Olivia Warohmah",
+            "nisn": "0082837095",
+            "grade_final": "86.49",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-03 11:52:53"
+        },
+        {
+            "name": "WANDHA NUR HAMIDAH",
+            "nisn": "3087525344",
+            "grade_final": "86.49",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-04 05:49:19"
+        },
+        {
+            "name": "FILFIAN NASTA PUTRI NURWULAN",
+            "nisn": "0092455446",
+            "grade_final": "86.48",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-04 10:43:15"
+        },
+        {
+            "name": "MARCHELY BUDIANY",
+            "nisn": "0083038666",
+            "grade_final": "86.47",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:37:31"
+        },
+        {
+            "name": "Anisa Auliya Zahra",
+            "nisn": "0094775298",
+            "grade_final": "86.45",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:12:39"
+        },
+        {
+            "name": "NABILA ESTU LARASATI",
+            "nisn": "0088023701",
+            "grade_final": "86.45",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-03 11:17:51"
+        },
+        {
+            "name": "NABILAH CITRA NURMALA SARI",
+            "nisn": "0094002209",
+            "grade_final": "86.45",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-04 12:12:44"
+        },
+        {
+            "name": "Wahyu Vidya Zahra",
+            "nisn": "0083026691",
+            "grade_final": "86.45",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-03 13:07:28"
+        },
+        {
+            "name": "NIDA NUR RAHMA",
+            "nisn": "3092188547",
+            "grade_final": "86.44",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-04 10:44:40"
+        },
+        {
+            "name": "MARCHELA BUDIANA",
+            "nisn": "0082117351",
+            "grade_final": "86.44",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:42:47"
+        },
+        {
+            "name": "VIKA HERDIANINGRUM",
+            "nisn": "0085638787",
+            "grade_final": "86.44",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:55:10"
+        },
+        {
+            "name": "AZZARANY NUR FAHLEVY",
+            "nisn": "0097521621",
+            "grade_final": "86.41",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:44:31"
+        },
+        {
+            "name": "NABILA AULIA FARDA",
+            "nisn": "0091869469",
+            "grade_final": "86.41",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:28:48"
+        },
+        {
+            "name": "CICILIA HELMA PUTRI GANESYA",
+            "nisn": "3095472964",
+            "grade_final": "86.39",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-04 20:42:05"
+        }
+    ]
+}

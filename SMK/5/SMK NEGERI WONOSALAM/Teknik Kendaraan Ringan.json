@@ -1,0 +1,553 @@
+{
+    "code": 200,
+    "status": "OK",
+    "meta": {
+        "total": 45,
+        "last_page": 1,
+        "from": 1,
+        "to": 1,
+        "last_update": "2024-07-04 21:08:08"
+    },
+    "data": [
+        {
+            "name": "LUHUR PRAPANCA",
+            "nisn": "0083310987",
+            "grade_final": "86.76",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:29:14"
+        },
+        {
+            "name": "SATRIO PRATAMA PUTRA",
+            "nisn": "0085349945",
+            "grade_final": "86.44",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:31:32"
+        },
+        {
+            "name": "GALUH PRASANCA",
+            "nisn": "0094190199",
+            "grade_final": "86.20",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:29:52"
+        },
+        {
+            "name": "ACHMAD SATRIA WIBOWO",
+            "nisn": "3097102906",
+            "grade_final": "86.12",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:57:29"
+        },
+        {
+            "name": "BRYENT EKA RIUS NUR SAPUTRA",
+            "nisn": "0079613528",
+            "grade_final": "86.11",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:51:24"
+        },
+        {
+            "name": "DAVA RADITIA PRATAMA",
+            "nisn": "0089114497",
+            "grade_final": "86.07",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:13:12"
+        },
+        {
+            "name": "BAYU ANDI PRATAMA",
+            "nisn": "3083325195",
+            "grade_final": "85.99",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:22:22"
+        },
+        {
+            "name": "MUHAMMAD LUTHFI AKHDAN ZHAFIR",
+            "nisn": "3090749369",
+            "grade_final": "85.80",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:10:18"
+        },
+        {
+            "name": "MUCHAMAD AVIF MAULIDIN",
+            "nisn": "0073449576",
+            "grade_final": "85.77",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:22:07"
+        },
+        {
+            "name": "DZAHAH RIFQI ALGHAZALI SANTOSO",
+            "nisn": "3080977827",
+            "grade_final": "85.57",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:41:39"
+        },
+        {
+            "name": "Mega Ayu Sita",
+            "nisn": "0088361788",
+            "grade_final": "85.51",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:13:44"
+        },
+        {
+            "name": "HANIF FATKHURROZI",
+            "nisn": "0086806923",
+            "grade_final": "85.12",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 02:06:43"
+        },
+        {
+            "name": "IBRAHIMMOVIC RAFFLI FARIZKY",
+            "nisn": "0091394759",
+            "grade_final": "84.96",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:41:05"
+        },
+        {
+            "name": "WIJI OKY RADITIYA",
+            "nisn": "0082742758",
+            "grade_final": "84.44",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:24:51"
+        },
+        {
+            "name": "RIDHO AFFAN JULIANTO",
+            "nisn": "0085271976",
+            "grade_final": "84.43",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:11:19"
+        },
+        {
+            "name": "Neo Febiola Valentine",
+            "nisn": "0084353070",
+            "grade_final": "84.43",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 13:15:52"
+        },
+        {
+            "name": "LUTVIAN MAIGA ALAMSYAH",
+            "nisn": "0092183624",
+            "grade_final": "84.42",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:54:50"
+        },
+        {
+            "name": "YUNNAIS MERLINDA",
+            "nisn": "0084439346",
+            "grade_final": "84.41",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:44:13"
+        },
+        {
+            "name": "ENGGAR DWI CAHAYA",
+            "nisn": "0085735316",
+            "grade_final": "84.33",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:41:03"
+        },
+        {
+            "name": "MUHAMMAD AKBAR ALDAFA SAPUTRA",
+            "nisn": "0083712836",
+            "grade_final": "84.23",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:13:51"
+        },
+        {
+            "name": "ACHMAD IRSAN FADHILAH",
+            "nisn": "0091594616",
+            "grade_final": "83.99",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:37:14"
+        },
+        {
+            "name": "ARVITO IZAD GHANI YANFAANA ISA",
+            "nisn": "0097716628",
+            "grade_final": "83.94",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:57:09"
+        },
+        {
+            "name": "Chacha Amel Afandik",
+            "nisn": "0095456458",
+            "grade_final": "83.85",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:32:07"
+        },
+        {
+            "name": "AHMAD YASEK RHOBAN",
+            "nisn": "0088849432",
+            "grade_final": "83.84",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:29:48"
+        },
+        {
+            "name": "WAHYU WIDIANTO",
+            "nisn": "0081974005",
+            "grade_final": "83.82",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 11:37:13"
+        },
+        {
+            "name": "Yordan Dzulkida Novian Putra",
+            "nisn": "0099152376",
+            "grade_final": "83.80",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:18:04"
+        },
+        {
+            "name": "MUHAMAD NOVA ARDIYANSYAH",
+            "nisn": "0085990812",
+            "grade_final": "83.76",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:33:39"
+        },
+        {
+            "name": "ADITYA ANANTA EKA NURAHMAN",
+            "nisn": "3089283361",
+            "grade_final": "83.72",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:08:53"
+        },
+        {
+            "name": "Muhammad Ilham",
+            "nisn": "0086624163",
+            "grade_final": "83.69",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:04:57"
+        },
+        {
+            "name": "Rizki Andra Aprilianto",
+            "nisn": "0089594813",
+            "grade_final": "83.67",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:04:11"
+        },
+        {
+            "name": "ROIHAN ABDUL ROZAQ",
+            "nisn": "3086921833",
+            "grade_final": "83.67",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 12:01:30"
+        },
+        {
+            "name": "ELIYSSA AYUNDA SARI",
+            "nisn": "0088737710",
+            "grade_final": "83.67",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 03:02:05"
+        },
+        {
+            "name": "BINTANG FEBRIAN ABDI PUTRA",
+            "nisn": "3096311510",
+            "grade_final": "83.66",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:51:12"
+        },
+        {
+            "name": "DANANG AGUS PRASETYO",
+            "nisn": "0084146827",
+            "grade_final": "83.63",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:30:26"
+        },
+        {
+            "name": "DADANG EKO ARIFIN",
+            "nisn": "0088025371",
+            "grade_final": "83.60",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:29:58"
+        },
+        {
+            "name": "RAVERIO EXELLEN ISLAMAY",
+            "nisn": "0085044846",
+            "grade_final": "83.54",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:32:23"
+        },
+        {
+            "name": "TIO PUTRA WIBAWA",
+            "nisn": "0083355209",
+            "grade_final": "83.42",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:03:40"
+        },
+        {
+            "name": "ARIK ANDINI AGRINDA",
+            "nisn": "0099451792",
+            "grade_final": "83.27",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:02:46"
+        },
+        {
+            "name": "MARRID RIZZAKY",
+            "nisn": "3083983000",
+            "grade_final": "83.26",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:29:15"
+        },
+        {
+            "name": "TEGAR MARSELINO",
+            "nisn": "0099656849",
+            "grade_final": "83.21",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:29:23"
+        },
+        {
+            "name": "ADE SAPUTRO",
+            "nisn": "0089002384",
+            "grade_final": "83.12",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:07:55"
+        },
+        {
+            "name": "TITIK DEWI UNTARI",
+            "nisn": "0088992101",
+            "grade_final": "83.12",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:06:47"
+        },
+        {
+            "name": "Hariyono",
+            "nisn": "0087770649",
+            "grade_final": "83.00",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:16:19"
+        },
+        {
+            "name": "SATRIA ARDI FIRMANSYAH",
+            "nisn": "0084099214",
+            "grade_final": "82.95",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:03:38"
+        },
+        {
+            "name": "Muhammad Dava Adi Pratama",
+            "nisn": "0086988313",
+            "grade_final": "82.95",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:47:55"
+        }
+    ]
+}

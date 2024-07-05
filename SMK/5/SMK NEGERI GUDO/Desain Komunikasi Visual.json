@@ -1,0 +1,553 @@
+{
+    "code": 200,
+    "status": "OK",
+    "meta": {
+        "total": 45,
+        "last_page": 1,
+        "from": 1,
+        "to": 1,
+        "last_update": "2024-07-04 21:08:08"
+    },
+    "data": [
+        {
+            "name": "NILAM CAHYA",
+            "nisn": "0087378029",
+            "grade_final": "86.28",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:59:42"
+        },
+        {
+            "name": "MOHAMMAD ALFARIDHO PRATAMA",
+            "nisn": "3093451687",
+            "grade_final": "86.04",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:38:32"
+        },
+        {
+            "name": "DIAN ANGGRAINI",
+            "nisn": "3081274311",
+            "grade_final": "86.03",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 19:43:33"
+        },
+        {
+            "name": "YUMMA RAFI ARISTA",
+            "nisn": "3093253969",
+            "grade_final": "86.02",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:14:04"
+        },
+        {
+            "name": "JACLYNE AULIA JESSICA ANGELINA",
+            "nisn": "0086162838",
+            "grade_final": "86.01",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:44:01"
+        },
+        {
+            "name": "MARITSA TRYA HANDAYANI",
+            "nisn": "0086973113",
+            "grade_final": "85.93",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:38:48"
+        },
+        {
+            "name": "ZULIA NUR NADIAH",
+            "nisn": "3092991370",
+            "grade_final": "85.57",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:16:48"
+        },
+        {
+            "name": "OKY ARTHA ARCENA OCTAVIAN",
+            "nisn": "0085493186",
+            "grade_final": "85.57",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-04 16:41:10"
+        },
+        {
+            "name": "ANANDA PUTRI RAMADHANI",
+            "nisn": "3084556977",
+            "grade_final": "85.53",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:39:21"
+        },
+        {
+            "name": "GANISA ADISTYA NINGSIH",
+            "nisn": "0086760367",
+            "grade_final": "85.49",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-04 08:43:58"
+        },
+        {
+            "name": "ALIFIA NUR FABILA",
+            "nisn": "3088286437",
+            "grade_final": "85.45",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:25:24"
+        },
+        {
+            "name": "AQUINSHA PRADANI AISYAHRIA RAY",
+            "nisn": "0081728165",
+            "grade_final": "85.43",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 02:00:48"
+        },
+        {
+            "name": "ARDLI BASKARA",
+            "nisn": "0087117930",
+            "grade_final": "85.34",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:05:15"
+        },
+        {
+            "name": "RAHMANIA AZUHRA",
+            "nisn": "0081001225",
+            "grade_final": "84.91",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:22:34"
+        },
+        {
+            "name": "NASYA NARAYYA AL ZAHRA",
+            "nisn": "0095793728",
+            "grade_final": "84.88",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:56:54"
+        },
+        {
+            "name": "RARA FRISKA NOVELIA",
+            "nisn": "0081625630",
+            "grade_final": "84.85",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:43:52"
+        },
+        {
+            "name": "ANDIKA RAHMAN WIDODO",
+            "nisn": "0099258150",
+            "grade_final": "84.69",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:48:45"
+        },
+        {
+            "name": "Nuraini Agustin",
+            "nisn": "0095435508",
+            "grade_final": "84.62",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:37:05"
+        },
+        {
+            "name": "SINTA WAHYU HESTIANTI",
+            "nisn": "0096770180",
+            "grade_final": "84.62",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:57:52"
+        },
+        {
+            "name": "REYVANA PUTRI AGUSTIN",
+            "nisn": "3081952255",
+            "grade_final": "84.53",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:23:19"
+        },
+        {
+            "name": "DANIYAH RAHMAWATI",
+            "nisn": "3086402763",
+            "grade_final": "84.41",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:49:52"
+        },
+        {
+            "name": "SEPTYAN ALDIANSYAH",
+            "nisn": "0098506979",
+            "grade_final": "84.26",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:43:23"
+        },
+        {
+            "name": "MOCHAMMAD IRSYADUL AZIZ MAWARDI",
+            "nisn": "3088501400",
+            "grade_final": "84.26",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:52:55"
+        },
+        {
+            "name": "Avrilian Ainan Salsabilla",
+            "nisn": "3096195822",
+            "grade_final": "84.26",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-04 20:16:37"
+        },
+        {
+            "name": "NAUFAL CATUR BUDIONO",
+            "nisn": "0099303471",
+            "grade_final": "84.20",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:07:36"
+        },
+        {
+            "name": "ALIF FAIZATUL HIDAYAH",
+            "nisn": "0098474586",
+            "grade_final": "84.20",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:28:00"
+        },
+        {
+            "name": "ANDIKA PRIMASETYO DEWANTORO",
+            "nisn": "0083125482",
+            "grade_final": "84.19",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:14:21"
+        },
+        {
+            "name": "GEA ROSELLA",
+            "nisn": "0089844917",
+            "grade_final": "84.07",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:15:19"
+        },
+        {
+            "name": "MOHAMMAD HUSEN AL AMRI",
+            "nisn": "3095505547",
+            "grade_final": "83.87",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:38:30"
+        },
+        {
+            "name": "JESSICA ENDARREL FERSA",
+            "nisn": "0095174433",
+            "grade_final": "83.86",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:33:24"
+        },
+        {
+            "name": "CHELSIA DIVAYANTI",
+            "nisn": "0081662374",
+            "grade_final": "83.85",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:07:52"
+        },
+        {
+            "name": "MOCH RIZKY CHOIRUMIN ABDILLAH",
+            "nisn": "3081037911",
+            "grade_final": "83.85",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:38:26"
+        },
+        {
+            "name": "MOHAMMAD RAIHAN DWI ANDIKA",
+            "nisn": "0087453383",
+            "grade_final": "83.81",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:41:43"
+        },
+        {
+            "name": "HABIB DWI AGUSTINO",
+            "nisn": "3083813501",
+            "grade_final": "83.69",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:27:37"
+        },
+        {
+            "name": "Aldy Singgih Pangestu",
+            "nisn": "0093183145",
+            "grade_final": "83.69",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:42:12"
+        },
+        {
+            "name": "Ahmad Syaifuddinn Zuhri",
+            "nisn": "3092332639",
+            "grade_final": "83.68",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 15:53:14"
+        },
+        {
+            "name": "RENDI ARI SAPUTRA",
+            "nisn": "0096465735",
+            "grade_final": "83.56",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:16:03"
+        },
+        {
+            "name": "MOHAMAD DAMAI",
+            "nisn": "0091668893",
+            "grade_final": "83.52",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:55:58"
+        },
+        {
+            "name": "RAHMAT FACHRI ALDIANSYAH",
+            "nisn": "0096572063",
+            "grade_final": "83.50",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:36:18"
+        },
+        {
+            "name": "ELMA AFRILIA",
+            "nisn": "0082308696",
+            "grade_final": "83.49",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:20:21"
+        },
+        {
+            "name": "TIO ARDIANTO",
+            "nisn": "0085270442",
+            "grade_final": "83.45",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:45:39"
+        },
+        {
+            "name": "SUCI RAHMAWATI",
+            "nisn": "3098139516",
+            "grade_final": "83.43",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:51:40"
+        },
+        {
+            "name": "Al Mayra Zahratus Sita",
+            "nisn": "3089223242",
+            "grade_final": "83.35",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:23:38"
+        },
+        {
+            "name": "MOHAMMAD YUDA MARFIANSYAH",
+            "nisn": "0087593868",
+            "grade_final": "83.34",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:30:50"
+        },
+        {
+            "name": "MOCH AINNUR ROFIQ",
+            "nisn": "3093547621",
+            "grade_final": "83.33",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:38:34"
+        }
+    ]
+}

@@ -1,0 +1,553 @@
+{
+    "code": 200,
+    "status": "OK",
+    "meta": {
+        "total": 45,
+        "last_page": 1,
+        "from": 1,
+        "to": 1,
+        "last_update": "2024-07-04 21:08:08"
+    },
+    "data": [
+        {
+            "name": "Erina Wijayanti",
+            "nisn": "0086995116",
+            "grade_final": "88.42",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Farmasi Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 17:50:05"
+        },
+        {
+            "name": "VELINDA NATALIA",
+            "nisn": "0086861839",
+            "grade_final": "87.65",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Farmasi Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:28:57"
+        },
+        {
+            "name": "Nur Ida Laila",
+            "nisn": "0081448217",
+            "grade_final": "87.60",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Farmasi Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:24:42"
+        },
+        {
+            "name": "IKA BELLA CAHYA SASMITA",
+            "nisn": "0096365652",
+            "grade_final": "87.58",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Farmasi Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:57:53"
+        },
+        {
+            "name": "ANDIN SEPTIANA LARASATI",
+            "nisn": "0088651043",
+            "grade_final": "87.14",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Farmasi Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:28:06"
+        },
+        {
+            "name": "DHINI SUSANTI",
+            "nisn": "0086234597",
+            "grade_final": "87.04",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Farmasi Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:28:25"
+        },
+        {
+            "name": "Widya Eka Putri",
+            "nisn": "0093519994",
+            "grade_final": "86.93",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Farmasi Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 17:55:16"
+        },
+        {
+            "name": "LIA NIMATUL RAHMAH",
+            "nisn": "0091041832",
+            "grade_final": "86.91",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Farmasi Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:43:30"
+        },
+        {
+            "name": "WINDA NUR ALLIYA",
+            "nisn": "0093722074",
+            "grade_final": "86.90",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Farmasi Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:23:13"
+        },
+        {
+            "name": "Vindy Vebrianty",
+            "nisn": "0093015238",
+            "grade_final": "86.72",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Farmasi Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:51:58"
+        },
+        {
+            "name": "RENNYA RASENDRYANI",
+            "nisn": "0085554291",
+            "grade_final": "86.70",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Farmasi Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:20:41"
+        },
+        {
+            "name": "RADMILA NURKAYANA",
+            "nisn": "0088431688",
+            "grade_final": "86.61",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Farmasi Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:31:46"
+        },
+        {
+            "name": "AYU AHLUL JANNAH",
+            "nisn": "0093046461",
+            "grade_final": "86.51",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Farmasi Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 17:11:16"
+        },
+        {
+            "name": "Dea Ayu Setiya Ningsih",
+            "nisn": "0082141866",
+            "grade_final": "86.39",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Farmasi Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:05:40"
+        },
+        {
+            "name": "AMROH NUR JUWATI",
+            "nisn": "0085159822",
+            "grade_final": "86.35",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Farmasi Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:05:59"
+        },
+        {
+            "name": "ELVINA ZASCIA PUTRY",
+            "nisn": "0091357385",
+            "grade_final": "86.32",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Farmasi Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 03:18:37"
+        },
+        {
+            "name": "HARDIYANTI RAHMA AGUSTIN",
+            "nisn": "0098308242",
+            "grade_final": "86.30",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Farmasi Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 19:02:36"
+        },
+        {
+            "name": "CHONITA NELA CENDI",
+            "nisn": "0088437369",
+            "grade_final": "86.30",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Farmasi Industri"
+                }
+            },
+            "registration_created_at": "2024-07-04 09:10:09"
+        },
+        {
+            "name": "ALLISIYAH WIDA DWI NURMALASARI",
+            "nisn": "0096893602",
+            "grade_final": "86.27",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Farmasi Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 12:24:50"
+        },
+        {
+            "name": "AFINA VIDYA SARI",
+            "nisn": "0081130517",
+            "grade_final": "86.15",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Farmasi Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:10:04"
+        },
+        {
+            "name": "DEVITA DIAN PERTIWI",
+            "nisn": "3086235105",
+            "grade_final": "86.08",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Farmasi Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:55:22"
+        },
+        {
+            "name": "ARDHITHA DWI MEISYAROH",
+            "nisn": "0091362187",
+            "grade_final": "86.01",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Farmasi Industri"
+                }
+            },
+            "registration_created_at": "2024-07-04 16:42:46"
+        },
+        {
+            "name": "NAYLA IIS MUDLIKAH",
+            "nisn": "0096743935",
+            "grade_final": "85.96",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Farmasi Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:28:29"
+        },
+        {
+            "name": "AISYAH NAZWA AULIA",
+            "nisn": "3085597499",
+            "grade_final": "85.96",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Farmasi Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 16:49:56"
+        },
+        {
+            "name": "RIZKA SALSABILA",
+            "nisn": "0081487775",
+            "grade_final": "85.88",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Farmasi Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:04:38"
+        },
+        {
+            "name": "Dina Septia",
+            "nisn": "0084333974",
+            "grade_final": "85.88",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Farmasi Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:10:53"
+        },
+        {
+            "name": "DENY RAHMA KHUMAIROH",
+            "nisn": "0092671258",
+            "grade_final": "85.87",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Farmasi Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:36:08"
+        },
+        {
+            "name": "SHASNILA DWI LARASATI",
+            "nisn": "0089470748",
+            "grade_final": "85.86",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Farmasi Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:41:25"
+        },
+        {
+            "name": "YENNI DWI SETYANINGRUM",
+            "nisn": "0086764713",
+            "grade_final": "85.86",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Farmasi Industri"
+                }
+            },
+            "registration_created_at": "2024-07-04 08:21:06"
+        },
+        {
+            "name": "SASI KIRANA PUTRI",
+            "nisn": "0093950634",
+            "grade_final": "85.84",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Farmasi Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:07:12"
+        },
+        {
+            "name": "HERMIN",
+            "nisn": "0086226484",
+            "grade_final": "85.83",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Farmasi Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 03:43:20"
+        },
+        {
+            "name": "INTAN NUR AINI",
+            "nisn": "0092071209",
+            "grade_final": "85.82",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Farmasi Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:10:52"
+        },
+        {
+            "name": "AISYAH RAHMAWATI",
+            "nisn": "0086043954",
+            "grade_final": "85.79",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Farmasi Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:19:28"
+        },
+        {
+            "name": "FRISKA",
+            "nisn": "0083982388",
+            "grade_final": "85.68",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Farmasi Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 03:15:20"
+        },
+        {
+            "name": "RAHMA SISILIA",
+            "nisn": "0096872979",
+            "grade_final": "85.62",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Farmasi Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 18:56:39"
+        },
+        {
+            "name": "RAVELYA WULANDARI RAHAYUNINGTYAS",
+            "nisn": "0081656134",
+            "grade_final": "85.57",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Farmasi Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:10:29"
+        },
+        {
+            "name": "ANDINI ZANA SUSILA FITRI",
+            "nisn": "0087986668",
+            "grade_final": "85.56",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Farmasi Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:56:15"
+        },
+        {
+            "name": "NOVA PUTRI AULIA",
+            "nisn": "0089778364",
+            "grade_final": "85.49",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Farmasi Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:14:30"
+        },
+        {
+            "name": "TIARA AZAFA OKTAVIA",
+            "nisn": "0083675005",
+            "grade_final": "85.45",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Farmasi Industri"
+                }
+            },
+            "registration_created_at": "2024-07-04 07:41:14"
+        },
+        {
+            "name": "ALISSA NURFIKA PUTRI",
+            "nisn": "3088278986",
+            "grade_final": "85.40",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Farmasi Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 11:25:00"
+        },
+        {
+            "name": "AIWAGURI CANDRAKIRANA",
+            "nisn": "0093450602",
+            "grade_final": "85.39",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Farmasi Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:11:24"
+        },
+        {
+            "name": "AULIA DIVA ARILA",
+            "nisn": "0088633174",
+            "grade_final": "85.37",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Farmasi Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 14:58:50"
+        },
+        {
+            "name": "Yessica Martha Putri Vanesya",
+            "nisn": "0093117539",
+            "grade_final": "85.34",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Farmasi Industri"
+                }
+            },
+            "registration_created_at": "2024-07-04 16:21:41"
+        },
+        {
+            "name": "RETNO MANGGALIH",
+            "nisn": "0086856020",
+            "grade_final": "85.34",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Farmasi Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:07:56"
+        },
+        {
+            "name": "AQIILAH NAFIISAH PUTRI",
+            "nisn": "0096173474",
+            "grade_final": "85.31",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Farmasi Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:16:10"
+        }
+    ]
+}

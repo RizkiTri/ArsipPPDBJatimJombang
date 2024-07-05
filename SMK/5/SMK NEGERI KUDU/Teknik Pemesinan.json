@@ -1,0 +1,553 @@
+{
+    "code": 200,
+    "status": "OK",
+    "meta": {
+        "total": 45,
+        "last_page": 1,
+        "from": 1,
+        "to": 1,
+        "last_update": "2024-07-04 21:08:08"
+    },
+    "data": [
+        {
+            "name": "Muhammad Rakha Rasyad",
+            "nisn": "0084810517",
+            "grade_final": "87.41",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:16:23"
+        },
+        {
+            "name": "RISKY EKA SETIAWAN",
+            "nisn": "0089511391",
+            "grade_final": "86.02",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:47:21"
+        },
+        {
+            "name": "Mochamad Fahri Adam",
+            "nisn": "0094755007",
+            "grade_final": "85.33",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:05:18"
+        },
+        {
+            "name": "ABRILLIAN ARTA ALRIZKY KURNIAWAN",
+            "nisn": "0084499165",
+            "grade_final": "85.32",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:39:13"
+        },
+        {
+            "name": "M GALIH GADING",
+            "nisn": "0082353176",
+            "grade_final": "85.10",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 13:23:57"
+        },
+        {
+            "name": "DANI SULKAN PUTRA",
+            "nisn": "0083677966",
+            "grade_final": "85.09",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 21:14:06"
+        },
+        {
+            "name": "RIDHO MAULANA HIDAYAT",
+            "nisn": "0095289409",
+            "grade_final": "85.08",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:08:28"
+        },
+        {
+            "name": "MUHAMMAD FAKHRUL IZZAM MUSOFFA",
+            "nisn": "0096648906",
+            "grade_final": "85.07",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:18:50"
+        },
+        {
+            "name": "EGA PUTRA SUSILO",
+            "nisn": "0088366090",
+            "grade_final": "85.07",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:00:10"
+        },
+        {
+            "name": "Fahri adis arifuddin",
+            "nisn": "3085364269",
+            "grade_final": "85.00",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:11:45"
+        },
+        {
+            "name": "IZZAM PRATAMA ABDUL MUHYI",
+            "nisn": "3099781176",
+            "grade_final": "84.79",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 15:32:24"
+        },
+        {
+            "name": "TEGAR WIBAWA",
+            "nisn": "0088128906",
+            "grade_final": "84.74",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-04 16:55:05"
+        },
+        {
+            "name": "PUTRA FARRAS RASENDRIYA",
+            "nisn": "0086301176",
+            "grade_final": "84.72",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:26:38"
+        },
+        {
+            "name": "MUHAMMAD ARZAQ ISRAHLY",
+            "nisn": "0086181911",
+            "grade_final": "84.70",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:49:19"
+        },
+        {
+            "name": "YUDHA JAYA DHARMA PUTRA",
+            "nisn": "0097656241",
+            "grade_final": "84.68",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:09:28"
+        },
+        {
+            "name": "SUBEQI ANOM NAROTAMA",
+            "nisn": "0088729813",
+            "grade_final": "84.62",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-04 12:22:36"
+        },
+        {
+            "name": "AFATAN BAGUS SAPUTRA",
+            "nisn": "3085648322",
+            "grade_final": "84.61",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:22:52"
+        },
+        {
+            "name": "PRAJA DWI WIDYAISWARA",
+            "nisn": "0082502048",
+            "grade_final": "84.59",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 02:12:28"
+        },
+        {
+            "name": "BAGUS NURDIANSYAH",
+            "nisn": "0097578367",
+            "grade_final": "84.59",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 18:41:22"
+        },
+        {
+            "name": "REVAN ALDI FIRMANSYA",
+            "nisn": "0093987620",
+            "grade_final": "84.52",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 03:02:27"
+        },
+        {
+            "name": "JUNIOR PEBRI SAPUTRA",
+            "nisn": "3088265258",
+            "grade_final": "84.51",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 18:35:37"
+        },
+        {
+            "name": "SARDANA INDRA RAMADANI",
+            "nisn": "0087792634",
+            "grade_final": "84.51",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:43:58"
+        },
+        {
+            "name": "TIAN MAULANA",
+            "nisn": "0094818188",
+            "grade_final": "84.43",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:34:26"
+        },
+        {
+            "name": "MUHAMMAD HARIS SETIAWAN",
+            "nisn": "3088928906",
+            "grade_final": "84.41",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 15:24:31"
+        },
+        {
+            "name": "PUTRA ARDIANSYAH",
+            "nisn": "0092875249",
+            "grade_final": "84.40",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 03:04:36"
+        },
+        {
+            "name": "NOVAL EKO PRASETYO",
+            "nisn": "0094697588",
+            "grade_final": "84.38",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-04 10:01:08"
+        },
+        {
+            "name": "ARENDO CANDA EKADINATA",
+            "nisn": "0091619910",
+            "grade_final": "84.37",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:59:14"
+        },
+        {
+            "name": "FADLY DWI ADIYANSYAH",
+            "nisn": "0094769977",
+            "grade_final": "84.35",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 18:35:00"
+        },
+        {
+            "name": "MUHAMMAD RIZQI RAMADHON",
+            "nisn": "0089782397",
+            "grade_final": "84.33",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:12:18"
+        },
+        {
+            "name": "RIFAT MAULANA ALFA RIZKY ",
+            "nisn": "0082530186",
+            "grade_final": "84.32",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 20:17:21"
+        },
+        {
+            "name": "ANDREAN FAJAR S",
+            "nisn": "0097681430",
+            "grade_final": "84.32",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:36:49"
+        },
+        {
+            "name": "Zainal Akbar",
+            "nisn": "0096216505",
+            "grade_final": "84.30",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:20:29"
+        },
+        {
+            "name": "RADITYA HIZARD FEBRIANO",
+            "nisn": "0094749156",
+            "grade_final": "84.28",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-04 14:05:15"
+        },
+        {
+            "name": "SLAMET FIRDAUS",
+            "nisn": "0082609006",
+            "grade_final": "84.27",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:05:26"
+        },
+        {
+            "name": "VIAN MAULANA",
+            "nisn": "0099680099",
+            "grade_final": "84.26",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:36:01"
+        },
+        {
+            "name": "TEDY PURNIAWAN",
+            "nisn": "0092412180",
+            "grade_final": "84.25",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:50:56"
+        },
+        {
+            "name": "MOCHAMMAD FAJAR BABAR OBAMA",
+            "nisn": "0096524040",
+            "grade_final": "84.25",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-04 16:45:44"
+        },
+        {
+            "name": "MUHAMMAD ADAM AZZURIANTO",
+            "nisn": "0099659644",
+            "grade_final": "84.23",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 02:55:25"
+        },
+        {
+            "name": "Patra Tobias",
+            "nisn": "0081134088",
+            "grade_final": "84.21",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-04 17:37:04"
+        },
+        {
+            "name": "MOHAMMAD GYAN SANTOSO",
+            "nisn": "0083073052",
+            "grade_final": "84.19",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:35:00"
+        },
+        {
+            "name": "PUSPITA NUR RAHMA DHANI",
+            "nisn": "0093505094",
+            "grade_final": "84.15",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:04:08"
+        },
+        {
+            "name": "MUHAMAT WIBOWO SETIAWAN",
+            "nisn": "3080271820",
+            "grade_final": "84.13",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:29:54"
+        },
+        {
+            "name": "Radhitria Syaputra",
+            "nisn": "0083757935",
+            "grade_final": "84.07",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 03:43:34"
+        },
+        {
+            "name": "MUHAMMAD AINUR RIZAL ARDHANI",
+            "nisn": "0099982676",
+            "grade_final": "84.06",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:39:48"
+        },
+        {
+            "name": "ENGGAR DWI SAPUTRA",
+            "nisn": "0088250339",
+            "grade_final": "84.05",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:21:18"
+        }
+    ]
+}

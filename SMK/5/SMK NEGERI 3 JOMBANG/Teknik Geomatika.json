@@ -1,0 +1,277 @@
+{
+    "code": 200,
+    "status": "OK",
+    "meta": {
+        "total": 22,
+        "last_page": 1,
+        "from": 1,
+        "to": 1,
+        "last_update": "2024-07-04 21:08:08"
+    },
+    "data": [
+        {
+            "name": "ELISA RAHMANIA RAMADHANI",
+            "nisn": "3097362907",
+            "grade_final": "87.89",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Geomatika"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:48:29"
+        },
+        {
+            "name": "ZIFANA FEBRIANTI",
+            "nisn": "0095089334",
+            "grade_final": "87.46",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Geomatika"
+                }
+            },
+            "registration_created_at": "2024-07-03 02:45:28"
+        },
+        {
+            "name": "REFAN BUDI SANTOSO",
+            "nisn": "0084303758",
+            "grade_final": "86.75",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Geomatika"
+                }
+            },
+            "registration_created_at": "2024-07-03 11:10:57"
+        },
+        {
+            "name": "BALQIES REVALINA RAHMAWATI",
+            "nisn": "0091846292",
+            "grade_final": "86.43",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Geomatika"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:49:13"
+        },
+        {
+            "name": "EKA AYU RAHMADANI",
+            "nisn": "0087872821",
+            "grade_final": "86.38",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Geomatika"
+                }
+            },
+            "registration_created_at": "2024-07-04 18:32:27"
+        },
+        {
+            "name": "GALANG RADITYA NUGRAHA",
+            "nisn": "0083141522",
+            "grade_final": "86.13",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Geomatika"
+                }
+            },
+            "registration_created_at": "2024-07-03 20:21:26"
+        },
+        {
+            "name": "TEGAR HENDRA WAHYU SOEPRIJANTO",
+            "nisn": "0084799225",
+            "grade_final": "85.88",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Geomatika"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:04:06"
+        },
+        {
+            "name": "BIMBIM ABIMANYU",
+            "nisn": "0092932171",
+            "grade_final": "85.62",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Geomatika"
+                }
+            },
+            "registration_created_at": "2024-07-03 19:24:13"
+        },
+        {
+            "name": "KIRANA ZASKIA PUTRI",
+            "nisn": "0084831119",
+            "grade_final": "85.57",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Geomatika"
+                }
+            },
+            "registration_created_at": "2024-07-04 09:48:44"
+        },
+        {
+            "name": "MUHAMMAD AZIS",
+            "nisn": "0092114295",
+            "grade_final": "85.50",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Geomatika"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:14:42"
+        },
+        {
+            "name": "ARIF FEBRIANSYAH",
+            "nisn": "3086094923",
+            "grade_final": "85.47",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Geomatika"
+                }
+            },
+            "registration_created_at": "2024-07-03 16:21:51"
+        },
+        {
+            "name": "AVIRA MAHARANI PUTRI ZUNAN",
+            "nisn": "0095905698",
+            "grade_final": "85.41",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Geomatika"
+                }
+            },
+            "registration_created_at": "2024-07-04 15:45:33"
+        },
+        {
+            "name": "Marsyah Anindiya Putri",
+            "nisn": "0094074656",
+            "grade_final": "85.36",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Geomatika"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:08:41"
+        },
+        {
+            "name": "VINCENTIUS BRILLIANTSEN DWI SUDARSONO",
+            "nisn": "0084578200",
+            "grade_final": "85.33",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Geomatika"
+                }
+            },
+            "registration_created_at": "2024-07-04 11:44:58"
+        },
+        {
+            "name": "MOHAMMAD ARYA FIRLY FIRDIANSYAH",
+            "nisn": "0081534919",
+            "grade_final": "85.28",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Geomatika"
+                }
+            },
+            "registration_created_at": "2024-07-04 17:29:21"
+        },
+        {
+            "name": "MUHAMMAD RIZKI HENDRA PRATAMA",
+            "nisn": "0082930644",
+            "grade_final": "85.26",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Geomatika"
+                }
+            },
+            "registration_created_at": "2024-07-04 07:31:10"
+        },
+        {
+            "name": "Nayla Nur Latifah",
+            "nisn": "3086242495",
+            "grade_final": "85.25",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Geomatika"
+                }
+            },
+            "registration_created_at": "2024-07-04 17:14:13"
+        },
+        {
+            "name": "YOEL KRISTRIAN BAYU NUGROHO",
+            "nisn": "0096713679",
+            "grade_final": "85.12",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Geomatika"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:06:38"
+        },
+        {
+            "name": "DIVA SASKIA ANINDITA",
+            "nisn": "0088415592",
+            "grade_final": "85.12",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Geomatika"
+                }
+            },
+            "registration_created_at": "2024-07-04 15:11:17"
+        },
+        {
+            "name": "AKBAR FIRMANSYAH",
+            "nisn": "3087301081",
+            "grade_final": "85.11",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Geomatika"
+                }
+            },
+            "registration_created_at": "2024-07-04 19:42:59"
+        },
+        {
+            "name": "GALANG JUNIANTO",
+            "nisn": "0084157661",
+            "grade_final": "85.08",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Geomatika"
+                }
+            },
+            "registration_created_at": "2024-07-03 04:25:06"
+        },
+        {
+            "name": "GALIH DWI WIBISONO",
+            "nisn": "0082909755",
+            "grade_final": "85.07",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Geomatika"
+                }
+            },
+            "registration_created_at": "2024-07-04 19:31:30"
+        }
+    ]
+}

@@ -1,0 +1,1117 @@
+{
+    "code": 200,
+    "status": "OK",
+    "meta": {
+        "total": 92,
+        "last_page": 1,
+        "from": 1,
+        "to": 1,
+        "last_update": "2024-07-04 21:08:08"
+    },
+    "data": [
+        {
+            "name": "Nabila Arnelita Radisty",
+            "nisn": "0083392304",
+            "grade_final": "89.40",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-04 06:24:00"
+        },
+        {
+            "name": "FATMA KHOIRUN NISA",
+            "nisn": "0099977110",
+            "grade_final": "89.39",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:00:46"
+        },
+        {
+            "name": "YUS DWI RAHMAWATI",
+            "nisn": "3099683746",
+            "grade_final": "88.49",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:38:15"
+        },
+        {
+            "name": "NIHAYATUL AULIA RAMADHANI",
+            "nisn": "3088009222",
+            "grade_final": "88.47",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:41:18"
+        },
+        {
+            "name": "RIA YEKTI RAHAYU",
+            "nisn": "0081862059",
+            "grade_final": "88.27",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:52:11"
+        },
+        {
+            "name": "NABILA AYU LESTARI",
+            "nisn": "0083290698",
+            "grade_final": "88.24",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:05:32"
+        },
+        {
+            "name": "Putri Zahratus Saskia",
+            "nisn": "0098060311",
+            "grade_final": "88.11",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:54:22"
+        },
+        {
+            "name": "Arsella Jessica Aristawati",
+            "nisn": "0094666581",
+            "grade_final": "88.04",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:54:26"
+        },
+        {
+            "name": "CHELSEA DWI APRILIA",
+            "nisn": "0096832217",
+            "grade_final": "88.00",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:38:00"
+        },
+        {
+            "name": "NABIL NUR SAFIRA",
+            "nisn": "3082378219",
+            "grade_final": "87.88",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:30:11"
+        },
+        {
+            "name": "RAISYAH AULIA SAFITRI",
+            "nisn": "0085232754",
+            "grade_final": "87.86",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:34:56"
+        },
+        {
+            "name": "SINTYA PERMATA SARI",
+            "nisn": "3094116369",
+            "grade_final": "87.82",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:20:35"
+        },
+        {
+            "name": "NOVIA INDRIANI",
+            "nisn": "0082149304",
+            "grade_final": "87.80",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:07:45"
+        },
+        {
+            "name": "AYUNIA ROMADHONA MAGHFIRA",
+            "nisn": "0088033984",
+            "grade_final": "87.73",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 04:45:14"
+        },
+        {
+            "name": "DIANTI FIRZA AZARIA",
+            "nisn": "0091157207",
+            "grade_final": "87.66",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:29:47"
+        },
+        {
+            "name": "MOHAMMAD HARIANTO ALI BAHRI",
+            "nisn": "0098001406",
+            "grade_final": "87.64",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:31:50"
+        },
+        {
+            "name": "NEVANI JULIETA ISMI PUTRI",
+            "nisn": "0085307492",
+            "grade_final": "87.64",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:12:00"
+        },
+        {
+            "name": "INTANIA DWI ARDIANA PUTRI",
+            "nisn": "0087295392",
+            "grade_final": "87.64",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:39:27"
+        },
+        {
+            "name": "ZAHRA AULIA RAHMA",
+            "nisn": "3080173779",
+            "grade_final": "87.63",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:52:35"
+        },
+        {
+            "name": "Sefa Febriani",
+            "nisn": "0099919420",
+            "grade_final": "87.63",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:04:33"
+        },
+        {
+            "name": "Novel Lie Alya Santoso",
+            "nisn": "0088681483",
+            "grade_final": "87.61",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 13:20:29"
+        },
+        {
+            "name": "NATASYA KARINDRA MAHARANI",
+            "nisn": "0088290974",
+            "grade_final": "87.60",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:59:59"
+        },
+        {
+            "name": "Mauliza Nur Cahyani",
+            "nisn": "0092685516",
+            "grade_final": "87.54",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:41:55"
+        },
+        {
+            "name": "IMROATUL HASANAH",
+            "nisn": "0095190164",
+            "grade_final": "87.54",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-04 05:30:16"
+        },
+        {
+            "name": "NAUFAL ABIYYU RAMADHAN",
+            "nisn": "0081285419",
+            "grade_final": "87.51",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 17:33:28"
+        },
+        {
+            "name": "ZANETA DWI RAMADHANI",
+            "nisn": "0084697772",
+            "grade_final": "87.47",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 18:00:32"
+        },
+        {
+            "name": "ISTIANAH NUR FEBIOLA",
+            "nisn": "0093853180",
+            "grade_final": "87.41",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:46:44"
+        },
+        {
+            "name": "KEYZA ADINDA NATASYA",
+            "nisn": "0099830671",
+            "grade_final": "87.41",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:12:37"
+        },
+        {
+            "name": "LUXXY ANA PUTRI SUSILO",
+            "nisn": "3099228172",
+            "grade_final": "87.40",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:45:56"
+        },
+        {
+            "name": "KHESA WILDA DEVINSA",
+            "nisn": "0086628579",
+            "grade_final": "87.38",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 15:43:42"
+        },
+        {
+            "name": "BAYU SETIAWAN",
+            "nisn": "0083299000",
+            "grade_final": "87.34",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 04:33:00"
+        },
+        {
+            "name": "RATIH PUSPITASARI",
+            "nisn": "0073493394",
+            "grade_final": "87.31",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:08:55"
+        },
+        {
+            "name": "PUTRI FIRA ABDIANTI RAMADHANI",
+            "nisn": "3083916737",
+            "grade_final": "87.30",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:14:29"
+        },
+        {
+            "name": "MARIA SAFA",
+            "nisn": "3083467521",
+            "grade_final": "87.29",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:13:03"
+        },
+        {
+            "name": "THEONA KHANZA LOLANA",
+            "nisn": "0087392825",
+            "grade_final": "87.26",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-04 12:32:51"
+        },
+        {
+            "name": "SYIFA LIVIA AGUSTINA",
+            "nisn": "0084790882",
+            "grade_final": "87.20",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:12:11"
+        },
+        {
+            "name": "NOVELIA MUCHNIFA",
+            "nisn": "3084873143",
+            "grade_final": "87.18",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:58:42"
+        },
+        {
+            "name": "IGNES WAQIDAH FELISYAH",
+            "nisn": "0085549879",
+            "grade_final": "87.17",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:49:20"
+        },
+        {
+            "name": "AURA DISKAR MEYNINGRUM",
+            "nisn": "0095018992",
+            "grade_final": "87.14",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-04 08:07:36"
+        },
+        {
+            "name": "RAHMA ALIFIA PRAMESTI",
+            "nisn": "0086814950",
+            "grade_final": "87.14",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 13:58:57"
+        },
+        {
+            "name": "SITI NURUL CHAMIDAH",
+            "nisn": "0092801559",
+            "grade_final": "87.14",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:12:47"
+        },
+        {
+            "name": "ZELMA REGITA AZARA",
+            "nisn": "3087393651",
+            "grade_final": "87.13",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-04 08:09:37"
+        },
+        {
+            "name": "AVRILLA NASYA ADINI",
+            "nisn": "0091578792",
+            "grade_final": "87.06",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:22:26"
+        },
+        {
+            "name": "SAKHIRA NAZWA RETA",
+            "nisn": "0083158833",
+            "grade_final": "87.06",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:14:17"
+        },
+        {
+            "name": "Aulia Dila Agustina",
+            "nisn": "0088081324",
+            "grade_final": "87.04",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:12:00"
+        },
+        {
+            "name": "INSYIFA DWI ANGGREA",
+            "nisn": "0091637851",
+            "grade_final": "86.97",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:23:29"
+        },
+        {
+            "name": "YULISCA BILQIS SALWATUL AISY",
+            "nisn": "0087099909",
+            "grade_final": "86.96",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-04 13:08:31"
+        },
+        {
+            "name": "TALITA NUR AINI",
+            "nisn": "0098253730",
+            "grade_final": "86.94",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:15:51"
+        },
+        {
+            "name": "DAVA ADITYA NUR RIZQI",
+            "nisn": "0086057961",
+            "grade_final": "86.93",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:03:42"
+        },
+        {
+            "name": "MELITA NURFIDIYA",
+            "nisn": "0089686297",
+            "grade_final": "86.92",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 02:26:33"
+        },
+        {
+            "name": "PUTRI MELATISARI",
+            "nisn": "0089122371",
+            "grade_final": "86.91",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:09:17"
+        },
+        {
+            "name": "MELLY AULIA PUTRI",
+            "nisn": "0085099849",
+            "grade_final": "86.91",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:25:25"
+        },
+        {
+            "name": "EKA DHILA ZAHROTUS SHOFA",
+            "nisn": "3090886328",
+            "grade_final": "86.90",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:28:08"
+        },
+        {
+            "name": "HANDIKA PRATAMA PUTRA",
+            "nisn": "0087517328",
+            "grade_final": "86.90",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:39:55"
+        },
+        {
+            "name": "TIA INDAH NUR MULYA NENGSEH",
+            "nisn": "0096519399",
+            "grade_final": "86.90",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:17:49"
+        },
+        {
+            "name": "FITRIA NUR RAMADHANI",
+            "nisn": "0093592644",
+            "grade_final": "86.89",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:49:11"
+        },
+        {
+            "name": "AZARA FANI PUTRI",
+            "nisn": "0092051906",
+            "grade_final": "86.86",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:00:46"
+        },
+        {
+            "name": "ARDELIA AMANDA KURNIA PUTRI",
+            "nisn": "0082975854",
+            "grade_final": "86.83",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 18:54:05"
+        },
+        {
+            "name": "SAZKYA NANDA RACHMAWATI",
+            "nisn": "0095832897",
+            "grade_final": "86.83",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:25:23"
+        },
+        {
+            "name": "FITRI NAILATUL KHOBIBAH",
+            "nisn": "0089116685",
+            "grade_final": "86.81",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:34:27"
+        },
+        {
+            "name": "RIZQI PUTRI AMELIA",
+            "nisn": "0095604545",
+            "grade_final": "86.78",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-04 12:24:13"
+        },
+        {
+            "name": "Nadia Yessica Agustin",
+            "nisn": "3087600256",
+            "grade_final": "86.77",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-04 09:06:14"
+        },
+        {
+            "name": "Nadin Susiani",
+            "nisn": "0089051368",
+            "grade_final": "86.77",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 04:05:03"
+        },
+        {
+            "name": "INTAN AMANDA YULIA",
+            "nisn": "0096220223",
+            "grade_final": "86.76",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:06:23"
+        },
+        {
+            "name": "JIHAN MAYLANI SANTOSO",
+            "nisn": "3086026486",
+            "grade_final": "86.75",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-04 13:34:02"
+        },
+        {
+            "name": "FITRI DWI OKTAVIANI",
+            "nisn": "0081743213",
+            "grade_final": "86.74",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:29:43"
+        },
+        {
+            "name": "NUR AMALIA NINGTIAS",
+            "nisn": "0084658425",
+            "grade_final": "86.74",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:19:24"
+        },
+        {
+            "name": "NUR AULIA MUSFIROH",
+            "nisn": "0091332007",
+            "grade_final": "86.73",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 14:48:51"
+        },
+        {
+            "name": "KHINAN ARDINA SARI",
+            "nisn": "3091848013",
+            "grade_final": "86.70",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:19:01"
+        },
+        {
+            "name": "VANITA OCTAVIA ANGGRAENI",
+            "nisn": "0082861762",
+            "grade_final": "86.69",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 04:40:01"
+        },
+        {
+            "name": "SANDRA KUSUMA AGATHA",
+            "nisn": "0088976220",
+            "grade_final": "86.69",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 04:42:50"
+        },
+        {
+            "name": "DAVINA PRITA MAULIDA",
+            "nisn": "3096650710",
+            "grade_final": "86.66",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-04 10:09:32"
+        },
+        {
+            "name": "VIOLA FACHRU NISA",
+            "nisn": "0093968554",
+            "grade_final": "86.64",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:25:15"
+        },
+        {
+            "name": "DAFA ALFIANSYAH RAHARJO",
+            "nisn": "3084481542",
+            "grade_final": "86.63",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:12:49"
+        },
+        {
+            "name": "FINA AULIA ROHMAH",
+            "nisn": "0081204539",
+            "grade_final": "86.62",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-04 08:58:01"
+        },
+        {
+            "name": "AFGHAN SYAUQHI RAMDHAN",
+            "nisn": "3083116874",
+            "grade_final": "86.61",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-04 10:32:28"
+        },
+        {
+            "name": "NABILA FEBRIANTI SALSABILA",
+            "nisn": "0098570537",
+            "grade_final": "86.60",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 13:17:07"
+        },
+        {
+            "name": "SATRIA WARDANA",
+            "nisn": "0081534703",
+            "grade_final": "86.60",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:41:36"
+        },
+        {
+            "name": "AUFA FELYCIA DWI JAYATI",
+            "nisn": "0087261508",
+            "grade_final": "86.60",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:56:17"
+        },
+        {
+            "name": "Zafira Amelia Putri",
+            "nisn": "0088663109",
+            "grade_final": "86.60",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:57:06"
+        },
+        {
+            "name": "SITI AISYAH KHULLI JANNAH",
+            "nisn": "0095801285",
+            "grade_final": "86.59",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 03:44:27"
+        },
+        {
+            "name": "TARRA ARETA YAAFIAH",
+            "nisn": "3095120256",
+            "grade_final": "86.58",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 17:29:40"
+        },
+        {
+            "name": "AHMAD TEGAR MIFTAHUL ILMI",
+            "nisn": "3091451950",
+            "grade_final": "86.57",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 23:15:10"
+        },
+        {
+            "name": "NASYWA AURELLIA FITRI AMIRAH",
+            "nisn": "0092313471",
+            "grade_final": "86.56",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-04 12:32:00"
+        },
+        {
+            "name": "DWI SHINTA PUTRI",
+            "nisn": "0096024679",
+            "grade_final": "86.52",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 16:04:22"
+        },
+        {
+            "name": "AURA CAHYA IRANA TASYA",
+            "nisn": "0099007069",
+            "grade_final": "86.50",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:09:25"
+        },
+        {
+            "name": "NUR HILWANA AKHMAD",
+            "nisn": "0099125490",
+            "grade_final": "86.50",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:05:01"
+        },
+        {
+            "name": "RIFDA SETIYANI MAULIDIYA",
+            "nisn": "0083687132",
+            "grade_final": "86.50",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:43:59"
+        },
+        {
+            "name": "MUCHAMAD IQBAL FIRMANSYAH",
+            "nisn": "0095123138",
+            "grade_final": "86.48",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:10:22"
+        },
+        {
+            "name": "M ANGGA SAPUTRA NUR RAHMAT",
+            "nisn": "0083921097",
+            "grade_final": "86.46",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:30:25"
+        },
+        {
+            "name": "NAFISATUL MAULUDIYA",
+            "nisn": "0093615182",
+            "grade_final": "86.45",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:43:15"
+        },
+        {
+            "name": "TIRTA MAYANGSARI",
+            "nisn": "0099323824",
+            "grade_final": "86.41",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:29:59"
+        }
+    ]
+}

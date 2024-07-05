@@ -1,0 +1,829 @@
+{
+    "code": 200,
+    "status": "OK",
+    "meta": {
+        "total": 68,
+        "last_page": 1,
+        "from": 1,
+        "to": 1,
+        "last_update": "2024-07-04 21:08:08"
+    },
+    "data": [
+        {
+            "name": "LAILATUL FITRIYAH",
+            "nisn": "0089391743",
+            "grade_final": "87.98",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Tata Kecantikan Kulit dan Rambut"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:50:57"
+        },
+        {
+            "name": "SHAFFINATUN LAYLIYAH",
+            "nisn": "0086978769",
+            "grade_final": "87.68",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Tata Kecantikan Kulit dan Rambut"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:05:55"
+        },
+        {
+            "name": "Aulia Dwi Purwanti",
+            "nisn": "3089932522",
+            "grade_final": "87.43",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Tata Kecantikan Kulit dan Rambut"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:45:05"
+        },
+        {
+            "name": "NEVEN YUVIA VEXSIA",
+            "nisn": "0081192955",
+            "grade_final": "87.26",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Tata Kecantikan Kulit dan Rambut"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:45:53"
+        },
+        {
+            "name": "Gracia Sabrina Azzahra",
+            "nisn": "0089119806",
+            "grade_final": "87.03",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Tata Kecantikan Kulit dan Rambut"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:40:34"
+        },
+        {
+            "name": "SINTA DWI KARTIKA",
+            "nisn": "3097322387",
+            "grade_final": "87.00",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Tata Kecantikan Kulit dan Rambut"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:11:15"
+        },
+        {
+            "name": "RACHEL ISLAMINASYA",
+            "nisn": "0089896039",
+            "grade_final": "86.91",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Tata Kecantikan Kulit dan Rambut"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:04:43"
+        },
+        {
+            "name": "ANNA AM NUR INDAH",
+            "nisn": "0084489266",
+            "grade_final": "86.90",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Tata Kecantikan Kulit dan Rambut"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:27:49"
+        },
+        {
+            "name": "SHINTA KUNTARI",
+            "nisn": "0085517967",
+            "grade_final": "86.86",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Tata Kecantikan Kulit dan Rambut"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:15:19"
+        },
+        {
+            "name": "Galuh Ayu Dwi Putri Maharani",
+            "nisn": "3082412902",
+            "grade_final": "86.69",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Tata Kecantikan Kulit dan Rambut"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:49:06"
+        },
+        {
+            "name": "ADINDA DELLA PUSPITA ANJANI",
+            "nisn": "3088510064",
+            "grade_final": "86.63",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Tata Kecantikan Kulit dan Rambut"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:34:42"
+        },
+        {
+            "name": "ALMIRA BUDI RAFIDAH",
+            "nisn": "3083972934",
+            "grade_final": "86.62",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Tata Kecantikan Kulit dan Rambut"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:23:16"
+        },
+        {
+            "name": "RISCKA AMELLIA",
+            "nisn": "0084182949",
+            "grade_final": "86.58",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Tata Kecantikan Kulit dan Rambut"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:13:50"
+        },
+        {
+            "name": "MEYSHA PUTRI NADIRA",
+            "nisn": "3086699095",
+            "grade_final": "86.49",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Tata Kecantikan Kulit dan Rambut"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:21:54"
+        },
+        {
+            "name": "PASKALISA ARSITA NAIHELLY",
+            "nisn": "0089077185",
+            "grade_final": "86.44",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Tata Kecantikan Kulit dan Rambut"
+                }
+            },
+            "registration_created_at": "2024-07-03 20:46:44"
+        },
+        {
+            "name": "ERRIS FITRICYA RAHMA",
+            "nisn": "0089053464",
+            "grade_final": "86.25",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Tata Kecantikan Kulit dan Rambut"
+                }
+            },
+            "registration_created_at": "2024-07-03 16:48:58"
+        },
+        {
+            "name": "WIDYA DWI RAMADANI",
+            "nisn": "0092946554",
+            "grade_final": "86.16",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Tata Kecantikan Kulit dan Rambut"
+                }
+            },
+            "registration_created_at": "2024-07-03 20:18:35"
+        },
+        {
+            "name": "FITRI ROHMAWATI",
+            "nisn": "0082015688",
+            "grade_final": "86.04",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Tata Kecantikan Kulit dan Rambut"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:38:39"
+        },
+        {
+            "name": "NAZILA NOVIA ENJELITA",
+            "nisn": "0082562669",
+            "grade_final": "86.03",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Tata Kecantikan Kulit dan Rambut"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:07:59"
+        },
+        {
+            "name": "EKA ERLYTA NURHIDAYAH",
+            "nisn": "3098125583",
+            "grade_final": "85.99",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Tata Kecantikan Kulit dan Rambut"
+                }
+            },
+            "registration_created_at": "2024-07-04 13:10:28"
+        },
+        {
+            "name": "Aghnes Aleyschesya Margareta Thomas",
+            "nisn": "0093317426",
+            "grade_final": "85.98",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Tata Kecantikan Kulit dan Rambut"
+                }
+            },
+            "registration_created_at": "2024-07-03 11:04:10"
+        },
+        {
+            "name": "KHANZANIA KIRANA AZ ZAURA",
+            "nisn": "0083587931",
+            "grade_final": "85.92",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Tata Kecantikan Kulit dan Rambut"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:42:11"
+        },
+        {
+            "name": "JUWITA IZZA NURRAHMAH",
+            "nisn": "0088551137",
+            "grade_final": "85.88",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Tata Kecantikan Kulit dan Rambut"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:21:11"
+        },
+        {
+            "name": "WARDATUN NABILA",
+            "nisn": "0065573419",
+            "grade_final": "85.87",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Tata Kecantikan Kulit dan Rambut"
+                }
+            },
+            "registration_created_at": "2024-07-03 11:02:08"
+        },
+        {
+            "name": "ANANTASYA AJI PERMATA SARI",
+            "nisn": "0083006463",
+            "grade_final": "85.86",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Tata Kecantikan Kulit dan Rambut"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:23:29"
+        },
+        {
+            "name": "DEVITA AYU PRATIWI",
+            "nisn": "3084971259",
+            "grade_final": "85.84",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Tata Kecantikan Kulit dan Rambut"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:02:39"
+        },
+        {
+            "name": "PUTRI AYU PATRICIA",
+            "nisn": "3081396615",
+            "grade_final": "85.82",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Tata Kecantikan Kulit dan Rambut"
+                }
+            },
+            "registration_created_at": "2024-07-04 07:01:44"
+        },
+        {
+            "name": "SEPTYA FIRDA RAMADHANI",
+            "nisn": "0098533917",
+            "grade_final": "85.72",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Tata Kecantikan Kulit dan Rambut"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:43:20"
+        },
+        {
+            "name": "FATIHIMATUZ ZAHRO",
+            "nisn": "0099497535",
+            "grade_final": "85.67",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Tata Kecantikan Kulit dan Rambut"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:26:55"
+        },
+        {
+            "name": "SALSABILA TIARA ANINDYA",
+            "nisn": "3082467941",
+            "grade_final": "85.66",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Tata Kecantikan Kulit dan Rambut"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:07:24"
+        },
+        {
+            "name": "ICHA CAHYANI PUTRI",
+            "nisn": "3082217189",
+            "grade_final": "85.65",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Tata Kecantikan Kulit dan Rambut"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:32:34"
+        },
+        {
+            "name": "KEISYA AZZAHRA ARIYETA",
+            "nisn": "0098680516",
+            "grade_final": "85.59",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Tata Kecantikan Kulit dan Rambut"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:04:55"
+        },
+        {
+            "name": "ADINDA AURA DWI FEBRIANA",
+            "nisn": "3093248588",
+            "grade_final": "85.59",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Tata Kecantikan Kulit dan Rambut"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:21:46"
+        },
+        {
+            "name": "MAYLAFA IZZA FARADINA AKSANA",
+            "nisn": "3083394929",
+            "grade_final": "85.55",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Tata Kecantikan Kulit dan Rambut"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:28:21"
+        },
+        {
+            "name": "ANDIEN PUTRI ALICYA",
+            "nisn": "0092862327",
+            "grade_final": "85.53",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Tata Kecantikan Kulit dan Rambut"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:18:59"
+        },
+        {
+            "name": "KIRANI CINTA AGUSTINA",
+            "nisn": "3083788686",
+            "grade_final": "85.51",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Tata Kecantikan Kulit dan Rambut"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:11:38"
+        },
+        {
+            "name": "SITI CANTIKA MAHARANI",
+            "nisn": "3085013109",
+            "grade_final": "85.46",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Tata Kecantikan Kulit dan Rambut"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:34:08"
+        },
+        {
+            "name": "LINDA SETIAN NINGSIH",
+            "nisn": "0087626999",
+            "grade_final": "85.45",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Tata Kecantikan Kulit dan Rambut"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:13:54"
+        },
+        {
+            "name": "NAILAH ALIFIAH",
+            "nisn": "0084305099",
+            "grade_final": "85.43",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Tata Kecantikan Kulit dan Rambut"
+                }
+            },
+            "registration_created_at": "2024-07-04 07:06:40"
+        },
+        {
+            "name": "TALITA NOVIA ARDANA",
+            "nisn": "0071980419",
+            "grade_final": "85.40",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Tata Kecantikan Kulit dan Rambut"
+                }
+            },
+            "registration_created_at": "2024-07-03 12:57:30"
+        },
+        {
+            "name": "CLARA CANTIKA PUTRI ALDY",
+            "nisn": "3081409099",
+            "grade_final": "85.37",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Tata Kecantikan Kulit dan Rambut"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:20:08"
+        },
+        {
+            "name": "IMELDA RUSDIANA",
+            "nisn": "0097258628",
+            "grade_final": "85.36",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Tata Kecantikan Kulit dan Rambut"
+                }
+            },
+            "registration_created_at": "2024-07-04 07:27:26"
+        },
+        {
+            "name": "Maulia Artha Dinata",
+            "nisn": "0096236959",
+            "grade_final": "85.36",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Tata Kecantikan Kulit dan Rambut"
+                }
+            },
+            "registration_created_at": "2024-07-03 12:20:34"
+        },
+        {
+            "name": "ABRILIA AURORA ISROKHIS SURUR",
+            "nisn": "0089462708",
+            "grade_final": "85.35",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Tata Kecantikan Kulit dan Rambut"
+                }
+            },
+            "registration_created_at": "2024-07-04 13:11:00"
+        },
+        {
+            "name": "NASYA DHINI NABILLAH",
+            "nisn": "0081995144",
+            "grade_final": "85.34",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Tata Kecantikan Kulit dan Rambut"
+                }
+            },
+            "registration_created_at": "2024-07-03 02:41:29"
+        },
+        {
+            "name": "AISYATUL KHUBBIL IZZAH",
+            "nisn": "0085318348",
+            "grade_final": "85.32",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Tata Kecantikan Kulit dan Rambut"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:07:19"
+        },
+        {
+            "name": "FLADINA AUZIKA HENDRIYANTI",
+            "nisn": "0092978481",
+            "grade_final": "85.31",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Tata Kecantikan Kulit dan Rambut"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:36:07"
+        },
+        {
+            "name": "ANDIEN ZULFA RAHMADHANI",
+            "nisn": "0088523370",
+            "grade_final": "85.28",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Tata Kecantikan Kulit dan Rambut"
+                }
+            },
+            "registration_created_at": "2024-07-04 07:26:57"
+        },
+        {
+            "name": "INTAN NUR KUMALASARI",
+            "nisn": "0098874868",
+            "grade_final": "85.20",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Tata Kecantikan Kulit dan Rambut"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:59:10"
+        },
+        {
+            "name": "DWI RETNANING ARUM",
+            "nisn": "0083463136",
+            "grade_final": "85.18",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Tata Kecantikan Kulit dan Rambut"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:15:58"
+        },
+        {
+            "name": "NABILA NUR ROSYIDAH",
+            "nisn": "0098868045",
+            "grade_final": "85.17",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Tata Kecantikan Kulit dan Rambut"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:16:03"
+        },
+        {
+            "name": "CHAHAYA MANGGALI",
+            "nisn": "0084304553",
+            "grade_final": "85.15",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Tata Kecantikan Kulit dan Rambut"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:12:23"
+        },
+        {
+            "name": "KEISYA PUTRI ANASTASYA",
+            "nisn": "0091642774",
+            "grade_final": "85.12",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Tata Kecantikan Kulit dan Rambut"
+                }
+            },
+            "registration_created_at": "2024-07-03 12:51:49"
+        },
+        {
+            "name": "LIVIA FITRI GUNAWAN",
+            "nisn": "0083047679",
+            "grade_final": "85.09",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Tata Kecantikan Kulit dan Rambut"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:39:34"
+        },
+        {
+            "name": "NAYSILA NOVITA NOVIANA SARI",
+            "nisn": "0095045265",
+            "grade_final": "85.08",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Tata Kecantikan Kulit dan Rambut"
+                }
+            },
+            "registration_created_at": "2024-07-03 03:34:24"
+        },
+        {
+            "name": "Ayu Aprilia",
+            "nisn": "0085944718",
+            "grade_final": "85.08",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Tata Kecantikan Kulit dan Rambut"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:33:26"
+        },
+        {
+            "name": "RENATA",
+            "nisn": "0091156678",
+            "grade_final": "85.07",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Tata Kecantikan Kulit dan Rambut"
+                }
+            },
+            "registration_created_at": "2024-07-04 08:15:57"
+        },
+        {
+            "name": "NADINE NUR FATIMAH",
+            "nisn": "0098625608",
+            "grade_final": "85.06",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Tata Kecantikan Kulit dan Rambut"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:06:54"
+        },
+        {
+            "name": "PUTRI DWI AGUSTIN",
+            "nisn": "0099763536",
+            "grade_final": "85.05",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Tata Kecantikan Kulit dan Rambut"
+                }
+            },
+            "registration_created_at": "2024-07-03 04:34:19"
+        },
+        {
+            "name": "ALIFIA HAPSARI",
+            "nisn": "3097518272",
+            "grade_final": "85.03",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Tata Kecantikan Kulit dan Rambut"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:04:29"
+        },
+        {
+            "name": "ROSDIANA SABILA",
+            "nisn": "0087467811",
+            "grade_final": "85.02",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Tata Kecantikan Kulit dan Rambut"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:25:01"
+        },
+        {
+            "name": "OCTAVIA SELLA RAHMADHANI",
+            "nisn": "0074808044",
+            "grade_final": "84.99",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Tata Kecantikan Kulit dan Rambut"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:13:50"
+        },
+        {
+            "name": "TITA AUREL SALSABILLA",
+            "nisn": "3081282543",
+            "grade_final": "84.99",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Tata Kecantikan Kulit dan Rambut"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:56:09"
+        },
+        {
+            "name": "NOVA KRISTIANA",
+            "nisn": "0083385637",
+            "grade_final": "84.99",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Tata Kecantikan Kulit dan Rambut"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:25:17"
+        },
+        {
+            "name": "GRETA SHELIN AURA FALENTIN",
+            "nisn": "0091237665",
+            "grade_final": "84.97",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Tata Kecantikan Kulit dan Rambut"
+                }
+            },
+            "registration_created_at": "2024-07-03 12:44:35"
+        },
+        {
+            "name": "ALIKHA PUTRI WAHYU WARDHANI",
+            "nisn": "0086779020",
+            "grade_final": "84.90",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Tata Kecantikan Kulit dan Rambut"
+                }
+            },
+            "registration_created_at": "2024-07-03 11:15:20"
+        },
+        {
+            "name": "ISMA DWI ANGGRAINI",
+            "nisn": "3091790398",
+            "grade_final": "84.89",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Tata Kecantikan Kulit dan Rambut"
+                }
+            },
+            "registration_created_at": "2024-07-03 12:45:57"
+        },
+        {
+            "name": "VIRDA AYUDIYA SYAPUTRI",
+            "nisn": "0091431380",
+            "grade_final": "84.85",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Tata Kecantikan Kulit dan Rambut"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:27:01"
+        }
+    ]
+}

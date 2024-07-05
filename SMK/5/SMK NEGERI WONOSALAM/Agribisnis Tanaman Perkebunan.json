@@ -1,0 +1,481 @@
+{
+    "code": 200,
+    "status": "OK",
+    "meta": {
+        "total": 39,
+        "last_page": 1,
+        "from": 1,
+        "to": 1,
+        "last_update": "2024-07-04 21:08:08"
+    },
+    "data": [
+        {
+            "name": "NABILA NURHAYATI",
+            "nisn": "3081519727",
+            "grade_final": "86.80",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Agribisnis Tanaman Perkebunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:21:32"
+        },
+        {
+            "name": "DAVID ARIS AVIANTO",
+            "nisn": "3089087339",
+            "grade_final": "86.19",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Agribisnis Tanaman Perkebunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:15:17"
+        },
+        {
+            "name": "ALFIA NURMAWATI",
+            "nisn": "0093392223",
+            "grade_final": "86.00",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Agribisnis Tanaman Perkebunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:00:30"
+        },
+        {
+            "name": "CELLOMITHA ANDREA RIKWANSYACH PUTRI",
+            "nisn": "0083438835",
+            "grade_final": "85.89",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Agribisnis Tanaman Perkebunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:00:54"
+        },
+        {
+            "name": "ENDINO ALFAREZA MEYVIO",
+            "nisn": "0091925821",
+            "grade_final": "85.80",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Agribisnis Tanaman Perkebunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 13:22:03"
+        },
+        {
+            "name": "OKTAVIAN HARMIANTO",
+            "nisn": "0086401483",
+            "grade_final": "85.53",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Agribisnis Tanaman Perkebunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:26:27"
+        },
+        {
+            "name": "MOCHAMMAD FATHIR IBRAHIM",
+            "nisn": "0088273925",
+            "grade_final": "85.41",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Agribisnis Tanaman Perkebunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:41:58"
+        },
+        {
+            "name": "ISWIYANA ANGGRAENI",
+            "nisn": "0082131102",
+            "grade_final": "85.06",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Agribisnis Tanaman Perkebunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:53:12"
+        },
+        {
+            "name": "ARVITA ECHA FAUZIAH",
+            "nisn": "0092280931",
+            "grade_final": "84.90",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Agribisnis Tanaman Perkebunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:18:23"
+        },
+        {
+            "name": "Mohammad kompas Indra Bekti",
+            "nisn": "0077987177",
+            "grade_final": "84.60",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Agribisnis Tanaman Perkebunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:27:36"
+        },
+        {
+            "name": "DZIKRIA ALFAFA HILMA",
+            "nisn": "0098512083",
+            "grade_final": "84.27",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Agribisnis Tanaman Perkebunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:44:03"
+        },
+        {
+            "name": "SYAFA AYU AL FAJJERIA",
+            "nisn": "0098691572",
+            "grade_final": "83.84",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Agribisnis Tanaman Perkebunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:24:28"
+        },
+        {
+            "name": "DEVIKA BEIBY KURNIAWAN",
+            "nisn": "0083177415",
+            "grade_final": "83.52",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Agribisnis Tanaman Perkebunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 14:49:55"
+        },
+        {
+            "name": "FIRA NURANANDA",
+            "nisn": "3095125069",
+            "grade_final": "83.52",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Agribisnis Tanaman Perkebunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:10:58"
+        },
+        {
+            "name": "ROFIATIN",
+            "nisn": "3091092670",
+            "grade_final": "83.33",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Agribisnis Tanaman Perkebunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:12:37"
+        },
+        {
+            "name": "Miftayun Qizhuundita",
+            "nisn": "0096626217",
+            "grade_final": "83.29",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Agribisnis Tanaman Perkebunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:14:55"
+        },
+        {
+            "name": "SHOFIA SALSABILA",
+            "nisn": "0096851336",
+            "grade_final": "83.27",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Agribisnis Tanaman Perkebunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:55:57"
+        },
+        {
+            "name": "Fina Cylfia",
+            "nisn": "0084183167",
+            "grade_final": "83.25",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Agribisnis Tanaman Perkebunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:56:59"
+        },
+        {
+            "name": "FEBY ARIFATUZ ZALVA",
+            "nisn": "0082732209",
+            "grade_final": "83.20",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Agribisnis Tanaman Perkebunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:14:19"
+        },
+        {
+            "name": "Yulviana IfdaNuraini",
+            "nisn": "0087919946",
+            "grade_final": "83.13",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Agribisnis Tanaman Perkebunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:25:38"
+        },
+        {
+            "name": "QAIYAIV AFFRIA",
+            "nisn": "0084081753",
+            "grade_final": "82.65",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Agribisnis Tanaman Perkebunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:30:47"
+        },
+        {
+            "name": "DIKO SURYANANTO",
+            "nisn": "0085179293",
+            "grade_final": "82.59",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Agribisnis Tanaman Perkebunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:25:52"
+        },
+        {
+            "name": "Muhammad Alif Sumantri",
+            "nisn": "0092462178",
+            "grade_final": "82.54",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Agribisnis Tanaman Perkebunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:56:41"
+        },
+        {
+            "name": "YUANDA DAMAYANI",
+            "nisn": "0097529438",
+            "grade_final": "82.42",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Agribisnis Tanaman Perkebunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 17:25:30"
+        },
+        {
+            "name": "LESTARI",
+            "nisn": "0089516497",
+            "grade_final": "82.40",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Agribisnis Tanaman Perkebunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 17:47:14"
+        },
+        {
+            "name": "MUHAMAD FERDIANSYAH",
+            "nisn": "0083121369",
+            "grade_final": "82.33",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Agribisnis Tanaman Perkebunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:23:27"
+        },
+        {
+            "name": "MUHAMMAD BRAYEN INDRA PRATAMA",
+            "nisn": "3089328025",
+            "grade_final": "82.26",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Agribisnis Tanaman Perkebunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 04:01:56"
+        },
+        {
+            "name": "Vidi Yanda Valdiano",
+            "nisn": "0091077506",
+            "grade_final": "82.10",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Agribisnis Tanaman Perkebunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 12:30:07"
+        },
+        {
+            "name": "MUCHAMAD THYO BRYLIEANSYAH",
+            "nisn": "0086962744",
+            "grade_final": "82.10",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Agribisnis Tanaman Perkebunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:08:48"
+        },
+        {
+            "name": "YUNI DUWIYANTI",
+            "nisn": "0092808175",
+            "grade_final": "81.96",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Agribisnis Tanaman Perkebunan"
+                }
+            },
+            "registration_created_at": "2024-07-04 11:47:12"
+        },
+        {
+            "name": "NIKITA SETYOWATI",
+            "nisn": "0092125210",
+            "grade_final": "81.71",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Agribisnis Tanaman Perkebunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:04:01"
+        },
+        {
+            "name": "JESSICA AYU MAHARANI SEMSON",
+            "nisn": "0052741545",
+            "grade_final": "81.02",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Agribisnis Tanaman Perkebunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:37:01"
+        },
+        {
+            "name": "Julia Indah Maysila",
+            "nisn": "3095649108",
+            "grade_final": "81.00",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Agribisnis Tanaman Perkebunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 15:03:55"
+        },
+        {
+            "name": "VALENTINO JOSEP",
+            "nisn": "0094864004",
+            "grade_final": "80.77",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Agribisnis Tanaman Perkebunan"
+                }
+            },
+            "registration_created_at": "2024-07-04 09:20:37"
+        },
+        {
+            "name": "NOVA GIAN TRI FIRMANDA",
+            "nisn": "0089488138",
+            "grade_final": "80.73",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Agribisnis Tanaman Perkebunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 11:12:34"
+        },
+        {
+            "name": "MUHAMAD FARDAN",
+            "nisn": "0092361874",
+            "grade_final": "80.31",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Agribisnis Tanaman Perkebunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:34:36"
+        },
+        {
+            "name": "GALANG PANDU WINATA",
+            "nisn": "0092279863",
+            "grade_final": "79.70",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Agribisnis Tanaman Perkebunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:54:39"
+        },
+        {
+            "name": "DWI WULANDARI",
+            "nisn": "3095090159",
+            "grade_final": "79.59",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Agribisnis Tanaman Perkebunan"
+                }
+            },
+            "registration_created_at": "2024-07-04 00:23:29"
+        },
+        {
+            "name": "FEBRIAN DWI MAULANA",
+            "nisn": "0087811157",
+            "grade_final": "79.47",
+            "smk": {
+                "name": "SMK NEGERI WONOSALAM",
+                "major": {
+                    "name": "Agribisnis Tanaman Perkebunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:19:41"
+        }
+    ]
+}

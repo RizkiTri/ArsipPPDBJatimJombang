@@ -1,0 +1,829 @@
+{
+    "code": 200,
+    "status": "OK",
+    "meta": {
+        "total": 68,
+        "last_page": 1,
+        "from": 1,
+        "to": 1,
+        "last_update": "2024-07-04 21:08:08"
+    },
+    "data": [
+        {
+            "name": "EKA ANISAH PUTRI",
+            "nisn": "3090891350",
+            "grade_final": "87.85",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Bisnis Digital"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:08:35"
+        },
+        {
+            "name": "NABILA ALMIRA ATSKHA",
+            "nisn": "0092400964",
+            "grade_final": "87.53",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Bisnis Digital"
+                }
+            },
+            "registration_created_at": "2024-07-03 19:00:15"
+        },
+        {
+            "name": "VEGA LATIFATU DWI JAYANTI",
+            "nisn": "0088322810",
+            "grade_final": "87.32",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Bisnis Digital"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:57:38"
+        },
+        {
+            "name": "SINTA PRAMUNIA",
+            "nisn": "0085041074",
+            "grade_final": "87.22",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Bisnis Digital"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:52:34"
+        },
+        {
+            "name": "KARTIKA WULANDARI",
+            "nisn": "3083026355",
+            "grade_final": "87.11",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Bisnis Digital"
+                }
+            },
+            "registration_created_at": "2024-07-04 08:46:49"
+        },
+        {
+            "name": "KASIH INDAH NUR FADILA",
+            "nisn": "0082959084",
+            "grade_final": "87.09",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Bisnis Digital"
+                }
+            },
+            "registration_created_at": "2024-07-03 11:24:03"
+        },
+        {
+            "name": "THALITA PRATAMA",
+            "nisn": "0099695276",
+            "grade_final": "87.04",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Bisnis Digital"
+                }
+            },
+            "registration_created_at": "2024-07-03 11:33:05"
+        },
+        {
+            "name": "ALFIANA RAHMA DWI NURCAHYANI",
+            "nisn": "0084447624",
+            "grade_final": "86.90",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Bisnis Digital"
+                }
+            },
+            "registration_created_at": "2024-07-04 14:48:13"
+        },
+        {
+            "name": "Cinthiya Apriliani",
+            "nisn": "0091970557",
+            "grade_final": "86.89",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Bisnis Digital"
+                }
+            },
+            "registration_created_at": "2024-07-03 04:19:54"
+        },
+        {
+            "name": "ADITYA RAMADHAN",
+            "nisn": "3082626825",
+            "grade_final": "86.83",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Bisnis Digital"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:56:51"
+        },
+        {
+            "name": "SANTI PRAMUNIA",
+            "nisn": "0081603137",
+            "grade_final": "86.81",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Bisnis Digital"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:52:18"
+        },
+        {
+            "name": "ERVINA SANIATUL RAMADANI",
+            "nisn": "0098323903",
+            "grade_final": "86.77",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Bisnis Digital"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:01:57"
+        },
+        {
+            "name": "NAZORA HAMZANUDIN",
+            "nisn": "3098335305",
+            "grade_final": "86.74",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Bisnis Digital"
+                }
+            },
+            "registration_created_at": "2024-07-04 08:09:11"
+        },
+        {
+            "name": "FERINA APRILIA PUTRI",
+            "nisn": "0088613558",
+            "grade_final": "86.73",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Bisnis Digital"
+                }
+            },
+            "registration_created_at": "2024-07-03 17:19:46"
+        },
+        {
+            "name": "ALFITDA SALSABILLAH",
+            "nisn": "0087761264",
+            "grade_final": "86.72",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Bisnis Digital"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:33:03"
+        },
+        {
+            "name": "ALFI QHOSIYAH RAMADHANI",
+            "nisn": "0083893927",
+            "grade_final": "86.65",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Bisnis Digital"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:05:16"
+        },
+        {
+            "name": "KINANTI SEKAR HANUM",
+            "nisn": "0084922581",
+            "grade_final": "86.65",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Bisnis Digital"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:05:10"
+        },
+        {
+            "name": "AYU YULI RAHMA FITROTIN NIMAH",
+            "nisn": "0083595458",
+            "grade_final": "86.64",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Bisnis Digital"
+                }
+            },
+            "registration_created_at": "2024-07-03 02:41:57"
+        },
+        {
+            "name": "WAHYU PUTRI MEILANI",
+            "nisn": "0089158613",
+            "grade_final": "86.62",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Bisnis Digital"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:23:06"
+        },
+        {
+            "name": "NAURAH RIFDA AMELIA",
+            "nisn": "3092412514",
+            "grade_final": "86.60",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Bisnis Digital"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:13:12"
+        },
+        {
+            "name": "MARENA DWI ARIYANTI",
+            "nisn": "0095477201",
+            "grade_final": "86.57",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Bisnis Digital"
+                }
+            },
+            "registration_created_at": "2024-07-04 14:22:00"
+        },
+        {
+            "name": "SABELLA FITRIANI",
+            "nisn": "0094345070",
+            "grade_final": "86.54",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Bisnis Digital"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:30:12"
+        },
+        {
+            "name": "Mega Putri Rizkiani",
+            "nisn": "0084377939",
+            "grade_final": "86.52",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Bisnis Digital"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:59:36"
+        },
+        {
+            "name": "SASABILA CINDY LOVA",
+            "nisn": "0098474444",
+            "grade_final": "86.52",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Bisnis Digital"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:09:18"
+        },
+        {
+            "name": "FITRIA ISNAINI",
+            "nisn": "0082400204",
+            "grade_final": "86.52",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Bisnis Digital"
+                }
+            },
+            "registration_created_at": "2024-07-04 09:56:45"
+        },
+        {
+            "name": "GITA NIRMALA PUTRI",
+            "nisn": "0084669307",
+            "grade_final": "86.49",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Bisnis Digital"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:05:01"
+        },
+        {
+            "name": "CHELSE KEYSSA HANA SAPUTRI",
+            "nisn": "0086296615",
+            "grade_final": "86.48",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Bisnis Digital"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:04:47"
+        },
+        {
+            "name": "CITRA WIDIYA PUTRI",
+            "nisn": "0082897563",
+            "grade_final": "86.43",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Bisnis Digital"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:26:31"
+        },
+        {
+            "name": "SINDY DWI MEISYAH",
+            "nisn": "0088252517",
+            "grade_final": "86.38",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Bisnis Digital"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:51:15"
+        },
+        {
+            "name": "SITI NUR HIDAYAH",
+            "nisn": "0089656633",
+            "grade_final": "86.37",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Bisnis Digital"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:49:48"
+        },
+        {
+            "name": "QORIYATUL AINUR ROKHMAH",
+            "nisn": "0082880311",
+            "grade_final": "86.36",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Bisnis Digital"
+                }
+            },
+            "registration_created_at": "2024-07-04 05:57:51"
+        },
+        {
+            "name": "FIRZYA AYU LESTARI",
+            "nisn": "0085041036",
+            "grade_final": "86.35",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Bisnis Digital"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:08:55"
+        },
+        {
+            "name": "RIZQINA MUTIARA AZ ZAHRA",
+            "nisn": "3099644236",
+            "grade_final": "86.33",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Bisnis Digital"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:23:46"
+        },
+        {
+            "name": "Ardela Puspita",
+            "nisn": "0091017864",
+            "grade_final": "86.27",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Bisnis Digital"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:16:13"
+        },
+        {
+            "name": "Cindy Dwi Putri",
+            "nisn": "0083575843",
+            "grade_final": "86.26",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Bisnis Digital"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:25:38"
+        },
+        {
+            "name": "AURA CANDY SHEVANA SALSABILA",
+            "nisn": "3085214113",
+            "grade_final": "86.26",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Bisnis Digital"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:50:51"
+        },
+        {
+            "name": "MAULINA FADILLAH",
+            "nisn": "0089584735",
+            "grade_final": "86.25",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Bisnis Digital"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:39:32"
+        },
+        {
+            "name": "Syahfina Bima Santoso",
+            "nisn": "0098076775",
+            "grade_final": "86.25",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Bisnis Digital"
+                }
+            },
+            "registration_created_at": "2024-07-04 12:47:19"
+        },
+        {
+            "name": "FATHIR AHMAD RAMADHANI",
+            "nisn": "0087079994",
+            "grade_final": "86.23",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Bisnis Digital"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:28:31"
+        },
+        {
+            "name": "ANNIDA NUR ROHFIQ",
+            "nisn": "0092610679",
+            "grade_final": "86.22",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Bisnis Digital"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:05:15"
+        },
+        {
+            "name": "VERISKA INDAH WIYANKA PUTRI",
+            "nisn": "3087501638",
+            "grade_final": "86.22",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Bisnis Digital"
+                }
+            },
+            "registration_created_at": "2024-07-04 12:41:24"
+        },
+        {
+            "name": "MAWAR RACHMAWATI",
+            "nisn": "0087573032",
+            "grade_final": "86.21",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Bisnis Digital"
+                }
+            },
+            "registration_created_at": "2024-07-04 09:24:52"
+        },
+        {
+            "name": "APRILIA OKTAFIANA",
+            "nisn": "0094705537",
+            "grade_final": "86.21",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Bisnis Digital"
+                }
+            },
+            "registration_created_at": "2024-07-04 12:21:38"
+        },
+        {
+            "name": "TIARA AZALIA",
+            "nisn": "0095141503",
+            "grade_final": "86.21",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Bisnis Digital"
+                }
+            },
+            "registration_created_at": "2024-07-03 13:15:30"
+        },
+        {
+            "name": "ATTIKA RAHMA AZAHRA",
+            "nisn": "0086077279",
+            "grade_final": "86.17",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Bisnis Digital"
+                }
+            },
+            "registration_created_at": "2024-07-03 12:06:16"
+        },
+        {
+            "name": "ANAVELA OCTAVIA",
+            "nisn": "0089706782",
+            "grade_final": "86.16",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Bisnis Digital"
+                }
+            },
+            "registration_created_at": "2024-07-04 11:10:46"
+        },
+        {
+            "name": "RATIH KEKE LAUDIYAH",
+            "nisn": "0089899862",
+            "grade_final": "86.15",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Bisnis Digital"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:05:19"
+        },
+        {
+            "name": "ALYA NUR RAHMA",
+            "nisn": "0083997851",
+            "grade_final": "86.14",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Bisnis Digital"
+                }
+            },
+            "registration_created_at": "2024-07-03 16:03:08"
+        },
+        {
+            "name": "LAURA KHALIDA HANY RAMADHANI",
+            "nisn": "3086935016",
+            "grade_final": "86.14",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Bisnis Digital"
+                }
+            },
+            "registration_created_at": "2024-07-04 19:10:37"
+        },
+        {
+            "name": "FATIMAHTUZ ZAHRA",
+            "nisn": "0097705374",
+            "grade_final": "86.13",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Bisnis Digital"
+                }
+            },
+            "registration_created_at": "2024-07-03 13:13:26"
+        },
+        {
+            "name": "LUPIETA AULIYA ANANDITA",
+            "nisn": "0086399148",
+            "grade_final": "86.12",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Bisnis Digital"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:47:36"
+        },
+        {
+            "name": "DIFA PUSPARANI ULFIA PUTRI",
+            "nisn": "0085017415",
+            "grade_final": "86.12",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Bisnis Digital"
+                }
+            },
+            "registration_created_at": "2024-07-03 03:59:40"
+        },
+        {
+            "name": "VIANDA PRITA AULIA ADANA",
+            "nisn": "3084804547",
+            "grade_final": "86.11",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Bisnis Digital"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:14:29"
+        },
+        {
+            "name": "DAVINA ALMIRA SALSABILA RACHMAN",
+            "nisn": "0081252727",
+            "grade_final": "86.09",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Bisnis Digital"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:23:02"
+        },
+        {
+            "name": "SYIFA FAUZIAH MULYONO",
+            "nisn": "0091445057",
+            "grade_final": "86.08",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Bisnis Digital"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:49:23"
+        },
+        {
+            "name": "NISRINA ALYA KHAIRUNNISA",
+            "nisn": "0084373712",
+            "grade_final": "86.08",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Bisnis Digital"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:56:53"
+        },
+        {
+            "name": "LUCY AINUR ROFI",
+            "nisn": "0088657835",
+            "grade_final": "86.07",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Bisnis Digital"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:27:02"
+        },
+        {
+            "name": "VELISSA FIA AZZAHRA",
+            "nisn": "0083301050",
+            "grade_final": "86.05",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Bisnis Digital"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:01:39"
+        },
+        {
+            "name": "JESIKA RINDI PUSPITASARI",
+            "nisn": "0089126732",
+            "grade_final": "86.05",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Bisnis Digital"
+                }
+            },
+            "registration_created_at": "2024-07-04 08:58:47"
+        },
+        {
+            "name": "EILEN MAIDA ALVITA",
+            "nisn": "0097804505",
+            "grade_final": "86.04",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Bisnis Digital"
+                }
+            },
+            "registration_created_at": "2024-07-04 05:53:09"
+        },
+        {
+            "name": "NAIRA ULANSARI",
+            "nisn": "0086111067",
+            "grade_final": "86.02",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Bisnis Digital"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:28:53"
+        },
+        {
+            "name": "MIRA NUR ANGGRAINI",
+            "nisn": "0086580882",
+            "grade_final": "86.01",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Bisnis Digital"
+                }
+            },
+            "registration_created_at": "2024-07-04 07:31:30"
+        },
+        {
+            "name": "MUHAMMAD ABBAS FANANI",
+            "nisn": "3083418802",
+            "grade_final": "86.01",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Bisnis Digital"
+                }
+            },
+            "registration_created_at": "2024-07-04 19:45:31"
+        },
+        {
+            "name": "PUTRI MELSYA EKA PERTIWI",
+            "nisn": "0097077249",
+            "grade_final": "85.99",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Bisnis Digital"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:05:41"
+        },
+        {
+            "name": "YULI MAULIA SARI",
+            "nisn": "0092822972",
+            "grade_final": "85.98",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Bisnis Digital"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:08:45"
+        },
+        {
+            "name": "WAHYU LAILATUN NIKMAH",
+            "nisn": "3099707763",
+            "grade_final": "85.98",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Bisnis Digital"
+                }
+            },
+            "registration_created_at": "2024-07-04 12:09:14"
+        },
+        {
+            "name": "LIVIA HIDAYASHA",
+            "nisn": "0085382323",
+            "grade_final": "85.97",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Bisnis Digital"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:18:44"
+        },
+        {
+            "name": "SITI ZAROTUL AINIA",
+            "nisn": "0094689624",
+            "grade_final": "85.97",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Bisnis Digital"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:43:27"
+        }
+    ]
+}

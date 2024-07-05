@@ -1,0 +1,553 @@
+{
+    "code": 200,
+    "status": "OK",
+    "meta": {
+        "total": 45,
+        "last_page": 1,
+        "from": 1,
+        "to": 1,
+        "last_update": "2024-07-04 21:08:08"
+    },
+    "data": [
+        {
+            "name": "NAFSIYA ILMIATIN",
+            "nisn": "0095562129",
+            "grade_final": "87.07",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Agribisnis Pengolahan Hasil Pertanian"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:26:35"
+        },
+        {
+            "name": "ANADYA VIKA FIBRIYANTI",
+            "nisn": "0098600818",
+            "grade_final": "86.33",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Agribisnis Pengolahan Hasil Pertanian"
+                }
+            },
+            "registration_created_at": "2024-07-03 11:01:31"
+        },
+        {
+            "name": "YASMINE AULIA ZAHRA",
+            "nisn": "0094787540",
+            "grade_final": "86.32",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Agribisnis Pengolahan Hasil Pertanian"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:56:12"
+        },
+        {
+            "name": "ICHA MAYSHELLA",
+            "nisn": "0098064187",
+            "grade_final": "86.27",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Agribisnis Pengolahan Hasil Pertanian"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:11:37"
+        },
+        {
+            "name": "YAYANG DWI ANANTA",
+            "nisn": "0086506755",
+            "grade_final": "86.24",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Agribisnis Pengolahan Hasil Pertanian"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:32:59"
+        },
+        {
+            "name": "TASBITA BILQIS BILJANNAH",
+            "nisn": "0088466405",
+            "grade_final": "86.11",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Agribisnis Pengolahan Hasil Pertanian"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:44:20"
+        },
+        {
+            "name": "NAYLA IFATUL QOLBY",
+            "nisn": "0084099684",
+            "grade_final": "85.98",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Agribisnis Pengolahan Hasil Pertanian"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:20:49"
+        },
+        {
+            "name": "SOVIARA",
+            "nisn": "0081151507",
+            "grade_final": "85.97",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Agribisnis Pengolahan Hasil Pertanian"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:23:47"
+        },
+        {
+            "name": "MAHARANI ANJASWARI",
+            "nisn": "0099082225",
+            "grade_final": "85.93",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Agribisnis Pengolahan Hasil Pertanian"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:27:39"
+        },
+        {
+            "name": "ELMA SETIYOWATI",
+            "nisn": "0087118373",
+            "grade_final": "85.84",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Agribisnis Pengolahan Hasil Pertanian"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:15:44"
+        },
+        {
+            "name": "SALWA IZDIHAR ROSYIDAH",
+            "nisn": "3086376141",
+            "grade_final": "85.82",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Agribisnis Pengolahan Hasil Pertanian"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:05:51"
+        },
+        {
+            "name": "DELTA NOPUTRI",
+            "nisn": "0085333012",
+            "grade_final": "85.80",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Agribisnis Pengolahan Hasil Pertanian"
+                }
+            },
+            "registration_created_at": "2024-07-03 15:39:36"
+        },
+        {
+            "name": "MITA",
+            "nisn": "0086194905",
+            "grade_final": "85.70",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Agribisnis Pengolahan Hasil Pertanian"
+                }
+            },
+            "registration_created_at": "2024-07-03 12:04:07"
+        },
+        {
+            "name": "ALINI LAILA PUR RAHMADHANI",
+            "nisn": "0085989635",
+            "grade_final": "85.66",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Agribisnis Pengolahan Hasil Pertanian"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:46:50"
+        },
+        {
+            "name": "SETYO WATI WAHYUNING FITRI",
+            "nisn": "0081926574",
+            "grade_final": "85.47",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Agribisnis Pengolahan Hasil Pertanian"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:20:32"
+        },
+        {
+            "name": "MAHGFIROTUN JANNAH",
+            "nisn": "0086327240",
+            "grade_final": "85.44",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Agribisnis Pengolahan Hasil Pertanian"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:19:22"
+        },
+        {
+            "name": "FITRI",
+            "nisn": "3079450596",
+            "grade_final": "85.33",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Agribisnis Pengolahan Hasil Pertanian"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:24:48"
+        },
+        {
+            "name": "SILATUL IFTIROSYI",
+            "nisn": "0082941980",
+            "grade_final": "85.27",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Agribisnis Pengolahan Hasil Pertanian"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:37:07"
+        },
+        {
+            "name": "BUNGA SUSANTI",
+            "nisn": "0084008372",
+            "grade_final": "85.23",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Agribisnis Pengolahan Hasil Pertanian"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:10:14"
+        },
+        {
+            "name": "REVALINE VIRGIANE MUNIR",
+            "nisn": "0091808597",
+            "grade_final": "85.23",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Agribisnis Pengolahan Hasil Pertanian"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:08:31"
+        },
+        {
+            "name": "NEZA INDIRA PRATAMA PUTRI",
+            "nisn": "0085995842",
+            "grade_final": "85.17",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Agribisnis Pengolahan Hasil Pertanian"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:10:28"
+        },
+        {
+            "name": "DEWI ARIMBI",
+            "nisn": "0095769463",
+            "grade_final": "85.14",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Agribisnis Pengolahan Hasil Pertanian"
+                }
+            },
+            "registration_created_at": "2024-07-03 12:37:52"
+        },
+        {
+            "name": "RAHMA AULIA PUTRI",
+            "nisn": "3096216420",
+            "grade_final": "85.12",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Agribisnis Pengolahan Hasil Pertanian"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:14:36"
+        },
+        {
+            "name": "ZALFA ASHIFA SYAUQIAH",
+            "nisn": "3090965499",
+            "grade_final": "85.08",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Agribisnis Pengolahan Hasil Pertanian"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:54:08"
+        },
+        {
+            "name": "NADYA PUTRI DWI OKTAVIANA",
+            "nisn": "0081433713",
+            "grade_final": "85.05",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Agribisnis Pengolahan Hasil Pertanian"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:25:13"
+        },
+        {
+            "name": "KURNIA ANJAR PRATIWI",
+            "nisn": "0098819570",
+            "grade_final": "84.98",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Agribisnis Pengolahan Hasil Pertanian"
+                }
+            },
+            "registration_created_at": "2024-07-03 03:26:14"
+        },
+        {
+            "name": "DWI AGUSTI NUR LAYLY",
+            "nisn": "3081251433",
+            "grade_final": "84.97",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Agribisnis Pengolahan Hasil Pertanian"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:43:00"
+        },
+        {
+            "name": "AL CARRISA AUREL DHARA A",
+            "nisn": "0098125273",
+            "grade_final": "84.90",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Agribisnis Pengolahan Hasil Pertanian"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:10:27"
+        },
+        {
+            "name": "TENDRA GIRLLEN WIJAYA",
+            "nisn": "0085955536",
+            "grade_final": "84.84",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Agribisnis Pengolahan Hasil Pertanian"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:16:59"
+        },
+        {
+            "name": "ARIFATUL KAISA HAMASU",
+            "nisn": "0096623922",
+            "grade_final": "84.84",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Agribisnis Pengolahan Hasil Pertanian"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:52:09"
+        },
+        {
+            "name": "DINDA SURYA TRISNA DEWI",
+            "nisn": "0098155018",
+            "grade_final": "84.81",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Agribisnis Pengolahan Hasil Pertanian"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:09:25"
+        },
+        {
+            "name": "JULIES IKE PUTRI",
+            "nisn": "3096824045",
+            "grade_final": "84.80",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Agribisnis Pengolahan Hasil Pertanian"
+                }
+            },
+            "registration_created_at": "2024-07-03 11:25:39"
+        },
+        {
+            "name": "ZAHROTUS SITA",
+            "nisn": "0097039332",
+            "grade_final": "84.77",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Agribisnis Pengolahan Hasil Pertanian"
+                }
+            },
+            "registration_created_at": "2024-07-03 15:41:21"
+        },
+        {
+            "name": "MEISYA RAHMA PERTIWI",
+            "nisn": "0091584648",
+            "grade_final": "84.74",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Agribisnis Pengolahan Hasil Pertanian"
+                }
+            },
+            "registration_created_at": "2024-07-03 11:00:53"
+        },
+        {
+            "name": "LILA RUSIANTI",
+            "nisn": "0095357382",
+            "grade_final": "84.69",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Agribisnis Pengolahan Hasil Pertanian"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:21:39"
+        },
+        {
+            "name": "TENDRI GIRLLY WIJAYA",
+            "nisn": "0089146601",
+            "grade_final": "84.61",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Agribisnis Pengolahan Hasil Pertanian"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:18:46"
+        },
+        {
+            "name": "EKA NADILA RUDIANINGSIH",
+            "nisn": "3083598440",
+            "grade_final": "84.61",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Agribisnis Pengolahan Hasil Pertanian"
+                }
+            },
+            "registration_created_at": "2024-07-04 09:06:21"
+        },
+        {
+            "name": "IMELDA PUTRI ANTASARI",
+            "nisn": "0084225181",
+            "grade_final": "84.57",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Agribisnis Pengolahan Hasil Pertanian"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:26:16"
+        },
+        {
+            "name": "ANANDA FALENTINA",
+            "nisn": "0091308046",
+            "grade_final": "84.57",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Agribisnis Pengolahan Hasil Pertanian"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:12:49"
+        },
+        {
+            "name": "Feriska Maulidia",
+            "nisn": "3107535909",
+            "grade_final": "84.41",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Agribisnis Pengolahan Hasil Pertanian"
+                }
+            },
+            "registration_created_at": "2024-07-04 11:44:10"
+        },
+        {
+            "name": "Syafaatul mubarokah",
+            "nisn": "3090476096",
+            "grade_final": "84.40",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Agribisnis Pengolahan Hasil Pertanian"
+                }
+            },
+            "registration_created_at": "2024-07-03 22:27:29"
+        },
+        {
+            "name": "OKTAVIA WULAN FITRIYANA",
+            "nisn": "0085319727",
+            "grade_final": "84.39",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Agribisnis Pengolahan Hasil Pertanian"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:04:40"
+        },
+        {
+            "name": "ANGGUN WILDA SARI",
+            "nisn": "0085184555",
+            "grade_final": "84.28",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Agribisnis Pengolahan Hasil Pertanian"
+                }
+            },
+            "registration_created_at": "2024-07-04 11:28:14"
+        },
+        {
+            "name": "VEBYCHA LAVIGNY SEMMIA",
+            "nisn": "0087686344",
+            "grade_final": "84.22",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Agribisnis Pengolahan Hasil Pertanian"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:04:09"
+        },
+        {
+            "name": "REISYA TRI ANUGRAH",
+            "nisn": "0082345246",
+            "grade_final": "84.19",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Agribisnis Pengolahan Hasil Pertanian"
+                }
+            },
+            "registration_created_at": "2024-07-04 08:28:02"
+        }
+    ]
+}

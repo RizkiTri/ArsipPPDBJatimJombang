@@ -1,0 +1,469 @@
+{
+    "code": 200,
+    "status": "OK",
+    "meta": {
+        "total": 38,
+        "last_page": 1,
+        "from": 1,
+        "to": 1,
+        "last_update": "2024-07-04 21:08:08"
+    },
+    "data": [
+        {
+            "name": "RAHMAH NABILA",
+            "nisn": "0091462685",
+            "grade_final": "87.90",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:43:11"
+        },
+        {
+            "name": "ADILA NUR SYAFIRAH",
+            "nisn": "0081243017",
+            "grade_final": "86.53",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:46:33"
+        },
+        {
+            "name": "GEBY EKA RAMADHANI",
+            "nisn": "0082821837",
+            "grade_final": "86.00",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:27:59"
+        },
+        {
+            "name": "NUR ANISSA MEYZAHRA",
+            "nisn": "0092593757",
+            "grade_final": "85.95",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:10:21"
+        },
+        {
+            "name": "RAHAYU AISYAH NUR CAHAYA",
+            "nisn": "0089118103",
+            "grade_final": "84.90",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:47:12"
+        },
+        {
+            "name": "NADIA RESTY KURNIA",
+            "nisn": "0092416117",
+            "grade_final": "84.88",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 11:04:22"
+        },
+        {
+            "name": "EVA EVELINA",
+            "nisn": "0091955330",
+            "grade_final": "84.81",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:54:52"
+        },
+        {
+            "name": "SALSABILA VALENTINA",
+            "nisn": "3090148952",
+            "grade_final": "84.61",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 13:56:59"
+        },
+        {
+            "name": "Lyan Faizza Putri",
+            "nisn": "0082282506",
+            "grade_final": "84.60",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:03:17"
+        },
+        {
+            "name": "Rhevina Felisaputri",
+            "nisn": "0083796537",
+            "grade_final": "84.59",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:26:56"
+        },
+        {
+            "name": "NISAUL KHUMAIROH",
+            "nisn": "3084543055",
+            "grade_final": "84.33",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:28:21"
+        },
+        {
+            "name": "BALGIS JANI KUSUMA",
+            "nisn": "0092850538",
+            "grade_final": "84.26",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:11:12"
+        },
+        {
+            "name": "NOOR SOFYANINGRUM",
+            "nisn": "0082265574",
+            "grade_final": "84.25",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:18:58"
+        },
+        {
+            "name": "ANA AFANTI",
+            "nisn": "0086269572",
+            "grade_final": "84.24",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:55:18"
+        },
+        {
+            "name": "NAJWA MEY ANGGRIA",
+            "nisn": "0099004278",
+            "grade_final": "84.23",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:15:20"
+        },
+        {
+            "name": "MUSTAGHFIROH",
+            "nisn": "3081716042",
+            "grade_final": "84.17",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:13:35"
+        },
+        {
+            "name": "ZUMROTUN NISYA",
+            "nisn": "3093209867",
+            "grade_final": "84.16",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:36:43"
+        },
+        {
+            "name": "EKA SRI WAHYUNI",
+            "nisn": "0089451719",
+            "grade_final": "83.99",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:34:36"
+        },
+        {
+            "name": "LAILATUL RAHMA MULYATIN",
+            "nisn": "0097228570",
+            "grade_final": "83.79",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 03:14:57"
+        },
+        {
+            "name": "RAFINDI FEBIYANTI",
+            "nisn": "0089385067",
+            "grade_final": "83.71",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:31:13"
+        },
+        {
+            "name": "TIARA NAVINA PUTRI",
+            "nisn": "3099423822",
+            "grade_final": "83.52",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:33:49"
+        },
+        {
+            "name": "KAYLA PUTRI FEBRIANA",
+            "nisn": "0107959474",
+            "grade_final": "83.45",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:02:12"
+        },
+        {
+            "name": "ZAKIYATUL JANNAH AZZAHRA",
+            "nisn": "0081435904",
+            "grade_final": "83.19",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:19:14"
+        },
+        {
+            "name": "NURUL AWALI FAUZIAH",
+            "nisn": "3080472875",
+            "grade_final": "83.19",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:39:29"
+        },
+        {
+            "name": "Salwa Salsabila",
+            "nisn": "0095715945",
+            "grade_final": "83.16",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:56:58"
+        },
+        {
+            "name": "PRASTIKA RAHAYU",
+            "nisn": "3096225671",
+            "grade_final": "83.14",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:07:33"
+        },
+        {
+            "name": "PURWATI AYUNINGTIAS",
+            "nisn": "0065930289",
+            "grade_final": "82.99",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-04 16:18:31"
+        },
+        {
+            "name": "ANDINTA WISAVANI",
+            "nisn": "0085533697",
+            "grade_final": "82.92",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 03:11:47"
+        },
+        {
+            "name": "NAYLA ROUDHOTUL FITRIYAH",
+            "nisn": "0082935840",
+            "grade_final": "82.91",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:52:34"
+        },
+        {
+            "name": "MEY CANDRA DEWI",
+            "nisn": "0086017097",
+            "grade_final": "82.88",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:08:51"
+        },
+        {
+            "name": "DHIKA ARGA ARDIANSYAH",
+            "nisn": "0082315011",
+            "grade_final": "82.64",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 02:07:02"
+        },
+        {
+            "name": "Revi Agustin Anggraini",
+            "nisn": "3080432917",
+            "grade_final": "82.59",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:27:06"
+        },
+        {
+            "name": "MAULIDA NUR LAILI",
+            "nisn": "0088761795",
+            "grade_final": "82.52",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 04:46:07"
+        },
+        {
+            "name": "MOHAMMAD ADI SUPRIANTO",
+            "nisn": "0092284901",
+            "grade_final": "82.37",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 11:54:13"
+        },
+        {
+            "name": "NAFILATUL FIRDAUS",
+            "nisn": "0088117883",
+            "grade_final": "82.31",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 04:49:48"
+        },
+        {
+            "name": "PAUNDRA ILHAM PUTRA ANANTA",
+            "nisn": "0098164066",
+            "grade_final": "82.28",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 18:30:37"
+        },
+        {
+            "name": "MUHAMMAD ZIDNI ILMAN NAFIA",
+            "nisn": "0089605302",
+            "grade_final": "82.09",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-04 09:08:48"
+        },
+        {
+            "name": "Rezky Adelia Putri",
+            "nisn": "3090055521",
+            "grade_final": "82.07",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Desain dan Produksi Busana"
+                }
+            },
+            "registration_created_at": "2024-07-03 14:40:38"
+        }
+    ]
+}

@@ -1,0 +1,277 @@
+{
+    "code": 200,
+    "status": "OK",
+    "meta": {
+        "total": 22,
+        "last_page": 1,
+        "from": 1,
+        "to": 1,
+        "last_update": "2024-07-04 21:08:08"
+    },
+    "data": [
+        {
+            "name": "Laksamana Hilmy Pandika",
+            "nisn": "0094968328",
+            "grade_final": "89.50",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Ototronik"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:06:53"
+        },
+        {
+            "name": "AKBAR RIZKY NUGROHO",
+            "nisn": "3097090213",
+            "grade_final": "86.28",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Ototronik"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:36:07"
+        },
+        {
+            "name": "MOH LUKMAN KHOIRUDIN",
+            "nisn": "3091118542",
+            "grade_final": "85.74",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Ototronik"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:04:33"
+        },
+        {
+            "name": "FIKTOR INDRA AHIMSAH",
+            "nisn": "0093806959",
+            "grade_final": "85.04",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Ototronik"
+                }
+            },
+            "registration_created_at": "2024-07-04 11:18:57"
+        },
+        {
+            "name": "MUHAMAD NIKO PRATAMA",
+            "nisn": "0095585725",
+            "grade_final": "84.94",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Ototronik"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:14:43"
+        },
+        {
+            "name": "VICHO RIVALDO JONATHAN VALENTINO",
+            "nisn": "3087623067",
+            "grade_final": "84.89",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Ototronik"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:36:30"
+        },
+        {
+            "name": "DANDY ADINGLANA TRIWINATA",
+            "nisn": "0089049305",
+            "grade_final": "84.86",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Ototronik"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:03:46"
+        },
+        {
+            "name": "MIFTAH KHOIRUL AZIZ",
+            "nisn": "0091161660",
+            "grade_final": "84.77",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Ototronik"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:57:36"
+        },
+        {
+            "name": "NANDANA RINOV ADYATMA",
+            "nisn": "0084591149",
+            "grade_final": "84.73",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Ototronik"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:34:32"
+        },
+        {
+            "name": "NUR ACHMAD ADITIYA PRATAMA",
+            "nisn": "0083074582",
+            "grade_final": "84.66",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Ototronik"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:12:42"
+        },
+        {
+            "name": "Afrian Dimas Pratama",
+            "nisn": "0092390996",
+            "grade_final": "84.65",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Ototronik"
+                }
+            },
+            "registration_created_at": "2024-07-04 14:35:54"
+        },
+        {
+            "name": "MUHAMMAD REVA SETIAWAN",
+            "nisn": "0082194537",
+            "grade_final": "84.59",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Ototronik"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:19:46"
+        },
+        {
+            "name": "ACHMAD HERU ARDIANSYAH",
+            "nisn": "0085400452",
+            "grade_final": "84.58",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Ototronik"
+                }
+            },
+            "registration_created_at": "2024-07-04 20:59:52"
+        },
+        {
+            "name": "MUKHAMAD YUANSYAH RAHADIAN ZAFRAN",
+            "nisn": "3095195757",
+            "grade_final": "84.48",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Ototronik"
+                }
+            },
+            "registration_created_at": "2024-07-04 08:37:29"
+        },
+        {
+            "name": "ARYA FARDHAN PUTRA",
+            "nisn": "0084227304",
+            "grade_final": "84.41",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Ototronik"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:35:43"
+        },
+        {
+            "name": "AHMAD ALI FAHRUDIN",
+            "nisn": "3081569777",
+            "grade_final": "84.41",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Ototronik"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:50:47"
+        },
+        {
+            "name": "MUHAMMAD FERDY PRADWIANSYAH",
+            "nisn": "0096109144",
+            "grade_final": "84.31",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Ototronik"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:19:37"
+        },
+        {
+            "name": "DANU ARDIANATA",
+            "nisn": "0093062709",
+            "grade_final": "84.25",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Ototronik"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:20:49"
+        },
+        {
+            "name": "SOFYAN MAULANA",
+            "nisn": "0091983731",
+            "grade_final": "84.18",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Ototronik"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:08:31"
+        },
+        {
+            "name": "MUHAMMAD MAWARDI FAJAR KAMIL",
+            "nisn": "0074872654",
+            "grade_final": "84.12",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Ototronik"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:54:40"
+        },
+        {
+            "name": "DEO CHANDRA ARDIANTO",
+            "nisn": "0084886908",
+            "grade_final": "84.12",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Ototronik"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:18:11"
+        },
+        {
+            "name": "FAJAR YOGI FERDIANSAH",
+            "nisn": "0089466697",
+            "grade_final": "84.08",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Ototronik"
+                }
+            },
+            "registration_created_at": "2024-07-04 18:14:48"
+        }
+    ]
+}

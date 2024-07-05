@@ -1,0 +1,553 @@
+{
+    "code": 200,
+    "status": "OK",
+    "meta": {
+        "total": 45,
+        "last_page": 1,
+        "from": 1,
+        "to": 1,
+        "last_update": "2024-07-04 21:08:08"
+    },
+    "data": [
+        {
+            "name": "AHMAD PRASETYO",
+            "nisn": "0084872738",
+            "grade_final": "86.55",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:10:58"
+        },
+        {
+            "name": "Meutia Dwi Nur Aulia Sutrisno",
+            "nisn": "0084854558",
+            "grade_final": "86.24",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:06:55"
+        },
+        {
+            "name": "ALFINO SALIM BRAWIJAYA",
+            "nisn": "0082087832",
+            "grade_final": "85.61",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 11:25:56"
+        },
+        {
+            "name": "MUHAMMAD ZAELANI YAHYA ",
+            "nisn": "3098529105",
+            "grade_final": "85.41",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:34:16"
+        },
+        {
+            "name": "MUHAMMAD FIKRI ALIFIANTO",
+            "nisn": "3099402767",
+            "grade_final": "85.36",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 04:10:58"
+        },
+        {
+            "name": "AURELIA KIARA ARISA PUTRI",
+            "nisn": "0096679693",
+            "grade_final": "85.36",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 12:22:03"
+        },
+        {
+            "name": "NOVITA SALSABILLAH",
+            "nisn": "3085464021",
+            "grade_final": "85.34",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:37:22"
+        },
+        {
+            "name": "JIBRIL EINSTEIN",
+            "nisn": "0099745377",
+            "grade_final": "85.25",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:07:29"
+        },
+        {
+            "name": "ARYA BAGUS LESMANA",
+            "nisn": "0099026160",
+            "grade_final": "84.97",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:08:37"
+        },
+        {
+            "name": "ZIDNI ILMA SYURUQ KHASANAH",
+            "nisn": "0092588792",
+            "grade_final": "84.94",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:20:31"
+        },
+        {
+            "name": "MUHAMMAD FARIEL RAMADHANI",
+            "nisn": "0083664907",
+            "grade_final": "84.90",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 20:15:06"
+        },
+        {
+            "name": "MUHAMMAD ALFATH HAMDANI",
+            "nisn": "0099462689",
+            "grade_final": "84.86",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:28:55"
+        },
+        {
+            "name": "GATHAN HAFSHAH HILLABY",
+            "nisn": "3090299677",
+            "grade_final": "84.79",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:51:50"
+        },
+        {
+            "name": "MOCHAMAD YUSRON",
+            "nisn": "0091351661",
+            "grade_final": "84.76",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:12:39"
+        },
+        {
+            "name": "Lauchyen Kinata",
+            "nisn": "0097301823",
+            "grade_final": "84.68",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:04:01"
+        },
+        {
+            "name": "SERLI SYAFARA",
+            "nisn": "0098230400",
+            "grade_final": "84.63",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:31:47"
+        },
+        {
+            "name": "GANSAR GIRING RAMADHAN",
+            "nisn": "0099992675",
+            "grade_final": "84.60",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:31:06"
+        },
+        {
+            "name": "RENDY AUREL FIRNANDA",
+            "nisn": "0089278429",
+            "grade_final": "84.58",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:37:05"
+        },
+        {
+            "name": "SHOFIYUDIN FAUNDRA SARMA",
+            "nisn": "0086610626",
+            "grade_final": "84.56",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:09:08"
+        },
+        {
+            "name": "ABDULLAH MAULANA ISKHAQ",
+            "nisn": "3083721727",
+            "grade_final": "84.52",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:18:11"
+        },
+        {
+            "name": "ERIK ANGGARA PUTRA",
+            "nisn": "0086529342",
+            "grade_final": "84.49",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-04 14:31:19"
+        },
+        {
+            "name": "MOCH IBNU HAMZAH",
+            "nisn": "0084852295",
+            "grade_final": "84.43",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:54:12"
+        },
+        {
+            "name": "MOHAMAD IKHSAN FARIS HIDAYATULLAH",
+            "nisn": "3095073349",
+            "grade_final": "84.42",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:05:36"
+        },
+        {
+            "name": "REIVAN WAHYU BRAM SASTRIO",
+            "nisn": "3091402453",
+            "grade_final": "84.34",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-04 18:09:52"
+        },
+        {
+            "name": "SEBTIARAHMA LEONARDO",
+            "nisn": "0096957279",
+            "grade_final": "84.33",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:14:24"
+        },
+        {
+            "name": "ELFAIZ MAULANA HABIB",
+            "nisn": "0083922111",
+            "grade_final": "84.31",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 04:13:05"
+        },
+        {
+            "name": "TEGUH FIRMANSYAH",
+            "nisn": "0084205161",
+            "grade_final": "84.23",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:08:41"
+        },
+        {
+            "name": "MUHAMMAD ANDIKA NOFIANTO",
+            "nisn": "3087645829",
+            "grade_final": "84.23",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:21:09"
+        },
+        {
+            "name": "MUHAMMAD IRFAN MISBAHUDDIN",
+            "nisn": "0094147920",
+            "grade_final": "84.19",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:11:55"
+        },
+        {
+            "name": "ANGGA EVAN ADI SAPUTRA",
+            "nisn": "3093283124",
+            "grade_final": "84.14",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:14:46"
+        },
+        {
+            "name": "SIMA ANGELINA DWIYANTI",
+            "nisn": "0095937607",
+            "grade_final": "84.14",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-04 07:48:06"
+        },
+        {
+            "name": "SHELVIN ANGIFO",
+            "nisn": "0098057820",
+            "grade_final": "84.10",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 12:23:38"
+        },
+        {
+            "name": "LUKI JALALLUDIN IBRAHIM",
+            "nisn": "0089777789",
+            "grade_final": "84.06",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:45:58"
+        },
+        {
+            "name": "RURI FIANTI MAULIDA",
+            "nisn": "0085271839",
+            "grade_final": "84.05",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:10:32"
+        },
+        {
+            "name": "JIHAN ELLENSI AYUDIA",
+            "nisn": "0087174396",
+            "grade_final": "84.05",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 13:08:18"
+        },
+        {
+            "name": "LILIK NUR HAYATI",
+            "nisn": "0097748810",
+            "grade_final": "84.05",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:50:26"
+        },
+        {
+            "name": "Ahmad Nurzainuri",
+            "nisn": "0097774134",
+            "grade_final": "84.03",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:15:31"
+        },
+        {
+            "name": "ADITYA LESMANA",
+            "nisn": "3095066454",
+            "grade_final": "84.03",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:40:51"
+        },
+        {
+            "name": "REYVALDI DWI BASTIAN",
+            "nisn": "0085792099",
+            "grade_final": "83.99",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:32:49"
+        },
+        {
+            "name": "FANY NABIL SETIAWAN",
+            "nisn": "0083639381",
+            "grade_final": "83.99",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 19:44:15"
+        },
+        {
+            "name": "WILDAN APRILIANTO",
+            "nisn": "0097956979",
+            "grade_final": "83.98",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:37:23"
+        },
+        {
+            "name": "DIMAS AMRULLOH",
+            "nisn": "0092863068",
+            "grade_final": "83.97",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 11:36:58"
+        },
+        {
+            "name": "DIAZ ALIF HAKIMI",
+            "nisn": "0098831126",
+            "grade_final": "83.94",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:20:57"
+        },
+        {
+            "name": "MOCHAMMAD ADITYA RAMADHANI",
+            "nisn": "0091590787",
+            "grade_final": "83.93",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:19:46"
+        },
+        {
+            "name": "DANIEL RANDY FERDIANSYAH",
+            "nisn": "0084378164",
+            "grade_final": "83.93",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Desain Pemodelan dan Informasi Bangunan"
+                }
+            },
+            "registration_created_at": "2024-07-04 09:40:40"
+        }
+    ]
+}

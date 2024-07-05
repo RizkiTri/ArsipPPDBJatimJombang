@@ -1,0 +1,1117 @@
+{
+    "code": 200,
+    "status": "OK",
+    "meta": {
+        "total": 92,
+        "last_page": 1,
+        "from": 1,
+        "to": 1,
+        "last_update": "2024-07-04 21:08:08"
+    },
+    "data": [
+        {
+            "name": "NAURA YASMINE AZZAHRA",
+            "nisn": "3087644206",
+            "grade_final": "88.51",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:03:55"
+        },
+        {
+            "name": "AURA MEDINA YOSTI PUTRI",
+            "nisn": "0093115810",
+            "grade_final": "88.05",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 14:21:03"
+        },
+        {
+            "name": "MOHAMAD ROFIF ALI",
+            "nisn": "3084470753",
+            "grade_final": "88.04",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:50:06"
+        },
+        {
+            "name": "RAHMATULLAH PRADANA BAYUAJI",
+            "nisn": "0088882765",
+            "grade_final": "87.92",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:05:02"
+        },
+        {
+            "name": "NAILIL MUNA",
+            "nisn": "3096774246",
+            "grade_final": "87.74",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 18:07:07"
+        },
+        {
+            "name": "Charisa Putri Aulia",
+            "nisn": "0095190027",
+            "grade_final": "87.68",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-04 19:21:03"
+        },
+        {
+            "name": "NIKE AYU DIYA SARI",
+            "nisn": "3088859921",
+            "grade_final": "87.61",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 02:35:40"
+        },
+        {
+            "name": "MUHAMMAD OZZI SAPUTRA",
+            "nisn": "3084055973",
+            "grade_final": "87.57",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:13:17"
+        },
+        {
+            "name": "MAZIDATUL AMALIA HASANAH",
+            "nisn": "3081853708",
+            "grade_final": "87.38",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:34:31"
+        },
+        {
+            "name": "RACHEL WIDYA ANNAFI",
+            "nisn": "3096421995",
+            "grade_final": "87.35",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:16:42"
+        },
+        {
+            "name": "ANGGISYA NADYN LAKSITA MAHESWARI PUTRI",
+            "nisn": "0091711777",
+            "grade_final": "87.32",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:11:14"
+        },
+        {
+            "name": "GLADIS MELANI PUTRI",
+            "nisn": "0082336794",
+            "grade_final": "87.28",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 11:05:12"
+        },
+        {
+            "name": "ANYELIR CINTANA MAY IMMANUELLA",
+            "nisn": "0093792954",
+            "grade_final": "87.14",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:26:40"
+        },
+        {
+            "name": "FAREL AZMY FACHRIAN",
+            "nisn": "3086977499",
+            "grade_final": "87.11",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:07:42"
+        },
+        {
+            "name": "MICHELLE KEYLA FLORENSIA",
+            "nisn": "0098053827",
+            "grade_final": "87.06",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:17:44"
+        },
+        {
+            "name": "CINDI AULIA",
+            "nisn": "0088326205",
+            "grade_final": "87.01",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:05:29"
+        },
+        {
+            "name": "FARAH ANINDYA AZHARIN",
+            "nisn": "3082316141",
+            "grade_final": "86.95",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-04 09:42:17"
+        },
+        {
+            "name": "AISYAH NAFA AVRILIA",
+            "nisn": "3099845890",
+            "grade_final": "86.95",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:29:04"
+        },
+        {
+            "name": "NESYHA NOVA ERISFIANTI",
+            "nisn": "0095756257",
+            "grade_final": "86.94",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 20:21:10"
+        },
+        {
+            "name": "SINTA ALFIRROHMAH",
+            "nisn": "3099647296",
+            "grade_final": "86.94",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:39:36"
+        },
+        {
+            "name": "AILSA AMIRAH",
+            "nisn": "0092988203",
+            "grade_final": "86.87",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:04:07"
+        },
+        {
+            "name": "M ARZAQI WILDAN AKBAR",
+            "nisn": "0092644364",
+            "grade_final": "86.69",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-04 19:03:09"
+        },
+        {
+            "name": "FAAIZAH GHANIYYA TSAURI",
+            "nisn": "0097751629",
+            "grade_final": "86.68",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 13:12:53"
+        },
+        {
+            "name": "TAMARA CINTYA BELLA",
+            "nisn": "0085476724",
+            "grade_final": "86.67",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 13:35:15"
+        },
+        {
+            "name": "ADI FIRMANSYAH",
+            "nisn": "0071455348",
+            "grade_final": "86.67",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 20:22:02"
+        },
+        {
+            "name": "RIZKI AGUNG SYAHPUTRA",
+            "nisn": "3080537425",
+            "grade_final": "86.65",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:39:52"
+        },
+        {
+            "name": "ELSA MAYANGSARI",
+            "nisn": "0099603391",
+            "grade_final": "86.64",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 04:50:27"
+        },
+        {
+            "name": "FEBIOLA KIRANA BERYL",
+            "nisn": "0084857157",
+            "grade_final": "86.62",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:03:47"
+        },
+        {
+            "name": "DAMARA ENESIA PASA",
+            "nisn": "0091272026",
+            "grade_final": "86.57",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 16:41:52"
+        },
+        {
+            "name": "ALFA ALIA RAHMAH",
+            "nisn": "3098337009",
+            "grade_final": "86.56",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-04 11:08:37"
+        },
+        {
+            "name": "FURQONUL AZIZ",
+            "nisn": "0076703515",
+            "grade_final": "86.55",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:13:49"
+        },
+        {
+            "name": "ANDINI AURIZA SHATIFA",
+            "nisn": "0087902121",
+            "grade_final": "86.54",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:08:38"
+        },
+        {
+            "name": "FERICHA CHERYL FERNANDA",
+            "nisn": "0086801419",
+            "grade_final": "86.53",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:04:00"
+        },
+        {
+            "name": "ERLINA TRISWANDA SARI",
+            "nisn": "0081732491",
+            "grade_final": "86.51",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-04 05:55:24"
+        },
+        {
+            "name": "RASYA ADHIYA RAHMA",
+            "nisn": "3088155738",
+            "grade_final": "86.51",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-04 13:01:19"
+        },
+        {
+            "name": "ACHMAD WILDAN MAULANA",
+            "nisn": "0091008891",
+            "grade_final": "86.50",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:33:05"
+        },
+        {
+            "name": "ALIA NAFARINDA",
+            "nisn": "0085979348",
+            "grade_final": "86.47",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:09:45"
+        },
+        {
+            "name": "Dina Wulan Sari",
+            "nisn": "3099151021",
+            "grade_final": "86.46",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:55:36"
+        },
+        {
+            "name": "FADLILAH KHAFIDHOTUL ILMI",
+            "nisn": "0084628305",
+            "grade_final": "86.43",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:20:19"
+        },
+        {
+            "name": "SHINTA DEWI GIRAHWATI",
+            "nisn": "0085791385",
+            "grade_final": "86.41",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 12:49:25"
+        },
+        {
+            "name": "PRIMA TATAH AMRILAH",
+            "nisn": "0084116945",
+            "grade_final": "86.40",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:19:35"
+        },
+        {
+            "name": "NUR FAIZATUZ ZAHROH",
+            "nisn": "3091671872",
+            "grade_final": "86.35",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:18:55"
+        },
+        {
+            "name": "INES AILANA HUDA",
+            "nisn": "0099827925",
+            "grade_final": "86.34",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 11:05:17"
+        },
+        {
+            "name": "MARIA KRISTIN",
+            "nisn": "0093491637",
+            "grade_final": "86.33",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-04 01:06:55"
+        },
+        {
+            "name": "NADIVA OLIVIA DAMAYANTI",
+            "nisn": "0097753516",
+            "grade_final": "86.33",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:50:45"
+        },
+        {
+            "name": "ALIYA HUSNA KHOIRUNISA",
+            "nisn": "3082630496",
+            "grade_final": "86.32",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:58:02"
+        },
+        {
+            "name": "RIFATQI NURAN AL GHIFAHRY",
+            "nisn": "0099071399",
+            "grade_final": "86.24",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-04 19:54:36"
+        },
+        {
+            "name": "MUHAMMAD REZA SYAHPUTRA",
+            "nisn": "3112318172",
+            "grade_final": "86.22",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 03:37:52"
+        },
+        {
+            "name": "RAHMA AZAROH",
+            "nisn": "0085554819",
+            "grade_final": "86.21",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 21:38:48"
+        },
+        {
+            "name": "FAIZATUL AINIYAH",
+            "nisn": "3099940066",
+            "grade_final": "86.21",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-04 13:35:06"
+        },
+        {
+            "name": "KEYLA CAECILIA GRESHILA",
+            "nisn": "0089831057",
+            "grade_final": "86.21",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:30:24"
+        },
+        {
+            "name": "RELITA MAULIDATUR RAHMAH",
+            "nisn": "0097569320",
+            "grade_final": "86.21",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:19:44"
+        },
+        {
+            "name": "AMELIA AZZAHRI SALDI IRFANSYAH",
+            "nisn": "3086195362",
+            "grade_final": "86.20",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:59:56"
+        },
+        {
+            "name": "AHSANATUL MAGHFIRO",
+            "nisn": "0088349170",
+            "grade_final": "86.19",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-04 07:12:21"
+        },
+        {
+            "name": "EVILYA ZUNIARTY",
+            "nisn": "0089090359",
+            "grade_final": "86.19",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 13:28:25"
+        },
+        {
+            "name": "DWI GARNIS INDAH SURYANI",
+            "nisn": "0087309504",
+            "grade_final": "86.19",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-04 18:52:11"
+        },
+        {
+            "name": "REVALINA OLIVIA",
+            "nisn": "0086518806",
+            "grade_final": "86.13",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:37:30"
+        },
+        {
+            "name": "VERA AMELIA PUTRI",
+            "nisn": "0093493156",
+            "grade_final": "86.13",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:42:39"
+        },
+        {
+            "name": "SHEARLY ISKA ANANTALYA PUTRI",
+            "nisn": "0087208334",
+            "grade_final": "86.13",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:46:11"
+        },
+        {
+            "name": "SULI NUR AINI FARDANA",
+            "nisn": "0096139828",
+            "grade_final": "86.12",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-04 09:46:54"
+        },
+        {
+            "name": "ACHMAD FAIZ MAULANA",
+            "nisn": "0092350174",
+            "grade_final": "86.10",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-04 18:38:59"
+        },
+        {
+            "name": "REVANA NONNIK OCTAVIA",
+            "nisn": "0081540853",
+            "grade_final": "86.07",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:29:57"
+        },
+        {
+            "name": "FIKE SUCI RAMADHANI PUTRI",
+            "nisn": "3085731242",
+            "grade_final": "86.06",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:45:49"
+        },
+        {
+            "name": "CHARIESA RAHMA HAYUDIFANI",
+            "nisn": "3086740852",
+            "grade_final": "85.99",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:19:50"
+        },
+        {
+            "name": "SHAFIRA ZASKIA ANAYA PUTRI",
+            "nisn": "3091981143",
+            "grade_final": "85.97",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:56:38"
+        },
+        {
+            "name": "Adellia Meisya Pratista",
+            "nisn": "0085071845",
+            "grade_final": "85.94",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-04 12:51:04"
+        },
+        {
+            "name": "REGITA AULIA CAHYANI",
+            "nisn": "0095977589",
+            "grade_final": "85.94",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:23:43"
+        },
+        {
+            "name": "MAULIDA RIZKY AMANDA",
+            "nisn": "3093245991",
+            "grade_final": "85.91",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-04 20:08:41"
+        },
+        {
+            "name": "BERYL KRESNA PERDANA",
+            "nisn": "0083253649",
+            "grade_final": "85.90",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 18:59:13"
+        },
+        {
+            "name": "ALVIRA PUTRI ROMADONITA",
+            "nisn": "0099919576",
+            "grade_final": "85.90",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-04 17:24:11"
+        },
+        {
+            "name": "AISYAH PUTRI RAHMAWATI",
+            "nisn": "0097555683",
+            "grade_final": "85.90",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:55:04"
+        },
+        {
+            "name": "AZZAHRA AWALIYAH FIRDAUS",
+            "nisn": "0084448374",
+            "grade_final": "85.85",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-04 20:53:00"
+        },
+        {
+            "name": "ZAHRA KURNIA RHAMADANI",
+            "nisn": "0081428442",
+            "grade_final": "85.85",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:58:53"
+        },
+        {
+            "name": "PRISA ELSA SABILA DESWITA",
+            "nisn": "0088893426",
+            "grade_final": "85.82",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:24:21"
+        },
+        {
+            "name": "FULANY AULIA",
+            "nisn": "3081621518",
+            "grade_final": "85.80",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 12:50:12"
+        },
+        {
+            "name": "FATAA QOTHRUS SYIFA",
+            "nisn": "0084390205",
+            "grade_final": "85.78",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:07:51"
+        },
+        {
+            "name": "FARHAN AKBAR RISQULLOH",
+            "nisn": "0089879739",
+            "grade_final": "85.77",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:19:41"
+        },
+        {
+            "name": "KHUSNUL KHOTIMAH",
+            "nisn": "0082726295",
+            "grade_final": "85.77",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:57:04"
+        },
+        {
+            "name": "AYUNG DHARMA BEKTI",
+            "nisn": "3094562666",
+            "grade_final": "85.76",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:02:01"
+        },
+        {
+            "name": "BINTANG JULIASTARI",
+            "nisn": "0093686538",
+            "grade_final": "85.76",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:22:41"
+        },
+        {
+            "name": "KIRANISA NUR AINI",
+            "nisn": "3088384510",
+            "grade_final": "85.75",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:17:38"
+        },
+        {
+            "name": "Adilla Eka Agustin",
+            "nisn": "3081026711",
+            "grade_final": "85.74",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-04 13:21:09"
+        },
+        {
+            "name": "HABIB ABDUL SADAD ALYASIR",
+            "nisn": "0091034486",
+            "grade_final": "85.72",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 02:25:04"
+        },
+        {
+            "name": "ROFIATUL FITRIA KHASANAH",
+            "nisn": "0084290348",
+            "grade_final": "85.72",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-04 18:14:22"
+        },
+        {
+            "name": "BRYAN HIDAYAT",
+            "nisn": "0082964367",
+            "grade_final": "85.71",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 13:46:34"
+        },
+        {
+            "name": "Maulidiana Fi Jannatin Aliyah",
+            "nisn": "0087150576",
+            "grade_final": "85.71",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:08:29"
+        },
+        {
+            "name": "DIVA QHUROTUL RAHMADANI",
+            "nisn": "0081141546",
+            "grade_final": "85.70",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-04 00:28:45"
+        },
+        {
+            "name": "KEYLA SALSABILA MAHESWARI",
+            "nisn": "0084372044",
+            "grade_final": "85.70",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 16:09:10"
+        },
+        {
+            "name": "SATHIYA DHARMA PUTRA",
+            "nisn": "0097230013",
+            "grade_final": "85.66",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 03:56:38"
+        },
+        {
+            "name": "ENZELESTA PUTRI SUNVEYI",
+            "nisn": "0085712836",
+            "grade_final": "85.65",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:31:00"
+        },
+        {
+            "name": "SABIILAH KAYLA AZ ZAHRA",
+            "nisn": "0099074330",
+            "grade_final": "85.65",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 03:10:44"
+        },
+        {
+            "name": "Oca Chofifah",
+            "nisn": "0082021256",
+            "grade_final": "85.61",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Desain Komunikasi Visual"
+                }
+            },
+            "registration_created_at": "2024-07-03 13:03:22"
+        }
+    ]
+}

@@ -1,0 +1,553 @@
+{
+    "code": 200,
+    "status": "OK",
+    "meta": {
+        "total": 45,
+        "last_page": 1,
+        "from": 1,
+        "to": 1,
+        "last_update": "2024-07-04 21:08:08"
+    },
+    "data": [
+        {
+            "name": "FAIZHATUS KHUMAIROH",
+            "nisn": "3090347346",
+            "grade_final": "85.85",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-04 09:52:13"
+        },
+        {
+            "name": "SAFARUDIN FEBRIAN",
+            "nisn": "0096186897",
+            "grade_final": "85.48",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:00:54"
+        },
+        {
+            "name": "TATAG MARICH WIJAYANTO MUZA",
+            "nisn": "0098425932",
+            "grade_final": "85.41",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:14:59"
+        },
+        {
+            "name": "ZUHRIA ESTIMAYA QOLBI",
+            "nisn": "0089894903",
+            "grade_final": "84.84",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:54:27"
+        },
+        {
+            "name": "RAIHAN KHOLAFAUR ROSYIDIN",
+            "nisn": "0099001057",
+            "grade_final": "84.81",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-04 18:39:39"
+        },
+        {
+            "name": "IDFAN ASRIL RIDWANSYAH",
+            "nisn": "0082821044",
+            "grade_final": "84.72",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:48:55"
+        },
+        {
+            "name": "MUHAMMAD ALDI ANSYAH",
+            "nisn": "0081976679",
+            "grade_final": "84.46",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:49:01"
+        },
+        {
+            "name": "MUHAMMAD DIO ALFARISHY",
+            "nisn": "0082437940",
+            "grade_final": "84.36",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:24:16"
+        },
+        {
+            "name": "SINTA AMANDA",
+            "nisn": "3083345635",
+            "grade_final": "84.36",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-04 09:46:35"
+        },
+        {
+            "name": "FIHAN ADAM HARTANTYO",
+            "nisn": "0082684432",
+            "grade_final": "84.36",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-04 01:19:02"
+        },
+        {
+            "name": "Rendy Verdianto",
+            "nisn": "0083100063",
+            "grade_final": "84.32",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:05:08"
+        },
+        {
+            "name": "VARID HIDAYATULLOH",
+            "nisn": "0084088297",
+            "grade_final": "84.30",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:37:08"
+        },
+        {
+            "name": "MOCHAMMAD RIDWAN RAMAJANE",
+            "nisn": "3089808060",
+            "grade_final": "84.28",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:11:50"
+        },
+        {
+            "name": "FARID ANDISTYA PRATAMA",
+            "nisn": "0089064140",
+            "grade_final": "84.26",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-03 02:57:05"
+        },
+        {
+            "name": "ILHAM HAFIDZ ARIYANSYAH",
+            "nisn": "0097315828",
+            "grade_final": "84.26",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-04 10:59:22"
+        },
+        {
+            "name": "MOCHAMAD ANGGA ALAMSYAH",
+            "nisn": "3098298351",
+            "grade_final": "84.23",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:41:23"
+        },
+        {
+            "name": "HABIBI AMIRUL RAZZAQ",
+            "nisn": "0084700311",
+            "grade_final": "84.12",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:08:04"
+        },
+        {
+            "name": "ALVIN TRISDIANSYAH",
+            "nisn": "0081959040",
+            "grade_final": "84.06",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-03 11:01:45"
+        },
+        {
+            "name": "DIDIT WAHYU PAMUNGKAS",
+            "nisn": "3081290394",
+            "grade_final": "84.00",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-03 13:30:14"
+        },
+        {
+            "name": "REVHAN DIGMANTARA",
+            "nisn": "3096989480",
+            "grade_final": "83.99",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:09:59"
+        },
+        {
+            "name": "MOCHAMMAD FAHRI PRIHARTONO",
+            "nisn": "0096372014",
+            "grade_final": "83.97",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:36:43"
+        },
+        {
+            "name": "ANDREAS DIKA FIRMANSYAH",
+            "nisn": "0085427280",
+            "grade_final": "83.97",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:40:36"
+        },
+        {
+            "name": "EXCEL SUBA RAMADHAN",
+            "nisn": "0082909865",
+            "grade_final": "83.96",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-04 16:27:07"
+        },
+        {
+            "name": "AJI MOHCAMAD KATAM KARNO",
+            "nisn": "0098931586",
+            "grade_final": "83.96",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:05:51"
+        },
+        {
+            "name": "MUHAMMAD ELDIYANSYAH",
+            "nisn": "0083014389",
+            "grade_final": "83.94",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-04 19:51:18"
+        },
+        {
+            "name": "FAREL DWI FEBRIANSYAH",
+            "nisn": "0091899091",
+            "grade_final": "83.92",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:39:12"
+        },
+        {
+            "name": "RIDHO GALEH DWI PRAYOGO",
+            "nisn": "0099183123",
+            "grade_final": "83.87",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-03 14:16:38"
+        },
+        {
+            "name": "ZYANU ARISTA",
+            "nisn": "0096405940",
+            "grade_final": "83.87",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:02:52"
+        },
+        {
+            "name": "DIVAN RESTU PRAYOGA",
+            "nisn": "0097893348",
+            "grade_final": "83.85",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:45:13"
+        },
+        {
+            "name": "ACHMAD NOVAL ARDIANSYAH",
+            "nisn": "0087296021",
+            "grade_final": "83.84",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:08:59"
+        },
+        {
+            "name": "Wahyu Putra Adi Firmanzah",
+            "nisn": "0089124847",
+            "grade_final": "83.76",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:09:09"
+        },
+        {
+            "name": "NABILA NUR AINI",
+            "nisn": "3088124169",
+            "grade_final": "83.76",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-04 11:33:27"
+        },
+        {
+            "name": "MMALVINO PUTRA RADITIYA",
+            "nisn": "0092888561",
+            "grade_final": "83.76",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:04:29"
+        },
+        {
+            "name": "RIO SEPTIAN",
+            "nisn": "0089893691",
+            "grade_final": "83.76",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:07:37"
+        },
+        {
+            "name": "MAULANA YOGA ADI PRANATA",
+            "nisn": "0089176363",
+            "grade_final": "83.75",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-04 07:45:38"
+        },
+        {
+            "name": "BAGAS FREDIKA PUTRA",
+            "nisn": "0091762858",
+            "grade_final": "83.75",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:15:37"
+        },
+        {
+            "name": "RIDUWAN ARDIYANSYAH",
+            "nisn": "0082369295",
+            "grade_final": "83.73",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:33:22"
+        },
+        {
+            "name": "MUHAMAD ADITIA JOKO SAMPURNO",
+            "nisn": "3096511856",
+            "grade_final": "83.72",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:47:14"
+        },
+        {
+            "name": "BERNADHI HANUM PRASETYO",
+            "nisn": "0082597991",
+            "grade_final": "83.71",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:35:09"
+        },
+        {
+            "name": "LILIA KLARA RAMADHANI",
+            "nisn": "0089734924",
+            "grade_final": "83.71",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:41:41"
+        },
+        {
+            "name": "LUTFI WIBOWO",
+            "nisn": "0083995619",
+            "grade_final": "83.70",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:25:42"
+        },
+        {
+            "name": "MUHAMMAD SATRIA AJI BAGUS PRATAMA",
+            "nisn": "0093964559",
+            "grade_final": "83.69",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:29:54"
+        },
+        {
+            "name": "AVYN MUHAMMAD MUSTOFA",
+            "nisn": "0074339045",
+            "grade_final": "83.69",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:39:35"
+        },
+        {
+            "name": "AHMAD FIKRI JAMIUL FATHONI",
+            "nisn": "3081637536",
+            "grade_final": "83.67",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:38:55"
+        },
+        {
+            "name": "DAVID YULYANTO",
+            "nisn": "0083293990",
+            "grade_final": "83.66",
+            "smk": {
+                "name": "SMK NEGERI KUDU",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:58:45"
+        }
+    ]
+}

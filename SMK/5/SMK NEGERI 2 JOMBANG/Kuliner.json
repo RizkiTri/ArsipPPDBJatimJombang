@@ -1,0 +1,1129 @@
+{
+    "code": 200,
+    "status": "OK",
+    "meta": {
+        "total": 93,
+        "last_page": 1,
+        "from": 1,
+        "to": 1,
+        "last_update": "2024-07-04 21:08:08"
+    },
+    "data": [
+        {
+            "name": "SHERLY AURELLIA NOVANDA",
+            "nisn": "0086490930",
+            "grade_final": "89.27",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:48:58"
+        },
+        {
+            "name": "DAVINA RIZKY PARAMITA",
+            "nisn": "0081701763",
+            "grade_final": "87.80",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:30:17"
+        },
+        {
+            "name": "LUSI ANA SARI IMELDA",
+            "nisn": "0084711654",
+            "grade_final": "87.74",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:37:26"
+        },
+        {
+            "name": "Lia Nur Riski",
+            "nisn": "0097195583",
+            "grade_final": "87.74",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:21:06"
+        },
+        {
+            "name": "FATMA AMELIA",
+            "nisn": "0072628341",
+            "grade_final": "87.73",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:44:58"
+        },
+        {
+            "name": "ARLITA WAHYU HARDINI",
+            "nisn": "0087779705",
+            "grade_final": "87.54",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:28:19"
+        },
+        {
+            "name": "ROSYITA AULIA MAVAZA",
+            "nisn": "0082172606",
+            "grade_final": "87.19",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-04 00:27:28"
+        },
+        {
+            "name": "AUDYAZAHRA AVRIANTI",
+            "nisn": "0088519587",
+            "grade_final": "86.94",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:38:57"
+        },
+        {
+            "name": "ELMIRA AYUDIA UTOMO",
+            "nisn": "0091495193",
+            "grade_final": "86.86",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:45:24"
+        },
+        {
+            "name": "DITA PUJI PUSPITASARI",
+            "nisn": "3096779562",
+            "grade_final": "86.74",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:20:42"
+        },
+        {
+            "name": "ANENG WINARNI",
+            "nisn": "0087192290",
+            "grade_final": "86.72",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:52:29"
+        },
+        {
+            "name": "Nadya Cahya Putri",
+            "nisn": "0089037900",
+            "grade_final": "86.68",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 04:42:55"
+        },
+        {
+            "name": "AYU PUSPITA",
+            "nisn": "0088883957",
+            "grade_final": "86.61",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 12:25:29"
+        },
+        {
+            "name": "NAZWA WANDIKA PUTRI",
+            "nisn": "0087466892",
+            "grade_final": "86.53",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-04 20:11:51"
+        },
+        {
+            "name": "PUTRI EKA WAHYU NINGSEH",
+            "nisn": "3081023933",
+            "grade_final": "86.44",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:14:17"
+        },
+        {
+            "name": "SABRINA RAFFA ZAFIRA",
+            "nisn": "0083193196",
+            "grade_final": "86.41",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 17:28:40"
+        },
+        {
+            "name": "NATASYA PUTRI PRIANTHA",
+            "nisn": "0089584523",
+            "grade_final": "86.39",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:11:57"
+        },
+        {
+            "name": "CHIKA TRI AGUSTIN",
+            "nisn": "0082267132",
+            "grade_final": "86.31",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:22:25"
+        },
+        {
+            "name": "Tyas Anggraini",
+            "nisn": "0085304454",
+            "grade_final": "86.30",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:39:47"
+        },
+        {
+            "name": "ZIDNI ILMIAH ARRIZQI",
+            "nisn": "3088319913",
+            "grade_final": "86.28",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:05:16"
+        },
+        {
+            "name": "JIHAN JANEETA PUTRI",
+            "nisn": "0083949762",
+            "grade_final": "86.24",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-04 07:01:11"
+        },
+        {
+            "name": "SHELLA JULIA NURAINI",
+            "nisn": "0083061335",
+            "grade_final": "86.24",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:20:29"
+        },
+        {
+            "name": "SYLFI DWI AYUDIAHNINGRUM",
+            "nisn": "0094541124",
+            "grade_final": "86.23",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:35:56"
+        },
+        {
+            "name": "NASYWA AL FAAIQOH",
+            "nisn": "0086748551",
+            "grade_final": "86.20",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:08:10"
+        },
+        {
+            "name": "RIKA SUTINI",
+            "nisn": "0087061591",
+            "grade_final": "86.08",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 03:28:35"
+        },
+        {
+            "name": "SOFA TUL MARWAH",
+            "nisn": "0093352669",
+            "grade_final": "86.07",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 18:16:15"
+        },
+        {
+            "name": "LILADY DWI AGUSTIN",
+            "nisn": "0085073458",
+            "grade_final": "86.02",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 15:37:22"
+        },
+        {
+            "name": "ADITYA BAGUS PRAYOGA",
+            "nisn": "0089737719",
+            "grade_final": "85.95",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 16:16:41"
+        },
+        {
+            "name": "AZZAHRA PUTRI AULIA",
+            "nisn": "0089824661",
+            "grade_final": "85.95",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:43:35"
+        },
+        {
+            "name": "WINDA WAHYUNINGTYAS",
+            "nisn": "0088013237",
+            "grade_final": "85.93",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 03:47:02"
+        },
+        {
+            "name": "TWELISA APRILIA",
+            "nisn": "0081512343",
+            "grade_final": "85.89",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:12:02"
+        },
+        {
+            "name": "SALSABILA BUNGA P RAMDANI",
+            "nisn": "0086592531",
+            "grade_final": "85.88",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:16:27"
+        },
+        {
+            "name": "VEBRIANA EKA MAGFIROH",
+            "nisn": "3095380065",
+            "grade_final": "85.88",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 03:55:05"
+        },
+        {
+            "name": "KARINA PUTRI JASMIN",
+            "nisn": "0088438990",
+            "grade_final": "85.87",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-04 16:18:07"
+        },
+        {
+            "name": "NAYLA ZAHRA ELNATA ALTASYA",
+            "nisn": "0081222778",
+            "grade_final": "85.87",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 21:43:06"
+        },
+        {
+            "name": "INDAH AMELANI",
+            "nisn": "0088070092",
+            "grade_final": "85.86",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 02:27:19"
+        },
+        {
+            "name": "FATIMAH NURMERSA",
+            "nisn": "3090374060",
+            "grade_final": "85.84",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-04 16:23:57"
+        },
+        {
+            "name": "JIHAN RAHMAWATI",
+            "nisn": "0096423475",
+            "grade_final": "85.83",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:10:53"
+        },
+        {
+            "name": "ALYSIA NURUL FIRDAUS",
+            "nisn": "0088427665",
+            "grade_final": "85.81",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:04:45"
+        },
+        {
+            "name": "RAIHAN ZAKI ARIANTO",
+            "nisn": "3087126754",
+            "grade_final": "85.81",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:25:10"
+        },
+        {
+            "name": "CAHYANI ANDINE MAHMUDAH",
+            "nisn": "3098477956",
+            "grade_final": "85.77",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-04 19:24:26"
+        },
+        {
+            "name": "FINSA AURELIA",
+            "nisn": "0097721335",
+            "grade_final": "85.73",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:57:07"
+        },
+        {
+            "name": "RIYADHUS SHOLIHAH",
+            "nisn": "0099206633",
+            "grade_final": "85.71",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-04 15:52:05"
+        },
+        {
+            "name": "ALEXA WIDIASARI",
+            "nisn": "0081014311",
+            "grade_final": "85.71",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:12:12"
+        },
+        {
+            "name": "NISMA FADIYAH AZZAHRA",
+            "nisn": "3099492357",
+            "grade_final": "85.67",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:36:44"
+        },
+        {
+            "name": "INAYATUL LAILIYAH",
+            "nisn": "0082192860",
+            "grade_final": "85.65",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:24:14"
+        },
+        {
+            "name": "ARYSCIA PUTRI ANGELINA",
+            "nisn": "0084978017",
+            "grade_final": "85.65",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-04 06:46:53"
+        },
+        {
+            "name": "FIRDAUSI NUZULAH",
+            "nisn": "3090115686",
+            "grade_final": "85.64",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:03:20"
+        },
+        {
+            "name": "ZASKIA RAHAYU AGUSTIN",
+            "nisn": "0082809161",
+            "grade_final": "85.60",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:42:04"
+        },
+        {
+            "name": "RIZKA FITRAH RAMADHANI",
+            "nisn": "0086968775",
+            "grade_final": "85.58",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 21:30:13"
+        },
+        {
+            "name": "NADIN SABRINA PUTRI",
+            "nisn": "3085570306",
+            "grade_final": "85.52",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:54:19"
+        },
+        {
+            "name": "YUSFIRLANA ARIFIA",
+            "nisn": "0089615170",
+            "grade_final": "85.52",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 13:14:45"
+        },
+        {
+            "name": "TIARA PURWANINGSIH",
+            "nisn": "0089725184",
+            "grade_final": "85.51",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:32:31"
+        },
+        {
+            "name": "NUR RAHMA KARISMAWATI",
+            "nisn": "0086121162",
+            "grade_final": "85.51",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-04 17:51:22"
+        },
+        {
+            "name": "NELLA PUTRI RAHMADHANI",
+            "nisn": "0081752950",
+            "grade_final": "85.50",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-04 13:25:30"
+        },
+        {
+            "name": "SASKIA AMELIA PUTRI",
+            "nisn": "3081616951",
+            "grade_final": "85.50",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:27:11"
+        },
+        {
+            "name": "MELSAH DWI KHOIROTIN",
+            "nisn": "0087058239",
+            "grade_final": "85.50",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:07:38"
+        },
+        {
+            "name": "REZA MEGA ALINSKY",
+            "nisn": "0072695673",
+            "grade_final": "85.49",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-04 12:01:32"
+        },
+        {
+            "name": "JIHAN VIANDA NAZAHRA",
+            "nisn": "3081705917",
+            "grade_final": "85.46",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-04 17:42:34"
+        },
+        {
+            "name": "GITA AULIA FAJRIN",
+            "nisn": "0095590824",
+            "grade_final": "85.45",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:38:55"
+        },
+        {
+            "name": "CINDY AULIA RAMADHANI",
+            "nisn": "3080300686",
+            "grade_final": "85.44",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 16:16:16"
+        },
+        {
+            "name": "NAYLA EKA DANIAR",
+            "nisn": "0094981346",
+            "grade_final": "85.41",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:47:18"
+        },
+        {
+            "name": "AULIA WANDA RAHMANIA",
+            "nisn": "3096021729",
+            "grade_final": "85.41",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:58:53"
+        },
+        {
+            "name": "PUTRI SAFIRA",
+            "nisn": "0093584359",
+            "grade_final": "85.40",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:28:17"
+        },
+        {
+            "name": "DESY AMADA PUTRI",
+            "nisn": "3085097137",
+            "grade_final": "85.39",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:28:21"
+        },
+        {
+            "name": "EYCA GRETI GISAFNI",
+            "nisn": "0077516007",
+            "grade_final": "85.38",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:45:35"
+        },
+        {
+            "name": "EKA RAAIDA CAHYANI",
+            "nisn": "3090343656",
+            "grade_final": "85.38",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:28:50"
+        },
+        {
+            "name": "TRI PUTRI SANCAROIS",
+            "nisn": "3097656775",
+            "grade_final": "85.38",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:11:32"
+        },
+        {
+            "name": "NOVI MEI AULIYA",
+            "nisn": "0092658808",
+            "grade_final": "85.38",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:09:04"
+        },
+        {
+            "name": "ASPI TSALSAFIA",
+            "nisn": "0095671552",
+            "grade_final": "85.34",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:54:34"
+        },
+        {
+            "name": "NAJWA FAIZUL HUSNA",
+            "nisn": "0083586030",
+            "grade_final": "85.34",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:19:26"
+        },
+        {
+            "name": "WINDI DWIYANTI",
+            "nisn": "3091652245",
+            "grade_final": "85.27",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 04:01:02"
+        },
+        {
+            "name": "NAZWA EKA SYAH PUTRI",
+            "nisn": "3089809443",
+            "grade_final": "85.23",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-04 08:42:47"
+        },
+        {
+            "name": "Ayyunika Farikhatul Laila",
+            "nisn": "3081932833",
+            "grade_final": "85.20",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:18:04"
+        },
+        {
+            "name": "FIRDA AYU NINGTYAS",
+            "nisn": "3089770714",
+            "grade_final": "85.20",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:19:12"
+        },
+        {
+            "name": "ANGGUN AYU PERMATASARI",
+            "nisn": "3093992297",
+            "grade_final": "85.19",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:09:16"
+        },
+        {
+            "name": "GESELA ALYSA AZ ZAKIYYAH",
+            "nisn": "3095646400",
+            "grade_final": "85.18",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:24:49"
+        },
+        {
+            "name": "CECILLIA NAVILA CALETREECYA",
+            "nisn": "0083739274",
+            "grade_final": "85.17",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:04:24"
+        },
+        {
+            "name": "KHOLIF SALSA INDIYANI",
+            "nisn": "0082154034",
+            "grade_final": "85.16",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-04 18:39:21"
+        },
+        {
+            "name": "SHINDY WULANSARI",
+            "nisn": "3089859363",
+            "grade_final": "85.16",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:40:08"
+        },
+        {
+            "name": "TASYA NUR WIDIAWATI",
+            "nisn": "0086787947",
+            "grade_final": "85.16",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:20:14"
+        },
+        {
+            "name": "ZUMROTUS SHOLIKHA",
+            "nisn": "3090402550",
+            "grade_final": "85.15",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 15:26:43"
+        },
+        {
+            "name": "DWI ALFINDA",
+            "nisn": "3082521996",
+            "grade_final": "85.15",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-04 17:27:44"
+        },
+        {
+            "name": "VELINDA ARTASYA",
+            "nisn": "3092294079",
+            "grade_final": "85.14",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:10:58"
+        },
+        {
+            "name": "Ariska Dwi Hanifiyah",
+            "nisn": "3092765089",
+            "grade_final": "85.13",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:04:30"
+        },
+        {
+            "name": "QORINA HAQ BILQISTHI",
+            "nisn": "0083554395",
+            "grade_final": "85.13",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:04:17"
+        },
+        {
+            "name": "Chintya Kirana Azzahra",
+            "nisn": "3090135279",
+            "grade_final": "85.12",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:08:03"
+        },
+        {
+            "name": "DINDA DWI SAPUTRI",
+            "nisn": "0082623238",
+            "grade_final": "85.12",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:47:14"
+        },
+        {
+            "name": "Vanesa agustin",
+            "nisn": "0099845260",
+            "grade_final": "85.12",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 11:37:24"
+        },
+        {
+            "name": "NANDITA CINCIN ERLIANA",
+            "nisn": "0097254646",
+            "grade_final": "85.12",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:15:46"
+        },
+        {
+            "name": "JESICA ANASTASYA SHIRENT",
+            "nisn": "0094064079",
+            "grade_final": "85.08",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-04 15:34:48"
+        },
+        {
+            "name": "Bilqis Azzahra",
+            "nisn": "3097931290",
+            "grade_final": "85.07",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 19:31:39"
+        },
+        {
+            "name": "Mega Aisyah Aszarah",
+            "nisn": "0088036121",
+            "grade_final": "85.07",
+            "smk": {
+                "name": "SMK NEGERI 2 JOMBANG",
+                "major": {
+                    "name": "Kuliner"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:03:31"
+        }
+    ]
+}

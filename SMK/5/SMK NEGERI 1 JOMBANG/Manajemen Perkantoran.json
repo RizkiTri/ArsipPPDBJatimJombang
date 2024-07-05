@@ -1,0 +1,553 @@
+{
+    "code": 200,
+    "status": "OK",
+    "meta": {
+        "total": 45,
+        "last_page": 1,
+        "from": 1,
+        "to": 1,
+        "last_update": "2024-07-04 21:08:08"
+    },
+    "data": [
+        {
+            "name": "ALIFIA FEMIANTI LESTARI",
+            "nisn": "0096922586",
+            "grade_final": "88.71",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-04 14:38:19"
+        },
+        {
+            "name": "A DANI CHUSAINI",
+            "nisn": "3083040845",
+            "grade_final": "88.46",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 14:42:11"
+        },
+        {
+            "name": "SELSI CHOIRUN NISA",
+            "nisn": "0083275993",
+            "grade_final": "88.13",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:07:38"
+        },
+        {
+            "name": "SHINTA AULIYAH TRIN HAPSARI",
+            "nisn": "3092513344",
+            "grade_final": "88.02",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 15:45:52"
+        },
+        {
+            "name": "AURYN DWI VALENIA PUTRI",
+            "nisn": "0099912846",
+            "grade_final": "87.99",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:44:05"
+        },
+        {
+            "name": "AMANDA TRIANSARI",
+            "nisn": "0083992153",
+            "grade_final": "87.94",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:30:42"
+        },
+        {
+            "name": "DWI PUTRI RACHMAWATI",
+            "nisn": "0088862682",
+            "grade_final": "87.76",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:33:36"
+        },
+        {
+            "name": "HANIFA AYU APRILIA",
+            "nisn": "0082783065",
+            "grade_final": "87.72",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:08:03"
+        },
+        {
+            "name": "ANDIKA RIZKI WIRAWAN",
+            "nisn": "0086186688",
+            "grade_final": "87.71",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-04 16:31:41"
+        },
+        {
+            "name": "MELVIA FEBRIANA ZAHRA",
+            "nisn": "0097364420",
+            "grade_final": "87.53",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:54:27"
+        },
+        {
+            "name": "NOVISHA IFTANIA WIBOWO",
+            "nisn": "0081886259",
+            "grade_final": "87.49",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:13:45"
+        },
+        {
+            "name": "RISKY KHOLIFATUS SADIYAH",
+            "nisn": "0089742919",
+            "grade_final": "87.45",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:15:50"
+        },
+        {
+            "name": "GADING PUTRI MENTARI",
+            "nisn": "0086760530",
+            "grade_final": "87.42",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:08:33"
+        },
+        {
+            "name": "DINAR SALSABILLA",
+            "nisn": "0099793768",
+            "grade_final": "87.40",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:17:18"
+        },
+        {
+            "name": "CHAIRUNNISA IRIANTO",
+            "nisn": "0088660844",
+            "grade_final": "87.37",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:22:08"
+        },
+        {
+            "name": "YULIA DWI PUTRI",
+            "nisn": "0086251171",
+            "grade_final": "87.37",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 04:37:51"
+        },
+        {
+            "name": "MARSHA THANIA ZIVANA PRIBADI",
+            "nisn": "0093818959",
+            "grade_final": "87.35",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-04 08:40:46"
+        },
+        {
+            "name": "NAILIL KAROMATIL ARIF",
+            "nisn": "0089190211",
+            "grade_final": "87.31",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:14:39"
+        },
+        {
+            "name": "SISKA FITRIANA",
+            "nisn": "0082772387",
+            "grade_final": "87.30",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:28:55"
+        },
+        {
+            "name": "SHERREN MUTIA CASTA",
+            "nisn": "0085026788",
+            "grade_final": "87.30",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:49:00"
+        },
+        {
+            "name": "AQNISA OKTAVIAN ALMADEA",
+            "nisn": "0085101843",
+            "grade_final": "87.29",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:11:26"
+        },
+        {
+            "name": "NOVEBRIA TANIA PUTRI",
+            "nisn": "0084566940",
+            "grade_final": "87.29",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 12:30:02"
+        },
+        {
+            "name": "Kharisma Dewi",
+            "nisn": "3081723530",
+            "grade_final": "87.18",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 19:32:10"
+        },
+        {
+            "name": "HANUM GOEZTY PURWANING RAHMADANY",
+            "nisn": "0089799875",
+            "grade_final": "87.14",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:10:52"
+        },
+        {
+            "name": "CHIKA DWI OKTAVIA RAHAYU",
+            "nisn": "0085895017",
+            "grade_final": "87.13",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 04:34:51"
+        },
+        {
+            "name": "MEYLANI PUTRI",
+            "nisn": "3098925411",
+            "grade_final": "87.12",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-04 09:26:35"
+        },
+        {
+            "name": "NUR LAILIS SYAADA",
+            "nisn": "0086756203",
+            "grade_final": "87.11",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 11:17:50"
+        },
+        {
+            "name": "ERLIN DWI RAHMAWATI",
+            "nisn": "0084215472",
+            "grade_final": "87.10",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:15:47"
+        },
+        {
+            "name": "MAGHFIROTUZ ZAHRA",
+            "nisn": "3094579304",
+            "grade_final": "87.06",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-04 07:41:05"
+        },
+        {
+            "name": "ANITA TRISTI WARDANI",
+            "nisn": "3087904759",
+            "grade_final": "87.06",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:47:26"
+        },
+        {
+            "name": "KIRANA TRI PRAMESWARI",
+            "nisn": "0095924791",
+            "grade_final": "87.04",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:03:23"
+        },
+        {
+            "name": "JASMIN AYUDYA YEKTI",
+            "nisn": "0091459297",
+            "grade_final": "87.04",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:25:57"
+        },
+        {
+            "name": "NABILA AULIA SARI",
+            "nisn": "0094130263",
+            "grade_final": "86.99",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:14:34"
+        },
+        {
+            "name": "AMELIA RIZKIA RAMADHANI",
+            "nisn": "0092981453",
+            "grade_final": "86.99",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:43:59"
+        },
+        {
+            "name": "HARERE WILDA PRATIWI",
+            "nisn": "0084462561",
+            "grade_final": "86.96",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:36:25"
+        },
+        {
+            "name": "HELMI WISNU WARDANI",
+            "nisn": "0086663223",
+            "grade_final": "86.96",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:42:01"
+        },
+        {
+            "name": "OVIE ALEXA IVANKA",
+            "nisn": "3087905511",
+            "grade_final": "86.95",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:30:52"
+        },
+        {
+            "name": "NURUL HIDAYAH",
+            "nisn": "0082647625",
+            "grade_final": "86.92",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:36:30"
+        },
+        {
+            "name": "ABELIA ANUGRAH PRADANA PUTRI ROKHANI",
+            "nisn": "0085066190",
+            "grade_final": "86.91",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:11:52"
+        },
+        {
+            "name": "CITRA DWI ANGGRAINI",
+            "nisn": "0087037689",
+            "grade_final": "86.91",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:53:58"
+        },
+        {
+            "name": "NOR ALISAH JAYA PRATIWI",
+            "nisn": "3092326373",
+            "grade_final": "86.91",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-04 11:36:02"
+        },
+        {
+            "name": "AYUNIA DWI ELISTANTI",
+            "nisn": "0082949634",
+            "grade_final": "86.91",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 14:33:12"
+        },
+        {
+            "name": "CINDY AULYA NUR AINI",
+            "nisn": "0094656453",
+            "grade_final": "86.90",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 18:58:33"
+        },
+        {
+            "name": "HELGA VANNESA PUTRI",
+            "nisn": "0086364128",
+            "grade_final": "86.85",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 02:07:37"
+        },
+        {
+            "name": "KIRANI SYAHPUTRI",
+            "nisn": "0081909865",
+            "grade_final": "86.84",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Manajemen Perkantoran"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:57:19"
+        }
+    ]
+}

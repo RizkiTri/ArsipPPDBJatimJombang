@@ -1,0 +1,553 @@
+{
+    "code": 200,
+    "status": "OK",
+    "meta": {
+        "total": 45,
+        "last_page": 1,
+        "from": 1,
+        "to": 1,
+        "last_update": "2024-07-04 21:08:08"
+    },
+    "data": [
+        {
+            "name": "KAYYISAH DESTY ATIAH",
+            "nisn": "0089270598",
+            "grade_final": "87.41",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:15:36"
+        },
+        {
+            "name": "MOCHAMMAD MAS HUDI",
+            "nisn": "0088775138",
+            "grade_final": "86.37",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:23:11"
+        },
+        {
+            "name": "ANANDA WAHYU DWI PUTRA",
+            "nisn": "3084066004",
+            "grade_final": "86.32",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-03 03:30:32"
+        },
+        {
+            "name": "KEYSHAFA FAIRUZA EFFANS ARIFFIANTO",
+            "nisn": "3099866520",
+            "grade_final": "86.28",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:19:35"
+        },
+        {
+            "name": "TIANWIE ARTANATA",
+            "nisn": "0082006057",
+            "grade_final": "86.21",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:28:56"
+        },
+        {
+            "name": "ARIS PUJI IMANSYAH",
+            "nisn": "0094989335",
+            "grade_final": "85.87",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:14:19"
+        },
+        {
+            "name": "AHMAD RAFI MAULANA",
+            "nisn": "0088333518",
+            "grade_final": "85.78",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:20:33"
+        },
+        {
+            "name": "MUHAMMAD BAYU AJI PANGESTU AR ROMY",
+            "nisn": "0098883724",
+            "grade_final": "85.71",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:50:17"
+        },
+        {
+            "name": "MUHAMMAD FAREL NUR SABANI",
+            "nisn": "0084755668",
+            "grade_final": "85.64",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:13:45"
+        },
+        {
+            "name": "ACHMAD CANDRA SAPUTRA",
+            "nisn": "0097904324",
+            "grade_final": "85.57",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:03:50"
+        },
+        {
+            "name": "AHMAD IZZUDIN HAFIDH",
+            "nisn": "3093234685",
+            "grade_final": "85.48",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-04 08:17:22"
+        },
+        {
+            "name": "M AGUNG TRI LAKSONO",
+            "nisn": "3085644549",
+            "grade_final": "85.48",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:31:28"
+        },
+        {
+            "name": "NAFAIHA AZZAHROZATUL ARSITA",
+            "nisn": "0096701562",
+            "grade_final": "85.47",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:14:49"
+        },
+        {
+            "name": "RAYHAN FABY NURISDIANSYAH",
+            "nisn": "3082885400",
+            "grade_final": "85.44",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-03 22:05:37"
+        },
+        {
+            "name": "NOVIDA CITRA EKA CAHYANI",
+            "nisn": "0084970606",
+            "grade_final": "85.40",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:24:42"
+        },
+        {
+            "name": "MOHAMMAD FADIL ABI FEBRIANO",
+            "nisn": "0089484537",
+            "grade_final": "85.37",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:35:20"
+        },
+        {
+            "name": "INTAN DILA OCTAVIA PUTRI",
+            "nisn": "0082007565",
+            "grade_final": "85.34",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-03 22:28:58"
+        },
+        {
+            "name": "MELANI PUTRI SABRINA",
+            "nisn": "0094534603",
+            "grade_final": "85.28",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:56:12"
+        },
+        {
+            "name": "CHALISTA ANGGRAENI",
+            "nisn": "3094545801",
+            "grade_final": "85.14",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:15:48"
+        },
+        {
+            "name": "RIZKY MAULANA PUTRA PRATAMA",
+            "nisn": "3093832056",
+            "grade_final": "85.13",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-03 18:50:17"
+        },
+        {
+            "name": "ALIEF PUTRA ANDRIANSYAH",
+            "nisn": "0085639960",
+            "grade_final": "85.13",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-04 11:15:28"
+        },
+        {
+            "name": "MOHAMMAD HABIB AFFANDY",
+            "nisn": "0089596999",
+            "grade_final": "85.12",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-04 18:27:00"
+        },
+        {
+            "name": "AHMAD DHANI BAGUS SAPUTRA",
+            "nisn": "3074892533",
+            "grade_final": "85.11",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:47:41"
+        },
+        {
+            "name": "ELGA YUNG FUNG",
+            "nisn": "0082134177",
+            "grade_final": "85.10",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-03 02:02:13"
+        },
+        {
+            "name": "HERDIANTO DWI SYAHPUTRA",
+            "nisn": "0083539233",
+            "grade_final": "85.09",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-03 20:47:11"
+        },
+        {
+            "name": "MOCHAMMAD YUSUF FIRMANSYAH",
+            "nisn": "0081736861",
+            "grade_final": "85.07",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-03 12:02:03"
+        },
+        {
+            "name": "PANDHUTAMA NASRULLOH",
+            "nisn": "0082872106",
+            "grade_final": "85.05",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-04 14:50:42"
+        },
+        {
+            "name": "IRZAM MAULANA IDRIS",
+            "nisn": "0093613391",
+            "grade_final": "85.04",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-04 15:20:13"
+        },
+        {
+            "name": "JATI DWI AMARDANI",
+            "nisn": "0092249404",
+            "grade_final": "85.04",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:44:25"
+        },
+        {
+            "name": "AHMAD ZAINUL FAIZIN",
+            "nisn": "3092735004",
+            "grade_final": "85.04",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-03 11:19:15"
+        },
+        {
+            "name": "MUHAMMAD IQBAL FIRMANSYAH",
+            "nisn": "0079058800",
+            "grade_final": "85.02",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-03 17:35:18"
+        },
+        {
+            "name": "RAFAEL KAKA PUTRA PRATAMA",
+            "nisn": "0081541197",
+            "grade_final": "85.00",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-04 12:52:36"
+        },
+        {
+            "name": "VIKY ALVIAN EFENDY",
+            "nisn": "3095017931",
+            "grade_final": "84.99",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-03 15:46:49"
+        },
+        {
+            "name": "ADITYA FAISAL JULIANTO",
+            "nisn": "0092745837",
+            "grade_final": "84.98",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-04 16:13:16"
+        },
+        {
+            "name": "Muhammad Mufid Abdurrohman",
+            "nisn": "3082403756",
+            "grade_final": "84.96",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:27:29"
+        },
+        {
+            "name": "Erik Wahyudi",
+            "nisn": "0087951875",
+            "grade_final": "84.95",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:52:02"
+        },
+        {
+            "name": "DARYI RIZKY NAUFALDI",
+            "nisn": "3089528872",
+            "grade_final": "84.95",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:09:23"
+        },
+        {
+            "name": "THALHAH ASYARI ARSYAD BANTANI",
+            "nisn": "0087172855",
+            "grade_final": "84.94",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:06:17"
+        },
+        {
+            "name": "ACHMAD AGUNG MUTTU HARIYADI",
+            "nisn": "0093837612",
+            "grade_final": "84.94",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-03 04:41:05"
+        },
+        {
+            "name": "SIVA ADI PRATAMA",
+            "nisn": "0085079092",
+            "grade_final": "84.89",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-04 16:44:36"
+        },
+        {
+            "name": "MUHAMMAD RAFI MAULANA",
+            "nisn": "0083660508",
+            "grade_final": "84.84",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-04 18:26:57"
+        },
+        {
+            "name": "AWAN FIRMANSYAH",
+            "nisn": "0085943909",
+            "grade_final": "84.84",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-04 16:18:41"
+        },
+        {
+            "name": "BIMO SATRIYO WICAKSONO",
+            "nisn": "0077953358",
+            "grade_final": "84.84",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:22:15"
+        },
+        {
+            "name": "HENDRIK ARYANTO",
+            "nisn": "0082439227",
+            "grade_final": "84.84",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:50:06"
+        },
+        {
+            "name": "GERALDY",
+            "nisn": "0085774483",
+            "grade_final": "84.83",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Konstruksi dan Perumahan"
+                }
+            },
+            "registration_created_at": "2024-07-04 07:49:52"
+        }
+    ]
+}

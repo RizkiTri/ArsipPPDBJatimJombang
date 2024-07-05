@@ -1,0 +1,1117 @@
+{
+    "code": 200,
+    "status": "OK",
+    "meta": {
+        "total": 92,
+        "last_page": 1,
+        "from": 1,
+        "to": 1,
+        "last_update": "2024-07-04 21:08:08"
+    },
+    "data": [
+        {
+            "name": "SHALSA MARTHA ANAYA PUTRI",
+            "nisn": "3096105572",
+            "grade_final": "89.46",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:42:17"
+        },
+        {
+            "name": "AERA RENO PASYO",
+            "nisn": "0084768939",
+            "grade_final": "89.01",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:14:05"
+        },
+        {
+            "name": "DEVI INDRA ALMAGHFIRA",
+            "nisn": "0088567918",
+            "grade_final": "88.47",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:54:48"
+        },
+        {
+            "name": "FALIA CAHYA FITRAH AFIFAH",
+            "nisn": "0087876837",
+            "grade_final": "88.40",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:02:55"
+        },
+        {
+            "name": "NADHIF KAMILAH IMTINAN MAUIZAH",
+            "nisn": "0092136994",
+            "grade_final": "88.23",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 04:50:50"
+        },
+        {
+            "name": "ALMIRA SEPTIANA MERTA",
+            "nisn": "0081342576",
+            "grade_final": "88.17",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:17:43"
+        },
+        {
+            "name": "NURUL SALBIYAH",
+            "nisn": "0081667622",
+            "grade_final": "88.03",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:07:03"
+        },
+        {
+            "name": "NUR AINI AZIZATUR ROHMAH",
+            "nisn": "0084720030",
+            "grade_final": "88.00",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:32:17"
+        },
+        {
+            "name": "KESYA AULIA MAGFIRO",
+            "nisn": "0097505487",
+            "grade_final": "87.99",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-04 13:17:34"
+        },
+        {
+            "name": "SINTIA OKTASARI",
+            "nisn": "0087146186",
+            "grade_final": "87.97",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:59:58"
+        },
+        {
+            "name": "PUTRI ARINDA MAULUDIA",
+            "nisn": "0093464775",
+            "grade_final": "87.96",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:09:04"
+        },
+        {
+            "name": "JESICA ANATASYA ENGELINA",
+            "nisn": "0093150101",
+            "grade_final": "87.83",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:18:51"
+        },
+        {
+            "name": "ARNIE ADILAH SAVITRI",
+            "nisn": "3080908342",
+            "grade_final": "87.83",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 12:41:19"
+        },
+        {
+            "name": "FITRI NURJANNAH",
+            "nisn": "0071251669",
+            "grade_final": "87.80",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:01:45"
+        },
+        {
+            "name": "WINNING SARI",
+            "nisn": "0084260850",
+            "grade_final": "87.80",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:09:13"
+        },
+        {
+            "name": "REVALINA AFIQ ROSIDA",
+            "nisn": "0084024917",
+            "grade_final": "87.78",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 21:15:19"
+        },
+        {
+            "name": "ERINA DWI ANGGRAINI",
+            "nisn": "0099329960",
+            "grade_final": "87.74",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:51:44"
+        },
+        {
+            "name": "FRISTA AMELIA PUTRI",
+            "nisn": "0084289864",
+            "grade_final": "87.73",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-04 07:37:03"
+        },
+        {
+            "name": "MARSA ANINDITA",
+            "nisn": "0095922296",
+            "grade_final": "87.66",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 15:52:17"
+        },
+        {
+            "name": "AZMI FUAIZAH",
+            "nisn": "3093859971",
+            "grade_final": "87.54",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 11:29:38"
+        },
+        {
+            "name": "WIDIANTI PUTRI CAHYANI",
+            "nisn": "0082562149",
+            "grade_final": "87.51",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 11:26:06"
+        },
+        {
+            "name": "NAZWA AULIA NUR ALIFAH",
+            "nisn": "0091836909",
+            "grade_final": "87.50",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:04:52"
+        },
+        {
+            "name": "AYRA AURELYA TRI AGUSTINA",
+            "nisn": "0094897715",
+            "grade_final": "87.47",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:13:31"
+        },
+        {
+            "name": "AVRILIA NURUL AZZAHRA",
+            "nisn": "0099175407",
+            "grade_final": "87.39",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 14:50:12"
+        },
+        {
+            "name": "SHINTA MELINDA ANGGRAENI",
+            "nisn": "3080082426",
+            "grade_final": "87.39",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:11:03"
+        },
+        {
+            "name": "ROSA AURELLIA",
+            "nisn": "0093281265",
+            "grade_final": "87.27",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:10:01"
+        },
+        {
+            "name": "INKA DWI MAHESTI",
+            "nisn": "0087697954",
+            "grade_final": "87.19",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 18:31:50"
+        },
+        {
+            "name": "NURIL FITRIAH",
+            "nisn": "0082403391",
+            "grade_final": "87.12",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:42:45"
+        },
+        {
+            "name": "Keyla Nabila Aurellista",
+            "nisn": "0081457806",
+            "grade_final": "87.03",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 17:45:09"
+        },
+        {
+            "name": "SAFA FITRIANA",
+            "nisn": "0091912185",
+            "grade_final": "87.01",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 15:01:38"
+        },
+        {
+            "name": "DWI ANJANI PUTRI",
+            "nisn": "0098796285",
+            "grade_final": "87.00",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:54:15"
+        },
+        {
+            "name": "ALUNA ARTHAMEVIA HERIYANTO",
+            "nisn": "0094841838",
+            "grade_final": "86.95",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:58:27"
+        },
+        {
+            "name": "MOCHAMAD RIZQI ANDIKA PRATAMA",
+            "nisn": "0086796916",
+            "grade_final": "86.94",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 03:44:16"
+        },
+        {
+            "name": "CLARISSA AMANDA",
+            "nisn": "0086854789",
+            "grade_final": "86.94",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 17:31:08"
+        },
+        {
+            "name": "KEYLA ANANTA",
+            "nisn": "0091496941",
+            "grade_final": "86.92",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-04 07:33:42"
+        },
+        {
+            "name": "NAYLA FEBI ANANTA",
+            "nisn": "0088546565",
+            "grade_final": "86.85",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:11:16"
+        },
+        {
+            "name": "NANIK NUR SILAWATI",
+            "nisn": "0081325748",
+            "grade_final": "86.84",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 20:26:10"
+        },
+        {
+            "name": "AIS ADILA BAID",
+            "nisn": "0084510730",
+            "grade_final": "86.83",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:43:08"
+        },
+        {
+            "name": "AZMIL MUFARROKHAN",
+            "nisn": "0097616704",
+            "grade_final": "86.83",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-04 13:26:54"
+        },
+        {
+            "name": "KENYA VALESTIA",
+            "nisn": "0094878839",
+            "grade_final": "86.74",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:13:04"
+        },
+        {
+            "name": "NUR LINTANG RAMADHANI",
+            "nisn": "0085732420",
+            "grade_final": "86.70",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:19:26"
+        },
+        {
+            "name": "INTAN DEWI AGNELIASARI",
+            "nisn": "0087093276",
+            "grade_final": "86.68",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:44:40"
+        },
+        {
+            "name": "SITI HALIMATUZ ZAHRA",
+            "nisn": "0081583972",
+            "grade_final": "86.66",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:06:34"
+        },
+        {
+            "name": "MAILAN NUR IFTITA",
+            "nisn": "0099219960",
+            "grade_final": "86.66",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-04 18:55:54"
+        },
+        {
+            "name": "INTAN AVIANI",
+            "nisn": "0086787407",
+            "grade_final": "86.61",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 04:51:25"
+        },
+        {
+            "name": "ANDHIKA PUTRA PRATAMA",
+            "nisn": "0099819346",
+            "grade_final": "86.61",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:05:46"
+        },
+        {
+            "name": "RISYA AULIDYA SARI",
+            "nisn": "0086611079",
+            "grade_final": "86.60",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-04 13:43:05"
+        },
+        {
+            "name": "Carolina Dwi Adiyanti Puspita",
+            "nisn": "0094257879",
+            "grade_final": "86.58",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:29:23"
+        },
+        {
+            "name": "INTAN ARTA MEIFIA",
+            "nisn": "0091400286",
+            "grade_final": "86.54",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:04:55"
+        },
+        {
+            "name": "LUCVIANA FARADILA",
+            "nisn": "0099626260",
+            "grade_final": "86.53",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-04 07:26:11"
+        },
+        {
+            "name": "CINTIYA SETYO BUDIARTI",
+            "nisn": "3089109360",
+            "grade_final": "86.51",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-04 13:30:32"
+        },
+        {
+            "name": "AINUR ALIF",
+            "nisn": "0081311525",
+            "grade_final": "86.49",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:01:08"
+        },
+        {
+            "name": "INDRI AMELIA PUTRI",
+            "nisn": "0087398323",
+            "grade_final": "86.47",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:23:09"
+        },
+        {
+            "name": "PRATAMA AYUDYA MAHARANI",
+            "nisn": "0083144395",
+            "grade_final": "86.42",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-04 08:20:38"
+        },
+        {
+            "name": "SELLY NIA RAHMADANI",
+            "nisn": "3084534152",
+            "grade_final": "86.41",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:29:57"
+        },
+        {
+            "name": "DEWI PUSPITASARI",
+            "nisn": "0081807138",
+            "grade_final": "86.41",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-04 16:27:46"
+        },
+        {
+            "name": "NUR ANISAH",
+            "nisn": "3081275178",
+            "grade_final": "86.41",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:03:40"
+        },
+        {
+            "name": "NADINDA RISTA WARDANI",
+            "nisn": "0099603218",
+            "grade_final": "86.40",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:27:22"
+        },
+        {
+            "name": "ANNISA SITI NURAZIZAH",
+            "nisn": "0086379164",
+            "grade_final": "86.40",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 14:38:04"
+        },
+        {
+            "name": "CAHAYA ANISARIFAH",
+            "nisn": "0083852124",
+            "grade_final": "86.40",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:26:05"
+        },
+        {
+            "name": "SABINA NUARITA DWI CAHYANI",
+            "nisn": "0095236005",
+            "grade_final": "86.38",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-04 10:47:27"
+        },
+        {
+            "name": "Zumroh Khusnul Maulia",
+            "nisn": "0099873612",
+            "grade_final": "86.35",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 17:47:30"
+        },
+        {
+            "name": "YOLANDA APRILIANA",
+            "nisn": "0081980648",
+            "grade_final": "86.33",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 04:16:01"
+        },
+        {
+            "name": "MOCHAMAD REFALIZHA AKBAR",
+            "nisn": "3095925056",
+            "grade_final": "86.33",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:30:48"
+        },
+        {
+            "name": "DESY TRIWIJAYANTI",
+            "nisn": "0089166969",
+            "grade_final": "86.28",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-04 17:22:11"
+        },
+        {
+            "name": "JESSICA NADIA LESTARI",
+            "nisn": "0085989290",
+            "grade_final": "86.24",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-04 14:09:37"
+        },
+        {
+            "name": "NAJMIA SHINTA MARDIANA",
+            "nisn": "0098447902",
+            "grade_final": "86.23",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-04 13:34:33"
+        },
+        {
+            "name": "Akhmad Fasya Yudha Pradana",
+            "nisn": "3093878610",
+            "grade_final": "86.16",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 18:42:45"
+        },
+        {
+            "name": "RAFANIA NUR AGHISTA GHASSANI",
+            "nisn": "0096036277",
+            "grade_final": "86.15",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:14:36"
+        },
+        {
+            "name": "Jihan Safira",
+            "nisn": "3089002242",
+            "grade_final": "86.14",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-04 18:28:45"
+        },
+        {
+            "name": "BUNGA CITRA LISTARI",
+            "nisn": "0094374064",
+            "grade_final": "86.14",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 20:48:24"
+        },
+        {
+            "name": "ELVAZA NAILA ARJANI",
+            "nisn": "0085922014",
+            "grade_final": "86.14",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:44:10"
+        },
+        {
+            "name": "DELTA NIA WIDIASARI",
+            "nisn": "0096738617",
+            "grade_final": "86.13",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:33:45"
+        },
+        {
+            "name": "Nurul Wahyu Hidayatul Lail",
+            "nisn": "3088952642",
+            "grade_final": "86.12",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 20:03:01"
+        },
+        {
+            "name": "ARVIN ANDRIANSYAH PUTRA",
+            "nisn": "0099354307",
+            "grade_final": "86.12",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:43:55"
+        },
+        {
+            "name": "ISNAINI AMINATUS FADILA",
+            "nisn": "3082493067",
+            "grade_final": "86.10",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:04:42"
+        },
+        {
+            "name": "AMANDA SAL SABILA AZZHARA",
+            "nisn": "0082277179",
+            "grade_final": "86.09",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 11:29:55"
+        },
+        {
+            "name": "ANGGIE THALIA",
+            "nisn": "0092896283",
+            "grade_final": "86.07",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:07:40"
+        },
+        {
+            "name": "ANDIN AZKA RUSYIDA",
+            "nisn": "0096157364",
+            "grade_final": "86.06",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:40:16"
+        },
+        {
+            "name": "Tazalina Amanina",
+            "nisn": "3086844981",
+            "grade_final": "86.06",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 19:01:13"
+        },
+        {
+            "name": "Nabila Zahra Agustiani",
+            "nisn": "0083453645",
+            "grade_final": "86.05",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:09:00"
+        },
+        {
+            "name": "EKA VIONA CANDRA AYUNDA",
+            "nisn": "3096258133",
+            "grade_final": "86.02",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 02:25:55"
+        },
+        {
+            "name": "Ainayya Salsabillah Kurniastutik",
+            "nisn": "0082473407",
+            "grade_final": "86.01",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 04:59:01"
+        },
+        {
+            "name": "SIVA AULIA HADIDOH",
+            "nisn": "0085413474",
+            "grade_final": "86.01",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:23:21"
+        },
+        {
+            "name": "AURA AGUANTI ATIKA PUTRI",
+            "nisn": "0099711643",
+            "grade_final": "85.99",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:08:17"
+        },
+        {
+            "name": "FRENISSA DELLA COONCENTHA",
+            "nisn": "0088816613",
+            "grade_final": "85.99",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:27:10"
+        },
+        {
+            "name": "IRLY KUSUMAWATI",
+            "nisn": "0085520378",
+            "grade_final": "85.97",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:59:57"
+        },
+        {
+            "name": "DINDHA YESITA FUDZIA NINGSIH",
+            "nisn": "0094058324",
+            "grade_final": "85.96",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-04 08:07:01"
+        },
+        {
+            "name": "SASA NABILA",
+            "nisn": "0084822875",
+            "grade_final": "85.96",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 18:45:21"
+        },
+        {
+            "name": "INDRIANTI EKA KUMALASARI",
+            "nisn": "0096652559",
+            "grade_final": "85.95",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-04 15:55:53"
+        },
+        {
+            "name": "Dhevina Aulia Permadani",
+            "nisn": "0081195354",
+            "grade_final": "85.94",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:16:41"
+        },
+        {
+            "name": "Tiara Nur Afiani",
+            "nisn": "3085795426",
+            "grade_final": "85.92",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:25:35"
+        }
+    ]
+}

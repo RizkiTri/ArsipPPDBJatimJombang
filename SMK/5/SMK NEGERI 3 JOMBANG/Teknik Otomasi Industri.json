@@ -1,0 +1,277 @@
+{
+    "code": 200,
+    "status": "OK",
+    "meta": {
+        "total": 22,
+        "last_page": 1,
+        "from": 1,
+        "to": 1,
+        "last_update": "2024-07-04 21:08:08"
+    },
+    "data": [
+        {
+            "name": "Muhamad Wahyu Syaputra",
+            "nisn": "3094313048",
+            "grade_final": "86.64",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Otomasi Industri"
+                }
+            },
+            "registration_created_at": "2024-07-04 09:28:05"
+        },
+        {
+            "name": "AKHYAR ZULFIKAR ANAS",
+            "nisn": "0086253681",
+            "grade_final": "86.58",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Otomasi Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:04:55"
+        },
+        {
+            "name": "AHMAD MEINIKO KURNIAWAN",
+            "nisn": "0083576363",
+            "grade_final": "86.19",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Otomasi Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:30:17"
+        },
+        {
+            "name": "BRIAN SATRIYO WIBOWO",
+            "nisn": "0093499151",
+            "grade_final": "86.17",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Otomasi Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 04:59:07"
+        },
+        {
+            "name": "IRVAN YUDISTIRA",
+            "nisn": "3085431206",
+            "grade_final": "86.04",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Otomasi Industri"
+                }
+            },
+            "registration_created_at": "2024-07-04 09:03:14"
+        },
+        {
+            "name": "HANUR FAWWAZ DLILLULLAH",
+            "nisn": "0088639378",
+            "grade_final": "86.01",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Otomasi Industri"
+                }
+            },
+            "registration_created_at": "2024-07-04 13:09:40"
+        },
+        {
+            "name": "MUHAMMAD BAGUS TEGUH PRASETYO",
+            "nisn": "3080350096",
+            "grade_final": "86.00",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Otomasi Industri"
+                }
+            },
+            "registration_created_at": "2024-07-04 16:53:26"
+        },
+        {
+            "name": "MARTASYA APRILIA WIDYANTA",
+            "nisn": "0091825288",
+            "grade_final": "85.94",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Otomasi Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 12:00:04"
+        },
+        {
+            "name": "MOHAMMAD ENRICHO RAFSANJANI",
+            "nisn": "0087271811",
+            "grade_final": "85.88",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Otomasi Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:19:55"
+        },
+        {
+            "name": "FAHRY AFFAN RAMADANI",
+            "nisn": "0083756217",
+            "grade_final": "85.81",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Otomasi Industri"
+                }
+            },
+            "registration_created_at": "2024-07-04 10:59:51"
+        },
+        {
+            "name": "ALMIRA RAHMADHANI DWI SAPUTRI",
+            "nisn": "0083920761",
+            "grade_final": "85.61",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Otomasi Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 04:41:30"
+        },
+        {
+            "name": "MUHAMMAD YAFI RIZAL PRADANA",
+            "nisn": "3080571994",
+            "grade_final": "85.55",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Otomasi Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:08:13"
+        },
+        {
+            "name": "DIMAS RESTU AJI",
+            "nisn": "0098675555",
+            "grade_final": "85.41",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Otomasi Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 21:05:12"
+        },
+        {
+            "name": "JHONI INDO ELIYONO",
+            "nisn": "0094461526",
+            "grade_final": "85.34",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Otomasi Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 20:21:38"
+        },
+        {
+            "name": "FADHIL ATHWI SYANDANA",
+            "nisn": "0098062071",
+            "grade_final": "85.24",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Otomasi Industri"
+                }
+            },
+            "registration_created_at": "2024-07-04 13:47:48"
+        },
+        {
+            "name": "M OKTA RAFA EFENDI",
+            "nisn": "0097240270",
+            "grade_final": "85.23",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Otomasi Industri"
+                }
+            },
+            "registration_created_at": "2024-07-04 19:51:22"
+        },
+        {
+            "name": "RADIT SATRIA YUDHISTIRA",
+            "nisn": "3085311643",
+            "grade_final": "85.22",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Otomasi Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:40:15"
+        },
+        {
+            "name": "FATHIR PUTRA SETYADI",
+            "nisn": "0087795776",
+            "grade_final": "85.20",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Otomasi Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 18:19:05"
+        },
+        {
+            "name": "RIZKI MAIVANNO AKBAR",
+            "nisn": "0095743922",
+            "grade_final": "85.18",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Otomasi Industri"
+                }
+            },
+            "registration_created_at": "2024-07-04 18:39:03"
+        },
+        {
+            "name": "MOCHAMAD ROMADHONI",
+            "nisn": "0073366676",
+            "grade_final": "85.18",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Otomasi Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:38:39"
+        },
+        {
+            "name": "ACHMAD WASTIQUS SHIRROD",
+            "nisn": "0089417835",
+            "grade_final": "85.14",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Otomasi Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 16:34:34"
+        },
+        {
+            "name": "ROBBY FIRMANSYAH",
+            "nisn": "0096959204",
+            "grade_final": "85.09",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Otomasi Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:37:33"
+        }
+    ]
+}

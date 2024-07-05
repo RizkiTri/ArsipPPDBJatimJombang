@@ -1,0 +1,829 @@
+{
+    "code": 200,
+    "status": "OK",
+    "meta": {
+        "total": 68,
+        "last_page": 1,
+        "from": 1,
+        "to": 1,
+        "last_update": "2024-07-04 21:08:08"
+    },
+    "data": [
+        {
+            "name": "FAIZ AZZIL RAMADHAN",
+            "nisn": "0088620132",
+            "grade_final": "87.91",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 12:34:12"
+        },
+        {
+            "name": "WINDA WIDYA ASTUTIK",
+            "nisn": "3081172456",
+            "grade_final": "87.69",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:02:21"
+        },
+        {
+            "name": "MOHAMMAD ERDIN ROBBYANSYAH",
+            "nisn": "3089540093",
+            "grade_final": "87.15",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-04 16:26:51"
+        },
+        {
+            "name": "Pradana Lucky Firmansyah",
+            "nisn": "0098939459",
+            "grade_final": "87.00",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:55:37"
+        },
+        {
+            "name": "JAWANDALAS RIO SETYAWAN",
+            "nisn": "0088965547",
+            "grade_final": "86.89",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:30:49"
+        },
+        {
+            "name": "MUHAMMAD NUR FATHONI AFFANDI",
+            "nisn": "3094065586",
+            "grade_final": "86.85",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:43:07"
+        },
+        {
+            "name": "FAJAR EKA BHAYANGKARA",
+            "nisn": "0087667586",
+            "grade_final": "86.74",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 18:18:34"
+        },
+        {
+            "name": "AHMAD ALIEF AYUSTA",
+            "nisn": "0092313354",
+            "grade_final": "86.67",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:08:41"
+        },
+        {
+            "name": "FEBRI RIDHO KURNIAWAN",
+            "nisn": "0097200342",
+            "grade_final": "86.63",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:19:19"
+        },
+        {
+            "name": "RIZAL AHMAD SAPUTRO",
+            "nisn": "0081445504",
+            "grade_final": "86.63",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 12:53:21"
+        },
+        {
+            "name": "BAGAS RIYAN PRADANA",
+            "nisn": "0081687468",
+            "grade_final": "86.49",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:11:03"
+        },
+        {
+            "name": "JAVIER ABIYU KURNIAWAN",
+            "nisn": "3095245485",
+            "grade_final": "86.48",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-04 18:10:37"
+        },
+        {
+            "name": "ACHMAD EGA ARI IBRAHIM",
+            "nisn": "0098897582",
+            "grade_final": "86.40",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:28:41"
+        },
+        {
+            "name": "M ANANDA FIRLI",
+            "nisn": "0093208309",
+            "grade_final": "86.34",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:34:48"
+        },
+        {
+            "name": "ADITYA PANGESTU",
+            "nisn": "0084278695",
+            "grade_final": "86.30",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-04 16:30:24"
+        },
+        {
+            "name": "Farel Diky Romadhoni",
+            "nisn": "3088569378",
+            "grade_final": "86.25",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-04 16:43:44"
+        },
+        {
+            "name": "DWI MAULANA",
+            "nisn": "0092040742",
+            "grade_final": "86.24",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:35:26"
+        },
+        {
+            "name": "IRFAN DWI SYAHPUTRA",
+            "nisn": "3096007711",
+            "grade_final": "86.23",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:07:22"
+        },
+        {
+            "name": "ROYYAN ACHMAD AUDREY",
+            "nisn": "0086765383",
+            "grade_final": "86.22",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-04 15:25:01"
+        },
+        {
+            "name": "ABIMANYU QUESSAL ALIFAHMI",
+            "nisn": "0086940387",
+            "grade_final": "86.14",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:44:00"
+        },
+        {
+            "name": "FERDI DWI NASURYA",
+            "nisn": "0085030283",
+            "grade_final": "86.14",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:35:26"
+        },
+        {
+            "name": "AIRLANGGA SATRIA PRADANA",
+            "nisn": "0086496682",
+            "grade_final": "86.14",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-04 10:11:47"
+        },
+        {
+            "name": "RAKHAS RIBUT SAPUTRO",
+            "nisn": "0087964830",
+            "grade_final": "86.08",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:06:14"
+        },
+        {
+            "name": "BERLIAN WIJAYA NUR HIDAYAT",
+            "nisn": "0096626663",
+            "grade_final": "86.07",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:16:24"
+        },
+        {
+            "name": "MUHAMAD SOFYAN",
+            "nisn": "0098364834",
+            "grade_final": "86.06",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-04 08:35:58"
+        },
+        {
+            "name": "DIKA PRAMANA",
+            "nisn": "0087907830",
+            "grade_final": "86.03",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:35:26"
+        },
+        {
+            "name": "DANANG WAHYU PUJI RAHARJO",
+            "nisn": "0099390616",
+            "grade_final": "85.98",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-04 18:04:00"
+        },
+        {
+            "name": "AKHMAD FAUZAN",
+            "nisn": "3087175480",
+            "grade_final": "85.85",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:06:24"
+        },
+        {
+            "name": "MOCHAMAD ADITYA DWI PRATAMA PUTRA",
+            "nisn": "0087441973",
+            "grade_final": "85.84",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:41:24"
+        },
+        {
+            "name": "Rizky Alamsyah",
+            "nisn": "0089347303",
+            "grade_final": "85.82",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:16:54"
+        },
+        {
+            "name": "MUHAMMAD AFIF",
+            "nisn": "0089509914",
+            "grade_final": "85.82",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:08:34"
+        },
+        {
+            "name": "RISMA DWI FEBRIANTI",
+            "nisn": "3097638979",
+            "grade_final": "85.82",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:03:02"
+        },
+        {
+            "name": "MUCHAMAD DIMAS ERLANGGA",
+            "nisn": "0088515781",
+            "grade_final": "85.81",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:50:59"
+        },
+        {
+            "name": "MAULANA ABDI SAPUTRO",
+            "nisn": "0087250618",
+            "grade_final": "85.79",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 20:59:52"
+        },
+        {
+            "name": "ADITYA NUR HIDAYATULLOH",
+            "nisn": "3081110685",
+            "grade_final": "85.76",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:09:03"
+        },
+        {
+            "name": "KEVIN ADITYA PRATAMA",
+            "nisn": "0083885896",
+            "grade_final": "85.76",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:17:31"
+        },
+        {
+            "name": "RAIHAN FEBIANO SYAHPUTRA",
+            "nisn": "0097405975",
+            "grade_final": "85.74",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 12:27:42"
+        },
+        {
+            "name": "DIKI ARIANTO",
+            "nisn": "0084607301",
+            "grade_final": "85.69",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:32:14"
+        },
+        {
+            "name": "MUHAMMAD FAISHOL SAIFULLOH",
+            "nisn": "3081506996",
+            "grade_final": "85.68",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-04 08:09:48"
+        },
+        {
+            "name": "MUHAMMAD DICKY ATTIRMIDZI",
+            "nisn": "3073265403",
+            "grade_final": "85.67",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:09:53"
+        },
+        {
+            "name": "ANDIKA CANDRA PASHA",
+            "nisn": "0084720431",
+            "grade_final": "85.65",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:59:15"
+        },
+        {
+            "name": "HAVID RAMADHAN GHOZALI",
+            "nisn": "0087619428",
+            "grade_final": "85.65",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:24:37"
+        },
+        {
+            "name": "ARYA GUSTI LAZUARDI",
+            "nisn": "3089375797",
+            "grade_final": "85.65",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-04 10:39:26"
+        },
+        {
+            "name": "ACHMAD RIZKY EFENDI",
+            "nisn": "0099988422",
+            "grade_final": "85.65",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:15:59"
+        },
+        {
+            "name": "Wahyu ananda berliyano",
+            "nisn": "3085381422",
+            "grade_final": "85.60",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 11:27:52"
+        },
+        {
+            "name": "ALFIN SYAH PUTRA KUSHADI",
+            "nisn": "0081453439",
+            "grade_final": "85.60",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 14:54:00"
+        },
+        {
+            "name": "ATA NUR HANAFI",
+            "nisn": "3082208599",
+            "grade_final": "85.60",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:28:34"
+        },
+        {
+            "name": "ACHMAD HAIKAL",
+            "nisn": "0089581897",
+            "grade_final": "85.60",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 03:58:14"
+        },
+        {
+            "name": "ALDIANO ANUGRAH SAPUTRA",
+            "nisn": "3099189220",
+            "grade_final": "85.59",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:33:37"
+        },
+        {
+            "name": "RAHMAD ARDIANSYAH",
+            "nisn": "0065189218",
+            "grade_final": "85.58",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-04 16:14:24"
+        },
+        {
+            "name": "REVAN AKBAR MAULANA",
+            "nisn": "0093052126",
+            "grade_final": "85.57",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 12:27:25"
+        },
+        {
+            "name": "RAHMAT FARDIANSAH",
+            "nisn": "0086357695",
+            "grade_final": "85.57",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-04 11:46:41"
+        },
+        {
+            "name": "MOKHAMMAD STIVEN RAMADHAN PUTRA",
+            "nisn": "0082920917",
+            "grade_final": "85.52",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:20:24"
+        },
+        {
+            "name": "Muhammad Firman Robbani",
+            "nisn": "0086784070",
+            "grade_final": "85.52",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 19:16:14"
+        },
+        {
+            "name": "DENNIS AWALUMAN AL ZAHWAN",
+            "nisn": "0085135820",
+            "grade_final": "85.50",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:39:30"
+        },
+        {
+            "name": "MUHAMMAD MUAMMAR FAJRIN",
+            "nisn": "3090951057",
+            "grade_final": "85.49",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:34:50"
+        },
+        {
+            "name": "Abdullah Farid Widiatmoko",
+            "nisn": "0083617451",
+            "grade_final": "85.48",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-04 16:15:16"
+        },
+        {
+            "name": "AHMAD FAUZAN RIZKI",
+            "nisn": "0086153150",
+            "grade_final": "85.47",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:42:40"
+        },
+        {
+            "name": "FAIRUZ BAYU PURNAMA",
+            "nisn": "0088240503",
+            "grade_final": "85.46",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-04 06:07:26"
+        },
+        {
+            "name": "MUHCAMAD ALIFIAN ROHMATULLOH",
+            "nisn": "3095751218",
+            "grade_final": "85.45",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-04 06:29:11"
+        },
+        {
+            "name": "ANDIKA FIRMANSYAH",
+            "nisn": "0086628687",
+            "grade_final": "85.44",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 02:32:17"
+        },
+        {
+            "name": "MOCHAMAD LESMANA RAHARDJO",
+            "nisn": "0086616433",
+            "grade_final": "85.44",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-04 09:12:00"
+        },
+        {
+            "name": "MUHAMMAD REIHAN TRI JULIANTO",
+            "nisn": "0088992589",
+            "grade_final": "85.41",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:56:37"
+        },
+        {
+            "name": "MUHAMMAD IHSAN SOLEH",
+            "nisn": "3097278224",
+            "grade_final": "85.38",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:14:46"
+        },
+        {
+            "name": "MUHAMMAD ZACKY SYAPUTRA",
+            "nisn": "0098847460",
+            "grade_final": "85.37",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:24:46"
+        },
+        {
+            "name": "MUHAMMAD AZMI TSAQIF",
+            "nisn": "3081601040",
+            "grade_final": "85.36",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-03 17:35:18"
+        },
+        {
+            "name": "MOCHAMAD ARIEL LESMANA PUTRA",
+            "nisn": "0099245903",
+            "grade_final": "85.30",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-04 10:20:11"
+        },
+        {
+            "name": "AHMAD RIYAN AFANDI",
+            "nisn": "0084710195",
+            "grade_final": "85.29",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Pemesinan"
+                }
+            },
+            "registration_created_at": "2024-07-04 09:04:38"
+        }
+    ]
+}

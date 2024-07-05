@@ -1,0 +1,553 @@
+{
+    "code": 200,
+    "status": "OK",
+    "meta": {
+        "total": 45,
+        "last_page": 1,
+        "from": 1,
+        "to": 1,
+        "last_update": "2024-07-04 21:08:08"
+    },
+    "data": [
+        {
+            "name": "DAFFA NUNO ADITYA",
+            "nisn": "0082616191",
+            "grade_final": "88.13",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 17:17:34"
+        },
+        {
+            "name": "FARRELL NURUDDIN AKBAR ZEROUN",
+            "nisn": "0086709704",
+            "grade_final": "87.97",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-04 20:28:03"
+        },
+        {
+            "name": "MUHAMMAD TORIQOL AL AZIZ",
+            "nisn": "0095287111",
+            "grade_final": "87.90",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 19:53:48"
+        },
+        {
+            "name": "MUHAMMAD JEFRI ARDIANSYAH",
+            "nisn": "0091297629",
+            "grade_final": "87.39",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 02:08:43"
+        },
+        {
+            "name": "Satrio Dwi Adi Wiyono",
+            "nisn": "0087770705",
+            "grade_final": "87.28",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:57:57"
+        },
+        {
+            "name": "MUHAMMAD ZIDANE MAULANA AL SANDI",
+            "nisn": "0088311777",
+            "grade_final": "87.23",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 15:37:02"
+        },
+        {
+            "name": "AKHMAD RAKHA PRATAMA",
+            "nisn": "0083471229",
+            "grade_final": "87.21",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:03:32"
+        },
+        {
+            "name": "FITRAH AKBAR RIDHO ALFAIZAL",
+            "nisn": "0085192497",
+            "grade_final": "87.16",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:44:38"
+        },
+        {
+            "name": "Achmad Ghani Putra Cahyono",
+            "nisn": "0093169412",
+            "grade_final": "87.15",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-04 15:47:22"
+        },
+        {
+            "name": "BRIYAN DUDERMAWAN",
+            "nisn": "0077564285",
+            "grade_final": "87.12",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 04:59:26"
+        },
+        {
+            "name": "MOHAMMAD BAIM DWI OKTAVIAN",
+            "nisn": "0085027001",
+            "grade_final": "86.83",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:43:50"
+        },
+        {
+            "name": "ARIFIN NUR ROHMAT",
+            "nisn": "0086335443",
+            "grade_final": "86.77",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 13:32:45"
+        },
+        {
+            "name": "MUHAMAD ALIEF KAKA DAVIANSYAH",
+            "nisn": "0081722802",
+            "grade_final": "86.76",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:39:09"
+        },
+        {
+            "name": "AHCMAD YARDIAN",
+            "nisn": "0095609034",
+            "grade_final": "86.75",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:33:19"
+        },
+        {
+            "name": "DWI PRASETYO ADIYAKSA",
+            "nisn": "0089773858",
+            "grade_final": "86.68",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:52:59"
+        },
+        {
+            "name": "MUHAMMAD SYABILI",
+            "nisn": "3093034838",
+            "grade_final": "86.55",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:17:40"
+        },
+        {
+            "name": "AZAM FUADUR ROFIQI",
+            "nisn": "3088414144",
+            "grade_final": "86.49",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-04 17:08:53"
+        },
+        {
+            "name": "MUKHAMMAD ANANDA AKMALUDI A",
+            "nisn": "0072718048",
+            "grade_final": "86.43",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:59:48"
+        },
+        {
+            "name": "MUHAMMAD WILDAN ARRAFI ZAIN",
+            "nisn": "0085246283",
+            "grade_final": "86.43",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:41:24"
+        },
+        {
+            "name": "ANSHOR HABBIE FILLA AKBAR",
+            "nisn": "0088135581",
+            "grade_final": "86.41",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:22:22"
+        },
+        {
+            "name": "WELLY DENIS PRASTYA",
+            "nisn": "3089265316",
+            "grade_final": "86.37",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 18:23:18"
+        },
+        {
+            "name": "Asyriful Akbar Firamadhani",
+            "nisn": "0087371108",
+            "grade_final": "86.36",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:11:39"
+        },
+        {
+            "name": "FARDAN MAULANA FAQIH",
+            "nisn": "0082950699",
+            "grade_final": "86.30",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 03:59:19"
+        },
+        {
+            "name": "MOHAMMAD RIZKI ADITYA",
+            "nisn": "0081843890",
+            "grade_final": "86.29",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 19:53:18"
+        },
+        {
+            "name": "RADHITE MAULANA PRATAMA",
+            "nisn": "0084760024",
+            "grade_final": "86.24",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:18:20"
+        },
+        {
+            "name": "ANCHALA JALU SUTA SATRIYA SADEWA",
+            "nisn": "0089095841",
+            "grade_final": "86.24",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:22:27"
+        },
+        {
+            "name": "RAJENDRA CAKRA DANISWARA",
+            "nisn": "0092646140",
+            "grade_final": "86.23",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-04 15:12:01"
+        },
+        {
+            "name": "JUNIOR GALANG PRATAMA",
+            "nisn": "0098314660",
+            "grade_final": "86.23",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:20:36"
+        },
+        {
+            "name": "NOVA ARDIYANSYAH",
+            "nisn": "3087070304",
+            "grade_final": "86.22",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-04 06:55:34"
+        },
+        {
+            "name": "REYGA ANDRE FIRMANSYAH",
+            "nisn": "0091715332",
+            "grade_final": "86.17",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 20:57:14"
+        },
+        {
+            "name": "ACHMAD WILDAN MUZAKKI",
+            "nisn": "0082695564",
+            "grade_final": "86.12",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:10:06"
+        },
+        {
+            "name": "M FADLI MEILIYANTO",
+            "nisn": "0086597803",
+            "grade_final": "86.11",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:11:07"
+        },
+        {
+            "name": "WAHYU ADI SASONGKO",
+            "nisn": "0081429757",
+            "grade_final": "86.11",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:16:28"
+        },
+        {
+            "name": "ALBIRASYA RAHLIL AL HABSY",
+            "nisn": "3084161880",
+            "grade_final": "86.05",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:31:13"
+        },
+        {
+            "name": "AKBAR KURNIAWAN",
+            "nisn": "0091388100",
+            "grade_final": "86.04",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 04:18:03"
+        },
+        {
+            "name": "MOCHAMAD FIQRI ZULKARNAEN",
+            "nisn": "3087314646",
+            "grade_final": "86.03",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:07:31"
+        },
+        {
+            "name": "M Ikbal Maulana",
+            "nisn": "0092544481",
+            "grade_final": "86.02",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:34:06"
+        },
+        {
+            "name": "ARFINO FEBRIAN",
+            "nisn": "0098801545",
+            "grade_final": "85.99",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 13:08:23"
+        },
+        {
+            "name": "ANANDA FATHAN AHMAD ASYARI",
+            "nisn": "0081745723",
+            "grade_final": "85.90",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:39:55"
+        },
+        {
+            "name": "Ahmad Syarif Muzzaqi",
+            "nisn": "0087796081",
+            "grade_final": "85.85",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:04:47"
+        },
+        {
+            "name": "MOHAMMAD IBRA MAULANA",
+            "nisn": "3086856931",
+            "grade_final": "85.83",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 18:35:52"
+        },
+        {
+            "name": "RASYA VIKO ARDIANSYAH",
+            "nisn": "0096231667",
+            "grade_final": "85.82",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 20:41:25"
+        },
+        {
+            "name": "MUHAMMAD TENDY BRAJAMUSTI",
+            "nisn": "0085234833",
+            "grade_final": "85.82",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:35:01"
+        },
+        {
+            "name": "Wisnu Nanda Ramadhan",
+            "nisn": "0082226684",
+            "grade_final": "85.79",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:57:09"
+        },
+        {
+            "name": "MUHAMMAD BURHAN ILHAMSYAH",
+            "nisn": "0087470045",
+            "grade_final": "85.72",
+            "smk": {
+                "name": "SMK NEGERI 3 JOMBANG",
+                "major": {
+                    "name": "Teknik Kendaraan Ringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:10:42"
+        }
+    ]
+}

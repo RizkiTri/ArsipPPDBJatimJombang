@@ -1,0 +1,553 @@
+{
+    "code": 200,
+    "status": "OK",
+    "meta": {
+        "total": 45,
+        "last_page": 1,
+        "from": 1,
+        "to": 1,
+        "last_update": "2024-07-04 21:08:08"
+    },
+    "data": [
+        {
+            "name": "FAYZA KULLA AZMI",
+            "nisn": "3081382337",
+            "grade_final": "89.26",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 23:54:31"
+        },
+        {
+            "name": "Kirania Yanuarta Salsabila",
+            "nisn": "3099143436",
+            "grade_final": "88.26",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:11:33"
+        },
+        {
+            "name": "SITI AISYAH",
+            "nisn": "0085071349",
+            "grade_final": "88.09",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:25:02"
+        },
+        {
+            "name": "HAFIZH ARSHAVIN",
+            "nisn": "3094206846",
+            "grade_final": "87.83",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-04 12:49:28"
+        },
+        {
+            "name": "NUR JAMILAH ARIFAH",
+            "nisn": "0099957167",
+            "grade_final": "87.64",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 04:49:14"
+        },
+        {
+            "name": "NUR ATIKA KHOIRUNNISA",
+            "nisn": "0086553481",
+            "grade_final": "87.58",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:31:03"
+        },
+        {
+            "name": "SYAHID NURMAHMUDI MAHARDIKA",
+            "nisn": "3086600861",
+            "grade_final": "86.75",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:13:26"
+        },
+        {
+            "name": "METHA APRILIA",
+            "nisn": "0087202025",
+            "grade_final": "86.70",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:03:34"
+        },
+        {
+            "name": "FITA NUR AINI",
+            "nisn": "0084666527",
+            "grade_final": "86.68",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:07:41"
+        },
+        {
+            "name": "AINI RAHMADIANTI",
+            "nisn": "3085612940",
+            "grade_final": "86.64",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-04 10:21:55"
+        },
+        {
+            "name": "KENZA ALFIRA CAHAYA PRATIWI",
+            "nisn": "0091903724",
+            "grade_final": "86.55",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:05:57"
+        },
+        {
+            "name": "YOLANDA DWI DAMAYANTI",
+            "nisn": "0083418953",
+            "grade_final": "86.35",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:18:55"
+        },
+        {
+            "name": "ICHA ANJAR SARI",
+            "nisn": "0083765219",
+            "grade_final": "86.24",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 02:10:42"
+        },
+        {
+            "name": "NABILA NUR AINI",
+            "nisn": "0099740718",
+            "grade_final": "86.14",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-04 02:16:11"
+        },
+        {
+            "name": "DEA SABITA ATHAYA AMARIE",
+            "nisn": "0089042358",
+            "grade_final": "86.12",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:02:41"
+        },
+        {
+            "name": "BAIM YUDA PRATAMA",
+            "nisn": "3082324886",
+            "grade_final": "86.10",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-04 10:38:42"
+        },
+        {
+            "name": "ALIVIA RAHMA IZZATY",
+            "nisn": "3086924552",
+            "grade_final": "86.02",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-04 14:42:43"
+        },
+        {
+            "name": "HAFIZAH RAHMA AULIA",
+            "nisn": "0094928258",
+            "grade_final": "86.01",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:33:59"
+        },
+        {
+            "name": "Alfin Nur Alaudin",
+            "nisn": "0081889211",
+            "grade_final": "85.97",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-04 19:23:13"
+        },
+        {
+            "name": "AULIA NABIL RAHMADHANI",
+            "nisn": "0092442705",
+            "grade_final": "85.95",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-04 11:20:43"
+        },
+        {
+            "name": "BAGUS ANDIKA PUTRA",
+            "nisn": "0081935431",
+            "grade_final": "85.82",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:09:00"
+        },
+        {
+            "name": "R MAYLAN SANDARWATI",
+            "nisn": "0087568436",
+            "grade_final": "85.80",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:14:07"
+        },
+        {
+            "name": "DANIK OKTAVIONA SITI KUMAISAROH",
+            "nisn": "0082241628",
+            "grade_final": "85.80",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-04 11:26:44"
+        },
+        {
+            "name": "DEBI SOFIYADIN",
+            "nisn": "3086045425",
+            "grade_final": "85.80",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-04 10:39:23"
+        },
+        {
+            "name": "MOCHAMMAD HAVID HIBATULLOH",
+            "nisn": "3095367499",
+            "grade_final": "85.80",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:17:08"
+        },
+        {
+            "name": "SITI MAKFIROH",
+            "nisn": "3088099746",
+            "grade_final": "85.79",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:57:55"
+        },
+        {
+            "name": "FEBY ERWANTI",
+            "nisn": "0097466224",
+            "grade_final": "85.79",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-04 06:57:35"
+        },
+        {
+            "name": "NABILA SYARIFA RAMADHANI",
+            "nisn": "0083755921",
+            "grade_final": "85.76",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 17:56:31"
+        },
+        {
+            "name": "MOHAMMAD ATHFAL FADLA ABHURI",
+            "nisn": "3087080903",
+            "grade_final": "85.76",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-04 12:55:00"
+        },
+        {
+            "name": "NATALIA VELLA RAMADHANI PUTRY",
+            "nisn": "0082909556",
+            "grade_final": "85.75",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 11:04:15"
+        },
+        {
+            "name": "MUHAMMAD FAHRI ALFANDI",
+            "nisn": "3094227834",
+            "grade_final": "85.74",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-04 09:48:02"
+        },
+        {
+            "name": "SHANDY AULIA FEBRIANI",
+            "nisn": "3092824658",
+            "grade_final": "85.73",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:51:17"
+        },
+        {
+            "name": "ANGELLICA JANATUL FIRDAUSI NUZULIA",
+            "nisn": "0087377032",
+            "grade_final": "85.72",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-04 18:59:50"
+        },
+        {
+            "name": "RETNO AULIA PRATAMA",
+            "nisn": "0097662944",
+            "grade_final": "85.71",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:56:14"
+        },
+        {
+            "name": "RIZQIA ANGELINA ZAHROTUZ ZIAH",
+            "nisn": "0098195809",
+            "grade_final": "85.71",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:32:33"
+        },
+        {
+            "name": "RAHMA AULIA",
+            "nisn": "0091654458",
+            "grade_final": "85.69",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 19:19:47"
+        },
+        {
+            "name": "PUTRI NUR RAMADHANI",
+            "nisn": "0085279165",
+            "grade_final": "85.67",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-04 08:19:13"
+        },
+        {
+            "name": "ALYA NUR JAZILA",
+            "nisn": "0089876119",
+            "grade_final": "85.66",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:15:11"
+        },
+        {
+            "name": "KENZIE BHADRIKA PRAYATA",
+            "nisn": "0088881177",
+            "grade_final": "85.66",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 18:32:49"
+        },
+        {
+            "name": "PUTRI LAILI RAHMAWATI",
+            "nisn": "0085759566",
+            "grade_final": "85.62",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:02:29"
+        },
+        {
+            "name": "MARSHA ARNITA",
+            "nisn": "3084502698",
+            "grade_final": "85.61",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:14:09"
+        },
+        {
+            "name": "RESA OCTAVIA",
+            "nisn": "0081822197",
+            "grade_final": "85.59",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:00:04"
+        },
+        {
+            "name": "SYIVA ANGGRAINI",
+            "nisn": "0098559861",
+            "grade_final": "85.58",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 16:47:08"
+        },
+        {
+            "name": "PUTRI NAYSILA",
+            "nisn": "0095050288",
+            "grade_final": "85.56",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:04:43"
+        },
+        {
+            "name": "AHMAD FAHRIZ FERNANDO",
+            "nisn": "0089113487",
+            "grade_final": "85.56",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Teknik Kimia Industri"
+                }
+            },
+            "registration_created_at": "2024-07-03 04:46:00"
+        }
+    ]
+}

@@ -1,0 +1,1117 @@
+{
+    "code": 200,
+    "status": "OK",
+    "meta": {
+        "total": 92,
+        "last_page": 1,
+        "from": 1,
+        "to": 1,
+        "last_update": "2024-07-04 21:08:08"
+    },
+    "data": [
+        {
+            "name": "DANIEL SEBASTIAN",
+            "nisn": "3091878123",
+            "grade_final": "89.65",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:35:38"
+        },
+        {
+            "name": "SYAFIRA NUR FADILAH",
+            "nisn": "0085090397",
+            "grade_final": "89.14",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 20:36:19"
+        },
+        {
+            "name": "LEVINA CINDY AURELLA",
+            "nisn": "0082770248",
+            "grade_final": "89.09",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:52:58"
+        },
+        {
+            "name": "CINTA PUTRI AULIA",
+            "nisn": "0086932941",
+            "grade_final": "88.88",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:53:05"
+        },
+        {
+            "name": "DYAH AYU PUSPITANING WAHYONO",
+            "nisn": "0081325776",
+            "grade_final": "88.66",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 04:54:58"
+        },
+        {
+            "name": "CLARISSA ILMANADA HAKIM",
+            "nisn": "0084073665",
+            "grade_final": "88.32",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:01:27"
+        },
+        {
+            "name": "Rania Kanaya Dewi",
+            "nisn": "0091091734",
+            "grade_final": "88.31",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:27:10"
+        },
+        {
+            "name": "ELVINA FIORENZA JANITRA",
+            "nisn": "0093524086",
+            "grade_final": "88.17",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 11:22:28"
+        },
+        {
+            "name": "TRI ZAHROTUS SITA",
+            "nisn": "0089678598",
+            "grade_final": "88.14",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:10:06"
+        },
+        {
+            "name": "DEVINA VIOLA FIRMANSYAH",
+            "nisn": "0095818909",
+            "grade_final": "88.11",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:41:58"
+        },
+        {
+            "name": "RIZQI UMI ROFIAH",
+            "nisn": "0088725502",
+            "grade_final": "88.09",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-04 06:19:09"
+        },
+        {
+            "name": "RIZKI ARDIANSYAH",
+            "nisn": "0091772965",
+            "grade_final": "88.08",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:56:49"
+        },
+        {
+            "name": "AISYAH NAYSILA AZZAHRA",
+            "nisn": "0092592254",
+            "grade_final": "88.03",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:33:59"
+        },
+        {
+            "name": "Keyla Sakinah",
+            "nisn": "3086338574",
+            "grade_final": "88.02",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 04:40:26"
+        },
+        {
+            "name": "AGIKA FIEN JOUVELIN",
+            "nisn": "3089971383",
+            "grade_final": "88.01",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:45:47"
+        },
+        {
+            "name": "ALISYA KHARISMATUL AULIA",
+            "nisn": "0094016252",
+            "grade_final": "88.01",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 19:23:04"
+        },
+        {
+            "name": "AN NAAFAY SHINTA SYAHPUTRI",
+            "nisn": "3096647009",
+            "grade_final": "87.91",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:24:40"
+        },
+        {
+            "name": "CHESEA WAHYULI OCTAVIANA",
+            "nisn": "3082343975",
+            "grade_final": "87.89",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:18:00"
+        },
+        {
+            "name": "DELFI KURNIAWATI",
+            "nisn": "0092553059",
+            "grade_final": "87.87",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 02:57:22"
+        },
+        {
+            "name": "ADZANA NABILLAH",
+            "nisn": "3088590882",
+            "grade_final": "87.85",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:04:12"
+        },
+        {
+            "name": "IIN SETYOWATI",
+            "nisn": "0099789098",
+            "grade_final": "87.84",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:25:02"
+        },
+        {
+            "name": "EKA LIA FIMAULIDIA",
+            "nisn": "0092189673",
+            "grade_final": "87.83",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 19:15:57"
+        },
+        {
+            "name": "ANDINI AISYAH PUTRI",
+            "nisn": "0087979982",
+            "grade_final": "87.80",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:10:03"
+        },
+        {
+            "name": "AYU BELLINA ZULIANTI",
+            "nisn": "0081873760",
+            "grade_final": "87.78",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:24:46"
+        },
+        {
+            "name": "Ari Setya Ningsih",
+            "nisn": "0091754487",
+            "grade_final": "87.77",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-04 08:33:19"
+        },
+        {
+            "name": "Harnita Nourma Sari",
+            "nisn": "0098443941",
+            "grade_final": "87.75",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 19:00:58"
+        },
+        {
+            "name": "HANA SYAKURA HAYANI FITA",
+            "nisn": "0081450861",
+            "grade_final": "87.75",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-04 09:52:25"
+        },
+        {
+            "name": "FIKA AULIA",
+            "nisn": "0097761869",
+            "grade_final": "87.72",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-04 10:12:34"
+        },
+        {
+            "name": "Nesa Arifina Zharani",
+            "nisn": "3082542938",
+            "grade_final": "87.72",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:27:17"
+        },
+        {
+            "name": "GRECYA MAURI DINATA",
+            "nisn": "0081572380",
+            "grade_final": "87.71",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:04:03"
+        },
+        {
+            "name": "GLADIES AULIA REVALINA",
+            "nisn": "0087363507",
+            "grade_final": "87.67",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:45:01"
+        },
+        {
+            "name": "NAYRA VLORY JASQILKA",
+            "nisn": "3084236526",
+            "grade_final": "87.67",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-04 08:28:06"
+        },
+        {
+            "name": "QOTRUNNADA NOOR FARADINA",
+            "nisn": "0088714072",
+            "grade_final": "87.60",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 18:24:22"
+        },
+        {
+            "name": "OKTAVIANA NUR SAFITRI",
+            "nisn": "0088171435",
+            "grade_final": "87.59",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-04 10:55:18"
+        },
+        {
+            "name": "RIZMA YUSIFA AGUSTIN",
+            "nisn": "3095820291",
+            "grade_final": "87.55",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:58:35"
+        },
+        {
+            "name": "LINTANG ANJARWATI JAYAWARDHANI",
+            "nisn": "0089207900",
+            "grade_final": "87.55",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:17:08"
+        },
+        {
+            "name": "NATASYA PUTRI AURELIA",
+            "nisn": "3084478088",
+            "grade_final": "87.55",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 11:40:15"
+        },
+        {
+            "name": "AILSA VITA OKTIA EFFENDI",
+            "nisn": "0083974383",
+            "grade_final": "87.54",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 16:26:47"
+        },
+        {
+            "name": "Ziadah Ulya Adami",
+            "nisn": "3084705691",
+            "grade_final": "87.49",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-04 19:16:59"
+        },
+        {
+            "name": "CHARISA AUFALINDA MAGHFIROH",
+            "nisn": "0085712624",
+            "grade_final": "87.48",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 20:59:23"
+        },
+        {
+            "name": "WULAN SUCI RAHMADHANI",
+            "nisn": "0083193351",
+            "grade_final": "87.47",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:13:57"
+        },
+        {
+            "name": "TIARA DWI LESTARI",
+            "nisn": "0089980810",
+            "grade_final": "87.45",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-04 14:32:29"
+        },
+        {
+            "name": "IRREN DESTI FINANCE",
+            "nisn": "0074418451",
+            "grade_final": "87.42",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-04 05:25:21"
+        },
+        {
+            "name": "IRDINA FILSAH SABRINA OCTAVIA",
+            "nisn": "0083499868",
+            "grade_final": "87.40",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:46:41"
+        },
+        {
+            "name": "LUTHFIATUL AZ ZHARAH VARA DINATA",
+            "nisn": "0092224424",
+            "grade_final": "87.39",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:32:49"
+        },
+        {
+            "name": "DAVINCI PANJI PANGELING",
+            "nisn": "0088852714",
+            "grade_final": "87.39",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:07:15"
+        },
+        {
+            "name": "AJENG NADIA RASTI",
+            "nisn": "0092408656",
+            "grade_final": "87.38",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-04 15:18:35"
+        },
+        {
+            "name": "MARINA HERLINA",
+            "nisn": "3093298412",
+            "grade_final": "87.33",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-04 09:07:09"
+        },
+        {
+            "name": "VIVIA EKA PUTRI APRILIA",
+            "nisn": "0094899488",
+            "grade_final": "87.33",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 11:35:29"
+        },
+        {
+            "name": "CYNTHIA AULIA WARDHANY",
+            "nisn": "3085841924",
+            "grade_final": "87.33",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 13:22:44"
+        },
+        {
+            "name": "SELVA JENI ANDRIANI",
+            "nisn": "0094119396",
+            "grade_final": "87.32",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 15:01:26"
+        },
+        {
+            "name": "RAHMA MIFTAHUL RISKYAH",
+            "nisn": "0098657549",
+            "grade_final": "87.31",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:22:10"
+        },
+        {
+            "name": "WAAKHIDAH NURIL AZIZAH",
+            "nisn": "0082112728",
+            "grade_final": "87.30",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:18:12"
+        },
+        {
+            "name": "AZZAMILA UMUROTUNNAJATI",
+            "nisn": "0099069381",
+            "grade_final": "87.28",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:48:24"
+        },
+        {
+            "name": "HESTI APRILIA SARI",
+            "nisn": "0096754482",
+            "grade_final": "87.26",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:08:23"
+        },
+        {
+            "name": "MASLIKHATUL MUSTOIFAH",
+            "nisn": "3084752400",
+            "grade_final": "87.25",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-04 05:12:47"
+        },
+        {
+            "name": "SOLAYA YUNISTA ANGGRAINI",
+            "nisn": "0089895438",
+            "grade_final": "87.23",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:11:38"
+        },
+        {
+            "name": "AZKI QONITATUN NISA",
+            "nisn": "3082898085",
+            "grade_final": "87.23",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-04 08:00:25"
+        },
+        {
+            "name": "Giska Ayu Fatmasari",
+            "nisn": "0094184787",
+            "grade_final": "87.22",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:11:39"
+        },
+        {
+            "name": "NESYA AZZRILA FITRI",
+            "nisn": "0089032617",
+            "grade_final": "87.22",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-04 10:20:46"
+        },
+        {
+            "name": "M CORNEL ALFARISI",
+            "nisn": "0089813301",
+            "grade_final": "87.18",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 19:16:11"
+        },
+        {
+            "name": "NAURA NUR EFENDI",
+            "nisn": "0096130333",
+            "grade_final": "87.17",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-04 18:23:32"
+        },
+        {
+            "name": "Nadia Fitri Romadhoni",
+            "nisn": "0087128667",
+            "grade_final": "87.14",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:42:39"
+        },
+        {
+            "name": "Keysa Rahma Nur Anjani",
+            "nisn": "0094279294",
+            "grade_final": "87.11",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:16:27"
+        },
+        {
+            "name": "ARIKA MAY NAJWAH",
+            "nisn": "0083674191",
+            "grade_final": "87.11",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 12:33:33"
+        },
+        {
+            "name": "ALECYA SEPTIA ROHMAH",
+            "nisn": "0092449855",
+            "grade_final": "87.08",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 04:43:49"
+        },
+        {
+            "name": "DINDA SHAFIRA RAMADHANI",
+            "nisn": "0082511898",
+            "grade_final": "87.05",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:48:27"
+        },
+        {
+            "name": "ESTAFANI BERLIANA AZ ZAHRO",
+            "nisn": "0096905266",
+            "grade_final": "86.98",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:21:07"
+        },
+        {
+            "name": "INTAN PUTRI WIDIATMOKO",
+            "nisn": "3085302800",
+            "grade_final": "86.98",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-04 17:41:32"
+        },
+        {
+            "name": "MEY DWI WULANDARI",
+            "nisn": "0098277783",
+            "grade_final": "86.96",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-04 09:22:20"
+        },
+        {
+            "name": "LAYLY SEKAR ARDYANTY",
+            "nisn": "0085384779",
+            "grade_final": "86.96",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 19:36:29"
+        },
+        {
+            "name": "MAY NUR LAILATUN NIKMAH",
+            "nisn": "0096991742",
+            "grade_final": "86.94",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:17:40"
+        },
+        {
+            "name": "LOVEA PUTRI LAILY RAHMANIA",
+            "nisn": "3081119059",
+            "grade_final": "86.94",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 21:25:23"
+        },
+        {
+            "name": "Novita Icha Mandalita",
+            "nisn": "0093245757",
+            "grade_final": "86.93",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:01:17"
+        },
+        {
+            "name": "GITA JULIANA PUTRI",
+            "nisn": "3093220837",
+            "grade_final": "86.93",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 18:14:37"
+        },
+        {
+            "name": "NATASYA KHUSNITA AZZAHRAH",
+            "nisn": "3096545646",
+            "grade_final": "86.90",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-04 14:08:32"
+        },
+        {
+            "name": "INTAN KARUNIA SARI",
+            "nisn": "0088947533",
+            "grade_final": "86.87",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-04 15:46:53"
+        },
+        {
+            "name": "JAMILATUN NURRIKHA",
+            "nisn": "0097493837",
+            "grade_final": "86.87",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:02:51"
+        },
+        {
+            "name": "TASYA RESTU HERMAWAN",
+            "nisn": "0094202055",
+            "grade_final": "86.86",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:03:52"
+        },
+        {
+            "name": "AULIA INDAH RAMADHANI",
+            "nisn": "0081097032",
+            "grade_final": "86.85",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:11:06"
+        },
+        {
+            "name": "FIRDA RAHMAH RIZQIAH",
+            "nisn": "3101866509",
+            "grade_final": "86.84",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:01:25"
+        },
+        {
+            "name": "LAILATUL MAGHFIROH",
+            "nisn": "3085831458",
+            "grade_final": "86.83",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:30:13"
+        },
+        {
+            "name": "Nakhlah Maulidya Rahma",
+            "nisn": "3087162451",
+            "grade_final": "86.81",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 23:16:03"
+        },
+        {
+            "name": "SARITA NAFISAH EVANA",
+            "nisn": "0087656864",
+            "grade_final": "86.81",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 20:56:28"
+        },
+        {
+            "name": "ZAHRA FARAH NURLAILI",
+            "nisn": "3087382272",
+            "grade_final": "86.81",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-04 07:58:22"
+        },
+        {
+            "name": "SAFIRA FAJAR NUR AINI",
+            "nisn": "0093547093",
+            "grade_final": "86.81",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 16:09:42"
+        },
+        {
+            "name": "MUHAMMAD ZOELFITRA ALAYDHAVY",
+            "nisn": "3086057842",
+            "grade_final": "86.80",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:59:23"
+        },
+        {
+            "name": "NUR HALIZAH HUZANIDA",
+            "nisn": "0083733744",
+            "grade_final": "86.79",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:07:14"
+        },
+        {
+            "name": "AMILIATUS SOLIHAH",
+            "nisn": "3096834747",
+            "grade_final": "86.78",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-04 10:52:15"
+        },
+        {
+            "name": "Nasywa Meida Rachmalia",
+            "nisn": "0096546456",
+            "grade_final": "86.77",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-04 14:03:46"
+        },
+        {
+            "name": "FADHILAH AMALIYAH SALSABILLAH",
+            "nisn": "0084005746",
+            "grade_final": "86.72",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:33:17"
+        },
+        {
+            "name": "LAILYA SYAFIRA AGUSTINA",
+            "nisn": "0086011343",
+            "grade_final": "86.71",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Akuntansi"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:47:32"
+        }
+    ]
+}

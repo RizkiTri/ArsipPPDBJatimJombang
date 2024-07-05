@@ -1,0 +1,553 @@
+{
+    "code": 200,
+    "status": "OK",
+    "meta": {
+        "total": 45,
+        "last_page": 1,
+        "from": 1,
+        "to": 1,
+        "last_update": "2024-07-04 21:08:08"
+    },
+    "data": [
+        {
+            "name": "ELLYUN RATRI MASLAHA",
+            "nisn": "0089098515",
+            "grade_final": "89.66",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Perhotelan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:56:06"
+        },
+        {
+            "name": "TASYA BILLA FITRIYA",
+            "nisn": "3087618810",
+            "grade_final": "87.79",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Perhotelan"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:02:37"
+        },
+        {
+            "name": "CHINTYA BELLA ARINDA",
+            "nisn": "0089290322",
+            "grade_final": "87.51",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Perhotelan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:02:46"
+        },
+        {
+            "name": "MOCHAMMAD FARHAN MAHMUDI",
+            "nisn": "3087983786",
+            "grade_final": "86.68",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Perhotelan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:12:08"
+        },
+        {
+            "name": "CAMELYYA PUTRI RAMADHAN",
+            "nisn": "3092691171",
+            "grade_final": "86.64",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Perhotelan"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:48:23"
+        },
+        {
+            "name": "Sasha Ardandi",
+            "nisn": "0083986984",
+            "grade_final": "86.61",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Perhotelan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:43:01"
+        },
+        {
+            "name": "FELIA SESYA PRATIWI",
+            "nisn": "0087083441",
+            "grade_final": "86.32",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Perhotelan"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:26:03"
+        },
+        {
+            "name": "NUR FADHILAH MAULIDAH",
+            "nisn": "3099371860",
+            "grade_final": "86.26",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Perhotelan"
+                }
+            },
+            "registration_created_at": "2024-07-04 07:58:00"
+        },
+        {
+            "name": "ANGGUN ALIFIA FANDI",
+            "nisn": "3080838441",
+            "grade_final": "86.19",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Perhotelan"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:45:30"
+        },
+        {
+            "name": "MOCHAMAD KADAFFI PUTRA ASYA",
+            "nisn": "0089888053",
+            "grade_final": "86.18",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Perhotelan"
+                }
+            },
+            "registration_created_at": "2024-07-03 16:55:50"
+        },
+        {
+            "name": "DIAH REVA ANINDITA",
+            "nisn": "0088131460",
+            "grade_final": "86.18",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Perhotelan"
+                }
+            },
+            "registration_created_at": "2024-07-03 16:10:00"
+        },
+        {
+            "name": "ERVINA WULANDARI",
+            "nisn": "3094149623",
+            "grade_final": "86.17",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Perhotelan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:17:11"
+        },
+        {
+            "name": "INTAN NUR SAFITRI",
+            "nisn": "0092116281",
+            "grade_final": "86.06",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Perhotelan"
+                }
+            },
+            "registration_created_at": "2024-07-04 12:52:49"
+        },
+        {
+            "name": "PRIMALIA RIZQI ELISA WIJAYA",
+            "nisn": "0084444048",
+            "grade_final": "86.05",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Perhotelan"
+                }
+            },
+            "registration_created_at": "2024-07-03 04:56:55"
+        },
+        {
+            "name": "CIKA AYU WINATA",
+            "nisn": "0084151670",
+            "grade_final": "86.00",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Perhotelan"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:47:02"
+        },
+        {
+            "name": "AMELIA SYIFA AGUSTIN",
+            "nisn": "0091793994",
+            "grade_final": "85.98",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Perhotelan"
+                }
+            },
+            "registration_created_at": "2024-07-04 07:24:17"
+        },
+        {
+            "name": "SHINTA AMALIA NUR AINIY",
+            "nisn": "0093072538",
+            "grade_final": "85.97",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Perhotelan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:57:46"
+        },
+        {
+            "name": "JIHAN PUSPITASARI",
+            "nisn": "3081166266",
+            "grade_final": "85.97",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Perhotelan"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:53:29"
+        },
+        {
+            "name": "AULYA BUNGA IMASYA RIZKIANI",
+            "nisn": "0081942689",
+            "grade_final": "85.92",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Perhotelan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:33:55"
+        },
+        {
+            "name": "FAREL EZHAR OKTABRIYANO",
+            "nisn": "0085994439",
+            "grade_final": "85.89",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Perhotelan"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:06:42"
+        },
+        {
+            "name": "NOVIA FATMA RODHIANA",
+            "nisn": "0088156861",
+            "grade_final": "85.88",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Perhotelan"
+                }
+            },
+            "registration_created_at": "2024-07-04 10:24:44"
+        },
+        {
+            "name": "NUR ARIES DEBBY NOVIANTY",
+            "nisn": "0085322913",
+            "grade_final": "85.87",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Perhotelan"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:05:53"
+        },
+        {
+            "name": "ERINA AMANDA PUTRI",
+            "nisn": "0079138378",
+            "grade_final": "85.86",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Perhotelan"
+                }
+            },
+            "registration_created_at": "2024-07-04 15:00:53"
+        },
+        {
+            "name": "Habilla Silfia Putri",
+            "nisn": "0091631316",
+            "grade_final": "85.85",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Perhotelan"
+                }
+            },
+            "registration_created_at": "2024-07-03 11:05:26"
+        },
+        {
+            "name": "LEVINA DWI AURELIA",
+            "nisn": "3089131608",
+            "grade_final": "85.74",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Perhotelan"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:17:40"
+        },
+        {
+            "name": "ZAHWA AIDA FITRI KHARIMAH",
+            "nisn": "0087455410",
+            "grade_final": "85.69",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Perhotelan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:06:09"
+        },
+        {
+            "name": "KESHA MARTA TIWI",
+            "nisn": "0084506047",
+            "grade_final": "85.66",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Perhotelan"
+                }
+            },
+            "registration_created_at": "2024-07-04 15:16:25"
+        },
+        {
+            "name": "INES TRISANTYA PUSPITA",
+            "nisn": "0091266643",
+            "grade_final": "85.55",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Perhotelan"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:18:19"
+        },
+        {
+            "name": "AFRISKA PELANGI PUTRI",
+            "nisn": "0099432333",
+            "grade_final": "85.53",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Perhotelan"
+                }
+            },
+            "registration_created_at": "2024-07-04 12:51:56"
+        },
+        {
+            "name": "RAHMA ANJA PUTRICIA",
+            "nisn": "3083260900",
+            "grade_final": "85.53",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Perhotelan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:10:26"
+        },
+        {
+            "name": "Farisa Wahyu Kurdiyanti",
+            "nisn": "0093575194",
+            "grade_final": "85.52",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Perhotelan"
+                }
+            },
+            "registration_created_at": "2024-07-03 19:18:40"
+        },
+        {
+            "name": "ANDINI FATMA AULIYA",
+            "nisn": "0098381936",
+            "grade_final": "85.50",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Perhotelan"
+                }
+            },
+            "registration_created_at": "2024-07-04 08:32:05"
+        },
+        {
+            "name": "DZAKIRA TALITA ZAHRA",
+            "nisn": "0097079361",
+            "grade_final": "85.46",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Perhotelan"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:32:09"
+        },
+        {
+            "name": "ALFAIRA AZZAHRA",
+            "nisn": "3094295738",
+            "grade_final": "85.44",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Perhotelan"
+                }
+            },
+            "registration_created_at": "2024-07-03 18:49:17"
+        },
+        {
+            "name": "Kiara Florensya Bella",
+            "nisn": "0081282680",
+            "grade_final": "85.43",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Perhotelan"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:37:50"
+        },
+        {
+            "name": "NAILA SYIFA FEBRIANTI",
+            "nisn": "0098472982",
+            "grade_final": "85.37",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Perhotelan"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:20:45"
+        },
+        {
+            "name": "OCTAVIA SHOFI CANDRANING TYAS",
+            "nisn": "0092215913",
+            "grade_final": "85.36",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Perhotelan"
+                }
+            },
+            "registration_created_at": "2024-07-03 14:41:48"
+        },
+        {
+            "name": "RURI AGUSTIN ALAMSYAH PUTRI",
+            "nisn": "0088414288",
+            "grade_final": "85.36",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Perhotelan"
+                }
+            },
+            "registration_created_at": "2024-07-04 06:42:55"
+        },
+        {
+            "name": "MIRANDA SALMA ASRI",
+            "nisn": "0095394863",
+            "grade_final": "85.36",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Perhotelan"
+                }
+            },
+            "registration_created_at": "2024-07-04 18:25:23"
+        },
+        {
+            "name": "NESSA VENA AULIYA",
+            "nisn": "0098165025",
+            "grade_final": "85.31",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Perhotelan"
+                }
+            },
+            "registration_created_at": "2024-07-04 10:27:44"
+        },
+        {
+            "name": "OKTAVIA AIRINDRA",
+            "nisn": "0087420901",
+            "grade_final": "85.30",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Perhotelan"
+                }
+            },
+            "registration_created_at": "2024-07-04 08:51:54"
+        },
+        {
+            "name": "WIDYA SARI AGUSTINA",
+            "nisn": "0083443455",
+            "grade_final": "85.29",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Perhotelan"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:26:14"
+        },
+        {
+            "name": "FANI LOVITA",
+            "nisn": "0098951229",
+            "grade_final": "85.28",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Perhotelan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:32:31"
+        },
+        {
+            "name": "ISMI KARIMAH",
+            "nisn": "3094620175",
+            "grade_final": "85.24",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Perhotelan"
+                }
+            },
+            "registration_created_at": "2024-07-04 09:22:45"
+        },
+        {
+            "name": "IGNAZIO GIAN PRATAMA",
+            "nisn": "0093462786",
+            "grade_final": "85.23",
+            "smk": {
+                "name": "SMK NEGERI 1 JOMBANG",
+                "major": {
+                    "name": "Perhotelan"
+                }
+            },
+            "registration_created_at": "2024-07-04 18:50:57"
+        }
+    ]
+}

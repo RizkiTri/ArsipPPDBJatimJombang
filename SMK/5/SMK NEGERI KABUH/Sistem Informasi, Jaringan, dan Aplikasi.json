@@ -1,0 +1,277 @@
+{
+    "code": 200,
+    "status": "OK",
+    "meta": {
+        "total": 22,
+        "last_page": 1,
+        "from": 1,
+        "to": 1,
+        "last_update": "2024-07-04 21:08:08"
+    },
+    "data": [
+        {
+            "name": "NUR INDAH FARAHFANSYAH",
+            "nisn": "0089057553",
+            "grade_final": "89.05",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Sistem Informasi, Jaringan, dan Aplikasi"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:35:05"
+        },
+        {
+            "name": "JAFAR FARUQ",
+            "nisn": "0084149211",
+            "grade_final": "87.80",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Sistem Informasi, Jaringan, dan Aplikasi"
+                }
+            },
+            "registration_created_at": "2024-07-03 14:52:17"
+        },
+        {
+            "name": "AINUR SIFA",
+            "nisn": "0095578125",
+            "grade_final": "87.46",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Sistem Informasi, Jaringan, dan Aplikasi"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:03:18"
+        },
+        {
+            "name": "FARID WIRAYUDHA",
+            "nisn": "0085881843",
+            "grade_final": "86.82",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Sistem Informasi, Jaringan, dan Aplikasi"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:13:04"
+        },
+        {
+            "name": "AULIA MAYNINDA ARINI",
+            "nisn": "0089677659",
+            "grade_final": "86.81",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Sistem Informasi, Jaringan, dan Aplikasi"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:20:39"
+        },
+        {
+            "name": "JESSICA ARJETI RAMADHANI",
+            "nisn": "0081043122",
+            "grade_final": "86.79",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Sistem Informasi, Jaringan, dan Aplikasi"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:07:40"
+        },
+        {
+            "name": "HAFIST PRATAMA",
+            "nisn": "0086824496",
+            "grade_final": "86.61",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Sistem Informasi, Jaringan, dan Aplikasi"
+                }
+            },
+            "registration_created_at": "2024-07-03 12:26:54"
+        },
+        {
+            "name": "SAPUTRA ADITYA WARDHANA",
+            "nisn": "0089933700",
+            "grade_final": "86.41",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Sistem Informasi, Jaringan, dan Aplikasi"
+                }
+            },
+            "registration_created_at": "2024-07-04 13:38:22"
+        },
+        {
+            "name": "NOVAN SETIAWAN",
+            "nisn": "0082490009",
+            "grade_final": "86.40",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Sistem Informasi, Jaringan, dan Aplikasi"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:13:36"
+        },
+        {
+            "name": "DEDY ACHMAD KURNIAWAN",
+            "nisn": "0088582056",
+            "grade_final": "86.32",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Sistem Informasi, Jaringan, dan Aplikasi"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:18:31"
+        },
+        {
+            "name": "Alifia Purwaningtyas",
+            "nisn": "0092571931",
+            "grade_final": "86.26",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Sistem Informasi, Jaringan, dan Aplikasi"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:40:03"
+        },
+        {
+            "name": "ACHMAD RAFLI ADDYN HILMAN",
+            "nisn": "3096100560",
+            "grade_final": "86.05",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Sistem Informasi, Jaringan, dan Aplikasi"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:35:03"
+        },
+        {
+            "name": "ANANDA NAFIS AFIDATI",
+            "nisn": "3092299600",
+            "grade_final": "85.71",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Sistem Informasi, Jaringan, dan Aplikasi"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:55:57"
+        },
+        {
+            "name": "SONYA AMELLIA DEWI",
+            "nisn": "0096761476",
+            "grade_final": "85.68",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Sistem Informasi, Jaringan, dan Aplikasi"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:23:21"
+        },
+        {
+            "name": "FIKRI AKBAR RAHMAT RAMADHAN",
+            "nisn": "0085766519",
+            "grade_final": "85.60",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Sistem Informasi, Jaringan, dan Aplikasi"
+                }
+            },
+            "registration_created_at": "2024-07-03 12:15:16"
+        },
+        {
+            "name": "Sheila Aisyah Aldy",
+            "nisn": "0085598137",
+            "grade_final": "85.60",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Sistem Informasi, Jaringan, dan Aplikasi"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:17:56"
+        },
+        {
+            "name": "NURI RAMADHANI",
+            "nisn": "0082299632",
+            "grade_final": "85.49",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Sistem Informasi, Jaringan, dan Aplikasi"
+                }
+            },
+            "registration_created_at": "2024-07-04 08:46:25"
+        },
+        {
+            "name": "REZA ADITYA PRATAMA",
+            "nisn": "0096698616",
+            "grade_final": "85.48",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Sistem Informasi, Jaringan, dan Aplikasi"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:28:05"
+        },
+        {
+            "name": "M RIZKY RANDI PRATAMA",
+            "nisn": "3082200187",
+            "grade_final": "85.47",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Sistem Informasi, Jaringan, dan Aplikasi"
+                }
+            },
+            "registration_created_at": "2024-07-03 13:24:43"
+        },
+        {
+            "name": "TRIA NOVITA SARI",
+            "nisn": "0081455780",
+            "grade_final": "85.43",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Sistem Informasi, Jaringan, dan Aplikasi"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:35:23"
+        },
+        {
+            "name": "NOVAL DWI ANDRIYANTO",
+            "nisn": "0083614570",
+            "grade_final": "85.43",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Sistem Informasi, Jaringan, dan Aplikasi"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:04:39"
+        },
+        {
+            "name": "FIKRI BUSYRA JALALUDIN",
+            "nisn": "3088874814",
+            "grade_final": "85.41",
+            "smk": {
+                "name": "SMK NEGERI KABUH",
+                "major": {
+                    "name": "Sistem Informasi, Jaringan, dan Aplikasi"
+                }
+            },
+            "registration_created_at": "2024-07-04 07:09:01"
+        }
+    ]
+}

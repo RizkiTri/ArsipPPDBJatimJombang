@@ -1,0 +1,1117 @@
+{
+    "code": 200,
+    "status": "OK",
+    "meta": {
+        "total": 92,
+        "last_page": 1,
+        "from": 1,
+        "to": 1,
+        "last_update": "2024-07-04 21:08:08"
+    },
+    "data": [
+        {
+            "name": "AISYAH AKHALLANI",
+            "nisn": "0096333946",
+            "grade_final": "87.08",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:51:30"
+        },
+        {
+            "name": "DHEA NANDA DWI KARTIKA PUTRI",
+            "nisn": "0085841709",
+            "grade_final": "86.75",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:25:20"
+        },
+        {
+            "name": "NABILA AYU PRAMUDYA",
+            "nisn": "0088298659",
+            "grade_final": "86.64",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 04:56:23"
+        },
+        {
+            "name": "MUHAMMAD FAJAR KURNIAWAN",
+            "nisn": "0067858598",
+            "grade_final": "86.28",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 13:10:14"
+        },
+        {
+            "name": "GABRIEL ANTONIO YUSANTO",
+            "nisn": "0089474510",
+            "grade_final": "86.09",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-04 13:47:55"
+        },
+        {
+            "name": "UMI RODIYAH",
+            "nisn": "3081723955",
+            "grade_final": "85.90",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:44:58"
+        },
+        {
+            "name": "INTAN ANANTA PUTRI",
+            "nisn": "0085018462",
+            "grade_final": "85.78",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:57:10"
+        },
+        {
+            "name": "AHMAD AINUR ROFIQ",
+            "nisn": "0082102884",
+            "grade_final": "85.74",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:31:57"
+        },
+        {
+            "name": "INDAH NUR SALSABILAH",
+            "nisn": "0093573025",
+            "grade_final": "85.72",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:43:05"
+        },
+        {
+            "name": "ZUNITA LAUDYA",
+            "nisn": "0084436615",
+            "grade_final": "85.69",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:37:30"
+        },
+        {
+            "name": "VINSHA BENAYA EVELIN SUSANTO",
+            "nisn": "0094394954",
+            "grade_final": "85.68",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:49:33"
+        },
+        {
+            "name": "MUHAMMAD ALVIAN KUSWOYO",
+            "nisn": "0099314669",
+            "grade_final": "85.56",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 19:12:25"
+        },
+        {
+            "name": "TOMY PRIATNA",
+            "nisn": "0082189079",
+            "grade_final": "85.52",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:20:26"
+        },
+        {
+            "name": "Nayla Agustina",
+            "nisn": "3085542704",
+            "grade_final": "85.44",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:50:54"
+        },
+        {
+            "name": "CANTIKA AMELIA FEBIYANTI",
+            "nisn": "0092177099",
+            "grade_final": "85.37",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-04 20:21:16"
+        },
+        {
+            "name": "ARGA ARDIANSYAH",
+            "nisn": "0086416599",
+            "grade_final": "85.32",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:18:20"
+        },
+        {
+            "name": "ALFI URVIANTI",
+            "nisn": "0098859477",
+            "grade_final": "85.29",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:11:15"
+        },
+        {
+            "name": "Nadia Ayu Rizki Arvianti",
+            "nisn": "0093424829",
+            "grade_final": "85.29",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:44:32"
+        },
+        {
+            "name": "Bayhaqi Kaizza Sakti",
+            "nisn": "0091478293",
+            "grade_final": "85.28",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-04 20:47:01"
+        },
+        {
+            "name": "MAULANA AHMAD IZZA IDHAR",
+            "nisn": "0094163356",
+            "grade_final": "85.23",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:26:09"
+        },
+        {
+            "name": "ADELIA AZZAHRA ARIANDITA",
+            "nisn": "0088713304",
+            "grade_final": "85.22",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:02:21"
+        },
+        {
+            "name": "ICHA DIAN NAFISYAH",
+            "nisn": "0094367097",
+            "grade_final": "85.18",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:12:25"
+        },
+        {
+            "name": "BEFAN ALFIANSYACH RAMADHANI",
+            "nisn": "3080218718",
+            "grade_final": "85.12",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:24:12"
+        },
+        {
+            "name": "ROI AJI SAPUTRO",
+            "nisn": "0094969706",
+            "grade_final": "85.11",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:35:11"
+        },
+        {
+            "name": "SITI KHOIRUN NISAK",
+            "nisn": "3083020953",
+            "grade_final": "85.10",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:04:57"
+        },
+        {
+            "name": "RIFKY ARDANI",
+            "nisn": "0088094780",
+            "grade_final": "85.05",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:31:39"
+        },
+        {
+            "name": "AHMAD FAIS NUR CAESAR",
+            "nisn": "0087312885",
+            "grade_final": "85.03",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:29:12"
+        },
+        {
+            "name": "LEVY ANDHIKA PRATAMA",
+            "nisn": "3094370234",
+            "grade_final": "85.03",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:26:07"
+        },
+        {
+            "name": "DENTA ANDIKA PUTRA",
+            "nisn": "0084793060",
+            "grade_final": "84.98",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 18:31:09"
+        },
+        {
+            "name": "ECHA ZAHRA KHOLIFATUS SADIYAH",
+            "nisn": "3084489589",
+            "grade_final": "84.93",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-04 14:02:46"
+        },
+        {
+            "name": "ACHA AILLA RAHMIN",
+            "nisn": "0081760472",
+            "grade_final": "84.92",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 12:27:09"
+        },
+        {
+            "name": "REYHAN ANDREAN ANANDA PUTRA",
+            "nisn": "0085296454",
+            "grade_final": "84.82",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-04 16:25:12"
+        },
+        {
+            "name": "FIZAR DWI RIZKIKA",
+            "nisn": "0087602701",
+            "grade_final": "84.81",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:17:42"
+        },
+        {
+            "name": "ANDHIKA TRISUSILO",
+            "nisn": "0087421507",
+            "grade_final": "84.79",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:09:27"
+        },
+        {
+            "name": "DICKY DAI BAHTIAR",
+            "nisn": "0081043641",
+            "grade_final": "84.75",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:36:36"
+        },
+        {
+            "name": "AYU DIAH FITRI RAMADHANI",
+            "nisn": "0088673488",
+            "grade_final": "84.75",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:09:32"
+        },
+        {
+            "name": "RADITYA ARDIAN PURWANTO",
+            "nisn": "0091479448",
+            "grade_final": "84.74",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-04 19:16:55"
+        },
+        {
+            "name": "CELLYANANDA YULYARD",
+            "nisn": "0097503059",
+            "grade_final": "84.71",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 23:52:21"
+        },
+        {
+            "name": "ALFIN RAHMAT DANI",
+            "nisn": "0082579805",
+            "grade_final": "84.69",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:05:05"
+        },
+        {
+            "name": "MUHAMMAD BAHRURIDHO",
+            "nisn": "3082101437",
+            "grade_final": "84.67",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:19:52"
+        },
+        {
+            "name": "HURUNIN ZAZKIA",
+            "nisn": "0084440014",
+            "grade_final": "84.61",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:33:38"
+        },
+        {
+            "name": "RAGIL RAHMAT DHANI",
+            "nisn": "3093186342",
+            "grade_final": "84.59",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:18:46"
+        },
+        {
+            "name": "BIMO CAHYONO",
+            "nisn": "0099588129",
+            "grade_final": "84.56",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:52:12"
+        },
+        {
+            "name": "DIANA LORENZA",
+            "nisn": "0081001731",
+            "grade_final": "84.56",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:10:37"
+        },
+        {
+            "name": "BELINDA SANCHIKA PUTRI",
+            "nisn": "0094487955",
+            "grade_final": "84.55",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:21:03"
+        },
+        {
+            "name": "WINI KAILA AGUSTIN",
+            "nisn": "3081838703",
+            "grade_final": "84.51",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:56:18"
+        },
+        {
+            "name": "FANY AMELYA PUTRI MULYANTI",
+            "nisn": "0095204881",
+            "grade_final": "84.51",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 11:39:18"
+        },
+        {
+            "name": "RANGGA WIBISONO",
+            "nisn": "3090444082",
+            "grade_final": "84.49",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:14:35"
+        },
+        {
+            "name": "RISKY HADI PERKASA",
+            "nisn": "0085198741",
+            "grade_final": "84.48",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-04 09:21:25"
+        },
+        {
+            "name": "Ahmad Dzikri Alifiansah",
+            "nisn": "3086419507",
+            "grade_final": "84.47",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:55:47"
+        },
+        {
+            "name": "GALANG ADI PRATAMA",
+            "nisn": "0089792572",
+            "grade_final": "84.46",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:04:34"
+        },
+        {
+            "name": "PUTRI DINDA PRATIWI",
+            "nisn": "0098095908",
+            "grade_final": "84.46",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:59:58"
+        },
+        {
+            "name": "ALIZA RAMA DHANI",
+            "nisn": "0093588543",
+            "grade_final": "84.44",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:09:53"
+        },
+        {
+            "name": "REINALDY",
+            "nisn": "0079259713",
+            "grade_final": "84.43",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 13:17:17"
+        },
+        {
+            "name": "RANGGA PRASHETHIA",
+            "nisn": "0098870877",
+            "grade_final": "84.41",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:17:00"
+        },
+        {
+            "name": "FIRMAN MAULANA",
+            "nisn": "0091256426",
+            "grade_final": "84.38",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:44:03"
+        },
+        {
+            "name": "MUHAMMAD ERIK ANDRIANSYAH",
+            "nisn": "3092683762",
+            "grade_final": "84.36",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-04 08:31:05"
+        },
+        {
+            "name": "RIZKA NIKMATUS SAADAH",
+            "nisn": "3089830093",
+            "grade_final": "84.35",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 02:48:01"
+        },
+        {
+            "name": "EZA FADHLI AZKA",
+            "nisn": "0089680579",
+            "grade_final": "84.35",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:30:18"
+        },
+        {
+            "name": "BAGAS RADITYA PRATAMA",
+            "nisn": "0082069748",
+            "grade_final": "84.33",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:39:00"
+        },
+        {
+            "name": "ADITYA BIMA YOGA PRATAMA",
+            "nisn": "3082458059",
+            "grade_final": "84.32",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 10:27:02"
+        },
+        {
+            "name": "APRIL LIANINGTIAS",
+            "nisn": "0088556144",
+            "grade_final": "84.31",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:13:58"
+        },
+        {
+            "name": "DIAN UDA RATNA",
+            "nisn": "0084349082",
+            "grade_final": "84.31",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 13:09:49"
+        },
+        {
+            "name": "BINTANG ASNAWI EFFENDI",
+            "nisn": "0096568788",
+            "grade_final": "84.25",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 02:02:19"
+        },
+        {
+            "name": "Siti Naswa",
+            "nisn": "0097872215",
+            "grade_final": "84.24",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:43:40"
+        },
+        {
+            "name": "WILDA PUTRI SAFIRA",
+            "nisn": "0098366448",
+            "grade_final": "84.24",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:08:21"
+        },
+        {
+            "name": "ALPIDAH NUR AZIZAH",
+            "nisn": "0093775901",
+            "grade_final": "84.20",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:42:57"
+        },
+        {
+            "name": "FRYSTA ABELLIA",
+            "nisn": "0096030868",
+            "grade_final": "84.18",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 22:44:05"
+        },
+        {
+            "name": "KEYLA ISNANDITA",
+            "nisn": "0085647307",
+            "grade_final": "84.15",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:09:13"
+        },
+        {
+            "name": "Roby Aprianto",
+            "nisn": "0081575493",
+            "grade_final": "84.14",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:11:18"
+        },
+        {
+            "name": "TEGAR DWI PAMBUDI",
+            "nisn": "0098460833",
+            "grade_final": "84.14",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 17:52:25"
+        },
+        {
+            "name": "FIOLIN OLIFIA WIDIADI",
+            "nisn": "0093792563",
+            "grade_final": "84.10",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:43:38"
+        },
+        {
+            "name": "MUHAMMAD RIZKI ARDIANTO",
+            "nisn": "0098809600",
+            "grade_final": "84.07",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:05:58"
+        },
+        {
+            "name": "MOHAMMAD RAFI ABHIENAYA",
+            "nisn": "0082463814",
+            "grade_final": "84.07",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 11:49:37"
+        },
+        {
+            "name": "DEWA MERDEKA MAHAMERU BUDIONO",
+            "nisn": "0088720442",
+            "grade_final": "84.06",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 12:51:35"
+        },
+        {
+            "name": "CLARYSA RAHMANIA PUTRI",
+            "nisn": "0086975170",
+            "grade_final": "84.06",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:52:25"
+        },
+        {
+            "name": "FAVIAN JOUAN ALFIANTO",
+            "nisn": "0092148179",
+            "grade_final": "84.05",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-04 12:06:05"
+        },
+        {
+            "name": "Fahril Maulana Iskak",
+            "nisn": "0086281878",
+            "grade_final": "84.05",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:03:25"
+        },
+        {
+            "name": "KEISHA OKTAVIANI",
+            "nisn": "0086809903",
+            "grade_final": "84.02",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:06:16"
+        },
+        {
+            "name": "ARIYA AGUS JUNAIDI",
+            "nisn": "0089323708",
+            "grade_final": "84.02",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:51:42"
+        },
+        {
+            "name": "MELVY ISVIANA",
+            "nisn": "3093299666",
+            "grade_final": "84.02",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:42:14"
+        },
+        {
+            "name": "MUHAMAD NANDA ARIFIN",
+            "nisn": "0093422404",
+            "grade_final": "84.00",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 16:59:10"
+        },
+        {
+            "name": "SYAFIRA PUTRI LISMAWARDANI",
+            "nisn": "0089716846",
+            "grade_final": "83.95",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:48:25"
+        },
+        {
+            "name": "ENDAH DWI WARDIANA",
+            "nisn": "0088393026",
+            "grade_final": "83.93",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:35:14"
+        },
+        {
+            "name": "MUHAMMAD RIZQI RAMADANI",
+            "nisn": "0083617906",
+            "grade_final": "83.92",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:07:12"
+        },
+        {
+            "name": "YUDHIT AGUS SUYONO",
+            "nisn": "3085982148",
+            "grade_final": "83.92",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 17:51:33"
+        },
+        {
+            "name": "LUNA AULIYA RAHMADHANI",
+            "nisn": "3089437438",
+            "grade_final": "83.91",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 11:14:56"
+        },
+        {
+            "name": "AHMAD REYHAN WISNU JATI",
+            "nisn": "0086509892",
+            "grade_final": "83.89",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:17:56"
+        },
+        {
+            "name": "ANDHIKA ROMADHONI",
+            "nisn": "0082548633",
+            "grade_final": "83.89",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:10:47"
+        },
+        {
+            "name": "FENY RAHMADHITA SULISTIYANTI",
+            "nisn": "3096442612",
+            "grade_final": "83.89",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:05:01"
+        },
+        {
+            "name": "AILUL NUR ILHAM",
+            "nisn": "0087174987",
+            "grade_final": "83.88",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-04 12:27:53"
+        },
+        {
+            "name": "MUFTIFATIK SAFANI HENDRAWAN",
+            "nisn": "0093524169",
+            "grade_final": "83.86",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Teknik Komputer dan Jaringan"
+                }
+            },
+            "registration_created_at": "2024-07-03 02:48:29"
+        }
+    ]
+}

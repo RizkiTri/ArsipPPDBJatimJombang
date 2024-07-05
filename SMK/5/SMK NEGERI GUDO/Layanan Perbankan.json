@@ -1,0 +1,553 @@
+{
+    "code": 200,
+    "status": "OK",
+    "meta": {
+        "total": 45,
+        "last_page": 1,
+        "from": 1,
+        "to": 1,
+        "last_update": "2024-07-04 21:08:08"
+    },
+    "data": [
+        {
+            "name": "NURUL HIDAYATI",
+            "nisn": "0087849719",
+            "grade_final": "89.55",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:00:07"
+        },
+        {
+            "name": "ECHA PUTRI CAHYANI",
+            "nisn": "3098451922",
+            "grade_final": "87.50",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:21:14"
+        },
+        {
+            "name": "URIFAH RAHMADANI",
+            "nisn": "0089251176",
+            "grade_final": "87.25",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:04:34"
+        },
+        {
+            "name": "FELISHA NAYLA",
+            "nisn": "3093188893",
+            "grade_final": "86.78",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:07:42"
+        },
+        {
+            "name": "NUR AZIZIH",
+            "nisn": "0087147387",
+            "grade_final": "86.65",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:10:46"
+        },
+        {
+            "name": "Kesya Dwi Alfira",
+            "nisn": "0085707829",
+            "grade_final": "86.64",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:04:38"
+        },
+        {
+            "name": "ALIFA KEYSHA PUTRI",
+            "nisn": "0087128058",
+            "grade_final": "86.54",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-03 02:49:14"
+        },
+        {
+            "name": "MEYLISA AGUSTINA",
+            "nisn": "3094047397",
+            "grade_final": "86.45",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:05:14"
+        },
+        {
+            "name": "FERA RAHMATUL HUSNA",
+            "nisn": "3082138473",
+            "grade_final": "86.32",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:53:23"
+        },
+        {
+            "name": "AISHA YUAN MAJEEDA",
+            "nisn": "0087906073",
+            "grade_final": "86.26",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-03 11:51:33"
+        },
+        {
+            "name": "JIHAN HUMAIRAH",
+            "nisn": "3091304766",
+            "grade_final": "86.15",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-03 04:58:06"
+        },
+        {
+            "name": "SAFIRA DEWI MAHARANI",
+            "nisn": "0091864708",
+            "grade_final": "86.05",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:04:43"
+        },
+        {
+            "name": "AFRILLIA AZHAARUL JANNAH",
+            "nisn": "3093670315",
+            "grade_final": "86.00",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-03 12:02:10"
+        },
+        {
+            "name": "IRFINA AULIA ISTIQOMAH",
+            "nisn": "0087044638",
+            "grade_final": "85.92",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:09:13"
+        },
+        {
+            "name": "NOVIANA KHARISMA RAMADANI",
+            "nisn": "0084150456",
+            "grade_final": "85.71",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:18:55"
+        },
+        {
+            "name": "Natasya Putri wardhani",
+            "nisn": "0097451827",
+            "grade_final": "85.69",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:47:53"
+        },
+        {
+            "name": "FEBRI DWI LESTARI",
+            "nisn": "0084039124",
+            "grade_final": "85.67",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-03 03:38:42"
+        },
+        {
+            "name": "SANIA INDRIYA DYATMIKA",
+            "nisn": "0087989144",
+            "grade_final": "85.67",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-03 16:49:28"
+        },
+        {
+            "name": "RAGITA MAULIDA",
+            "nisn": "0082615483",
+            "grade_final": "85.63",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-03 03:22:49"
+        },
+        {
+            "name": "Halimatus Sadiyah",
+            "nisn": "3098594646",
+            "grade_final": "85.54",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:47:19"
+        },
+        {
+            "name": "CAHYA MAULIDA",
+            "nisn": "0085582712",
+            "grade_final": "85.48",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-04 14:10:24"
+        },
+        {
+            "name": "AULIA AMANDA PRATAMA",
+            "nisn": "0098222301",
+            "grade_final": "85.47",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-03 04:53:39"
+        },
+        {
+            "name": "ALIYA CAHAYA PUTRI",
+            "nisn": "0154310557",
+            "grade_final": "85.46",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:23:32"
+        },
+        {
+            "name": "CHOIRUL ANISA",
+            "nisn": "3095807351",
+            "grade_final": "85.45",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:14:16"
+        },
+        {
+            "name": "NAIMA EFRILINA",
+            "nisn": "3092698126",
+            "grade_final": "85.41",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-03 04:39:06"
+        },
+        {
+            "name": "Tiona Virgita Manurung",
+            "nisn": "0083092512",
+            "grade_final": "85.33",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-03 11:33:46"
+        },
+        {
+            "name": "DIVA PUTRI NOVIANTY",
+            "nisn": "0095876508",
+            "grade_final": "85.33",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-04 20:37:05"
+        },
+        {
+            "name": "FITRI NUR LAILI",
+            "nisn": "3099668266",
+            "grade_final": "85.31",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-03 02:01:02"
+        },
+        {
+            "name": "YUNI IMPROTUL ROSIDAH",
+            "nisn": "0099162548",
+            "grade_final": "85.22",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:04:17"
+        },
+        {
+            "name": "BINTANG ALYA PUTRI LEGIMO",
+            "nisn": "0081336522",
+            "grade_final": "85.18",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-03 03:35:50"
+        },
+        {
+            "name": "AJENG DWI RAHAYU",
+            "nisn": "0088917049",
+            "grade_final": "85.12",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:03:01"
+        },
+        {
+            "name": "JULIANI KENCONO DEWI",
+            "nisn": "3093549726",
+            "grade_final": "85.11",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-03 15:29:43"
+        },
+        {
+            "name": "ANASTASYA FITRI DWI PUSPITASARI",
+            "nisn": "0088143324",
+            "grade_final": "85.07",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:21:19"
+        },
+        {
+            "name": "VELYA DWI AGUSTINA",
+            "nisn": "0098648958",
+            "grade_final": "85.03",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:28:04"
+        },
+        {
+            "name": "SITI AMELLIA ROSIDAH",
+            "nisn": "3095134507",
+            "grade_final": "84.98",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-03 02:37:16"
+        },
+        {
+            "name": "PUTRI NOVALIA",
+            "nisn": "0087400741",
+            "grade_final": "84.95",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:00:55"
+        },
+        {
+            "name": "AMELIA PUTRI MAULIDA",
+            "nisn": "0085842502",
+            "grade_final": "84.85",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-04 10:33:47"
+        },
+        {
+            "name": "NIRMALA MEILANI",
+            "nisn": "3094950444",
+            "grade_final": "84.80",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-04 05:01:12"
+        },
+        {
+            "name": "AURA RAHIL WIDAD ANGKA",
+            "nisn": "0094124718",
+            "grade_final": "84.80",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:08:37"
+        },
+        {
+            "name": "ALYA HAURA NISRINA",
+            "nisn": "3085069914",
+            "grade_final": "84.79",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-03 11:06:01"
+        },
+        {
+            "name": "Seva Aulia Febriawan",
+            "nisn": "0094879102",
+            "grade_final": "84.75",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:11:13"
+        },
+        {
+            "name": "OVILLYA PUTRI PRAMADANI",
+            "nisn": "0087716344",
+            "grade_final": "84.72",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:10:43"
+        },
+        {
+            "name": "NAFIATUL KHILMIYAH",
+            "nisn": "3088162384",
+            "grade_final": "84.64",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:42:43"
+        },
+        {
+            "name": "REIHAN PRATAMA",
+            "nisn": "3083530088",
+            "grade_final": "84.61",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:40:02"
+        },
+        {
+            "name": "ANINDY YOLLA AZZAHRA",
+            "nisn": "0091574145",
+            "grade_final": "84.48",
+            "smk": {
+                "name": "SMK NEGERI GUDO",
+                "major": {
+                    "name": "Layanan Perbankan"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:07:34"
+        }
+    ]
+}

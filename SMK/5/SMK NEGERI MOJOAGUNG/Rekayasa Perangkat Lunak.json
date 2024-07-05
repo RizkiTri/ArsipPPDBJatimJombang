@@ -1,0 +1,277 @@
+{
+    "code": 200,
+    "status": "OK",
+    "meta": {
+        "total": 22,
+        "last_page": 1,
+        "from": 1,
+        "to": 1,
+        "last_update": "2024-07-04 21:08:08"
+    },
+    "data": [
+        {
+            "name": "YESA PUTRI PRITAMA",
+            "nisn": "0091711393",
+            "grade_final": "89.56",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Rekayasa Perangkat Lunak"
+                }
+            },
+            "registration_created_at": "2024-07-03 01:32:55"
+        },
+        {
+            "name": "MUHAMMAD ABID HAFIZ ALAUDDIN",
+            "nisn": "3096855316",
+            "grade_final": "88.64",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Rekayasa Perangkat Lunak"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:28:55"
+        },
+        {
+            "name": "ANANDA CECILIA",
+            "nisn": "0085643600",
+            "grade_final": "88.37",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Rekayasa Perangkat Lunak"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:42:08"
+        },
+        {
+            "name": "DIVA ANGGUN INDAH LESTARI",
+            "nisn": "0091008245",
+            "grade_final": "87.90",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Rekayasa Perangkat Lunak"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:52:16"
+        },
+        {
+            "name": "DIMAS AJI PRASETYO",
+            "nisn": "0099268986",
+            "grade_final": "87.64",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Rekayasa Perangkat Lunak"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:29:52"
+        },
+        {
+            "name": "SYIFA NUR ANISYAH",
+            "nisn": "0083057603",
+            "grade_final": "87.63",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Rekayasa Perangkat Lunak"
+                }
+            },
+            "registration_created_at": "2024-07-03 13:21:30"
+        },
+        {
+            "name": "MOCHAMAD FADHILLAH ADITYA",
+            "nisn": "0085372917",
+            "grade_final": "87.63",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Rekayasa Perangkat Lunak"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:03:28"
+        },
+        {
+            "name": "KULLUNA QALBI RAHMA ARIFIN",
+            "nisn": "0085635721",
+            "grade_final": "87.58",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Rekayasa Perangkat Lunak"
+                }
+            },
+            "registration_created_at": "2024-07-03 09:17:31"
+        },
+        {
+            "name": "Achmad Fauzan",
+            "nisn": "0095108900",
+            "grade_final": "87.52",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Rekayasa Perangkat Lunak"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:51:26"
+        },
+        {
+            "name": "Shin Rayya Fauzan",
+            "nisn": "0082652397",
+            "grade_final": "87.49",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Rekayasa Perangkat Lunak"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:07:14"
+        },
+        {
+            "name": "FERDIYANTO HERMAWAN",
+            "nisn": "0086475800",
+            "grade_final": "87.17",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Rekayasa Perangkat Lunak"
+                }
+            },
+            "registration_created_at": "2024-07-03 17:53:55"
+        },
+        {
+            "name": "Mochammad Arief Setiawan",
+            "nisn": "0096884271",
+            "grade_final": "86.83",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Rekayasa Perangkat Lunak"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:03:40"
+        },
+        {
+            "name": "AHMAD ZAKY AL ABID",
+            "nisn": "0085852756",
+            "grade_final": "86.83",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Rekayasa Perangkat Lunak"
+                }
+            },
+            "registration_created_at": "2024-07-03 00:14:08"
+        },
+        {
+            "name": "APRESIA NAILA ANTIKA",
+            "nisn": "0095182149",
+            "grade_final": "86.59",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Rekayasa Perangkat Lunak"
+                }
+            },
+            "registration_created_at": "2024-07-03 19:35:14"
+        },
+        {
+            "name": "RATU NUR INTAN FAUZIAH",
+            "nisn": "0082974730",
+            "grade_final": "86.55",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Rekayasa Perangkat Lunak"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:44:59"
+        },
+        {
+            "name": "MUHAMMAD RIDLO ROHMATULLOH",
+            "nisn": "3084679496",
+            "grade_final": "86.52",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Rekayasa Perangkat Lunak"
+                }
+            },
+            "registration_created_at": "2024-07-03 05:42:20"
+        },
+        {
+            "name": "AZKA HILMI GHIFARI",
+            "nisn": "3080160456",
+            "grade_final": "86.48",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Rekayasa Perangkat Lunak"
+                }
+            },
+            "registration_created_at": "2024-07-04 10:38:24"
+        },
+        {
+            "name": "Wahyu Candra Saputra",
+            "nisn": "0086848810",
+            "grade_final": "86.31",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Rekayasa Perangkat Lunak"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:59:55"
+        },
+        {
+            "name": "ALDI PRAMONO",
+            "nisn": "0087917565",
+            "grade_final": "86.27",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Rekayasa Perangkat Lunak"
+                }
+            },
+            "registration_created_at": "2024-07-03 07:00:58"
+        },
+        {
+            "name": "AISHA PUTRI AULIA MAGHFIRO",
+            "nisn": "3085891109",
+            "grade_final": "86.26",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Rekayasa Perangkat Lunak"
+                }
+            },
+            "registration_created_at": "2024-07-03 08:10:50"
+        },
+        {
+            "name": "KHURIATUL AINIA",
+            "nisn": "3087815454",
+            "grade_final": "86.26",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Rekayasa Perangkat Lunak"
+                }
+            },
+            "registration_created_at": "2024-07-03 06:43:06"
+        },
+        {
+            "name": "FAJAR RIZKI NOVANSYAH",
+            "nisn": "0081971620",
+            "grade_final": "86.23",
+            "smk": {
+                "name": "SMK NEGERI MOJOAGUNG",
+                "major": {
+                    "name": "Rekayasa Perangkat Lunak"
+                }
+            },
+            "registration_created_at": "2024-07-04 10:02:50"
+        }
+    ]
+}
