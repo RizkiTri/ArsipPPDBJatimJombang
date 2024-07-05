@@ -39,6 +39,7 @@ for($i = 0; $i < count($data); $i++){
 $data = json_decode(file_get_contents(__DIR__."/SMK/Data.json"), true);
 for($i = 0; $i < count($data); $i++){
     $sch = $data[$i]["name"];
+    mkdir(__DIR__."/SMK/3/Zonasi");
     mkdir(__DIR__. "/SMK/3/Zonasi/$sch");
     for($j = 0; $j < count($data[$i]["majors"]); $j++){
         $id = $data[$i]["majors"][$j]["id"];
@@ -107,6 +108,7 @@ for($i = 0; $i < count($data); $i++){
 $data = json_decode(file_get_contents(__DIR__."/SMK/Data.json"), true);
 for($i = 0; $i < count($data); $i++){
     $sch = $data[$i]["name"];
+    mkdir(__DIR__."/SMK/5");
     mkdir(__DIR__. "/SMK/5/$sch");
     for($j = 0; $j < count($data[$i]["majors"]); $j++){
         $id = $data[$i]["majors"][$j]["id"];
