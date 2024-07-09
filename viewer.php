@@ -33,7 +33,7 @@ function tahap2(){
             $pendaftaran = strtotime($pendaftaran);
             $pendaftaran = date("l, j F Y H:i:s", $pendaftaran);
             
-            $markdown[] = "### $no. $name";
+            $markdown[] = "**$no. $name**";
             $markdown[] = "- **NISN:** $nisn";
             $markdown[] = "- **NILAI AKHIR:** $grade";
             $markdown[] = "- **WAKTU PENDAFTARAN:** $pendaftaran\n";
@@ -91,3 +91,6 @@ function tahap3(){
     }
     
 }
+
+
+tahap2();
