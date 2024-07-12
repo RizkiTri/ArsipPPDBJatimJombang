@@ -1,0 +1,96 @@
+# Data PPDB SMK NEGERI 1 JOMBANG Tahun 2023/2024
+Tahap ke-3 dari PPDB ini merupakan jalur zonasi bagian jarak terdekat. Jalur ini memprioritaskan calon siswa yang tinggal paling dekat dengan sekolah.
+Berikut merupakan data peserta didik yang lolos di SMK NEGERI 1 JOMBANG Jurusan Perhotelan
+
+## Informasi Peserta 
+**1. MUHAMMAD FARIS FIRMANSYAH**
+- **NISN:** 0089668391
+- **JARAK KE SEKOLAH:** 283
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 05:47:35
+
+**2. MOCHAMMAD ADITYA SALIM**
+- **NISN:** 0096989122
+- **JARAK KE SEKOLAH:** 944
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 07:10:57
+
+**3. EBNER PUTRA IMANUEL CHANDRA**
+- **NISN:** 0096102019
+- **JARAK KE SEKOLAH:** 988
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 00:02:24
+
+**4. ALVINO AZRIEL SAPUTRA**
+- **NISN:** 3084212959
+- **JARAK KE SEKOLAH:** 1109
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 13:21:34
+
+**5. MUHAMMAD MUNIF FAKHRUDIN**
+- **NISN:** 0084885707
+- **JARAK KE SEKOLAH:** 1452
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 00:11:51
+
+**6. Revina Sandra Aliffiyanti**
+- **NISN:** 0082480099
+- **JARAK KE SEKOLAH:** 1636
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 17:44:47
+
+**7. Nazwa Shelia Kinanti**
+- **NISN:** 0086081524
+- **JARAK KE SEKOLAH:** 1849
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 10:09:36
+
+**8. AFRIZAL DIMAS PRATAMA**
+- **NISN:** 0097260233
+- **JARAK KE SEKOLAH:** 1946
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 18:26:47
+
+**9. Gatra Rakha Danuartha**
+- **NISN:** 3099444041
+- **JARAK KE SEKOLAH:** 1949
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 04:30:36
+
+**10. KENSA PUTRI SALSABILA**
+- **NISN:** 0099470260
+- **JARAK KE SEKOLAH:** 1981
+- **WAKTU PENDAFTARAN:** Sunday, 23 June 2024 09:31:51
+
+**11. AS SYIFA MIKAIL ZIDANE**
+- **NISN:** 0085883659
+- **JARAK KE SEKOLAH:** 1982
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 08:24:57
+
+**12. MUHAMMAD FARID FIRMANSYAH**
+- **NISN:** 0074058515
+- **JARAK KE SEKOLAH:** 1989
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 19:47:53
+
+**13. SHERIN AGUSTIN VANESA**
+- **NISN:** 3087009814
+- **JARAK KE SEKOLAH:** 1998
+- **WAKTU PENDAFTARAN:** Sunday, 23 June 2024 08:25:11
+
+**14. OKTA WAHYU BEKTI SUSANTO**
+- **NISN:** 0085448745
+- **JARAK KE SEKOLAH:** 2008
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 20:03:17
+
+**15. Muchamad Dwi Ferdiansah**
+- **NISN:** 0091828176
+- **JARAK KE SEKOLAH:** 2024
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 11:15:12
+
+**16. NYOMAN RASITA DHANIYANTI**
+- **NISN:** 0084186821
+- **JARAK KE SEKOLAH:** 2060
+- **WAKTU PENDAFTARAN:** Sunday, 23 June 2024 09:10:58
+
+**17. SHEILA MARCELIA**
+- **NISN:** 0095296832
+- **JARAK KE SEKOLAH:** 2095
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 02:05:06
+
+## Catatan Penting
+
+- Semua data telah diverifikasi.
+- Pendaftaran akan ditutup pada tanggal 19 Juni 2024.
+---
+_Terima Kasih_

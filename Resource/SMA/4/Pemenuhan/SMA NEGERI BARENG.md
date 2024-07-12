@@ -1,0 +1,124 @@
+# Data PPDB SMA NEGERI BARENG Tahun 2023/2024
+Tahap ke-4 Pemenuhan Pagu bertujuan untuk mengisi sisa kuota penerimaan yang belum terpenuhi, memberikan kesempatan terakhir berdasarkan berbagai kriteria tambahan.
+
+## Informasi Peserta 
+**1. AISYAH MUTIA AGUSTIN**
+- **NISN:** 3081781385
+- **JARAK KE SEKOLAH:** 2607
+- **KELURAHAN:** unknown
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 09:24:08
+
+**2. MUHAMMAD ALAIKA RIZQI FERDIANSYAH**
+- **NISN:** 0092128288
+- **JARAK KE SEKOLAH:** 2628
+- **KELURAHAN:** unknown
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 05:04:35
+
+**3. SHAHRIN MAULIDHA**
+- **NISN:** 0092883619
+- **JARAK KE SEKOLAH:** 2638
+- **KELURAHAN:** unknown
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 00:59:03
+
+**4. SAFIRA AMILIA PUTRI**
+- **NISN:** 0087355194
+- **JARAK KE SEKOLAH:** 2640
+- **KELURAHAN:** unknown
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 07:07:58
+
+**5. TAUFIK HIDAYAT**
+- **NISN:** 0083565167
+- **JARAK KE SEKOLAH:** 2646
+- **KELURAHAN:** unknown
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 08:36:39
+
+**6. RAHMAT TRI UTOMO**
+- **NISN:** 0077132328
+- **JARAK KE SEKOLAH:** 2651
+- **KELURAHAN:** unknown
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 01:35:48
+
+**7. ANTANIA RIZKY SHAFANA**
+- **NISN:** 0084385586
+- **JARAK KE SEKOLAH:** 2664
+- **KELURAHAN:** unknown
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 06:16:01
+
+**8. SALNIA PUTRI**
+- **NISN:** 3099049006
+- **JARAK KE SEKOLAH:** 2691
+- **KELURAHAN:** unknown
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 09:35:03
+
+**9. Julian Rhevanno Putra Pratama**
+- **NISN:** 0092796512
+- **JARAK KE SEKOLAH:** 2711
+- **KELURAHAN:** unknown
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 00:38:22
+
+**10. ZAHRIA FEBI LUTFIANINGRUM**
+- **NISN:** 3094558704
+- **JARAK KE SEKOLAH:** 2730
+- **KELURAHAN:** unknown
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 05:31:25
+
+**11. M ALIF FIKRI ARGYAZENA**
+- **NISN:** 0094468041
+- **JARAK KE SEKOLAH:** 2730
+- **KELURAHAN:** unknown
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 13:49:04
+
+**12. RELO ASMI PAMBUDIO**
+- **NISN:** 0091482742
+- **JARAK KE SEKOLAH:** 2744
+- **KELURAHAN:** unknown
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 00:18:24
+
+**13. OKTA VIAN SAMSI**
+- **NISN:** 0092255284
+- **JARAK KE SEKOLAH:** 2774
+- **KELURAHAN:** unknown
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 06:53:53
+
+**14. GRETY ANGELLINA**
+- **NISN:** 0094854550
+- **JARAK KE SEKOLAH:** 2775
+- **KELURAHAN:** unknown
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 08:19:27
+
+**15. HANSEN ROSA CHRISENDA**
+- **NISN:** 0097788152
+- **JARAK KE SEKOLAH:** 2775
+- **KELURAHAN:** unknown
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 00:42:12
+
+**16. FRANDA ERVALITA**
+- **NISN:** 0105370256
+- **JARAK KE SEKOLAH:** 2789
+- **KELURAHAN:** unknown
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 07:07:43
+
+**17. KHAYRA NAZELA MEIDATAMA**
+- **NISN:** 0089213418
+- **JARAK KE SEKOLAH:** 2804
+- **KELURAHAN:** unknown
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 06:33:25
+
+**18. BAROK AUFA WARDANA**
+- **NISN:** 0091855553
+- **JARAK KE SEKOLAH:** 2822
+- **KELURAHAN:** unknown
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 10:09:34
+
+**19. LIDIA PUTRI RAMADANI**
+- **NISN:** 0097502481
+- **JARAK KE SEKOLAH:** 2826
+- **KELURAHAN:** unknown
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 04:50:29
+
+## Catatan Penting
+
+- Semua data telah diverifikasi.
+- Pendaftaran akan ditutup pada tanggal 19 Juni 2024.
+---
+_Terima Kasih_

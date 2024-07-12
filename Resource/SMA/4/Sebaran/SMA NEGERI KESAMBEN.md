@@ -1,0 +1,238 @@
+# Data PPDB SMA NEGERI KESAMBEN Tahun 2023/2024
+Tahap ke-4 jalur Sebaran memastikan penerimaan siswa dari berbagai daerah agar pemerataan kesempatan pendidikan tercapai, menghindari penumpukan dari satu daerah.
+
+## Informasi Peserta 
+**1. FIRNANDA KAELA MAULIDIYAH**
+- **NISN:** 0092692912
+- **JARAK KE SEKOLAH:** 5323
+- **KELURAHAN:** Trawasan
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 07:10:06
+
+**2. AZZAHRA YUDITH NIRMALA**
+- **NISN:** 0088895478
+- **JARAK KE SEKOLAH:** 1822
+- **KELURAHAN:** Talunkidul
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 00:02:59
+
+**3. KISSYA FRISCA ALHANIM**
+- **NISN:** 0096902320
+- **JARAK KE SEKOLAH:** 2255
+- **KELURAHAN:** Sumobito
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 11:27:16
+
+**4. RADITYA ANDRA SYAHBANA**
+- **NISN:** 0085780929
+- **JARAK KE SEKOLAH:** 2535
+- **KELURAHAN:** Segodorejo
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 08:13:43
+
+**5. Nur Aini Amelia**
+- **NISN:** 0099249469
+- **JARAK KE SEKOLAH:** 2858
+- **KELURAHAN:** Sebani
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 11:19:19
+
+**6. FABIAN ARDAN FITARI**
+- **NISN:** 0081087486
+- **JARAK KE SEKOLAH:** 7599
+- **KELURAHAN:** Palrejo
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 14:23:00
+
+**7. LIFKY MARDIANSYAH PUTRA**
+- **NISN:** 3092311455
+- **JARAK KE SEKOLAH:** 6082
+- **KELURAHAN:** Nglele
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 06:16:43
+
+**8. Muhammad Azzam Fatichurrabani**
+- **NISN:** 0082045636
+- **JARAK KE SEKOLAH:** 4626
+- **KELURAHAN:** Mlaras
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 04:40:48
+
+**9. ANGGITA NAZWA IZAATI**
+- **NISN:** 0098658618
+- **JARAK KE SEKOLAH:** 3305
+- **KELURAHAN:** Mentoro
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 15:34:57
+
+**10. NURUL ZAHLIA LESTARI**
+- **NISN:** 0085274328
+- **JARAK KE SEKOLAH:** 1812
+- **KELURAHAN:** Madiopuro
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 19:22:39
+
+**11. SITI FADILAH RAHAYU**
+- **NISN:** 0082769068
+- **JARAK KE SEKOLAH:** 1943
+- **KELURAHAN:** Kendalsari
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 01:18:40
+
+**12. ISMAIL HANIYA**
+- **NISN:** 3080905944
+- **JARAK KE SEKOLAH:** 3978
+- **KELURAHAN:** Kedung Papar
+- **WAKTU PENDAFTARAN:** Friday, 28 June 2024 18:55:41
+
+**13. Dava Maulana**
+- **NISN:** 3097510241
+- **JARAK KE SEKOLAH:** 2322
+- **KELURAHAN:** Gedangan
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 08:11:01
+
+**14. MUKHAMAD NICHO TRI PUTRA**
+- **NISN:** 0085441017
+- **JARAK KE SEKOLAH:** 2493
+- **KELURAHAN:** Curahmalang
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 10:11:23
+
+**15. RAFISKA WIDA HANIAH**
+- **NISN:** 0088818109
+- **JARAK KE SEKOLAH:** 1942
+- **KELURAHAN:** Budugsidorejo
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 00:13:37
+
+**16. FADYA NUR KHOLIFAH**
+- **NISN:** 0092199347
+- **JARAK KE SEKOLAH:** 5477
+- **KELURAHAN:** Brudu
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 08:16:42
+
+**17. PUTRI AIRIN MITASYA**
+- **NISN:** 0095683616
+- **JARAK KE SEKOLAH:** 1834
+- **KELURAHAN:** Bakalan
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 00:05:44
+
+**18. Ahmad Nizri Ramadhon Nurkhaqim**
+- **NISN:** 0082296899
+- **JARAK KE SEKOLAH:** 5002
+- **KELURAHAN:** Badas
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 00:07:12
+
+**19. FAIZATUL IANA**
+- **NISN:** 0099817755
+- **JARAK KE SEKOLAH:** 4492
+- **KELURAHAN:** Ngrandulor
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 04:50:57
+
+**20. DAVA PRASETYO**
+- **NISN:** 0095602132
+- **JARAK KE SEKOLAH:** 6126
+- **KELURAHAN:** Tugusumberjo
+- **WAKTU PENDAFTARAN:** Friday, 28 June 2024 10:47:01
+
+**21. AL GHIFARI**
+- **NISN:** 0099330206
+- **JARAK KE SEKOLAH:** 7350
+- **KELURAHAN:** Bongkot
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 00:08:55
+
+**22. NAZWA QURROTUL AINI**
+- **NISN:** 0157264164
+- **JARAK KE SEKOLAH:** 8430
+- **KELURAHAN:** Tanggalrejo
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 06:22:06
+
+**23. PUTRI ANISA RIZKI ASYIFAH ASFA**
+- **NISN:** 0092287584
+- **JARAK KE SEKOLAH:** 7891
+- **KELURAHAN:** Miagan
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 06:47:33
+
+**24. DEVANDIO RIDHO AL KHOIR**
+- **NISN:** 0087787357
+- **JARAK KE SEKOLAH:** 7084
+- **KELURAHAN:** Mancilan
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 00:04:59
+
+**25. RAFI FIRDAUS ALHIKAM**
+- **NISN:** 0087212728
+- **JARAK KE SEKOLAH:** 4316
+- **KELURAHAN:** Karobelah
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 00:10:55
+
+**26. MARDYAN RAHMANTO**
+- **NISN:** 0083262485
+- **JARAK KE SEKOLAH:** 3137
+- **KELURAHAN:** Johowinong
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 08:51:32
+
+**27. Imelda Putri Ramadhani**
+- **NISN:** 3082103674
+- **JARAK KE SEKOLAH:** 6124
+- **KELURAHAN:** Dukuhdimoro
+- **WAKTU PENDAFTARAN:** Friday, 28 June 2024 12:20:05
+
+**28. Ganang Dwi Putra**
+- **NISN:** 3097538963
+- **JARAK KE SEKOLAH:** 6192
+- **KELURAHAN:** Betek
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 00:16:11
+
+**29. ERRIDHO YUGHO PRATAMA**
+- **NISN:** 3092981557
+- **JARAK KE SEKOLAH:** 4255
+- **KELURAHAN:** Wuluh
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 10:04:28
+
+**30. TIARA ELYASARI**
+- **NISN:** 0082096902
+- **JARAK KE SEKOLAH:** 1811
+- **KELURAHAN:** Watudakon
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 19:18:55
+
+**31. GALANG ARDIANSYAH**
+- **NISN:** 0098987627
+- **JARAK KE SEKOLAH:** 2002
+- **KELURAHAN:** Pojokrejo
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 16:50:24
+
+**32. SELVIA ANGGRAENI**
+- **NISN:** 0093343280
+- **JARAK KE SEKOLAH:** 3668
+- **KELURAHAN:** Podoroto
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 00:42:40
+
+**33. Abyan Aqil Muhammad**
+- **NISN:** 0082987729
+- **JARAK KE SEKOLAH:** 3641
+- **KELURAHAN:** Kesamben
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 00:16:53
+
+**34. AMELIA ANJANI SABILA**
+- **NISN:** 0091967137
+- **JARAK KE SEKOLAH:** 2859
+- **KELURAHAN:** Kedungmlati
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 01:58:10
+
+**35. ANNISA UMMATUS SOLIKHAH**
+- **NISN:** 3096863474
+- **JARAK KE SEKOLAH:** 5886
+- **KELURAHAN:** Kedungbetik
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 01:39:04
+
+**36. ALYA NURUL AZIZAH**
+- **NISN:** 0094918326
+- **JARAK KE SEKOLAH:** 3114
+- **KELURAHAN:** Jombok
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 00:10:06
+
+**37. ZAHRA AYUDIA SIFA RAMADANI**
+- **NISN:** 0087488277
+- **JARAK KE SEKOLAH:** 5504
+- **KELURAHAN:** Jombatan
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 00:12:05
+
+**38. MUHAMMAD ARDHI ZULKARNAIN**
+- **NISN:** 0099547439
+- **JARAK KE SEKOLAH:** 8763
+- **KELURAHAN:** Janti
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 07:06:36
+
+## Catatan Penting
+
+- Semua data telah diverifikasi.
+- Pendaftaran akan ditutup pada tanggal 19 Juni 2024.
+---
+_Terima Kasih_

@@ -1,0 +1,81 @@
+# Data PPDB SMK NEGERI 1 JOMBANG Tahun 2023/2024
+Tahap ke-3 dari PPDB ini merupakan jalur zonasi bagian jarak terdekat. Jalur ini memprioritaskan calon siswa yang tinggal paling dekat dengan sekolah.
+Berikut merupakan data peserta didik yang lolos di SMK NEGERI 1 JOMBANG Jurusan Desain Komunikasi Visual
+
+## Informasi Peserta 
+**1. ZAINAB SITI NURJANNAH KHOIRUNNISA**
+- **NISN:** 0088299136
+- **JARAK KE SEKOLAH:** 548
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 00:08:20
+
+**2. DEFLIN HAYUNING PUTRI**
+- **NISN:** 0094854240
+- **JARAK KE SEKOLAH:** 655
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 05:51:08
+
+**3. MUKHAMMAD BINTANG ALFIANSYAH WAHYUDI**
+- **NISN:** 0093074983
+- **JARAK KE SEKOLAH:** 824
+- **WAKTU PENDAFTARAN:** Sunday, 23 June 2024 06:17:45
+
+**4. Balquis Ady Nazwwmo**
+- **NISN:** 0098779764
+- **JARAK KE SEKOLAH:** 1185
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 08:55:58
+
+**5. JIBRIL FAJARIAN SUWIGNYO**
+- **NISN:** 3087672240
+- **JARAK KE SEKOLAH:** 1353
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 02:45:00
+
+**6. NADINE ADELIA PUSPITA WARDHANA**
+- **NISN:** 0094209312
+- **JARAK KE SEKOLAH:** 1512
+- **WAKTU PENDAFTARAN:** Sunday, 23 June 2024 10:58:53
+
+**7. ARTALINA MULYANI**
+- **NISN:** 0096545872
+- **JARAK KE SEKOLAH:** 1586
+- **WAKTU PENDAFTARAN:** Sunday, 23 June 2024 11:47:12
+
+**8. AFRIZHA MAHARDIKA PRASTYA**
+- **NISN:** 0082492483
+- **JARAK KE SEKOLAH:** 1630
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 05:32:27
+
+**9. MUHAMMAD NUR FAYSHAL**
+- **NISN:** 3088720572
+- **JARAK KE SEKOLAH:** 1723
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 05:35:31
+
+**10. DENNIS PRATAMA SYAH**
+- **NISN:** 0081665866
+- **JARAK KE SEKOLAH:** 1726
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 00:11:11
+
+**11. JULI ETI SITI MALIKAH**
+- **NISN:** 0075646927
+- **JARAK KE SEKOLAH:** 1774
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 01:14:53
+
+**12. JULI ETA SITI KARJINI**
+- **NISN:** 0071265952
+- **JARAK KE SEKOLAH:** 1783
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 01:17:37
+
+**13. KHELFIN DWI PUTRA ARDHANA**
+- **NISN:** 0084299477
+- **JARAK KE SEKOLAH:** 1794
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 07:56:38
+
+**14. CHINTIYA ELVIRA SETYAWAN**
+- **NISN:** 0088924822
+- **JARAK KE SEKOLAH:** 1867
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 08:12:34
+
+## Catatan Penting
+
+- Semua data telah diverifikasi.
+- Pendaftaran akan ditutup pada tanggal 19 Juni 2024.
+---
+_Terima Kasih_

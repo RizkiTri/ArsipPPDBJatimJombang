@@ -1,0 +1,86 @@
+# Data PPDB SMK NEGERI GUDO Tahun 2023/2024
+Tahap ke-3 dari PPDB ini merupakan jalur zonasi bagian jarak terdekat. Jalur ini memprioritaskan calon siswa yang tinggal paling dekat dengan sekolah.
+Berikut merupakan data peserta didik yang lolos di SMK NEGERI GUDO Jurusan Layanan Perbankan
+
+## Informasi Peserta 
+**1. SYAFIRA HAYU PUTRI MAHARDIKA**
+- **NISN:** 0082074232
+- **JARAK KE SEKOLAH:** 164
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 06:13:01
+
+**2. SILVIATUS SHOLICHA**
+- **NISN:** 0097921875
+- **JARAK KE SEKOLAH:** 440
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 02:10:09
+
+**3. NABILA FEBI NUR HAYANI**
+- **NISN:** 0094329954
+- **JARAK KE SEKOLAH:** 475
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 06:51:18
+
+**4. DEA MEYLANI**
+- **NISN:** 0082290218
+- **JARAK KE SEKOLAH:** 716
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 07:26:54
+
+**5. KEYLA SHIFA RAMADHANI**
+- **NISN:** 0088743291
+- **JARAK KE SEKOLAH:** 1032
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 07:48:54
+
+**6. NIKEN AMELYA**
+- **NISN:** 0099357334
+- **JARAK KE SEKOLAH:** 1075
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 00:05:39
+
+**7. DAVINA RACHMA ARNETTA**
+- **NISN:** 0088076777
+- **JARAK KE SEKOLAH:** 1742
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 06:41:09
+
+**8. ELMA HERAWATI**
+- **NISN:** 0092118818
+- **JARAK KE SEKOLAH:** 1789
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 07:08:52
+
+**9. SANDRA ANGELILLA**
+- **NISN:** 0092051017
+- **JARAK KE SEKOLAH:** 1850
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 08:19:36
+
+**10. AMANDA DETRIA CAHYANINGTYAS**
+- **NISN:** 0096123250
+- **JARAK KE SEKOLAH:** 1881
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 09:15:16
+
+**11. SATRIA ABDILLAH BUDIANSYAH**
+- **NISN:** 0081461434
+- **JARAK KE SEKOLAH:** 1984
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 06:53:40
+
+**12. AYU DWI WULANDARI**
+- **NISN:** 0081874806
+- **JARAK KE SEKOLAH:** 2015
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 00:05:24
+
+**13. FEBYOLA OKTAVIA DIVARIANTI**
+- **NISN:** 0083982656
+- **JARAK KE SEKOLAH:** 2024
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 00:05:18
+
+**14. ALFI LAILY MUMTAZA**
+- **NISN:** 0086962262
+- **JARAK KE SEKOLAH:** 2188
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 06:54:54
+
+**15. FRANSISKA AYU PUTRI LESTARI**
+- **NISN:** 0084919993
+- **JARAK KE SEKOLAH:** 2249
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 07:12:43
+
+## Catatan Penting
+
+- Semua data telah diverifikasi.
+- Pendaftaran akan ditutup pada tanggal 19 Juni 2024.
+---
+_Terima Kasih_
