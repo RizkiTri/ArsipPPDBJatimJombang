@@ -1,0 +1,81 @@
+# Data PPDB SMK NEGERI GUDO Tahun 2023/2024
+Tahap ke-3 dari PPDB ini merupakan jalur zonasi bagian jarak terdekat. Jalur ini memprioritaskan calon siswa yang tinggal paling dekat dengan sekolah.
+Berikut merupakan data peserta didik yang lolos di SMK NEGERI GUDO Jurusan Teknik Komputer dan Jaringan
+
+## Informasi Peserta 
+**1. JESSICA VALERINA PUTRI**
+- **NISN:** 3094066404
+- **JARAK KE SEKOLAH:** 145
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 07:46:38
+
+**2. RULLY LESTARI ANGGRAINI**
+- **NISN:** 3080324240
+- **JARAK KE SEKOLAH:** 405
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 09:31:02
+
+**3. MOCHAMMAD ARIFIN**
+- **NISN:** 0088338878
+- **JARAK KE SEKOLAH:** 671
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 07:57:13
+
+**4. LUTFIANTO**
+- **NISN:** 0085443171
+- **JARAK KE SEKOLAH:** 716
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 08:44:20
+
+**5. HANI COASTARINA OKTAVILANI**
+- **NISN:** 0084259992
+- **JARAK KE SEKOLAH:** 718
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 00:10:45
+
+**6. MICHAEL IMMANUEL STEVANUS ANDERSON**
+- **NISN:** 0082692152
+- **JARAK KE SEKOLAH:** 744
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 00:10:48
+
+**7. ARGA WAHYU PRASETYA**
+- **NISN:** 0086781815
+- **JARAK KE SEKOLAH:** 752
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 07:33:07
+
+**8. FEREN APRILIANI**
+- **NISN:** 0099583159
+- **JARAK KE SEKOLAH:** 995
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 08:28:54
+
+**9. YENNY FAHRIZA**
+- **NISN:** 0045888631
+- **JARAK KE SEKOLAH:** 1019
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 06:03:58
+
+**10. RAYHAN ANDHIKA BAGASKARA**
+- **NISN:** 0096375101
+- **JARAK KE SEKOLAH:** 1021
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 00:10:32
+
+**11. CELLYA AZALEYA HARDIANANDA**
+- **NISN:** 0093925193
+- **JARAK KE SEKOLAH:** 1022
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 08:33:03
+
+**12. MEYTA IKA FERONITA**
+- **NISN:** 0087874536
+- **JARAK KE SEKOLAH:** 1032
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 09:11:43
+
+**13. MUHAMMAD RAFIF APRIANTO**
+- **NISN:** 0094690458
+- **JARAK KE SEKOLAH:** 1060
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 06:55:19
+
+**14. AHMAD SATRIO HAKIM ARRASYID**
+- **NISN:** 0073853554
+- **JARAK KE SEKOLAH:** 1214
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 13:42:15
+
+## Catatan Penting
+
+- Semua data telah diverifikasi.
+- Pendaftaran akan ditutup pada tanggal 19 Juni 2024.
+---
+_Terima Kasih_

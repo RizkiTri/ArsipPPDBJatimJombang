@@ -1,0 +1,106 @@
+# Data PPDB SMK NEGERI MOJOAGUNG Tahun 2023/2024
+Tahap ke-3 dari PPDB ini merupakan jalur zonasi bagian jarak terdekat. Jalur ini memprioritaskan calon siswa yang tinggal paling dekat dengan sekolah.
+Berikut merupakan data peserta didik yang lolos di SMK NEGERI MOJOAGUNG Jurusan Teknik Kimia Industri
+
+## Informasi Peserta 
+**1. ISKANDAR RAJAB GHAISANI**
+- **NISN:** 0089130874
+- **JARAK KE SEKOLAH:** 134
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 06:10:49
+
+**2. HAMDAN MUKAFI**
+- **NISN:** 3071138856
+- **JARAK KE SEKOLAH:** 192
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 08:06:10
+
+**3. BONIT VALENT DANTE PURNOMO**
+- **NISN:** 0083616802
+- **JARAK KE SEKOLAH:** 239
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 07:56:15
+
+**4. MOCHAMMAD HISYAM KURNIAWAN**
+- **NISN:** 3080686654
+- **JARAK KE SEKOLAH:** 363
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 08:28:55
+
+**5. Ilyas Arjun Fadillah Sidiq Arrifki**
+- **NISN:** 0081465565
+- **JARAK KE SEKOLAH:** 422
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 12:33:54
+
+**6. ZIYAN AZHAR ASUMTA**
+- **NISN:** 0083613750
+- **JARAK KE SEKOLAH:** 491
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 02:28:57
+
+**7. SATRIA DARMAWAN**
+- **NISN:** 0081941159
+- **JARAK KE SEKOLAH:** 582
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 01:31:57
+
+**8. BIMA BAYU SETYO NURWICAKSONO**
+- **NISN:** 0157351748
+- **JARAK KE SEKOLAH:** 591
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 15:22:10
+
+**9. Davin Putra Admaja**
+- **NISN:** 0098008654
+- **JARAK KE SEKOLAH:** 593
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 15:25:46
+
+**10. CELLYNA AINURRAHMA KURNIA**
+- **NISN:** 3083672273
+- **JARAK KE SEKOLAH:** 601
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 10:16:28
+
+**11. KHOIRUL AFIF ADITYA**
+- **NISN:** 0085228209
+- **JARAK KE SEKOLAH:** 727
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 13:51:38
+
+**12. Dessy Rachmania**
+- **NISN:** 0086594821
+- **JARAK KE SEKOLAH:** 791
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 07:47:17
+
+**13. FIRLI ADI SAPUTRA**
+- **NISN:** 0084387461
+- **JARAK KE SEKOLAH:** 807
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 02:16:23
+
+**14. KIRANIA PUTRI MAULUDIYANTI**
+- **NISN:** 0088117764
+- **JARAK KE SEKOLAH:** 812
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 00:05:37
+
+**15. AURELIA LINTANG ARSHAFIN**
+- **NISN:** 0093856519
+- **JARAK KE SEKOLAH:** 833
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 01:04:41
+
+**16. MUHAMMAD AFIF NURYATHALLOH RAMADHAN**
+- **NISN:** 0089743354
+- **JARAK KE SEKOLAH:** 853
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 07:21:27
+
+**17. ZACKI MAULANA**
+- **NISN:** 0086890368
+- **JARAK KE SEKOLAH:** 895
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 08:34:08
+
+**18. NAYSILA OKTAVIANI PUTRI WIJAYA**
+- **NISN:** 0086809249
+- **JARAK KE SEKOLAH:** 926
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 05:45:25
+
+**19. ANDHIKA RIZKI FEBRIAN**
+- **NISN:** 3097148225
+- **JARAK KE SEKOLAH:** 926
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 09:56:04
+
+## Catatan Penting
+
+- Semua data telah diverifikasi.
+- Pendaftaran akan ditutup pada tanggal 19 Juni 2024.
+---
+_Terima Kasih_

@@ -1,0 +1,116 @@
+# Data PPDB SMK NEGERI KABUH Tahun 2023/2024
+Tahap ke-3 dari PPDB ini merupakan jalur zonasi bagian jarak terdekat. Jalur ini memprioritaskan calon siswa yang tinggal paling dekat dengan sekolah.
+Berikut merupakan data peserta didik yang lolos di SMK NEGERI KABUH Jurusan Analisis Pengujian Laboratorium
+
+## Informasi Peserta 
+**1. MUHAMMAD ABIEYANDRA LUTANTO**
+- **NISN:** 0083428892
+- **JARAK KE SEKOLAH:** 1334
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 07:34:11
+
+**2. FAJAR NUR SAPUTRA**
+- **NISN:** 0089300829
+- **JARAK KE SEKOLAH:** 1416
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 04:56:09
+
+**3. REHAN SAPUTRA**
+- **NISN:** 0083924362
+- **JARAK KE SEKOLAH:** 1426
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 01:42:59
+
+**4. ARYA PURNAMA DEWA**
+- **NISN:** 0084310106
+- **JARAK KE SEKOLAH:** 1468
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 00:11:47
+
+**5. MUHAMMAD FAREL AL HABSI**
+- **NISN:** 0082488151
+- **JARAK KE SEKOLAH:** 1476
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 07:39:16
+
+**6. Ziza Cantika Lutfiana**
+- **NISN:** 0091706878
+- **JARAK KE SEKOLAH:** 1480
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 07:30:26
+
+**7. AHMAD HAIDAR ALI**
+- **NISN:** 3095769593
+- **JARAK KE SEKOLAH:** 1580
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 07:14:46
+
+**8. Dimas Erlangga**
+- **NISN:** 0073673390
+- **JARAK KE SEKOLAH:** 1765
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 09:51:07
+
+**9. MOHAMMAT ARIL MARDHIYANTO**
+- **NISN:** 0095959948
+- **JARAK KE SEKOLAH:** 1808
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 08:14:30
+
+**10. ANDIKA TRI YUDISTIRA**
+- **NISN:** 0088927695
+- **JARAK KE SEKOLAH:** 1811
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 14:31:28
+
+**11. SILVI ANGGRAINI**
+- **NISN:** 0088065949
+- **JARAK KE SEKOLAH:** 1862
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 01:34:09
+
+**12. Satriyo Bagus Sadewoh**
+- **NISN:** 0087312854
+- **JARAK KE SEKOLAH:** 1930
+- **WAKTU PENDAFTARAN:** Sunday, 23 June 2024 13:53:18
+
+**13. DHODY PRADANA SAPUTRA**
+- **NISN:** 0098279527
+- **JARAK KE SEKOLAH:** 1967
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 05:05:32
+
+**14. RINDA NATASYA**
+- **NISN:** 0086468634
+- **JARAK KE SEKOLAH:** 2002
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 07:26:06
+
+**15. NUR HAYATI**
+- **NISN:** 0097450842
+- **JARAK KE SEKOLAH:** 2026
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 01:18:54
+
+**16. DINA SAFIRAH**
+- **NISN:** 0087209611
+- **JARAK KE SEKOLAH:** 2095
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 07:40:46
+
+**17. NATASYA LAILATUL MAGHFIRO**
+- **NISN:** 0081481736
+- **JARAK KE SEKOLAH:** 2116
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 07:31:56
+
+**18. SHELO ANUGRAH JULIA PRAMESWATI**
+- **NISN:** 0088739972
+- **JARAK KE SEKOLAH:** 2125
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 07:26:22
+
+**19. MOHAMMAD KEVIN ANDREAS AGUSTINO**
+- **NISN:** 0089535975
+- **JARAK KE SEKOLAH:** 2167
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 05:53:43
+
+**20. MUHAMMAD REZEKI CAHYO DIHARJO**
+- **NISN:** 0085185274
+- **JARAK KE SEKOLAH:** 2179
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 17:58:34
+
+**21. EKA NUR SHINTA**
+- **NISN:** 0099643127
+- **JARAK KE SEKOLAH:** 2204
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 07:08:48
+
+## Catatan Penting
+
+- Semua data telah diverifikasi.
+- Pendaftaran akan ditutup pada tanggal 19 Juni 2024.
+---
+_Terima Kasih_

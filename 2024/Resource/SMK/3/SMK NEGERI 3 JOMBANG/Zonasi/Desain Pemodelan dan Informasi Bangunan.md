@@ -1,0 +1,96 @@
+# Data PPDB SMK NEGERI 3 JOMBANG Tahun 2023/2024
+Tahap ke-3 dari PPDB ini merupakan jalur zonasi bagian jarak terdekat. Jalur ini memprioritaskan calon siswa yang tinggal paling dekat dengan sekolah.
+Berikut merupakan data peserta didik yang lolos di SMK NEGERI 3 JOMBANG Jurusan Desain Pemodelan dan Informasi Bangunan
+
+## Informasi Peserta 
+**1. MUHAMMAD BAGHRAL BANJIR**
+- **NISN:** 0081752326
+- **JARAK KE SEKOLAH:** 534
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 09:46:52
+
+**2. REZA DWIKA FIRMANSYA**
+- **NISN:** 0081577399
+- **JARAK KE SEKOLAH:** 800
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 00:15:05
+
+**3. TJAHYO NOEGROHO SYAHPUTRO**
+- **NISN:** 0084495167
+- **JARAK KE SEKOLAH:** 948
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 09:11:22
+
+**4. NIKEN ARIANA PUTRI**
+- **NISN:** 0081309730
+- **JARAK KE SEKOLAH:** 1056
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 00:17:56
+
+**5. BAYU ADI SAPUTRO**
+- **NISN:** 0082393451
+- **JARAK KE SEKOLAH:** 1250
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 07:50:21
+
+**6. SATRIA ZOGA PRATAMA**
+- **NISN:** 0098170607
+- **JARAK KE SEKOLAH:** 1464
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 08:09:31
+
+**7. MOHAMMAD SEPTA RAMADHANI**
+- **NISN:** 0081747513
+- **JARAK KE SEKOLAH:** 1467
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 00:06:33
+
+**8. ALFAN YUDHA PRASSETIAWAN**
+- **NISN:** 0089966699
+- **JARAK KE SEKOLAH:** 1624
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 10:44:53
+
+**9. ARGA RAHARDIAN JULIASTA**
+- **NISN:** 0082947743
+- **JARAK KE SEKOLAH:** 1878
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 00:17:31
+
+**10. Muchammad Ichsan Wijaya**
+- **NISN:** 0086646694
+- **JARAK KE SEKOLAH:** 2170
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 00:23:06
+
+**11. Muhammad Rozan Ar Rizqy Putra Istiawan**
+- **NISN:** 0099982072
+- **JARAK KE SEKOLAH:** 2195
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 10:45:08
+
+**12. DENNIES ADITYA SYAPUTRA**
+- **NISN:** 3097090761
+- **JARAK KE SEKOLAH:** 2216
+- **WAKTU PENDAFTARAN:** Sunday, 23 June 2024 07:10:21
+
+**13. RAHMA AMELIA PUTRI**
+- **NISN:** 0093198662
+- **JARAK KE SEKOLAH:** 2276
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 00:14:40
+
+**14. WANTONO**
+- **NISN:** 0079954683
+- **JARAK KE SEKOLAH:** 2280
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 11:23:03
+
+**15. Nabil Hisbillah**
+- **NISN:** 3081318329
+- **JARAK KE SEKOLAH:** 2503
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 10:07:54
+
+**16. MUHAMMAD FADIL FEBRIAN**
+- **NISN:** 3085163307
+- **JARAK KE SEKOLAH:** 2528
+- **WAKTU PENDAFTARAN:** Sunday, 23 June 2024 12:40:05
+
+**17. MOCHAMAD RANGGA AQILLAH**
+- **NISN:** 0085618647
+- **JARAK KE SEKOLAH:** 2603
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 18:21:45
+
+## Catatan Penting
+
+- Semua data telah diverifikasi.
+- Pendaftaran akan ditutup pada tanggal 19 Juni 2024.
+---
+_Terima Kasih_

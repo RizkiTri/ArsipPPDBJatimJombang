@@ -1,0 +1,81 @@
+# Data PPDB SMK NEGERI 1 JOMBANG Tahun 2023/2024
+Tahap ke-3 dari PPDB ini merupakan jalur zonasi bagian jarak terdekat. Jalur ini memprioritaskan calon siswa yang tinggal paling dekat dengan sekolah.
+Berikut merupakan data peserta didik yang lolos di SMK NEGERI 1 JOMBANG Jurusan Akuntansi
+
+## Informasi Peserta 
+**1. DIYANAH TALITA SAKHI**
+- **NISN:** 0092492028
+- **JARAK KE SEKOLAH:** 656
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 00:48:11
+
+**2. RIFATUL NAILA RAMADHANI**
+- **NISN:** 3082695404
+- **JARAK KE SEKOLAH:** 882
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 08:14:46
+
+**3. TEOFANI AMEILIA RAHADJO**
+- **NISN:** 0082773519
+- **JARAK KE SEKOLAH:** 971
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 00:04:10
+
+**4. NANING NASTITI SETIANINGSIH**
+- **NISN:** 0088888578
+- **JARAK KE SEKOLAH:** 1020
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 00:24:39
+
+**5. REYSA MAULIA SIVANA**
+- **NISN:** 0093146915
+- **JARAK KE SEKOLAH:** 1023
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 00:12:10
+
+**6. PARWA GANGGA PRAMESTY**
+- **NISN:** 0097435145
+- **JARAK KE SEKOLAH:** 1040
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 00:16:09
+
+**7. AGNETHA OKTALIA WIJAYA**
+- **NISN:** 0088491520
+- **JARAK KE SEKOLAH:** 1141
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 00:24:49
+
+**8. ANNISA DWI FITRIA**
+- **NISN:** 0084780544
+- **JARAK KE SEKOLAH:** 1155
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 00:17:40
+
+**9. IMELDA ZAHROTUS SITA**
+- **NISN:** 0095294641
+- **JARAK KE SEKOLAH:** 1420
+- **WAKTU PENDAFTARAN:** Sunday, 23 June 2024 11:37:27
+
+**10. NABILA SEPTYAN DWI RAMADHANI**
+- **NISN:** 0082505006
+- **JARAK KE SEKOLAH:** 1422
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 00:38:24
+
+**11. CHANDRA WIBOWO**
+- **NISN:** 0091772201
+- **JARAK KE SEKOLAH:** 1436
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 02:48:47
+
+**12. SYAIROTULSITA MECA ANDARI**
+- **NISN:** 0087146990
+- **JARAK KE SEKOLAH:** 1450
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 01:39:15
+
+**13. AHMAD FAHRUL IRHAM SYAHBILLAL**
+- **NISN:** 0086750070
+- **JARAK KE SEKOLAH:** 1475
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 07:33:48
+
+**14. AMELIA PUTRI PURWANTI**
+- **NISN:** 0084785672
+- **JARAK KE SEKOLAH:** 1495
+- **WAKTU PENDAFTARAN:** Saturday, 22 June 2024 06:40:36
+
+## Catatan Penting
+
+- Semua data telah diverifikasi.
+- Pendaftaran akan ditutup pada tanggal 19 Juni 2024.
+---
+_Terima Kasih_

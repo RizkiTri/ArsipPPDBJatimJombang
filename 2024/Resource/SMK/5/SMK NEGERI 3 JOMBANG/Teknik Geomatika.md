@@ -1,0 +1,121 @@
+# Data PPDB SMK NEGERI 3 JOMBANG Tahun 2023/2024
+PPDB tahap ke-5 menggunakan jalur nilai rapor untuk menyeleksi siswa. Tahap ini memberikan kesempatan kepada siswa berprestasi akademik untuk diterima di sekolah pilihan mereka. 
+Berikut merupakan data peserta didik yang lolos di SMK NEGERI 3 JOMBANG Jurusan Teknik Geomatika
+
+## Informasi Peserta 
+**1. ELISA RAHMANIA RAMADHANI**
+- **NISN:** 3097362907
+- **NILAI AKHIR:** 87.89
+- **WAKTU PENDAFTARAN:** Wednesday, 3 July 2024 08:48:29
+
+**2. ZIFANA FEBRIANTI**
+- **NISN:** 0095089334
+- **NILAI AKHIR:** 87.46
+- **WAKTU PENDAFTARAN:** Wednesday, 3 July 2024 02:45:28
+
+**3. REFAN BUDI SANTOSO**
+- **NISN:** 0084303758
+- **NILAI AKHIR:** 86.75
+- **WAKTU PENDAFTARAN:** Wednesday, 3 July 2024 11:10:57
+
+**4. BALQIES REVALINA RAHMAWATI**
+- **NISN:** 0091846292
+- **NILAI AKHIR:** 86.43
+- **WAKTU PENDAFTARAN:** Wednesday, 3 July 2024 06:49:13
+
+**5. EKA AYU RAHMADANI**
+- **NISN:** 0087872821
+- **NILAI AKHIR:** 86.38
+- **WAKTU PENDAFTARAN:** Thursday, 4 July 2024 18:32:27
+
+**6. GALANG RADITYA NUGRAHA**
+- **NISN:** 0083141522
+- **NILAI AKHIR:** 86.13
+- **WAKTU PENDAFTARAN:** Wednesday, 3 July 2024 20:21:26
+
+**7. TEGAR HENDRA WAHYU SOEPRIJANTO**
+- **NISN:** 0084799225
+- **NILAI AKHIR:** 85.88
+- **WAKTU PENDAFTARAN:** Wednesday, 3 July 2024 00:04:06
+
+**8. BIMBIM ABIMANYU**
+- **NISN:** 0092932171
+- **NILAI AKHIR:** 85.62
+- **WAKTU PENDAFTARAN:** Wednesday, 3 July 2024 19:24:13
+
+**9. KIRANA ZASKIA PUTRI**
+- **NISN:** 0084831119
+- **NILAI AKHIR:** 85.57
+- **WAKTU PENDAFTARAN:** Thursday, 4 July 2024 09:48:44
+
+**10. MUHAMMAD AZIS**
+- **NISN:** 0092114295
+- **NILAI AKHIR:** 85.50
+- **WAKTU PENDAFTARAN:** Wednesday, 3 July 2024 08:14:42
+
+**11. ARIF FEBRIANSYAH**
+- **NISN:** 3086094923
+- **NILAI AKHIR:** 85.47
+- **WAKTU PENDAFTARAN:** Wednesday, 3 July 2024 16:21:51
+
+**12. AVIRA MAHARANI PUTRI ZUNAN**
+- **NISN:** 0095905698
+- **NILAI AKHIR:** 85.41
+- **WAKTU PENDAFTARAN:** Thursday, 4 July 2024 15:45:33
+
+**13. Marsyah Anindiya Putri**
+- **NISN:** 0094074656
+- **NILAI AKHIR:** 85.36
+- **WAKTU PENDAFTARAN:** Wednesday, 3 July 2024 00:08:41
+
+**14. VINCENTIUS BRILLIANTSEN DWI SUDARSONO**
+- **NISN:** 0084578200
+- **NILAI AKHIR:** 85.33
+- **WAKTU PENDAFTARAN:** Thursday, 4 July 2024 11:44:58
+
+**15. MOHAMMAD ARYA FIRLY FIRDIANSYAH**
+- **NISN:** 0081534919
+- **NILAI AKHIR:** 85.28
+- **WAKTU PENDAFTARAN:** Thursday, 4 July 2024 17:29:21
+
+**16. MUHAMMAD RIZKI HENDRA PRATAMA**
+- **NISN:** 0082930644
+- **NILAI AKHIR:** 85.26
+- **WAKTU PENDAFTARAN:** Thursday, 4 July 2024 07:31:10
+
+**17. Nayla Nur Latifah**
+- **NISN:** 3086242495
+- **NILAI AKHIR:** 85.25
+- **WAKTU PENDAFTARAN:** Thursday, 4 July 2024 17:14:13
+
+**18. YOEL KRISTRIAN BAYU NUGROHO**
+- **NISN:** 0096713679
+- **NILAI AKHIR:** 85.12
+- **WAKTU PENDAFTARAN:** Wednesday, 3 July 2024 00:06:38
+
+**19. DIVA SASKIA ANINDITA**
+- **NISN:** 0088415592
+- **NILAI AKHIR:** 85.12
+- **WAKTU PENDAFTARAN:** Thursday, 4 July 2024 15:11:17
+
+**20. AKBAR FIRMANSYAH**
+- **NISN:** 3087301081
+- **NILAI AKHIR:** 85.11
+- **WAKTU PENDAFTARAN:** Thursday, 4 July 2024 19:42:59
+
+**21. GALANG JUNIANTO**
+- **NISN:** 0084157661
+- **NILAI AKHIR:** 85.08
+- **WAKTU PENDAFTARAN:** Wednesday, 3 July 2024 04:25:06
+
+**22. GALIH DWI WIBISONO**
+- **NISN:** 0082909755
+- **NILAI AKHIR:** 85.07
+- **WAKTU PENDAFTARAN:** Thursday, 4 July 2024 19:31:30
+
+## Catatan Penting
+
+- Semua data telah diverifikasi.
+- Pendaftaran akan ditutup pada tanggal 19 Juni 2024.
+---
+_Terima Kasih_

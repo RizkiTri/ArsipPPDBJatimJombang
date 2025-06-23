@@ -1,0 +1,148 @@
+# Data PPDB SMA NEGERI MOJOAGUNG Tahun 2023/2024
+Tahap ke-4 Pemenuhan Pagu bertujuan untuk mengisi sisa kuota penerimaan yang belum terpenuhi, memberikan kesempatan terakhir berdasarkan berbagai kriteria tambahan.
+
+## Informasi Peserta 
+**1. Abigail Adine Gandes Sambarana**
+- **NISN:** 0082801977
+- **JARAK KE SEKOLAH:** 2525
+- **KELURAHAN:** unknown
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 06:36:00
+
+**2. GALUH AVRIL DINDA ZASKIA**
+- **NISN:** 0091638796
+- **JARAK KE SEKOLAH:** 2549
+- **KELURAHAN:** unknown
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 00:08:58
+
+**3. AMIRA MAGHFIROH FIRDAUZA**
+- **NISN:** 0095160753
+- **JARAK KE SEKOLAH:** 2579
+- **KELURAHAN:** unknown
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 07:22:39
+
+**4. DEVRILYA PUTRI RAMADHANI**
+- **NISN:** 0087176899
+- **JARAK KE SEKOLAH:** 2580
+- **KELURAHAN:** unknown
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 08:12:57
+
+**5. SALWA KAYLA PUTRI**
+- **NISN:** 0093418520
+- **JARAK KE SEKOLAH:** 2582
+- **KELURAHAN:** unknown
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 04:50:39
+
+**6. MUHAMMAD AKBAR SINATRIYA**
+- **NISN:** 0087864975
+- **JARAK KE SEKOLAH:** 2619
+- **KELURAHAN:** unknown
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 00:12:39
+
+**7. NAJWA YAQUTA BAHMID**
+- **NISN:** 0086103805
+- **JARAK KE SEKOLAH:** 2738
+- **KELURAHAN:** unknown
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 12:10:49
+
+**8. HARIYONO PRASETYO WIJOYO**
+- **NISN:** 0096034772
+- **JARAK KE SEKOLAH:** 2738
+- **KELURAHAN:** unknown
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 00:07:42
+
+**9. VANIA IKA NUR FATIMAH**
+- **NISN:** 0088507259
+- **JARAK KE SEKOLAH:** 2777
+- **KELURAHAN:** unknown
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 00:58:44
+
+**10. ALFI AFIFATUR ROSYIDAH**
+- **NISN:** 0094742553
+- **JARAK KE SEKOLAH:** 2804
+- **KELURAHAN:** unknown
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 11:05:41
+
+**11. MUHAMMAD RAFI SYAWALUDIN**
+- **NISN:** 3082775960
+- **JARAK KE SEKOLAH:** 2834
+- **KELURAHAN:** unknown
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 00:36:01
+
+**12. M DIMAS ZULHAM ALI BASYA**
+- **NISN:** 0083848329
+- **JARAK KE SEKOLAH:** 2846
+- **KELURAHAN:** unknown
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 00:04:42
+
+**13. NADIVA QOLBY RIANDYSA**
+- **NISN:** 3090439435
+- **JARAK KE SEKOLAH:** 2859
+- **KELURAHAN:** unknown
+- **WAKTU PENDAFTARAN:** Friday, 28 June 2024 06:32:22
+
+**14. MUHAMMAD HENDRIKAP**
+- **NISN:** 0083543923
+- **JARAK KE SEKOLAH:** 2907
+- **KELURAHAN:** unknown
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 09:31:54
+
+**15. ELISABETH SELLYNA**
+- **NISN:** 0085604527
+- **JARAK KE SEKOLAH:** 2912
+- **KELURAHAN:** unknown
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 00:04:56
+
+**16. NAJWA ANINDYA BILQIS RIZKIYUDIN**
+- **NISN:** 0091696252
+- **JARAK KE SEKOLAH:** 2925
+- **KELURAHAN:** unknown
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 06:42:39
+
+**17. TIARA VIONA VIRDAUS**
+- **NISN:** 0085605914
+- **JARAK KE SEKOLAH:** 2948
+- **KELURAHAN:** unknown
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 07:39:11
+
+**18. MOCHAMMAD AMMAR IZZUDIN WAFIQ**
+- **NISN:** 0096868356
+- **JARAK KE SEKOLAH:** 2959
+- **KELURAHAN:** unknown
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 00:04:06
+
+**19. SYAHRINDRA ILHAM**
+- **NISN:** 3085190248
+- **JARAK KE SEKOLAH:** 3022
+- **KELURAHAN:** unknown
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 00:17:29
+
+**20. INAYATI DZIL IZATI**
+- **NISN:** 0098714185
+- **JARAK KE SEKOLAH:** 3045
+- **KELURAHAN:** unknown
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 16:26:03
+
+**21. AULIA PUTRI ARIYANTI**
+- **NISN:** 0085175799
+- **JARAK KE SEKOLAH:** 3082
+- **KELURAHAN:** unknown
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 05:09:59
+
+**22. ANANTA PRATAMA**
+- **NISN:** 0086466737
+- **JARAK KE SEKOLAH:** 3099
+- **KELURAHAN:** unknown
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 06:35:47
+
+**23. DAVIN DWI DARMA**
+- **NISN:** 0087473008
+- **JARAK KE SEKOLAH:** 3152
+- **KELURAHAN:** unknown
+- **WAKTU PENDAFTARAN:** Thursday, 27 June 2024 08:45:36
+
+## Catatan Penting
+
+- Semua data telah diverifikasi.
+- Pendaftaran akan ditutup pada tanggal 19 Juni 2024.
+---
+_Terima Kasih_

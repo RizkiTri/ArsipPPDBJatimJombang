@@ -1,0 +1,201 @@
+# Data PPDB SMK NEGERI GUDO Tahun 2023/2024
+PPDB tahap ke-5 menggunakan jalur nilai rapor untuk menyeleksi siswa. Tahap ini memberikan kesempatan kepada siswa berprestasi akademik untuk diterima di sekolah pilihan mereka. 
+Berikut merupakan data peserta didik yang lolos di SMK NEGERI GUDO Jurusan Desain dan Produksi Busana
+
+## Informasi Peserta 
+**1. RAHMAH NABILA**
+- **NISN:** 0091462685
+- **NILAI AKHIR:** 87.90
+- **WAKTU PENDAFTARAN:** Wednesday, 3 July 2024 00:43:11
+
+**2. ADILA NUR SYAFIRAH**
+- **NISN:** 0081243017
+- **NILAI AKHIR:** 86.53
+- **WAKTU PENDAFTARAN:** Wednesday, 3 July 2024 10:46:33
+
+**3. GEBY EKA RAMADHANI**
+- **NISN:** 0082821837
+- **NILAI AKHIR:** 86.00
+- **WAKTU PENDAFTARAN:** Wednesday, 3 July 2024 06:27:59
+
+**4. NUR ANISSA MEYZAHRA**
+- **NISN:** 0092593757
+- **NILAI AKHIR:** 85.95
+- **WAKTU PENDAFTARAN:** Wednesday, 3 July 2024 08:10:21
+
+**5. RAHAYU AISYAH NUR CAHAYA**
+- **NISN:** 0089118103
+- **NILAI AKHIR:** 84.90
+- **WAKTU PENDAFTARAN:** Wednesday, 3 July 2024 05:47:12
+
+**6. NADIA RESTY KURNIA**
+- **NISN:** 0092416117
+- **NILAI AKHIR:** 84.88
+- **WAKTU PENDAFTARAN:** Wednesday, 3 July 2024 11:04:22
+
+**7. EVA EVELINA**
+- **NISN:** 0091955330
+- **NILAI AKHIR:** 84.81
+- **WAKTU PENDAFTARAN:** Wednesday, 3 July 2024 08:54:52
+
+**8. SALSABILA VALENTINA**
+- **NISN:** 3090148952
+- **NILAI AKHIR:** 84.61
+- **WAKTU PENDAFTARAN:** Wednesday, 3 July 2024 13:56:59
+
+**9. Lyan Faizza Putri**
+- **NISN:** 0082282506
+- **NILAI AKHIR:** 84.60
+- **WAKTU PENDAFTARAN:** Wednesday, 3 July 2024 09:03:17
+
+**10. Rhevina Felisaputri**
+- **NISN:** 0083796537
+- **NILAI AKHIR:** 84.59
+- **WAKTU PENDAFTARAN:** Wednesday, 3 July 2024 07:26:56
+
+**11. NISAUL KHUMAIROH**
+- **NISN:** 3084543055
+- **NILAI AKHIR:** 84.33
+- **WAKTU PENDAFTARAN:** Wednesday, 3 July 2024 00:28:21
+
+**12. BALGIS JANI KUSUMA**
+- **NISN:** 0092850538
+- **NILAI AKHIR:** 84.26
+- **WAKTU PENDAFTARAN:** Wednesday, 3 July 2024 00:11:12
+
+**13. NOOR SOFYANINGRUM**
+- **NISN:** 0082265574
+- **NILAI AKHIR:** 84.25
+- **WAKTU PENDAFTARAN:** Wednesday, 3 July 2024 00:18:58
+
+**14. ANA AFANTI**
+- **NISN:** 0086269572
+- **NILAI AKHIR:** 84.24
+- **WAKTU PENDAFTARAN:** Wednesday, 3 July 2024 08:55:18
+
+**15. NAJWA MEY ANGGRIA**
+- **NISN:** 0099004278
+- **NILAI AKHIR:** 84.23
+- **WAKTU PENDAFTARAN:** Wednesday, 3 July 2024 07:15:20
+
+**16. MUSTAGHFIROH**
+- **NISN:** 3081716042
+- **NILAI AKHIR:** 84.17
+- **WAKTU PENDAFTARAN:** Wednesday, 3 July 2024 00:13:35
+
+**17. ZUMROTUN NISYA**
+- **NISN:** 3093209867
+- **NILAI AKHIR:** 84.16
+- **WAKTU PENDAFTARAN:** Wednesday, 3 July 2024 08:36:43
+
+**18. EKA SRI WAHYUNI**
+- **NISN:** 0089451719
+- **NILAI AKHIR:** 83.99
+- **WAKTU PENDAFTARAN:** Wednesday, 3 July 2024 07:34:36
+
+**19. LAILATUL RAHMA MULYATIN**
+- **NISN:** 0097228570
+- **NILAI AKHIR:** 83.79
+- **WAKTU PENDAFTARAN:** Wednesday, 3 July 2024 03:14:57
+
+**20. RAFINDI FEBIYANTI**
+- **NISN:** 0089385067
+- **NILAI AKHIR:** 83.71
+- **WAKTU PENDAFTARAN:** Wednesday, 3 July 2024 08:31:13
+
+**21. TIARA NAVINA PUTRI**
+- **NISN:** 3099423822
+- **NILAI AKHIR:** 83.52
+- **WAKTU PENDAFTARAN:** Wednesday, 3 July 2024 00:33:49
+
+**22. KAYLA PUTRI FEBRIANA**
+- **NISN:** 0107959474
+- **NILAI AKHIR:** 83.45
+- **WAKTU PENDAFTARAN:** Wednesday, 3 July 2024 00:02:12
+
+**23. ZAKIYATUL JANNAH AZZAHRA**
+- **NISN:** 0081435904
+- **NILAI AKHIR:** 83.19
+- **WAKTU PENDAFTARAN:** Wednesday, 3 July 2024 08:19:14
+
+**24. NURUL AWALI FAUZIAH**
+- **NISN:** 3080472875
+- **NILAI AKHIR:** 83.19
+- **WAKTU PENDAFTARAN:** Wednesday, 3 July 2024 06:39:29
+
+**25. Salwa Salsabila**
+- **NISN:** 0095715945
+- **NILAI AKHIR:** 83.16
+- **WAKTU PENDAFTARAN:** Wednesday, 3 July 2024 00:56:58
+
+**26. PRASTIKA RAHAYU**
+- **NISN:** 3096225671
+- **NILAI AKHIR:** 83.14
+- **WAKTU PENDAFTARAN:** Wednesday, 3 July 2024 00:07:33
+
+**27. PURWATI AYUNINGTIAS**
+- **NISN:** 0065930289
+- **NILAI AKHIR:** 82.99
+- **WAKTU PENDAFTARAN:** Thursday, 4 July 2024 16:18:31
+
+**28. ANDINTA WISAVANI**
+- **NISN:** 0085533697
+- **NILAI AKHIR:** 82.92
+- **WAKTU PENDAFTARAN:** Wednesday, 3 July 2024 03:11:47
+
+**29. NAYLA ROUDHOTUL FITRIYAH**
+- **NISN:** 0082935840
+- **NILAI AKHIR:** 82.91
+- **WAKTU PENDAFTARAN:** Wednesday, 3 July 2024 09:52:34
+
+**30. MEY CANDRA DEWI**
+- **NISN:** 0086017097
+- **NILAI AKHIR:** 82.88
+- **WAKTU PENDAFTARAN:** Wednesday, 3 July 2024 07:08:51
+
+**31. DHIKA ARGA ARDIANSYAH**
+- **NISN:** 0082315011
+- **NILAI AKHIR:** 82.64
+- **WAKTU PENDAFTARAN:** Wednesday, 3 July 2024 02:07:02
+
+**32. Revi Agustin Anggraini**
+- **NISN:** 3080432917
+- **NILAI AKHIR:** 82.59
+- **WAKTU PENDAFTARAN:** Wednesday, 3 July 2024 07:27:06
+
+**33. MAULIDA NUR LAILI**
+- **NISN:** 0088761795
+- **NILAI AKHIR:** 82.52
+- **WAKTU PENDAFTARAN:** Wednesday, 3 July 2024 04:46:07
+
+**34. MOHAMMAD ADI SUPRIANTO**
+- **NISN:** 0092284901
+- **NILAI AKHIR:** 82.37
+- **WAKTU PENDAFTARAN:** Wednesday, 3 July 2024 11:54:13
+
+**35. NAFILATUL FIRDAUS**
+- **NISN:** 0088117883
+- **NILAI AKHIR:** 82.31
+- **WAKTU PENDAFTARAN:** Wednesday, 3 July 2024 04:49:48
+
+**36. PAUNDRA ILHAM PUTRA ANANTA**
+- **NISN:** 0098164066
+- **NILAI AKHIR:** 82.28
+- **WAKTU PENDAFTARAN:** Wednesday, 3 July 2024 18:30:37
+
+**37. MUHAMMAD ZIDNI ILMAN NAFIA**
+- **NISN:** 0089605302
+- **NILAI AKHIR:** 82.09
+- **WAKTU PENDAFTARAN:** Thursday, 4 July 2024 09:08:48
+
+**38. Rezky Adelia Putri**
+- **NISN:** 3090055521
+- **NILAI AKHIR:** 82.07
+- **WAKTU PENDAFTARAN:** Wednesday, 3 July 2024 14:40:38
+
+## Catatan Penting
+
+- Semua data telah diverifikasi.
+- Pendaftaran akan ditutup pada tanggal 19 Juni 2024.
+---
+_Terima Kasih_

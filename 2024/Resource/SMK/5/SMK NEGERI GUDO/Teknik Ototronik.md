@@ -1,0 +1,121 @@
+# Data PPDB SMK NEGERI GUDO Tahun 2023/2024
+PPDB tahap ke-5 menggunakan jalur nilai rapor untuk menyeleksi siswa. Tahap ini memberikan kesempatan kepada siswa berprestasi akademik untuk diterima di sekolah pilihan mereka. 
+Berikut merupakan data peserta didik yang lolos di SMK NEGERI GUDO Jurusan Teknik Ototronik
+
+## Informasi Peserta 
+**1. Laksamana Hilmy Pandika**
+- **NISN:** 0094968328
+- **NILAI AKHIR:** 89.50
+- **WAKTU PENDAFTARAN:** Wednesday, 3 July 2024 10:06:53
+
+**2. AKBAR RIZKY NUGROHO**
+- **NISN:** 3097090213
+- **NILAI AKHIR:** 86.28
+- **WAKTU PENDAFTARAN:** Wednesday, 3 July 2024 08:36:07
+
+**3. MOH LUKMAN KHOIRUDIN**
+- **NISN:** 3091118542
+- **NILAI AKHIR:** 85.74
+- **WAKTU PENDAFTARAN:** Wednesday, 3 July 2024 00:04:33
+
+**4. FIKTOR INDRA AHIMSAH**
+- **NISN:** 0093806959
+- **NILAI AKHIR:** 85.04
+- **WAKTU PENDAFTARAN:** Thursday, 4 July 2024 11:18:57
+
+**5. MUHAMAD NIKO PRATAMA**
+- **NISN:** 0095585725
+- **NILAI AKHIR:** 84.94
+- **WAKTU PENDAFTARAN:** Wednesday, 3 July 2024 08:14:43
+
+**6. VICHO RIVALDO JONATHAN VALENTINO**
+- **NISN:** 3087623067
+- **NILAI AKHIR:** 84.89
+- **WAKTU PENDAFTARAN:** Wednesday, 3 July 2024 09:36:30
+
+**7. DANDY ADINGLANA TRIWINATA**
+- **NISN:** 0089049305
+- **NILAI AKHIR:** 84.86
+- **WAKTU PENDAFTARAN:** Wednesday, 3 July 2024 00:03:46
+
+**8. MIFTAH KHOIRUL AZIZ**
+- **NISN:** 0091161660
+- **NILAI AKHIR:** 84.77
+- **WAKTU PENDAFTARAN:** Wednesday, 3 July 2024 00:57:36
+
+**9. NANDANA RINOV ADYATMA**
+- **NISN:** 0084591149
+- **NILAI AKHIR:** 84.73
+- **WAKTU PENDAFTARAN:** Wednesday, 3 July 2024 00:34:32
+
+**10. NUR ACHMAD ADITIYA PRATAMA**
+- **NISN:** 0083074582
+- **NILAI AKHIR:** 84.66
+- **WAKTU PENDAFTARAN:** Wednesday, 3 July 2024 07:12:42
+
+**11. Afrian Dimas Pratama**
+- **NISN:** 0092390996
+- **NILAI AKHIR:** 84.65
+- **WAKTU PENDAFTARAN:** Thursday, 4 July 2024 14:35:54
+
+**12. MUHAMMAD REVA SETIAWAN**
+- **NISN:** 0082194537
+- **NILAI AKHIR:** 84.59
+- **WAKTU PENDAFTARAN:** Wednesday, 3 July 2024 08:19:46
+
+**13. ACHMAD HERU ARDIANSYAH**
+- **NISN:** 0085400452
+- **NILAI AKHIR:** 84.58
+- **WAKTU PENDAFTARAN:** Thursday, 4 July 2024 20:59:52
+
+**14. MUKHAMAD YUANSYAH RAHADIAN ZAFRAN**
+- **NISN:** 3095195757
+- **NILAI AKHIR:** 84.48
+- **WAKTU PENDAFTARAN:** Thursday, 4 July 2024 08:37:29
+
+**15. ARYA FARDHAN PUTRA**
+- **NISN:** 0084227304
+- **NILAI AKHIR:** 84.41
+- **WAKTU PENDAFTARAN:** Wednesday, 3 July 2024 07:35:43
+
+**16. AHMAD ALI FAHRUDIN**
+- **NISN:** 3081569777
+- **NILAI AKHIR:** 84.41
+- **WAKTU PENDAFTARAN:** Wednesday, 3 July 2024 10:50:47
+
+**17. MUHAMMAD FERDY PRADWIANSYAH**
+- **NISN:** 0096109144
+- **NILAI AKHIR:** 84.31
+- **WAKTU PENDAFTARAN:** Wednesday, 3 July 2024 01:19:37
+
+**18. DANU ARDIANATA**
+- **NISN:** 0093062709
+- **NILAI AKHIR:** 84.25
+- **WAKTU PENDAFTARAN:** Wednesday, 3 July 2024 01:20:49
+
+**19. SOFYAN MAULANA**
+- **NISN:** 0091983731
+- **NILAI AKHIR:** 84.18
+- **WAKTU PENDAFTARAN:** Wednesday, 3 July 2024 01:08:31
+
+**20. MUHAMMAD MAWARDI FAJAR KAMIL**
+- **NISN:** 0074872654
+- **NILAI AKHIR:** 84.12
+- **WAKTU PENDAFTARAN:** Wednesday, 3 July 2024 06:54:40
+
+**21. DEO CHANDRA ARDIANTO**
+- **NISN:** 0084886908
+- **NILAI AKHIR:** 84.12
+- **WAKTU PENDAFTARAN:** Wednesday, 3 July 2024 10:18:11
+
+**22. FAJAR YOGI FERDIANSAH**
+- **NISN:** 0089466697
+- **NILAI AKHIR:** 84.08
+- **WAKTU PENDAFTARAN:** Thursday, 4 July 2024 18:14:48
+
+## Catatan Penting
+
+- Semua data telah diverifikasi.
+- Pendaftaran akan ditutup pada tanggal 19 Juni 2024.
+---
+_Terima Kasih_
